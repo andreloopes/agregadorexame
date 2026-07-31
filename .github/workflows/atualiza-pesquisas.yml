@@ -1,59 +1,53 @@
-name: Atualiza agregador de pesquisas
+name: Atualiza pesquisas
 
 on:
-  schedule:
-    - cron: "0 11 * * *" # diariamente, por volta de 08:00 em Brasília
   workflow_dispatch:
+  schedule:
+    - cron: "15 11 * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: atualiza-agregador
+  group: atualiza-pesquisas
   cancel-in-progress: false
 
 jobs:
   coleta:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Preparar Node.js
+      - name: Configurar Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
-      - name: Testar parser e modelo
+      - name: Testar coletor presidencial
         run: node scripts/teste.mjs
 
-      - name: Coletar e calcular agregado (Wikipédia · modelo próprio)
-        env:
-          WIKI_USER_AGENT: ExameLabAgregador/1.0 (https://exame.com/)
-          LOOKBACK_DAYS: "90"
-          HALF_LIFE_DAYS: "30"
-          BOOTSTRAP_RUNS: "4000"
+      - name: Testar coletor de governadores
+        run: node scripts/teste-governadores.mjs
+
+      - name: Atualizar presidente
         run: node scripts/coleta.mjs
 
-      - name: Abas extras — aprovação e governadores (E²D)
+      - name: Atualizar governadores
+        run: node scripts/coleta-governadores.mjs
+
+      - name: Atualizar extras sem derrubar o principal
         continue-on-error: true
         run: node scripts/extras.mjs
 
-      - name: Commitar dados atualizados
+      - name: Publicar dados atualizados
         run: |
-          git config user.name "examelab-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add dados
-
-          if git diff --staged --quiet; then
-            echo "Sem mudanças nos dados."
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados/
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança nos dados."
             exit 0
           fi
-
           git commit -m "dados: atualiza pesquisas $(date -u +%F)"
-          git pull --rebase
           git push
