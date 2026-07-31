@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Índice ExameLab · Andamento das pesquisas</title>
+<title>Agregador EXAME · Eleições 2026</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -78,6 +78,9 @@ h1{
 .chart-card{
   background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden
 }
+.chart-copy{padding:16px 14px 2px}
+.chart-copy h2{margin:0;font-size:17px;line-height:1.25;letter-spacing:-.02em}
+.chart-copy p{margin:5px 0 0;font-size:12px;line-height:1.5;color:var(--muted)}
 .chart-head{
   display:flex;align-items:center;gap:10px;flex-wrap:wrap;
   padding:12px 14px 8px;
@@ -191,16 +194,16 @@ h1{
 <div class="shell">
   <main class="card">
     <header class="topbar">
-      <div class="brand">Índice ExameLab · Eleições 2026</div>
+      <div class="brand">Agregador EXAME · Eleições 2026</div>
       <div class="live" id="live">carregando…</div>
-      <button class="menu" id="menuBtn" aria-label="Abrir informações"><span></span></button>
+      <button class="menu" id="menuBtn" aria-label="Abrir menu de informações"><span></span></button>
     </header>
 
     <section class="hero">
-      <div class="kicker" id="scenarioLabel">Presidente · cenário atual</div>
+      <div class="kicker" id="scenarioLabel">Presidente · 1º turno · Pesquisa estimulada</div>
       <div class="title-row">
-        <h1 id="headline">Andamento das pesquisas</h1>
-        <button class="info-btn" id="infoBtn" aria-label="Ver explicação">i</button>
+        <h1 id="headline">Evolução da corrida presidencial</h1>
+        <button class="info-btn" id="infoBtn" aria-label="Entenda como funciona">i</button>
       </div>
       <div class="summary" id="summary"></div>
     </section>
@@ -209,42 +212,46 @@ h1{
 
     <section class="chart-wrap">
       <div class="chart-card">
+        <div class="chart-copy">
+          <h2>Evolução das intenções de voto</h2>
+          <p>Cada ponto representa uma pesquisa. As linhas mostram a tendência calculada pelo agregador.</p>
+        </div>
         <div class="chart-head">
-          <div class="tabs" aria-label="Modo de visualização">
-            <button class="tab active" data-mode="complete">completo</button>
-            <button class="tab" data-mode="scatter">dispersão</button>
-            <button class="tab" data-mode="lines">linhas</button>
+          <div class="tabs" aria-label="Escolha o que mostrar no gráfico">
+            <button class="tab active" data-mode="complete">Visão geral</button>
+            <button class="tab" data-mode="scatter">Pesquisas</button>
+            <button class="tab" data-mode="lines">Tendência</button>
           </div>
-          <div class="ranges" aria-label="Período do gráfico">
+          <div class="ranges" aria-label="Escolha o período do gráfico">
             <button class="range" data-range="90">3 meses</button>
             <button class="range active" data-range="180">6 meses</button>
-            <button class="range" data-range="9999">tudo</button>
+            <button class="range" data-range="9999">histórico completo</button>
           </div>
         </div>
-        <div class="chart-sub">Passe o cursor ou toque nos pontos para ver os percentuais.</div>
+        
         <div class="chart-box" id="chartBox">
-          <svg class="chart" id="chart" viewBox="0 0 860 380" role="img" aria-label="Gráfico de andamento das pesquisas"></svg>
+          <svg class="chart" id="chart" viewBox="0 0 860 380" role="img" aria-label="Evolução das intenções de voto"></svg>
           <div class="tooltip" id="tooltip"></div>
         </div>
         <div class="legend" id="legend"></div>
       </div>
     </section>
 
-    <nav class="actions" aria-label="Mais informações">
+    <nav class="actions" aria-label="Informações complementares">
       <button class="action" data-open="candidates">Outros candidatos</button>
-      <button class="action" data-open="polls">Pesquisas usadas</button>
-      <button class="action" data-open="method">Método e fonte</button>
+      <button class="action" data-open="polls">Ver pesquisas</button>
+      <button class="action" data-open="method">Como funciona</button>
     </nav>
 
     <div class="footnote">
-      O principal aqui é o andamento das pesquisas: as linhas mostram a tendência agregada e a dispersão mostra onde cada levantamento individual caiu. Metodologia e informações extras ficam recolhidas para quem quiser abrir.
+      O agregador combina resultados de diferentes institutos para mostrar a tendência da disputa. Não é uma pesquisa isolada nem uma previsão do resultado da eleição.
     </div>
   </main>
 </div>
 
 <dialog class="drawer" id="drawer">
   <div class="drawer-head">
-    <h2 id="drawerTitle">Detalhes</h2>
+    <h2 id="drawerTitle">Mais informações</h2>
     <button class="close" id="closeDrawer" aria-label="Fechar">×</button>
   </div>
   <div class="drawer-body" id="drawerBody"></div>
@@ -336,12 +343,18 @@ const dateBR = iso => {
   const [y,m,d]=String(iso).split("-");
   return `${d}/${m}/${String(y).slice(2)}`;
 };
+const dateLong = iso => {
+  if(!iso) return "";
+  const [y,m,d]=String(iso).split("-");
+  const meses=["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
+  return `${Number(d)} de ${meses[Number(m)-1]} de ${y}`;
+};
 function parseDate(iso){ return new Date(String(iso) + "T00:00:00Z"); }
 function trendText(v){
   const n=Number(v||0);
-  if(n>0.05) return `subiu ${fmt(n)} p.p. em 14 dias`;
-  if(n<-0.05) return `caiu ${fmt(Math.abs(n))} p.p. em 14 dias`;
-  return "estável em 14 dias";
+  if(n>0.05) return `Alta de ${fmt(n)} ponto em duas semanas`;
+  if(n<-0.05) return `Queda de ${fmt(Math.abs(n))} ponto em duas semanas`;
+  return "Estável nas últimas duas semanas";
 }
 
 function topTwo(){
@@ -376,13 +389,22 @@ function visiblePolls(){
 
 function renderTop(){
   const top = topTwo();
-  document.getElementById("live").textContent = `atualizado ${dateBR(AGG.atualizado_em || AGG.corte)}`;
-  document.getElementById("scenarioLabel").textContent = AGG.cenario || "Presidente";
-  document.getElementById("headline").textContent = top.length === 2 ? `${top[0].nome} e ${top[1].nome}` : "Andamento das pesquisas";
+  const latestPoll = (AGG.ultimas_pesquisas || [])[0];
+  const rawScenario = String(AGG.cenario || "");
+  const round = /2º|segundo/i.test(rawScenario) ? "2º turno" : "1º turno";
+
+  document.getElementById("live").textContent = `atualizado em ${dateBR(AGG.atualizado_em || AGG.corte)}`;
+  document.getElementById("scenarioLabel").textContent = `Presidente · ${round} · Pesquisa estimulada`;
+  document.getElementById("headline").textContent =
+    top.length === 2
+      ? `${top[0].nome} lidera; ${top[1].nome} aparece em segundo`
+      : "Evolução da corrida presidencial";
+
   document.getElementById("summary").innerHTML = [
-    AGG.pesquisas_no_calculo ? `<span class="pill"><strong>${AGG.pesquisas_no_calculo}</strong> pesquisas no cálculo</span>` : "",
-    AGG.corte ? `<span class="pill">corte <strong>${dateBR(AGG.corte)}</strong></span>` : "",
-    AGG.indecisos != null ? `<span class="pill">indecisos <strong>${fmt(AGG.indecisos)}%</strong></span>` : ""
+    AGG.corte ? `<span class="pill">Atualizado até <strong>${dateLong(AGG.corte)}</strong></span>` : "",
+    AGG.pesquisas_no_calculo ? `<span class="pill"><strong>${AGG.pesquisas_no_calculo}</strong> pesquisas consideradas</span>` : "",
+    latestPoll?.instituto ? `<span class="pill">Última pesquisa: <strong>${esc(latestPoll.instituto)}</strong></span>` : "",
+    `<span class="pill"><strong>Cenário nacional</strong></span>`
   ].join("");
 
   document.getElementById("quick").innerHTML = top.map((c,i) => `
@@ -395,8 +417,8 @@ function renderTop(){
 
   document.getElementById("legend").innerHTML = `
     ${top.map((c,i)=>`<div class="legend-item"><span class="legend-dot" style="background:${COLORS[i]}"></span>${esc(c.nome)}</div>`).join("")}
-    ${(viewMode==="complete" || viewMode==="scatter") ? `<div class="legend-item"><span class="legend-dot" style="background:#fff;border:2px solid #a8acb2"></span>levantamentos individuais</div>` : ""}
-    ${(viewMode==="complete" || viewMode==="lines") ? `<div class="legend-item"><span style="display:inline-block;width:16px;height:0;border-top:3px solid #a8acb2"></span>tendência agregada</div>` : ""}
+    ${(viewMode==="complete" || viewMode==="scatter") ? `<div class="legend-item"><span class="legend-dot" style="background:#fff;border:2px solid #a8acb2"></span>pesquisas publicadas</div>` : ""}
+    ${(viewMode==="complete" || viewMode==="lines") ? `<div class="legend-item"><span style="display:inline-block;width:16px;height:0;border-top:3px solid #a8acb2"></span>tendência do agregador</div>` : ""}
   `;
 }
 
@@ -521,10 +543,10 @@ function renderChart(){
     el.addEventListener("mouseenter", e => {
       const poll = pollList[pollIndex];
       const html = `
-        <div class="tip-label">pesquisa individual</div>
+        <div class="tip-label">pesquisa publicada</div>
         <div class="tip-title">${esc(poll.institute)}</div>
         ${series.map((s,si)=>`<div class="tip-row"><span class="tip-dot" style="background:${COLORS[si]}"></span>${esc(s.nome)}: <strong>${fmt(poll.candidates[s.nome])}%</strong></div>`).join("")}
-        <div class="tip-meta">${dateBR(poll.collection_date)} · amostra ${Number(poll.sample_size || 0).toLocaleString("pt-BR")}</div>
+        <div class="tip-meta">${dateLong(poll.collection_date)} · ${Number(poll.sample_size || 0).toLocaleString("pt-BR")} entrevistas</div>
       `;
       showTooltip(html, e.clientX, e.clientY);
     });
@@ -536,10 +558,10 @@ function renderChart(){
     el.addEventListener("click", e => {
       const poll = pollList[pollIndex];
       const html = `
-        <div class="tip-label">pesquisa individual</div>
+        <div class="tip-label">pesquisa publicada</div>
         <div class="tip-title">${esc(poll.institute)}</div>
         ${series.map((s,si)=>`<div class="tip-row"><span class="tip-dot" style="background:${COLORS[si]}"></span>${esc(s.nome)}: <strong>${fmt(poll.candidates[s.nome])}%</strong></div>`).join("")}
-        <div class="tip-meta">${dateBR(poll.collection_date)} · amostra ${Number(poll.sample_size || 0).toLocaleString("pt-BR")}</div>
+        <div class="tip-meta">${dateLong(poll.collection_date)} · ${Number(poll.sample_size || 0).toLocaleString("pt-BR")} entrevistas</div>
       `;
       showTooltip(html, e.clientX, e.clientY);
     });
@@ -551,10 +573,10 @@ function renderChart(){
       points.forEach(point => {
         point.addEventListener("mouseenter", e => {
           const html = `
-            <div class="tip-label">índice agregado</div>
+            <div class="tip-label">tendência do agregador</div>
             <div class="tip-title">${dateBR(row.data)}</div>
             ${series.map((s,si)=>`<div class="tip-row"><span class="tip-dot" style="background:${COLORS[si]}"></span>${esc(s.nome)}: <strong>${fmt(row.valores[s.nome])}%</strong></div>`).join("")}
-            <div class="tip-meta">Tendência consolidada do índice nessa data.</div>
+            <div class="tip-meta">Estimativa calculada a partir do conjunto de pesquisas disponível nessa data.</div>
           `;
           showTooltip(html, e.clientX, e.clientY);
         });
@@ -565,10 +587,10 @@ function renderChart(){
         point.addEventListener("mouseleave", hideTooltip);
         point.addEventListener("click", e => {
           const html = `
-            <div class="tip-label">índice agregado</div>
+            <div class="tip-label">tendência do agregador</div>
             <div class="tip-title">${dateBR(row.data)}</div>
             ${series.map((s,si)=>`<div class="tip-row"><span class="tip-dot" style="background:${COLORS[si]}"></span>${esc(s.nome)}: <strong>${fmt(row.valores[s.nome])}%</strong></div>`).join("")}
-            <div class="tip-meta">Tendência consolidada do índice nessa data.</div>
+            <div class="tip-meta">Estimativa calculada a partir do conjunto de pesquisas disponível nessa data.</div>
           `;
           showTooltip(html, e.clientX, e.clientY);
         });
@@ -584,13 +606,13 @@ function drawerContent(type){
     return {
       title:"Outros candidatos",
       body: `
-        <div class="section"><p>Os líderes ficam em destaque na visualização principal. Aqui ficam os demais nomes do cenário atual.</p></div>
+        <div class="section"><p>Os dois primeiros colocados aparecem na tela principal. Veja abaixo os demais nomes incluídos no mesmo cenário.</p></div>
         <div class="list">
           ${rest.length ? rest.map(c => `
             <div class="item">
               <div>
                 <div class="name">${esc(c.nome)}${c.partido ? ` <span class="meta">· ${esc(c.partido)}</span>` : ""}</div>
-                <div class="meta">IC 95%: ${fmt(c.ic_min)}–${fmt(c.ic_max)}%</div>
+                <div class="meta">Faixa estimada: ${fmt(c.ic_min)}% a ${fmt(c.ic_max)}%</div>
               </div>
               <div class="number">${fmt(c.media)}%</div>
             </div>`).join("") : `<div class="empty">Não há outros candidatos nesse arquivo.</div>`}
@@ -600,34 +622,43 @@ function drawerContent(type){
   if(type === "polls"){
     const list = AGG.ultimas_pesquisas || [];
     return {
-      title:"Pesquisas usadas",
+      title:"Ver pesquisas",
       body: `
-        <div class="section"><p>Esses são os levantamentos mais recentes considerados no cálculo atual do índice.</p></div>
+        <div class="section"><p>Veja os levantamentos mais recentes considerados no cálculo atual do agregador.</p></div>
         <div class="list">
           ${list.length ? list.map(p => `
             <div class="item">
               <div>
                 <div class="name">${esc(p.instituto)}</div>
-                <div class="meta">${esc(p.tipo || "Pesquisa")} · ${dateBR(p.coleta || p.collection_date || "")}</div>
+                <div class="meta">${esc(p.tipo || "Pesquisa estimulada")} · ${dateLong(p.coleta || p.collection_date || "")}</div>
               </div>
-              <div class="number">amostra ${Number(p.amostra || p.sample_size || 0).toLocaleString("pt-BR")}</div>
+              <div class="number">${Number(p.amostra || p.sample_size || 0).toLocaleString("pt-BR")} entrevistas</div>
             </div>`).join("") : `<div class="empty">A lista detalhada de pesquisas não veio neste arquivo.</div>`}
         </div>`
     };
   }
   return {
-    title:"Método e fonte",
+    title:"Como funciona",
     body: `
       <div class="section">
-        <h3>Como ler</h3>
-        <p>O foco da tela principal é mostrar o andamento das pesquisas de forma rápida: a tendência agregada nas linhas e a variação de cada levantamento individual na dispersão.</p>
+        <h3>Como o agregador é calculado</h3>
+        <p>O agregador combina pesquisas nacionais de intenção de voto para presidente. Levantamentos mais recentes e com amostras maiores recebem mais peso. Pesquisas com cenários diferentes de candidatos não são misturadas.</p>
       </div>
       <div class="section">
-        <h3>Metodologia</h3>
+        <h3>Detalhes do modelo</h3>
         <p>${esc(AGG.metodologia || "Média ponderada das pesquisas, com maior peso para levantamentos recentes e amostras maiores.")}</p>
       </div>
       <div class="section">
-        <h3>Fonte</h3>
+        <h3>Como interpretar</h3>
+        <p>O resultado representa a tendência observada no conjunto das pesquisas. Não é uma pesquisa isolada nem uma previsão do resultado da eleição.</p>
+      </div>
+      <div class="section">
+        <h3>Faixa de incerteza</h3>
+        <p>A faixa estimada mostra onde o modelo calcula que o resultado provavelmente esteja. Ela não é a margem de erro de uma pesquisa específica.</p>
+      </div>
+      ${AGG.indecisos != null ? `<div class="section"><h3>Indecisos e outras respostas</h3><p>No cenário atual, ${fmt(AGG.indecisos)}% aparecem como indecisos ou sem candidato definido na base agregada.</p></div>` : ""}
+      <div class="section">
+        <h3>Fonte dos dados</h3>
         <p>${esc(AGG.fonte || "Base pública de pesquisas eleitorais")}.</p>
         ${AGG.fonte_url ? `<p style="margin-top:10px"><a class="link" href="${esc(AGG.fonte_url)}" target="_blank" rel="noopener">Ver origem dos dados →</a></p>` : ""}
       </div>`
