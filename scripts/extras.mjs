@@ -71,10 +71,18 @@ async function varreduraFichas(log, pageCache) {
   log(`Fichas/E²D: ${ids.length} ficha(s) com link.`);
   const aprov = [], gov = [], nac = [];
   let telemetria = null;
-  for (const id of ids.slice(0, 14)) {
+  const fila = [...ids];
+  const visitados = new Set();
+  while (fila.length && visitados.size < 24) {
+    const id = fila.shift();
+    if (visitados.has(id)) continue;
+    visitados.add(id);
     if (aprov.length >= 5 && gov.length >= 8 && nac.length >= 6) break;
     const det = await tryFetch(`${E2D}/pesquisas/${id}`, false, 10000);
     if (!det.ok) continue;
+    for (const m of det.body.matchAll(/\/pesquisas\/(\d+)/g)) {
+      if (!visitados.has(m[1]) && !fila.includes(m[1])) fila.push(m[1]);
+    }
     const t = stripTags(det.body);
     if (!telemetria) telemetria = t.slice(0, 240);
     const coleta = (t.match(/(?:Coleta(?:\s+em)?|[–—-])\s+(\d{2}\/\d{2}\/\d{4})/) || [])[1] || "";
