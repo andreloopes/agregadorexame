@@ -1031,3 +1031,4 @@ if (invokedDirectly) {
     process.exitCode = 1;
   });
 }
+export { backfillHistory as rebuildHistory };
