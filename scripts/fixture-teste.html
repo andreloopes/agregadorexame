@@ -1,22 +1,522 @@
-<h2><span class="mw-headline" id="Primeiro_turno">Primeiro turno</span><span class="mw-editsection">[ <a href="#">editar</a> | <a href="#">editar código-fonte</a> ]</span></h2>
-<h3><span class="mw-headline" id="2026">2026</span><span class="mw-editsection">[ <a href="#">editar</a> ]</span></h3>
-<h4><span class="mw-headline">Julho</span></h4>
-<table class="wikitable sortable">
-<tr><th>Contratante</th><th>Data(s) de Pesquisa</th><th>Tamanho da Amostra</th><th>Margem de Erro (pp)</th><th>Lula (PT)</th><th>Flávio Bolsonaro (PL)</th><th>Ronaldo Caiado (PSD)</th><th>Renan Santos (Missão)</th><th>Romeu Zema (Novo)</th><th>Outros</th><th>Indecisos e Ausentes</th><th>Vantagem</th></tr>
-<tr><td><a href="https://poder360.com.br/x">PoderData</a></td><td>26–28 de julho</td><td>2.400</td><td>2,0</td><td>39,0</td><td>31,0</td><td>3,0</td><td>3,0</td><td>2,0</td><td>11,0</td><td>11,0</td><td>8%</td></tr>
-<tr><td rowspan="2"><a href="https://atlasintel.org/y">AtlasIntel</a></td><td rowspan="2">22–27 de julho BR-08344/2026</td><td rowspan="2">5.021</td><td rowspan="2">1,0</td><td>40,3</td><td>30,1</td><td>3,1</td><td>2,9</td><td>2,2</td><td>10,4</td><td>11,0</td><td>10,2%</td></tr>
-<tr><td>41,0</td><td>30,0</td><td>3,0</td><td>3,0</td><td>2,0</td><td>10,0</td><td>11,0</td><td>11%</td></tr>
-<tr><td>Nexus/BTG</td><td>24–26 de julho</td><td>2.004</td><td>2,0</td><td>40,0</td><td>30,5</td><td>2,8</td><td>3,2</td><td>2,1</td><td>10,4</td><td>11,0</td><td>9,5%</td></tr>
-<tr><td>Datafolha</td><td>22–24 de julho</td><td>2.004</td><td>2,0</td><td>39,5</td><td>30,8</td><td>3,0</td><td>2,9</td><td>—</td><td>12,8</td><td>11,0</td><td>Empate</td></tr>
-</table>
-<h4><span class="mw-headline">Junho</span></h4>
-<table class="wikitable">
-<tr><th>Contratante</th><th>Data(s) de Pesquisa</th><th>Tamanho da Amostra</th><th>Margem de Erro (pp)</th><th>Lula (PT)</th><th>Flávio Bolsonaro (PL)</th><th>Ronaldo Caiado (PSD)</th><th>Renan Santos (Missão)</th><th>Romeu Zema (Novo)</th><th>Outros</th><th>Indecisos e Ausentes</th><th>Vantagem</th></tr>
-<tr><td>JOTA</td><td>19–21</td><td>6.000</td><td>1,5</td><td>40,0</td><td>30,0</td><td>3,0</td><td>3,0</td><td>2,1</td><td>10,9</td><td>11,0</td><td>10%</td></tr>
-<tr><td>Real Time Big Data</td><td>18 e 20 de junho</td><td>2.000</td><td>2,0</td><td>38,9</td><td>31,2</td><td>3,3</td><td>2,7</td><td>2,4</td><td>10,5</td><td>11,0</td><td>7,7%</td></tr>
-</table>
-<h3><span class="mw-headline">2025</span></h3>
-<table class="wikitable">
-<tr><th>Contratante</th><th>Data(s) de Pesquisa</th><th>Tamanho da Amostra</th><th>Margem de Erro (pp)</th><th>Lula (PT)</th><th>Tarcísio (Republicanos)</th></tr>
-<tr><td>NãoDeveEntrar2025</td><td>10 de maio</td><td>2.000</td><td>2,0</td><td>44,0</td><td>40,0</td></tr>
-</table>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Índice ExameLab · Eleições 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --red:#c93427;
+  --blue:#2478a8;
+  --ink:#202124;
+  --muted:#6f7378;
+  --line:#e4e6e8;
+  --soft:#f5f6f7;
+  --paper:#fff;
+  --shadow:0 16px 50px rgba(20,24,28,.12);
+}
+*{box-sizing:border-box}
+html{background:#f7f7f6}
+body{
+  margin:0;
+  color:var(--ink);
+  background:#f7f7f6;
+  font-family:Inter,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+button{font:inherit}
+.shell{
+  width:min(100%,860px);
+  margin:0 auto;
+  padding:18px;
+}
+.card{
+  background:var(--paper);
+  border:1px solid var(--line);
+  border-radius:20px;
+  overflow:hidden;
+}
+.topbar{
+  min-height:52px;
+  padding:0 18px;
+  display:flex;
+  align-items:center;
+  gap:12px;
+  border-bottom:1px solid var(--line);
+}
+.brand{
+  font-size:12px;
+  font-weight:800;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+}
+.live{
+  margin-left:auto;
+  color:var(--muted);
+  font-size:12px;
+}
+.menu{
+  width:38px;height:38px;border:0;border-radius:50%;
+  background:var(--soft);cursor:pointer;
+  display:grid;place-items:center;
+}
+.menu span,.menu::before,.menu::after{
+  content:"";display:block;width:16px;height:2px;background:var(--ink);border-radius:2px;
+}
+.menu span{margin:3px 0}
+.hero{padding:22px 22px 10px}
+.kicker{
+  color:var(--muted);
+  font-size:12px;
+  font-weight:600;
+  margin-bottom:7px;
+}
+.title-row{
+  display:flex;
+  align-items:flex-start;
+  gap:10px;
+}
+h1{
+  margin:0;
+  font-size:clamp(27px,5vw,42px);
+  line-height:1.06;
+  letter-spacing:-.04em;
+}
+.info-btn{
+  flex:0 0 auto;
+  width:28px;height:28px;border:2px solid #c76500;color:#c76500;
+  border-radius:50%;background:#fff;font-weight:800;cursor:pointer;margin-top:2px;
+}
+.summary{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  margin-top:14px;
+}
+.pill{
+  padding:7px 10px;border-radius:999px;
+  background:var(--soft);color:var(--muted);
+  font-size:12px;font-weight:600;
+}
+.pill strong{color:var(--ink)}
+.chart-wrap{padding:10px 14px 0}
+.chart-card{
+  position:relative;
+  border:1px solid var(--line);
+  border-radius:16px;
+  overflow:hidden;
+  background:#fff;
+}
+.chart-toolbar{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  padding:12px 14px 4px;
+}
+.segmented{
+  display:flex;background:var(--soft);border-radius:999px;padding:3px;
+}
+.seg{
+  border:0;background:transparent;color:var(--muted);
+  border-radius:999px;padding:7px 12px;font-size:12px;font-weight:700;cursor:pointer;
+}
+.seg.active{background:#fff;color:var(--ink);box-shadow:0 1px 4px rgba(0,0,0,.08)}
+.range-note{margin-left:auto;color:var(--muted);font-size:12px}
+.chart-box{
+  position:relative;
+  min-height:330px;
+}
+.chart{
+  display:block;width:100%;height:auto;min-height:330px;
+}
+.tooltip{
+  position:absolute;
+  min-width:156px;
+  pointer-events:none;
+  opacity:0;
+  transform:translate(-50%,-115%);
+  background:rgba(25,25,25,.94);
+  color:#fff;border-radius:10px;
+  padding:10px 12px;font-size:12px;
+  box-shadow:0 10px 25px rgba(0,0,0,.2);
+  transition:opacity .12s ease;
+  z-index:4;
+}
+.tooltip.show{opacity:1}
+.tip-date{font-weight:800;margin-bottom:7px}
+.tip-row{display:flex;align-items:center;gap:7px;margin-top:4px}
+.tip-dot{width:9px;height:9px;border-radius:2px}
+.legend{
+  display:flex;gap:18px;align-items:center;
+  padding:10px 16px 14px;color:var(--muted);font-size:12px;font-weight:600;
+}
+.legend-item{display:flex;align-items:center;gap:7px}
+.legend-dot{width:10px;height:10px;border-radius:50%}
+.quick{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:10px;
+  padding:14px;
+}
+.quick-card{
+  border:1px solid var(--line);
+  border-radius:14px;
+  padding:14px;
+}
+.quick-label{font-size:11px;color:var(--muted);font-weight:700;text-transform:uppercase;letter-spacing:.06em}
+.quick-value{font-size:22px;font-weight:800;letter-spacing:-.03em;margin-top:5px}
+.quick-sub{font-size:12px;color:var(--muted);margin-top:3px}
+.actions{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  border-top:1px solid var(--line);
+}
+.action{
+  border:0;border-right:1px solid var(--line);
+  background:#fff;padding:14px 8px;cursor:pointer;
+  color:var(--ink);font-size:12px;font-weight:700;
+}
+.action:last-child{border-right:0}
+.action:hover{background:var(--soft)}
+.drawer{
+  width:min(92vw,430px);
+  height:100dvh;
+  margin:0 0 0 auto;
+  border:0;
+  padding:0;
+  box-shadow:var(--shadow);
+}
+.drawer::backdrop{background:rgba(20,22,24,.38)}
+.drawer-head{
+  position:sticky;top:0;background:#fff;z-index:2;
+  display:flex;align-items:center;gap:10px;
+  padding:18px;border-bottom:1px solid var(--line);
+}
+.drawer-head h2{font-size:19px;margin:0}
+.close{
+  margin-left:auto;width:36px;height:36px;border:0;border-radius:50%;
+  background:var(--soft);font-size:21px;cursor:pointer;
+}
+.drawer-body{padding:18px}
+.drawer-section{padding:0 0 18px;margin-bottom:18px;border-bottom:1px solid var(--line)}
+.drawer-section:last-child{border-bottom:0}
+.drawer-section h3{font-size:14px;margin:0 0 9px}
+.drawer-section p{font-size:13px;line-height:1.6;color:var(--muted);margin:0}
+.candidate-list,.poll-list{display:grid;gap:9px}
+.candidate-item,.poll-item{
+  display:grid;grid-template-columns:1fr auto;gap:10px;
+  padding:11px 0;border-bottom:1px solid var(--line);
+}
+.candidate-item:last-child,.poll-item:last-child{border-bottom:0}
+.name{font-size:13px;font-weight:700}
+.meta{font-size:11px;color:var(--muted);margin-top:3px}
+.number{font-size:14px;font-weight:800}
+.source-link{color:var(--red);font-weight:700;text-decoration:none}
+.empty{font-size:13px;color:var(--muted)}
+.footer-note{
+  padding:10px 18px 17px;
+  color:var(--muted);
+  font-size:11px;
+  line-height:1.5;
+}
+@media(max-width:620px){
+  .shell{padding:0}
+  .card{border-radius:0;border-left:0;border-right:0}
+  .topbar{padding:0 14px}
+  .hero{padding:18px 16px 8px}
+  .chart-wrap{padding:8px 8px 0}
+  .chart-card{border-radius:14px}
+  .chart-box,.chart{min-height:285px}
+  .quick{grid-template-columns:1fr 1fr;padding:10px}
+  .quick-card{padding:12px}
+  .actions{grid-template-columns:1fr}
+  .action{border-right:0;border-bottom:1px solid var(--line)}
+  .action:last-child{border-bottom:0}
+  .range-note{display:none}
+}
+</style>
+</head>
+<body>
+<div class="shell">
+  <main class="card">
+    <header class="topbar">
+      <div class="brand">Índice ExameLab · Eleições 2026</div>
+      <div class="live" id="live">carregando…</div>
+      <button class="menu" id="menuBtn" aria-label="Abrir informações"><span></span></button>
+    </header>
+
+    <section class="hero">
+      <div class="kicker" id="scenarioLabel">Presidente · cenário atual</div>
+      <div class="title-row">
+        <h1 id="headline">Andamento das pesquisas</h1>
+        <button class="info-btn" id="infoBtn" aria-label="Ver metodologia">i</button>
+      </div>
+      <div class="summary" id="summary"></div>
+    </section>
+
+    <section class="chart-wrap">
+      <div class="chart-card">
+        <div class="chart-toolbar">
+          <div class="segmented" aria-label="Período do gráfico">
+            <button class="seg" data-range="28">4 semanas</button>
+            <button class="seg active" data-range="90">3 meses</button>
+            <button class="seg" data-range="9999">completo</button>
+          </div>
+          <div class="range-note">toque ou passe o cursor sobre a linha</div>
+        </div>
+        <div class="chart-box" id="chartBox">
+          <svg class="chart" id="chart" viewBox="0 0 820 360" role="img" aria-label="Evolução das intenções de voto"></svg>
+          <div class="tooltip" id="tooltip"></div>
+        </div>
+        <div class="legend" id="legend"></div>
+      </div>
+    </section>
+
+    <section class="quick" id="quick"></section>
+
+    <nav class="actions" aria-label="Mais informações">
+      <button class="action" data-open="candidates">Outros candidatos</button>
+      <button class="action" data-open="polls">Pesquisas usadas</button>
+      <button class="action" data-open="method">Método e fonte</button>
+    </nav>
+
+    <div class="footer-note">
+      Este índice é uma estimativa matemática baseada em pesquisas eleitorais. Não é uma pesquisa isolada nem uma previsão do resultado.
+    </div>
+  </main>
+</div>
+
+<dialog class="drawer" id="drawer">
+  <div class="drawer-head">
+    <h2 id="drawerTitle">Detalhes</h2>
+    <button class="close" id="closeDrawer" aria-label="Fechar">×</button>
+  </div>
+  <div class="drawer-body" id="drawerBody"></div>
+</dialog>
+
+<script>
+const FALLBACK_AGG = {
+  atualizado_em:"2026-07-31",
+  corte:"2026-07-28",
+  cenario:"1º turno · cenário nacional",
+  metodologia:"Média ponderada por recência e tamanho de amostra",
+  pesquisas_no_calculo:24,
+  fonte:"Tabelas públicas de pesquisas eleitorais",
+  fonte_url:"https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
+  candidatos:[
+    {nome:"Lula",partido:"PT",media:40.7,ic_min:39.4,ic_max:41.9,tendencia_14d:.6},
+    {nome:"Flávio Bolsonaro",partido:"PL",media:31.9,ic_min:30.5,ic_max:33.4,tendencia_14d:-.4},
+    {nome:"Ronaldo Caiado",partido:"PSD",media:3.1,ic_min:2.2,ic_max:4.0,tendencia_14d:.1},
+    {nome:"Renan Santos",partido:"Missão",media:3.0,ic_min:2.1,ic_max:3.9,tendencia_14d:.1}
+  ],
+  ultimas_pesquisas:[]
+};
+const FALLBACK_HIST = {
+  pontos:[
+    {data:"2026-05-01",valores:{"Lula":39.0,"Flávio Bolsonaro":34.4}},
+    {data:"2026-05-17",valores:{"Lula":39.5,"Flávio Bolsonaro":35.1}},
+    {data:"2026-06-01",valores:{"Lula":39.9,"Flávio Bolsonaro":33.8}},
+    {data:"2026-06-21",valores:{"Lula":40.4,"Flávio Bolsonaro":32.0}},
+    {data:"2026-07-12",valores:{"Lula":41.1,"Flávio Bolsonaro":33.2}},
+    {data:"2026-07-28",valores:{"Lula":40.7,"Flávio Bolsonaro":31.9}}
+  ]
+};
+
+const COLORS=["#c93427","#2478a8"];
+let AGG, HIST, activeRange=90;
+
+async function load(url,fallback){
+  try{
+    const r=await fetch(url,{cache:"no-store"});
+    if(!r.ok) throw new Error();
+    return await r.json();
+  }catch{return fallback}
+}
+const fmt=n=>Number(n).toLocaleString("pt-BR",{minimumFractionDigits:1,maximumFractionDigits:1});
+const dateBR=iso=>{
+  const [y,m,d]=String(iso).split("-");
+  return `${d}/${m}/${String(y).slice(2)}`;
+};
+const shortDate=iso=>{
+  const [y,m,d]=String(iso).split("-");
+  const months=["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
+  return `${Number(d)}/${months[Number(m)-1]}`;
+};
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+
+function filteredPoints(){
+  const all=(HIST.pontos||[]).filter(p=>p?.valores);
+  if(activeRange>=9999 || !all.length) return all;
+  const last=new Date(all.at(-1).data+"T00:00:00Z");
+  const min=new Date(last);
+  min.setUTCDate(min.getUTCDate()-activeRange);
+  return all.filter(p=>new Date(p.data+"T00:00:00Z")>=min);
+}
+
+function renderTop(){
+  const top=AGG.candidatos.slice(0,2);
+  document.getElementById("live").textContent=`atualizado ${dateBR(AGG.atualizado_em||AGG.corte)}`;
+  document.getElementById("scenarioLabel").textContent=AGG.cenario||"Presidente";
+  document.getElementById("headline").textContent=top.length===2?`${top[0].nome} e ${top[1].nome}`:"Andamento das pesquisas";
+  document.getElementById("summary").innerHTML=[
+    AGG.pesquisas_no_calculo?`<span class="pill"><strong>${AGG.pesquisas_no_calculo}</strong> pesquisas no cálculo</span>`:"",
+    AGG.corte?`<span class="pill">corte <strong>${dateBR(AGG.corte)}</strong></span>`:"",
+    AGG.indecisos!=null?`<span class="pill">indecisos <strong>${fmt(AGG.indecisos)}%</strong></span>`:""
+  ].join("");
+
+  document.getElementById("legend").innerHTML=top.map((c,i)=>
+    `<div class="legend-item"><span class="legend-dot" style="background:${COLORS[i]}"></span>${esc(c.nome)}</div>`
+  ).join("");
+
+  document.getElementById("quick").innerHTML=top.map((c,i)=>{
+    const t=Number(c.tendencia_14d||0);
+    const trend=t>.05?`subiu ${fmt(t)} p.p.`:t<-.05?`caiu ${fmt(Math.abs(t))} p.p.`:"estável";
+    return `<article class="quick-card">
+      <div class="quick-label">${esc(c.nome)}</div>
+      <div class="quick-value" style="color:${COLORS[i]}">${fmt(c.media)}%</div>
+      <div class="quick-sub">${trend} em 14 dias</div>
+    </article>`;
+  }).join("");
+}
+
+function renderChart(){
+  const svg=document.getElementById("chart");
+  const tip=document.getElementById("tooltip");
+  const pts=filteredPoints();
+  const series=AGG.candidatos.slice(0,2);
+  const W=820,H=360,p={l:54,r:82,t:22,b:48};
+  if(!pts.length || series.length<2){
+    svg.innerHTML=`<text x="410" y="180" text-anchor="middle" fill="#6f7378" font-size="14">Histórico ainda em formação</text>`;
+    return;
+  }
+
+  const values=pts.flatMap(p=>series.map(s=>Number(p.valores[s.nome])).filter(Number.isFinite));
+  const rawMin=Math.min(...values),rawMax=Math.max(...values);
+  const yMin=Math.max(0,Math.floor((rawMin-3)/5)*5);
+  const yMax=Math.min(100,Math.ceil((rawMax+3)/5)*5);
+  const x=(i)=>p.l+(pts.length===1?0:(i/(pts.length-1))*(W-p.l-p.r));
+  const y=(v)=>p.t+(1-(v-yMin)/(yMax-yMin))*(H-p.t-p.b);
+
+  let out="";
+  for(let v=yMin;v<=yMax;v+=5){
+    out+=`<line x1="${p.l}" y1="${y(v)}" x2="${W-p.r}" y2="${y(v)}" stroke="#e4e6e8"/>`;
+    out+=`<text x="${p.l-12}" y="${y(v)+4}" text-anchor="end" fill="#6f7378" font-size="12">${v}%</text>`;
+  }
+  const labelEvery=Math.max(1,Math.ceil(pts.length/7));
+  pts.forEach((pt,i)=>{
+    if(i%labelEvery===0 || i===pts.length-1){
+      out+=`<text x="${x(i)}" y="${H-16}" text-anchor="middle" fill="#6f7378" font-size="11" transform="rotate(-35 ${x(i)} ${H-16})">${shortDate(pt.data)}</text>`;
+    }
+  });
+
+  series.forEach((s,si)=>{
+    const valid=pts.map((pt,i)=>({pt,i,v:Number(pt.valores[s.nome])})).filter(d=>Number.isFinite(d.v));
+    const d=valid.map((d,j)=>`${j?"L":"M"}${x(d.i).toFixed(1)},${y(d.v).toFixed(1)}`).join(" ");
+    out+=`<path d="${d}" fill="none" stroke="${COLORS[si]}" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>`;
+    const last=valid.at(-1);
+    if(last){
+      out+=`<circle cx="${x(last.i)}" cy="${y(last.v)}" r="4.5" fill="${COLORS[si]}"/>`;
+      out+=`<text x="${x(last.i)+14}" y="${y(last.v)+5}" fill="${COLORS[si]}" font-size="15" font-weight="800">${fmt(last.v)}%</text>`;
+    }
+  });
+
+  pts.forEach((pt,i)=>{
+    out+=`<rect class="hit" data-i="${i}" x="${Math.max(p.l,x(i)-18)}" y="${p.t}" width="36" height="${H-p.t-p.b}" fill="transparent" tabindex="0" aria-label="${dateBR(pt.data)}"/>`;
+  });
+  svg.innerHTML=out;
+
+  const show=(i,clientX,clientY)=>{
+    const pt=pts[i];
+    tip.innerHTML=`<div class="tip-date">${dateBR(pt.data)}</div>`+
+      series.map((s,si)=>`<div class="tip-row"><span class="tip-dot" style="background:${COLORS[si]}"></span>${esc(s.nome)}: <strong>${fmt(pt.valores[s.nome])}%</strong></div>`).join("");
+    const box=document.getElementById("chartBox").getBoundingClientRect();
+    tip.style.left=`${clientX-box.left}px`;
+    tip.style.top=`${clientY-box.top}px`;
+    tip.classList.add("show");
+  };
+  svg.querySelectorAll(".hit").forEach(el=>{
+    el.addEventListener("mousemove",e=>show(Number(el.dataset.i),e.clientX,e.clientY));
+    el.addEventListener("mouseenter",e=>show(Number(el.dataset.i),e.clientX,e.clientY));
+    el.addEventListener("focus",()=>{
+      const r=el.getBoundingClientRect();
+      show(Number(el.dataset.i),r.left+r.width/2,r.top+60);
+    });
+    el.addEventListener("click",e=>show(Number(el.dataset.i),e.clientX,e.clientY));
+    el.addEventListener("mouseleave",()=>tip.classList.remove("show"));
+    el.addEventListener("blur",()=>tip.classList.remove("show"));
+  });
+}
+
+function drawerContent(type){
+  const top=AGG.candidatos.slice(0,2).map(c=>c.nome);
+  if(type==="candidates"){
+    const rest=AGG.candidatos.filter(c=>!top.includes(c.nome));
+    return {
+      title:"Outros candidatos",
+      body:`<div class="drawer-section"><p>Demais nomes do cenário atual, ordenados pela estimativa do índice.</p></div>
+        <div class="candidate-list">${rest.length?rest.map(c=>`<div class="candidate-item">
+          <div><div class="name">${esc(c.nome)} ${c.partido?`<span class="meta">· ${esc(c.partido)}</span>`:""}</div>
+          <div class="meta">IC 95%: ${fmt(c.ic_min)}–${fmt(c.ic_max)}%</div></div>
+          <div class="number">${fmt(c.media)}%</div>
+        </div>`).join(""):`<div class="empty">Não há outros candidatos neste cenário.</div>`}</div>`
+    };
+  }
+  if(type==="polls"){
+    const polls=AGG.ultimas_pesquisas||[];
+    return {
+      title:"Pesquisas usadas",
+      body:`<div class="drawer-section"><p>Pesquisas mais recentes consideradas no cálculo atual.</p></div>
+        <div class="poll-list">${polls.length?polls.map(p=>`<div class="poll-item">
+          <div><div class="name">${esc(p.instituto)}</div>
+          <div class="meta">${esc(p.coleta_label||p.coleta||"")} · amostra ${Number(p.amostra||0).toLocaleString("pt-BR")}</div></div>
+          <div class="number">${esc(p.detalhe||"")}</div>
+        </div>`).join(""):`<div class="empty">A lista detalhada não veio no arquivo atual.</div>`}</div>`
+    };
+  }
+  return {
+    title:"Método e fonte",
+    body:`<div class="drawer-section"><h3>Como o índice é calculado</h3>
+      <p>${esc(AGG.metodologia||"Média ponderada das pesquisas disponíveis, com maior peso para levantamentos recentes e amostras maiores.")}</p></div>
+      <div class="drawer-section"><h3>Como ler</h3>
+      <p>Os números são estimativas agregadas. O intervalo de confiança mostra a faixa de incerteza do modelo. Mudanças pequenas podem representar estabilidade estatística.</p></div>
+      <div class="drawer-section"><h3>Fonte</h3>
+      <p>${esc(AGG.fonte||"Pesquisas eleitorais públicas")}.</p>
+      ${AGG.fonte_url?`<p style="margin-top:10px"><a class="source-link" href="${esc(AGG.fonte_url)}" target="_blank" rel="noopener">Ver origem dos dados →</a></p>`:""}</div>`
+  };
+}
+
+function openDrawer(type){
+  const c=drawerContent(type);
+  document.getElementById("drawerTitle").textContent=c.title;
+  document.getElementById("drawerBody").innerHTML=c.body;
+  document.getElementById("drawer").showModal();
+}
+
+document.querySelectorAll(".seg").forEach(btn=>btn.addEventListener("click",()=>{
+  document.querySelectorAll(".seg").forEach(x=>x.classList.toggle("active",x===btn));
+  activeRange=Number(btn.dataset.range);
+  renderChart();
+}));
+document.querySelectorAll("[data-open]").forEach(btn=>btn.addEventListener("click",()=>openDrawer(btn.dataset.open)));
+document.getElementById("menuBtn").addEventListener("click",()=>openDrawer("method"));
+document.getElementById("infoBtn").addEventListener("click",()=>openDrawer("method"));
+document.getElementById("closeDrawer").addEventListener("click",()=>document.getElementById("drawer").close());
+document.getElementById("drawer").addEventListener("click",e=>{
+  const d=e.currentTarget,r=d.getBoundingClientRect();
+  if(e.clientX<r.left) d.close();
+});
+
+(async()=>{
+  [AGG,HIST]=await Promise.all([
+    load("./dados/agregado.json",FALLBACK_AGG),
+    load("./dados/historico.json",FALLBACK_HIST)
+  ]);
+  renderTop();
+  renderChart();
+})();
+</script>
+</body>
+</html>
