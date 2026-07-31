@@ -158,6 +158,33 @@ h1{
   font-size:11px;line-height:1.5;color:var(--muted)
 }
 
+/* navegação de seções: presidente × governadores */
+.viewnav{display:flex;gap:6px;padding:12px 18px 0}
+.viewbtn{border:0;background:var(--soft);cursor:pointer;padding:10px 16px;border-radius:999px;font-size:13px;font-weight:800;color:var(--muted)}
+.viewbtn[aria-selected="true"]{background:var(--ink);color:#fff}
+
+/* aba governadores: cartograma de mosaico + painel */
+.gov-hero{padding:18px 22px 4px}
+.gov-h{margin:0;font-size:clamp(22px,4.4vw,32px);letter-spacing:-.035em;line-height:1.06}
+.gov-sub{margin:8px 0 0;font-size:13px;color:var(--muted);line-height:1.55;max-width:62ch}
+.gov-wrap{display:grid;grid-template-columns:minmax(240px,330px) 1fr;gap:20px;padding:16px 22px 24px}
+.map-grid{display:grid;grid-template-columns:repeat(6,1fr);grid-auto-rows:1fr;gap:6px;align-content:start}
+.tile{aspect-ratio:1;border:1.5px solid transparent;border-radius:10px;background:var(--soft);color:#9aa0a6;font-weight:800;font-size:12px;display:grid;place-content:center;gap:1px;padding:0;text-align:center}
+.tile .qt{font-size:9.5px;font-weight:700;opacity:.75}
+.tile.has{background:#e3ebf3;color:#2b4f74;cursor:pointer}
+.tile.has:hover{border-color:var(--blue)}
+.tile[aria-pressed="true"]{border-color:var(--ink);background:#d6e2ee;color:var(--ink)}
+.gov-panel-head{display:flex;align-items:center;gap:10px;margin-bottom:6px}
+.gov-panel-head h3{margin:0;font-size:14px}
+.gov-reset{margin-left:auto;border:1.5px solid var(--line);background:#fff;cursor:pointer;padding:6px 11px;border-radius:999px;font-size:11px;font-weight:800;color:var(--muted)}
+.gov-reset:hover{border-color:var(--ink);color:var(--ink)}
+.tag-uf{display:inline-block;background:var(--ink);color:#fff;border-radius:6px;padding:2px 6px;font-size:10px;font-weight:800;margin-right:7px;vertical-align:1px}
+@media (max-width:700px){
+  .gov-wrap{grid-template-columns:1fr;padding:14px 16px 20px}
+  .gov-hero{padding:16px 16px 4px}
+  .map-grid{max-width:360px}
+}
+
 .drawer{
   width:min(92vw,440px);height:100dvh;margin:0 0 0 auto;
   border:0;padding:0;box-shadow:var(--shadow)
@@ -241,6 +268,12 @@ h1{
       <button class="menu" id="menuBtn" aria-label="Abrir explicação do agregador"><span></span></button>
     </header>
 
+    <nav class="viewnav" role="tablist" aria-label="Escolha a disputa">
+      <button class="viewbtn" role="tab" data-view="pres" aria-selected="true">Presidente</button>
+      <button class="viewbtn" role="tab" data-view="gov" aria-selected="false">Governadores</button>
+    </nav>
+
+    <div id="viewPres">
     <section class="hero">
       <div class="kicker" id="scenarioLabel">Presidente · 1º turno · Pesquisa estimulada</div>
       <div class="title-row">
@@ -285,6 +318,25 @@ h1{
       <button class="action" data-open="polls">Ver pesquisas</button>
       <button class="action" data-open="method">Como funciona</button>
     </nav>
+    </div>
+
+    <div id="viewGov" hidden>
+      <section class="gov-hero">
+        <div class="kicker">Governadores · Eleições 2026 · Pesquisas registradas</div>
+        <h2 class="gov-h">Corridas estaduais, estado por estado</h2>
+        <p class="gov-sub" id="govSub"></p>
+      </section>
+      <section class="gov-wrap">
+        <div class="map-grid" id="mapGrid" role="group" aria-label="Mapa dos estados do Brasil; estados com pesquisas registradas são clicáveis"></div>
+        <div class="gov-panel">
+          <div class="gov-panel-head">
+            <h3 id="govPanelTitle">Pesquisas estaduais recentes</h3>
+            <button class="gov-reset" id="govReset" hidden>ver todos os estados</button>
+          </div>
+          <div class="list" id="govList"></div>
+        </div>
+      </section>
+    </div>
 
     <div class="footnote">
       O agregador combina resultados de diferentes institutos para mostrar a tendência da disputa. Não é uma pesquisa isolada nem uma previsão do resultado da eleição.
@@ -367,7 +419,8 @@ const FALLBACK_POLLS = {
    distinguíveis entre si e legíveis sobre branco */
 const PALETTE=["#b84535","#3e6f9f","#2e7d5b","#a8741f","#6f5b9e","#b05c78","#3d7f8c","#6b7a34"];
 const MAX_COMPARE = 4;
-let AGG, HIST, POLLS;
+let AGG, HIST, POLLS, GOV = null;
+let selectedUF = null;
 let viewMode="complete";
 let rangeDays=180;
 let selected=[]; // nomes dos candidatos comparados no gráfico
@@ -720,6 +773,57 @@ function renderChart(){
   });
 }
 
+/* ---- aba governadores: cartograma + lista ---- */
+const UFS_MAP=[["AC","Acre",0,2],["AL","Alagoas",4,3],["AP","Amapá",3,0],["AM","Amazonas",0,1],["BA","Bahia",3,3],["CE","Ceará",4,1],["DF","Distrito Federal",2,4],["ES","Espírito Santo",4,4],["GO","Goiás",2,3],["MA","Maranhão",3,1],["MT","Mato Grosso",1,3],["MS","Mato Grosso do Sul",1,4],["MG","Minas Gerais",3,4],["PA","Pará",2,1],["PB","Paraíba",5,2],["PR","Paraná",2,6],["PE","Pernambuco",4,2],["PI","Piauí",3,2],["RJ","Rio de Janeiro",3,5],["RN","Rio Grande do Norte",5,1],["RS","Rio Grande do Sul",2,8],["RO","Rondônia",1,2],["RR","Roraima",1,0],["SC","Santa Catarina",2,7],["SP","São Paulo",2,5],["SE","Sergipe",5,3],["TO","Tocantins",2,2]];
+const ufOf = nome => (UFS_MAP.find(u => u[1].toLowerCase() === String(nome||"").toLowerCase()) || [])[0] || null;
+const govKey = d => { const [dd,mm,yy]=String(d||"").split("/"); return `${yy||""}${mm||""}${dd||""}`; };
+function govItens(){ return (GOV && Array.isArray(GOV.itens)) ? GOV.itens : []; }
+function govPorUF(){
+  const m = {};
+  govItens().forEach(it => { const uf = ufOf(it.estado); if(uf) (m[uf] ||= []).push(it); });
+  return m;
+}
+function renderGov(){
+  const porUF = govPorUF();
+  const total = govItens().length;
+  const nEstados = Object.keys(porUF).length;
+  document.getElementById("govSub").textContent = total
+    ? `${total} pesquisa${total>1?"s":""} para governador registrada${total>1?"s":""} em ${nEstados} estado${nEstados>1?"s":""}. Toque num estado colorido para ver só as pesquisas dele.`
+    : "Acompanhamos as pesquisas para governador registradas na base pública. Cada estado acende no mapa assim que a primeira pesquisa dele aparece.";
+  document.getElementById("mapGrid").innerHTML = UFS_MAP.map(([uf,nome,col,row]) => {
+    const qtd = (porUF[uf] || []).length;
+    const has = qtd > 0;
+    return `<button class="tile${has?" has":""}"${has?"":" disabled"} data-uf="${uf}"
+      aria-pressed="${selectedUF === uf}" style="grid-column:${col+1};grid-row:${row+1}"
+      aria-label="${nome}: ${has?`${qtd} pesquisa${qtd>1?"s":""} registrada${qtd>1?"s":""}`:"sem pesquisas registradas"}">
+      <span>${uf}</span>${has?`<span class="qt">${qtd}</span>`:""}</button>`;
+  }).join("");
+  document.querySelectorAll(".tile.has").forEach(el => el.addEventListener("click", () => {
+    selectedUF = selectedUF === el.dataset.uf ? null : el.dataset.uf;
+    renderGov();
+  }));
+  document.getElementById("govReset").hidden = !selectedUF;
+  const nomeSel = selectedUF ? (UFS_MAP.find(u=>u[0]===selectedUF)||[])[1] : null;
+  document.getElementById("govPanelTitle").textContent = nomeSel ? `Pesquisas em ${nomeSel}` : "Pesquisas estaduais recentes";
+  const lista = (selectedUF ? (porUF[selectedUF] || []) : govItens())
+    .slice().sort((a,b) => govKey(b.coleta).localeCompare(govKey(a.coleta)));
+  document.getElementById("govList").innerHTML = lista.length ? lista.map(it => `
+    <div class="item">
+      <div>
+        <div class="name"><span class="tag-uf">${esc(ufOf(it.estado)||"")}</span>${esc(it.instituto||"—")}</div>
+        <div class="meta">Coleta ${esc(it.coleta||"")}${it.tse?` · TSE ${esc(it.tse)}`:""}</div>
+        ${it.detalhe?`<div class="meta">${esc(it.detalhe)}</div>`:""}
+      </div>
+      <div class="number">${Number(it.amostra||0).toLocaleString("pt-BR")}<div class="meta" style="text-align:right">entrevistas</div></div>
+    </div>`).join("")
+    : `<div class="empty">O robô de coleta ainda não encontrou pesquisas para governador na fonte pública. Quando a primeira for registrada, o estado acende no mapa e esta lista se preenche automaticamente.</div>`;
+}
+function switchView(v){
+  document.getElementById("viewPres").hidden = v !== "pres";
+  document.getElementById("viewGov").hidden = v !== "gov";
+  document.querySelectorAll(".viewbtn").forEach(b => b.setAttribute("aria-selected", String(b.dataset.view === v)));
+}
+
 function drawerContent(type){
   if(type === "candidates"){
     const cands = AGG.candidatos || [];
@@ -833,6 +937,8 @@ document.querySelectorAll(".range").forEach(btn => btn.addEventListener("click",
   renderChart();
 }));
 
+document.querySelectorAll(".viewbtn").forEach(b => b.addEventListener("click", () => switchView(b.dataset.view)));
+document.getElementById("govReset").addEventListener("click", () => { selectedUF = null; renderGov(); });
 document.querySelectorAll("[data-open]").forEach(btn => btn.addEventListener("click", () => openDrawer(btn.dataset.open)));
 document.getElementById("menuBtn").addEventListener("click", () => openDrawer("method"));
 document.getElementById("infoBtn").addEventListener("click", () => openDrawer("method"));
@@ -847,12 +953,14 @@ document.getElementById("drawer").addEventListener("click", e => {
   [AGG,HIST,POLLS] = await Promise.all([
     load("./dados/agregado.json", FALLBACK_AGG),
     load("./dados/historico.json", FALLBACK_HIST),
-    load("./dados/pesquisas.json", FALLBACK_POLLS)
-  ]);
+    load("./dados/pesquisas.json", FALLBACK_POLLS),
+    load("./dados/governadores.json", null)
+  ]).then(r => { GOV = r[3]; return r; });
   selected = (AGG.candidatos || []).slice(0,2).map(c => c.nome);
   renderCands();
   renderTop();
   renderChart();
+  renderGov();
 })();
 </script>
 </body>
