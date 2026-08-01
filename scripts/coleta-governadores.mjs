@@ -26,7 +26,7 @@ export const CONFIG = {
   LOOKBACK_DAYS: int(process.env.GOV_LOOKBACK_DAYS, 120),
   HALF_LIFE_DAYS: int(process.env.GOV_HALF_LIFE_DAYS, 35),
   MAX_POLLS: int(process.env.GOV_MAX_POLLS, 20),
-  MIN_POLLS: int(process.env.GOV_MIN_POLLS, 1),
+  MIN_POLLS: int(process.env.GOV_MIN_POLLS, 2),
   TOP_HISTORY: int(process.env.GOV_TOP_HISTORY, 6),
 };
 
@@ -244,6 +244,69 @@ export function parseStateHtml(html, state){
   }
   return dedupe(polls);
 }
+
+function loadCandidateAllowlist(){
+  const path=join(DADOS,"candidatos-governadores-aprovados.json");
+  if(!existsSync(path)){
+    return {modo:"estrito",estados:{}};
+  }
+  try{
+    const parsed=JSON.parse(readFileSync(path,"utf8"));
+    return {
+      modo:parsed.modo==="estrito"?"estrito":"estrito",
+      estados:parsed.estados&&typeof parsed.estados==="object"?parsed.estados:{}
+    };
+  }catch(e){
+    throw new Error(`Lista editorial inválida em ${path}: ${e.message}`);
+  }
+}
+function approvedCandidateMap(allowlist, uf){
+  const config=allowlist.estados?.[uf]||{};
+  const map=new Map();
+  for(const name of config.permitidos||[]){
+    const canonical=norm(name);
+    if(canonical) map.set(fold(canonical),canonical);
+  }
+  for(const [alias,canonicalRaw] of Object.entries(config.aliases||{})){
+    const canonical=norm(canonicalRaw);
+    if(canonical) map.set(fold(alias),canonical);
+  }
+  return map;
+}
+function applyCandidateAllowlist(rawPolls, allowlist){
+  const review=new Map();
+  const accepted=[];
+  for(const poll of rawPolls){
+    const approved=approvedCandidateMap(allowlist,poll.uf);
+    const candidates={},parties={};
+    for(const [rawName,value] of Object.entries(poll.candidates||{})){
+      const canonical=approved.get(fold(rawName));
+      if(!canonical){
+        const key=`${poll.uf}|${fold(rawName)}`;
+        if(!review.has(key)){
+          review.set(key,{
+            uf:poll.uf,estado:poll.estado,nome_encontrado:rawName,
+            ocorrencias:0,paginas:new Set(),fontes:new Set()
+          });
+        }
+        const item=review.get(key);
+        item.ocorrencias++;
+        if(poll.page_title)item.paginas.add(poll.page_title);
+        if(poll.source_url)item.fontes.add(poll.source_url);
+        continue;
+      }
+      candidates[canonical]=value;
+      parties[canonical]=poll.parties?.[rawName]||poll.parties?.[canonical]||"";
+    }
+    if(Object.keys(candidates).length<2) continue;
+    accepted.push({...poll,candidates,parties});
+  }
+  const pendentes=[...review.values()]
+    .map(item=>({...item,paginas:[...item.paginas],fontes:[...item.fontes]}))
+    .sort((a,b)=>a.uf.localeCompare(b.uf)||b.ocorrencias-a.ocorrencias||a.nome_encontrado.localeCompare(b.nome_encontrado));
+  return {accepted:dedupe(accepted),pendentes};
+}
+
 function dedupe(polls){
   const seen=new Set(), out=[];
   for(const p of polls){
@@ -384,7 +447,10 @@ export async function collect(){
       errors.push(`${uf} — ${title}: ${e.message}`);
     }
   }
-  const polls=dedupe(all);
+  const rawPolls=dedupe(all);
+  const allowlist=loadCandidateAllowlist();
+  const validated=applyCandidateAllowlist(rawPolls,allowlist);
+  const polls=validated.accepted;
   const estados={}, historicos={};
   for(const [uf,estado] of Object.entries(STATES)){
     const rows=polls.filter(p=>p.uf===uf);
@@ -401,13 +467,20 @@ export async function collect(){
   };
   writeFileSync(join(DADOS,"governadores.json"),JSON.stringify(output,null,2)+"\n");
   writeFileSync(join(DADOS,"pesquisas-governadores.json"),JSON.stringify({atualizado_em:today(),pesquisas:polls},null,2)+"\n");
+  writeFileSync(join(DADOS,"_pesquisas-governadores-brutas.json"),JSON.stringify({atualizado_em:today(),pesquisas:rawPolls},null,2)+"\n");
+  writeFileSync(join(DADOS,"_candidatos-governadores-revisao.json"),JSON.stringify({
+    atualizado_em:today(),
+    instrucoes:"Nomes deste arquivo foram encontrados nas tabelas, mas não estão aprovados. Revise e copie apenas os corretos para candidatos-governadores-aprovados.json.",
+    total:validated.pendentes.length,
+    candidatos:validated.pendentes
+  },null,2)+"\n");
   writeFileSync(join(DADOS,"historico-governadores.json"),JSON.stringify({atualizado_em:today(),estados:historicos},null,2)+"\n");
   writeFileSync(join(DADOS,"_governadores_status.json"),JSON.stringify({
     ultima_execucao:new Date().toISOString(), paginas_tentadas:pages.length,
-    pesquisas_extraidas:polls.length, estados_com_agregado:Object.keys(estados).length,
+    pesquisas_extraidas_brutas:rawPolls.length, pesquisas_aprovadas:polls.length, candidatos_pendentes:validated.pendentes.length, estados_com_agregado:Object.keys(estados).length,
     paginas:pageStatus, erros:errors.slice(0,30)
   },null,2)+"\n");
-  console.log(`OK governadores — ${polls.length} pesquisas; ${Object.keys(estados).length} estados com agregado.`);
+  console.log(`OK governadores — ${rawPolls.length} pesquisas brutas; ${polls.length} aprovadas; ${validated.pendentes.length} nomes em revisão; ${Object.keys(estados).length} estados com agregado.`);
   return {polls,estados,historicos};
 }
 
