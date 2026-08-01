@@ -51,8 +51,29 @@ select{font-family:var(--body);font-size:14px;color:var(--ink);background:#fff;b
 .scen b{color:var(--soft);font-weight:500}
 
 .view-switch{display:flex;gap:7px;flex-wrap:wrap;margin:12px 0 2px}
-.view-switch button,.ranges button,.view-switch button[aria-pressed="true"],.ranges button[aria-pressed="true"],.map-switch button[aria-pressed="true"]{
-  border-color:var(--ink);color:var(--ink)
+.view-switch button,.ranges button{
+  appearance:none;
+  cursor:pointer;
+  background:#fff;
+  border:1px solid var(--hair);
+  border-radius:999px;
+  font-family:var(--mono);
+  font-size:11px;
+  font-weight:400;
+  line-height:1;
+  color:var(--soft);
+  padding:8px 12px;
+  min-height:34px;
+  box-shadow:none;
+}
+.view-switch button:hover,.ranges button:hover{
+  border-color:var(--muted);
+  color:var(--ink);
+}
+.view-switch button[aria-pressed="true"],.ranges button[aria-pressed="true"]{
+  background:var(--ink);
+  border-color:var(--ink);
+  color:#fff;
 }
 
 .legend{display:flex;flex-wrap:wrap;gap:8px;padding:14px 0 6px}
@@ -205,7 +226,7 @@ footer details summary{font-family:var(--mono);font-size:10.5px;color:var(--ink)
 </header>
 
 <main id="main">
-<h1>Como a corrida eleitoral se move</h1>
+<h1>Como a corrida se move</h1>
 <p class="lede">Evolução das intenções de voto a partir das pesquisas registradas no TSE. Ligue e desligue candidatos, ajuste o período e explore os levantamentos.</p>
 
 <nav class="races" role="tablist" aria-label="Corrida eleitoral">
