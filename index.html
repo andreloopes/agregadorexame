@@ -1,977 +1,326 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Agregador EXAME · Eleições 2026</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agregador de pesquisas · Eleições 2026 · ExameLab</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{
-  --red:#b84535;
-  --blue:#3e6f9f;
-  --ink:#2b2e32;
-  --muted:#7a7f86;
-  --line:#e5e7ea;
-  --soft:#f3f4f6;
-  --paper:#ffffff;
-  --bg:#f7f7f7;
-  --shadow:0 18px 60px rgba(14,18,24,.14);
-}
-*{box-sizing:border-box}
-html,body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,Arial,sans-serif;-webkit-font-smoothing:antialiased}
-button{font:inherit}
-.shell{max-width:930px;margin:0 auto;padding:18px}
-.card{
-  background:var(--paper);
-  border:1px solid var(--line);
-  border-radius:24px;
-  overflow:hidden;
-}
-.topbar{
-  display:flex;align-items:center;gap:12px;
-  min-height:52px;padding:0 18px;border-bottom:1px solid var(--line);
-}
-.brand{font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
-.live{margin-left:auto;font-size:12px;color:var(--muted)}
-.menu{
-  width:38px;height:38px;border:0;border-radius:50%;
-  background:var(--soft);display:grid;place-items:center;cursor:pointer
-}
-.menu::before,.menu::after,.menu span{
-  content:"";display:block;width:16px;height:2px;border-radius:2px;background:var(--ink)
-}
-.menu span{margin:3px 0}
-.hero{padding:22px 22px 10px}
-.kicker{font-size:12px;font-weight:700;color:var(--muted);margin-bottom:8px}
-.title-row{display:flex;align-items:flex-start;gap:10px}
-h1{
-  margin:0;
-  font-size:clamp(28px,5.4vw,46px);
-  line-height:1.03;
-  letter-spacing:-.045em;
-}
-.info-btn{
-  margin-top:3px;flex:0 0 auto;width:30px;height:30px;border-radius:50%;
-  border:2px solid #c76710;color:#c76710;background:#fff;font-weight:800;cursor:pointer
-}
-.summary{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
-.pill{
-  background:var(--soft);padding:8px 11px;border-radius:999px;
-  font-size:12px;font-weight:700;color:var(--muted)
-}
-.pill strong{color:var(--ink)}
-.quick{
-  display:grid;grid-template-columns:repeat(2,1fr);gap:10px;
-  padding:0 22px 6px;
-}
-.quick-card{
-  border:1px solid var(--line);
-  border-radius:15px;
-  padding:13px 14px;
-}
-.quick-label{font-size:11px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
-.quick-value{font-size:24px;font-weight:800;letter-spacing:-.04em;margin-top:6px}
-.quick-sub{margin-top:4px;font-size:12px;color:var(--muted)}
-.chart-wrap{padding:10px 14px 0}
-.chart-card{
-  background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden
-}
-.chart-copy{padding:16px 14px 2px}
-.chart-copy h2{margin:0;font-size:17px;line-height:1.25;letter-spacing:-.02em}
-.chart-copy p{margin:5px 0 0;font-size:12px;line-height:1.5;color:var(--muted)}
-.chart-head{
-  display:flex;align-items:center;gap:10px;flex-wrap:wrap;
-  padding:12px 14px 8px;
-}
-.candidate-control{
-  display:flex;align-items:center;gap:10px;flex-wrap:wrap;
-  padding:4px 14px 10px
-}
-.candidate-toggle{
-  border:1px solid var(--line);background:#fff;color:var(--ink);
-  border-radius:999px;padding:8px 12px;cursor:pointer;
-  font-size:12px;font-weight:800
-}
-.candidate-toggle:hover{background:var(--soft)}
-.candidate-toggle[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
-.candidate-hint{font-size:11px;color:var(--muted)}
+  :root{
+    --red:#D9001E; --ink:#14110F; --graphite:#3A3A3A;
+    --paper:#FBFAF8; --hair:#E6E1DA; --muted:#8A837B; --muted2:#B7B0A8;
+    --disp:"Archivo Black",system-ui,sans-serif;
+    --body:"Archivo",system-ui,sans-serif;
+    --mono:"IBM Plex Mono",ui-monospace,monospace;
+  }
+  *{box-sizing:border-box}
+  html{background:var(--paper)}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);
+    line-height:1.45;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  .wrap{max-width:760px;margin:0 auto;background:#fff;border:1px solid var(--hair)}
 
-.tabs{
-  display:flex;gap:0;background:var(--soft);padding:4px;border-radius:999px
-}
-.tab{
-  border:0;background:transparent;cursor:pointer;padding:8px 14px;
-  border-radius:999px;font-size:12px;font-weight:800;color:var(--muted)
-}
-.tab.active{background:#fff;color:var(--ink);box-shadow:0 1px 4px rgba(0,0,0,.08)}
-.ranges{
-  display:flex;gap:6px;margin-left:auto
-}
-.range{
-  border:0;background:var(--soft);cursor:pointer;padding:8px 11px;
-  border-radius:999px;font-size:11px;font-weight:800;color:var(--muted)
-}
-.range.active{background:var(--ink);color:#fff}
-.chart-sub{padding:0 14px 8px;font-size:12px;color:var(--muted)}
-.chart-box{position:relative;min-height:360px}
-.chart{display:block;width:100%;height:auto;min-height:360px}
-.legend{
-  display:flex;gap:12px 20px;align-items:flex-start;flex-wrap:wrap;
-  padding:8px 16px 14px;color:var(--muted);font-size:12px;font-weight:700
-}
-.legend-group{display:flex;gap:12px 16px;align-items:center;flex-wrap:wrap}
-.legend-group.keys{padding-left:18px;border-left:1px solid var(--line)}
-.legend-item{display:flex;align-items:center;gap:8px}
-.legend-candidate{display:inline-block;width:17px;height:4px;border-radius:99px}
-.legend-hollow{display:inline-block;width:11px;height:11px;border:2px solid #8e939a;border-radius:50%;background:#fff}
-.legend-average{display:inline-block;width:18px;height:0;border-top:4px solid #8e939a;border-radius:99px}
-.tooltip{
-  position:absolute;z-index:5;min-width:170px;max-width:240px;
-  background:rgba(26,28,31,.96);color:#fff;border-radius:12px;
-  padding:10px 12px;box-shadow:0 14px 34px rgba(0,0,0,.25);
-  pointer-events:none;opacity:0;transform:translate(-50%,-110%);
-  transition:opacity .12s ease;
-}
-.tooltip.show{opacity:1}
-.tip-label{font-size:11px;color:#d6d8db;font-weight:700;letter-spacing:.04em;text-transform:uppercase;margin-bottom:5px}
-.tip-title{font-size:15px;font-weight:800;margin-bottom:6px}
-.tip-row{display:flex;align-items:center;gap:7px;margin-top:4px;font-size:13px}
-.tip-dot{width:9px;height:9px;border-radius:2px}
-.tip-meta{margin-top:8px;font-size:11px;color:#d0d3d6;line-height:1.45}
-.actions{
-  display:grid;grid-template-columns:repeat(3,1fr);
-  border-top:1px solid var(--line);margin-top:14px
-}
-.action{
-  border:0;border-right:1px solid var(--line);background:#fff;
-  padding:14px 10px;cursor:pointer;font-size:12px;font-weight:800;color:var(--ink)
-}
-.action:last-child{border-right:0}
-.action:hover{background:var(--soft)}
-.footnote{
-  padding:11px 18px 18px;
-  font-size:11px;line-height:1.5;color:var(--muted)
-}
+  /* faixa superior */
+  .eyebrow{display:flex;align-items:center;gap:8px;background:var(--ink);color:#fff;
+    font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;padding:9px 16px}
+  .eyebrow .dot{width:7px;height:7px;background:var(--red);border-radius:50%;flex:none}
+  .eyebrow .spacer{flex:1}
+  .eyebrow .live{color:var(--muted2);letter-spacing:.06em}
 
-.drawer{
-  width:min(92vw,440px);height:100dvh;margin:0 0 0 auto;
-  border:0;padding:0;box-shadow:var(--shadow)
-}
-.drawer::backdrop{background:rgba(20,22,24,.38)}
-.drawer-head{
-  display:flex;align-items:center;gap:10px;
-  position:sticky;top:0;padding:18px;background:#fff;border-bottom:1px solid var(--line)
-}
-.drawer-head h2{margin:0;font-size:20px}
-.close{
-  margin-left:auto;width:36px;height:36px;border:0;border-radius:50%;
-  background:var(--soft);font-size:21px;cursor:pointer
-}
-.drawer-body{padding:18px}
-.section{padding-bottom:18px;margin-bottom:18px;border-bottom:1px solid var(--line)}
-.section:last-child{padding-bottom:0;margin-bottom:0;border-bottom:0}
-.section h3{margin:0 0 10px;font-size:14px}
-.section p{margin:0;font-size:13px;line-height:1.6;color:var(--muted)}
-.list{display:grid;gap:10px}
-.item{
-  display:grid;grid-template-columns:1fr auto;gap:10px;
-  padding:10px 0;border-bottom:1px solid var(--line)
-}
-.item:last-child{border-bottom:0}
-.name{font-size:13px;font-weight:800}
-.meta{font-size:11px;color:var(--muted);margin-top:3px}
-.number{font-size:14px;font-weight:800;text-align:right}
-.link{color:var(--red);text-decoration:none;font-weight:800}
-.empty{font-size:13px;color:var(--muted)}
-.axis-label{fill:var(--muted);font-size:12px}
-.grid-line{stroke:#e5e7ea}
-.end-label{font-size:14px;font-weight:800}
-.point-agg{cursor:pointer}
-.point-poll{cursor:pointer}
-@media (max-width:700px){
-  .shell{padding:0}
-  .card{border-radius:0;border-left:0;border-right:0}
-  .hero{padding:18px 16px 10px}
-  .quick{padding:0 16px 6px}
-  .chart-wrap{padding:10px 8px 0}
-  .chart-card{border-radius:14px}
-  .chart-head{padding:10px 10px 8px}
-  .candidate-control{padding:2px 10px 10px;align-items:stretch}
-  .candidate-toggle{width:100%}
-  .candidate-hint{width:100%;text-align:center}
-  .legend-group.keys{width:100%;padding-left:0;padding-top:10px;border-left:0;border-top:1px solid var(--line)}
-  .chart-sub{padding:0 10px 8px}
-  .chart-box,.chart{min-height:300px}
-  .ranges{margin-left:0}
-  .actions{grid-template-columns:1fr}
-  .action{border-right:0;border-bottom:1px solid var(--line)}
-  .action:last-child{border-bottom:0}
-}
+  .head{padding:18px 16px 0}
+  h1{font-family:var(--disp);font-size:clamp(24px,8vw,34px);line-height:1;margin:0 0 4px;letter-spacing:-.01em}
+  .head .tag{font-family:var(--mono);font-size:11px;color:var(--muted);margin:0 0 16px}
 
-.race-tabs{display:flex;gap:6px;padding:12px 18px 0;border-bottom:1px solid var(--line)}
-.race-tab{border:0;background:transparent;padding:11px 14px;cursor:pointer;font-size:13px;font-weight:800;color:var(--muted);border-bottom:3px solid transparent}
-.race-tab.active{color:var(--ink);border-bottom-color:var(--red)}
-.gov-hero{padding:22px 22px 8px}
-.gov-hero h1{font-size:clamp(28px,5vw,42px)}
-.gov-hero p{font-size:13px;color:var(--muted);line-height:1.55;max-width:66ch}
-.gov-layout{display:grid;gap:14px;padding:8px 14px 20px}
-.gov-map-card,.gov-state-card{border:1px solid var(--line);border-radius:18px;background:#fff;padding:16px}
-.gov-section-head{display:flex;justify-content:space-between;gap:16px;align-items:flex-start;margin-bottom:14px}
-.gov-section-head h2{margin:0;font-size:18px}
-.gov-section-head p{margin:5px 0 0;color:var(--muted);font-size:12px}
-.gov-map-key{font-size:11px;color:var(--muted);display:flex;align-items:center;gap:6px;flex-wrap:wrap}
-.gov-swatch{width:12px;height:12px;border-radius:3px;display:inline-block}
-.gov-swatch.leader{background:#dce8f3;border:1px solid #7c9ab6}
-.gov-swatch.nodata{background:var(--soft);border:1px solid var(--line)}
-.gov-map{display:grid;grid-template-columns:repeat(9,1fr);grid-auto-rows:54px;gap:6px;max-width:720px;margin:auto}
-.gov-tile{border:1.5px solid var(--line);border-radius:10px;background:var(--soft);color:#92979d;font-weight:800;font-size:12px;cursor:default;padding:4px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center}
-.gov-tile.has{background:#e4edf5;color:#254b6d;cursor:pointer}
-.gov-tile.has:hover,.gov-tile.active{border-color:var(--ink);box-shadow:0 0 0 2px rgba(43,46,50,.08)}
-.gov-tile small{font-size:8px;font-weight:700;line-height:1.1;margin-top:2px}
-.gov-state-toolbar{display:flex;align-items:center;gap:10px;margin-bottom:14px}
-.gov-state-toolbar label{font-size:12px;font-weight:800}
-.gov-state-toolbar select{border:1px solid var(--line);border-radius:10px;padding:9px 12px;background:#fff;font:inherit;min-width:220px}
-.gov-state-title{display:flex;justify-content:space-between;gap:14px;align-items:flex-start;margin-bottom:12px}
-.gov-state-title h2{margin:0;font-size:21px}
-.gov-state-title p{margin:4px 0 0;color:var(--muted);font-size:12px}
-.gov-leaders{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-bottom:12px}
-.gov-leader{border:1px solid var(--line);border-radius:14px;padding:12px}
-.gov-leader strong{font-size:22px;display:block;margin-top:5px}
-.gov-chart-box{position:relative;border:1px solid var(--line);border-radius:14px;overflow:hidden;min-height:330px}
-#govChart{display:block;width:100%;height:auto;min-height:330px}
-.gov-polls{margin-top:14px;border-top:1px solid var(--line)}
-.gov-poll{display:grid;grid-template-columns:1fr auto;gap:8px;padding:10px 0;border-bottom:1px solid var(--line);font-size:12px}
-.gov-poll .meta{font-size:11px;color:var(--muted)}
-@media(max-width:700px){
-  .race-tabs{overflow-x:auto;padding-left:10px}
-  .race-tab{white-space:nowrap}
-  .gov-layout{padding:8px 8px 18px}
-  .gov-map-card,.gov-state-card{padding:12px}
-  .gov-map{grid-template-columns:repeat(7,1fr);grid-auto-rows:48px}
-  .gov-section-head{display:block}
-  .gov-map-key{margin-top:10px}
-  .gov-leaders{grid-template-columns:1fr}
-}
+  /* alternador de corrida — alvos grandes, mobile-first */
+  .switch{display:grid;grid-template-columns:1fr 1fr;gap:0;border:1px solid var(--ink);border-bottom-width:2px}
+  .switch button{appearance:none;background:#fff;border:none;cursor:pointer;
+    min-height:48px;padding:10px 8px;font-family:var(--mono);font-size:12px;letter-spacing:.06em;
+    text-transform:uppercase;color:var(--muted);border-right:1px solid var(--hair)}
+  .switch button:last-child{border-right:none}
+  .switch button[aria-selected="true"]{background:var(--ink);color:#fff;font-weight:600}
+  .switch button:focus-visible{outline:2px solid var(--red);outline-offset:-4px}
 
+  .panel{display:none}
+  .panel.active{display:block}
+
+  /* seletor de estado */
+  .picker{padding:14px 16px 0}
+  .picker label{display:block;font-family:var(--mono);font-size:10px;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--red);margin:0 0 6px;font-weight:600}
+  .picker select{width:100%;min-height:48px;font-family:var(--disp);font-size:16px;color:var(--ink);
+    background:#fff;border:1px solid var(--ink);padding:0 12px;-webkit-appearance:none;appearance:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%2314110F' stroke-width='2'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;background-position:right 14px center}
+  .picker select:focus-visible{outline:2px solid var(--red);outline-offset:2px}
+
+  .meta{font-family:var(--mono);font-size:11px;color:var(--muted);
+    display:flex;flex-wrap:wrap;gap:4px 14px;padding:14px 16px 2px}
+  .meta b{color:var(--ink);font-weight:600}
+
+  .sec{padding:8px 16px 18px}
+  .sec + .sec{border-top:1px solid var(--hair)}
+  .sec-h{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--red);margin:16px 0 10px;font-weight:600}
+
+  /* linhas de candidato */
+  .cand{padding:12px 0;border-top:1px solid var(--hair)}
+  .cand:first-of-type{border-top:none}
+  .cand-top{display:flex;align-items:baseline;gap:8px}
+  .cand .rk{font-family:var(--mono);font-size:12px;color:var(--muted2);flex:none;width:18px}
+  .cand .nm{font-family:var(--disp);font-size:16px;letter-spacing:-.01em;flex:1;min-width:0}
+  .cand .nm .party{font-family:var(--mono);font-size:10.5px;color:var(--muted);font-weight:400;margin-left:6px}
+  .cand .pct{font-family:var(--disp);font-size:22px;letter-spacing:-.02em;flex:none;
+    display:flex;align-items:baseline;gap:5px}
+  .cand .pct .u{font-family:var(--mono);font-size:11px;font-weight:400;color:var(--muted)}
+  .trend{font-family:var(--mono);font-size:11px;margin-left:4px}
+  .up{color:var(--red)} .down{color:var(--graphite)} .flat{color:var(--muted2)}
+  .barwrap{position:relative;height:8px;background:var(--paper);border:1px solid var(--hair);margin:9px 0 5px}
+  .bar{position:absolute;top:-1px;bottom:-1px;left:0;background:var(--muted2)}
+  .cand.lead .bar{background:var(--red)}
+  .cand.two  .bar{background:var(--graphite)}
+  .ic{position:absolute;top:50%;height:1px;background:var(--ink);opacity:.4}
+  .cand .sub{font-family:var(--mono);font-size:10.5px;color:var(--muted)}
+
+  /* gráfico */
+  .chart{width:100%;height:auto;display:block;border:1px solid var(--hair);background:#fff}
+  .chart-note{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:8px;line-height:1.5}
+  .swatch{display:inline-block;width:9px;height:9px;vertical-align:middle;margin-right:5px}
+
+  /* pesquisas */
+  .poll{display:flex;justify-content:space-between;gap:10px;align-items:baseline;
+    padding:10px 0;border-top:1px solid var(--hair)}
+  .poll:first-of-type{border-top:none}
+  .poll .inst{font-family:var(--disp);font-size:14px}
+  .poll .psub{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:2px}
+  .poll .amostra{font-family:var(--mono);font-size:10.5px;color:var(--muted);text-align:right;white-space:nowrap;flex:none}
+
+  /* estado de espera */
+  .waiting{border:1px dashed var(--hair);padding:28px 18px;text-align:center;margin:16px 16px 20px}
+  .waiting .wt{font-family:var(--disp);font-size:15px;margin-bottom:6px}
+  .waiting .ws{font-family:var(--mono);font-size:11px;color:var(--muted);line-height:1.6}
+
+  /* rodapé */
+  .foot{padding:16px;border-top:2px solid var(--ink)}
+  .foot p{font-family:var(--mono);font-size:10px;color:var(--muted);margin:0 0 8px;line-height:1.55}
+  .foot b{color:var(--ink)}
+  .foot a{color:var(--red);text-decoration:none}
+  .foot a:hover{text-decoration:underline}
+  .foot details{margin:0 0 8px}
+  .foot summary{font-family:var(--mono);font-size:10px;color:var(--ink);cursor:pointer;
+    letter-spacing:.06em;text-transform:uppercase}
+  .foot details p{margin-top:8px}
+
+  @media (min-width:560px){
+    .eyebrow{font-size:11px;padding:10px 20px}
+    .head{padding:22px 20px 0}
+    .meta{padding:16px 20px 2px;font-size:11.5px}
+    .sec{padding:8px 20px 20px}
+    .picker{padding:16px 20px 0}
+    .waiting{margin:16px 20px 20px}
+    .cand .pct{font-size:24px}
+    .foot{padding:18px 20px}
+  }
+  @media (prefers-reduced-motion:no-preference){
+    .bar{transition:width .5s cubic-bezier(.2,.7,.2,1)}
+  }
 </style>
 </head>
 <body>
-<div class="shell">
-  <main class="card">
-    <header class="topbar">
-      <div class="brand">Agregador EXAME · Eleições 2026</div>
-      <div class="live" id="live">carregando…</div>
-      <button class="menu" id="menuBtn" aria-label="Abrir menu de informações"><span></span></button>
-    </header>
+<div class="wrap">
+  <div class="eyebrow">
+    <span class="dot"></span><span>Agregador ExameLab · Eleições 2026</span>
+    <span class="spacer"></span><span class="live" id="live"></span>
+  </div>
 
-    <nav class="race-tabs" role="tablist" aria-label="Escolha a disputa">
-      <button class="race-tab active" role="tab" data-race="president" aria-selected="true">Presidente · 1º turno</button>
-      <button class="race-tab" role="tab" data-race="governor" aria-selected="false">Governador · 1º turno</button>
-    </nav>
-    <div id="presidentView">
-    <section class="hero">
-      <div class="kicker" id="scenarioLabel">Presidente · 1º turno · Pesquisa estimulada</div>
-      <div class="title-row">
-        <h1 id="headline">Evolução da corrida presidencial</h1>
-        <button class="info-btn" id="infoBtn" aria-label="Entenda como funciona">i</button>
-      </div>
-      <div class="summary" id="summary"></div>
-    </section>
-
-    <section class="quick" id="quick"></section>
-
-    <section class="chart-wrap">
-      <div class="chart-card">
-        <div class="chart-copy">
-          <h2>Evolução das intenções de voto</h2>
-          <p>Os círculos mostram o resultado de cada pesquisa. As linhas mostram a média ponderada ao longo do tempo.</p>
-        </div>
-        <div class="chart-head">
-          <div class="tabs" aria-label="Escolha o que mostrar no gráfico">
-            <button class="tab active" data-mode="complete">Visão geral</button>
-            <button class="tab" data-mode="scatter">Pesquisas</button>
-            <button class="tab" data-mode="lines">Tendência</button>
-          </div>
-          <div class="ranges" aria-label="Escolha o período do gráfico">
-            <button class="range" data-range="90">3 meses</button>
-            <button class="range active" data-range="180">6 meses</button>
-            <button class="range" data-range="9999">histórico completo</button>
-          </div>
-        </div>
-        <div class="candidate-control">
-          <button class="candidate-toggle" id="candidateToggle" type="button" aria-pressed="false">
-            <span aria-hidden="true">＋</span> Adicionar todos os candidatos
-          </button>
-          <span class="candidate-hint" id="candidateHint">O gráfico mostra os dois primeiros colocados.</span>
-        </div>
-        <div class="chart-box" id="chartBox">
-          <svg class="chart" id="chart" viewBox="0 0 860 380" role="img" aria-label="Evolução das intenções de voto"></svg>
-          <div class="tooltip" id="tooltip"></div>
-        </div>
-        <div class="legend" id="legend"></div>
-      </div>
-    </section>
-
-    <nav class="actions" aria-label="Informações complementares">
-      <button class="action" data-open="candidates">Todos os candidatos</button>
-      <button class="action" data-open="polls">Ver pesquisas</button>
-      <button class="action" data-open="method">Como funciona</button>
-    </nav>
-
+  <div class="head">
+    <h1>Agregador de pesquisas</h1>
+    <p class="tag">Estimativa a partir de pesquisas registradas no TSE · atualização diária</p>
+    <div class="switch" role="tablist" aria-label="Escolha a corrida">
+      <button role="tab" aria-selected="true"  data-race="presidente">Presidente</button>
+      <button role="tab" aria-selected="false" data-race="governador">Governador</button>
     </div>
-    <div id="governorView" hidden>
-      <section class="gov-hero">
-        <div class="kicker">Governador · 1º turno · Pesquisas estimuladas</div>
-        <h1>Corridas estaduais</h1>
-        <p>Veja quem lidera em cada estado e acompanhe a evolução das pesquisas por unidade da Federação.</p>
-      </section>
-      <section class="gov-layout">
-        <div class="gov-map-card">
-          <div class="gov-section-head">
-            <div><h2>Mapa das disputas</h2><p>Selecione um estado para abrir os detalhes.</p></div>
-            <div class="gov-map-key"><span class="gov-swatch leader"></span> líder no agregado <span class="gov-swatch nodata"></span> sem dados suficientes</div>
-          </div>
-          <div class="gov-map" id="govMap"></div>
-        </div>
-        <div class="gov-state-card">
-          <div class="gov-state-toolbar">
-            <label for="govSelect">Estado</label>
-            <select id="govSelect"></select>
-          </div>
-          <div id="govStateSummary"></div>
-          <div class="gov-chart-box">
-            <svg id="govChart" viewBox="0 0 860 360" role="img" aria-label="Evolução das pesquisas para governador"></svg>
-            <div class="tooltip" id="govTooltip"></div>
-          </div>
-          <div class="legend" id="govLegend"></div>
-          <div class="gov-polls" id="govPolls"></div>
-        </div>
-      </section>
-    </div>
+  </div>
 
-    <div class="footnote">
-      O agregador combina resultados de diferentes institutos para mostrar a tendência da disputa. Não é uma pesquisa isolada nem uma previsão do resultado da eleição.
-    </div>
-  </main>
+  <section class="panel active" id="panel-presidente" role="tabpanel"></section>
+  <section class="panel" id="panel-governador" role="tabpanel"></section>
+
+  <div class="foot" id="foot"></div>
 </div>
 
-<dialog class="drawer" id="drawer">
-  <div class="drawer-head">
-    <h2 id="drawerTitle">Mais informações</h2>
-    <button class="close" id="closeDrawer" aria-label="Fechar">×</button>
-  </div>
-  <div class="drawer-body" id="drawerBody"></div>
-</dialog>
-
 <script>
-const FALLBACK_AGG = {
-  atualizado_em:"2026-07-31",
-  corte:"2026-07-28",
-  cenario:"Brasil (nacional) — 1º turno",
-  metodologia:"Média ponderada por recência e tamanho de amostra; faixa de 95% estimada por simulações.",
-  pesquisas_no_calculo:24,
-  indecisos:6.6,
-  fonte:"Wikipédia em português — pesquisas presidenciais de 2026",
-  fonte_url:"https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
-  candidatos:[
-    {nome:"Lula",partido:"PT",media:40.7,ic_min:39.5,ic_max:41.8,tendencia_14d:.5},
-    {nome:"Flávio Bolsonaro",partido:"PL",media:31.9,ic_min:30.7,ic_max:33.2,tendencia_14d:-.5},
-    {nome:"Ronaldo Caiado",partido:"PSD",media:4.2,ic_min:3.4,ic_max:5.0,tendencia_14d:.1},
-    {nome:"Renan Santos",partido:"Missão",media:3.8,ic_min:3.1,ic_max:4.4,tendencia_14d:.1}
-  ],
-  ultimas_pesquisas:[
-    {instituto:"PoderData",coleta:"2026-07-28",amostra:2400,margem:2,tipo:"1º turno"},
-    {instituto:"AtlasIntel",coleta:"2026-07-27",amostra:5021,margem:1,tipo:"1º turno"}
-  ]
-};
-const FALLBACK_HIST = {
-  pontos:[
-    {data:"2026-01-11",valores:{"Lula":39.0,"Flávio Bolsonaro":32.0}},
-    {data:"2026-01-25",valores:{"Lula":40.8,"Flávio Bolsonaro":31.8}},
-    {data:"2026-02-08",valores:{"Lula":40.0,"Flávio Bolsonaro":31.2}},
-    {data:"2026-02-22",valores:{"Lula":38.5,"Flávio Bolsonaro":31.4}},
-    {data:"2026-03-08",valores:{"Lula":39.8,"Flávio Bolsonaro":34.4}},
-    {data:"2026-03-22",valores:{"Lula":39.0,"Flávio Bolsonaro":34.0}},
-    {data:"2026-04-05",valores:{"Lula":40.6,"Flávio Bolsonaro":35.6}},
-    {data:"2026-04-19",valores:{"Lula":39.4,"Flávio Bolsonaro":35.0}},
-    {data:"2026-05-03",valores:{"Lula":39.6,"Flávio Bolsonaro":34.6}},
-    {data:"2026-05-17",valores:{"Lula":39.3,"Flávio Bolsonaro":34.8}},
-    {data:"2026-05-31",valores:{"Lula":39.8,"Flávio Bolsonaro":33.5}},
-    {data:"2026-06-14",valores:{"Lula":40.5,"Flávio Bolsonaro":32.0}},
-    {data:"2026-06-28",valores:{"Lula":40.6,"Flávio Bolsonaro":32.1}},
-    {data:"2026-07-12",valores:{"Lula":41.2,"Flávio Bolsonaro":33.4}},
-    {data:"2026-07-26",valores:{"Lula":40.7,"Flávio Bolsonaro":31.9}}
-  ]
-};
-const FALLBACK_POLLS = {
-  pesquisas:[
-    {institute:"PoderData",collection_date:"2026-07-28",sample_size:2400,candidates:{"Lula":41,"Flávio Bolsonaro":35}},
-    {institute:"AtlasIntel",collection_date:"2026-07-27",sample_size:5021,candidates:{"Lula":44.9,"Flávio Bolsonaro":35.8}},
-    {institute:"Nexus/BTG",collection_date:"2026-07-26",sample_size:2004,candidates:{"Lula":40.4,"Flávio Bolsonaro":33}},
-    {institute:"Datafolha",collection_date:"2026-07-24",sample_size:2004,candidates:{"Lula":40,"Flávio Bolsonaro":33}},
-    {institute:"Real Time Big Data",collection_date:"2026-07-20",sample_size:2000,candidates:{"Lula":42.2,"Flávio Bolsonaro":32}},
-    {institute:"Paraná Pesquisas",collection_date:"2026-06-28",sample_size:2020,candidates:{"Lula":40,"Flávio Bolsonaro":34}},
-    {institute:"Quaest",collection_date:"2026-06-14",sample_size:2000,candidates:{"Lula":38,"Flávio Bolsonaro":31}},
-    {institute:"Ipec",collection_date:"2026-05-31",sample_size:2000,candidates:{"Lula":40,"Flávio Bolsonaro":31}},
-    {institute:"Genial/Quaest",collection_date:"2026-05-17",sample_size:2045,candidates:{"Lula":38,"Flávio Bolsonaro":30}},
-    {institute:"Datafolha",collection_date:"2026-05-03",sample_size:2004,candidates:{"Lula":39,"Flávio Bolsonaro":33}},
-    {institute:"PoderData",collection_date:"2026-04-19",sample_size:2500,candidates:{"Lula":40,"Flávio Bolsonaro":35}},
-    {institute:"AtlasIntel",collection_date:"2026-04-05",sample_size:3000,candidates:{"Lula":41,"Flávio Bolsonaro":37}},
-    {institute:"Paraná Pesquisas",collection_date:"2026-03-22",sample_size:2020,candidates:{"Lula":38,"Flávio Bolsonaro":36}},
-    {institute:"Ipec",collection_date:"2026-03-08",sample_size:2000,candidates:{"Lula":37,"Flávio Bolsonaro":33}},
-    {institute:"Quaest",collection_date:"2026-02-22",sample_size:2000,candidates:{"Lula":39,"Flávio Bolsonaro":32}},
-    {institute:"PoderData",collection_date:"2026-02-08",sample_size:2500,candidates:{"Lula":38,"Flávio Bolsonaro":31}},
-    {institute:"Datafolha",collection_date:"2026-01-25",sample_size:2004,candidates:{"Lula":40,"Flávio Bolsonaro":35}},
-    {institute:"AtlasIntel",collection_date:"2026-01-11",sample_size:3000,candidates:{"Lula":39.5,"Flávio Bolsonaro":32.2}}
-  ]
-};
+/* ---------- utilidades ---------- */
+const nf1 = n => Number(n).toLocaleString("pt-BR",{minimumFractionDigits:1,maximumFractionDigits:1});
+const intBR = n => Number(n||0).toLocaleString("pt-BR");
+const ddmmyy = iso => { if(!iso) return "—"; const [y,m,d]=String(iso).split("-"); return `${d}/${m}/${y.slice(2)}`; };
+const ddmm   = iso => { const [,m,d]=String(iso).split("-"); return `${d}/${m}`; };
+const esc = s => String(s??"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+const RED="var(--red)", GRA="var(--graphite)";
+const trendMark = t => !t ? "" :
+  t>0.3 ? `<span class="trend up">▲${nf1(t)}</span>` :
+  t<-0.3? `<span class="trend down">▼${nf1(-t)}</span>` :
+  `<span class="trend flat">▬</span>`;
 
-const COLORS=[
-  "#b84535","#3e6f9f","#688b58","#b47b35",
-  "#80679b","#438a86","#a15d78","#73777d",
-  "#9a704f","#587f92","#8d8251","#6c6f99"
-];
-let AGG, HIST, POLLS;
-let viewMode="complete";
-let rangeDays=180;
-let showAllCandidates=false;
-
-async function load(url,fallback){
-  try{
-    const r = await fetch(url,{cache:"no-store"});
-    if(!r.ok) throw new Error("fetch");
-    return await r.json();
-  }catch(e){ return fallback; }
-}
-const esc = s => String(s ?? "").replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
-const fmt = n => Number(n).toLocaleString("pt-BR",{minimumFractionDigits:1,maximumFractionDigits:1});
-const shortDate = iso => {
-  const [y,m,d]=String(iso).split("-");
-  const names=["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
-  return `${Number(d)}/${names[Number(m)-1]}`;
-};
-const dateBR = iso => {
-  const [y,m,d]=String(iso).split("-");
-  return `${d}/${m}/${String(y).slice(2)}`;
-};
-const dateLong = iso => {
-  if(!iso) return "";
-  const [y,m,d]=String(iso).split("-");
-  const meses=["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"];
-  return `${Number(d)} de ${meses[Number(m)-1]} de ${y}`;
-};
-function parseDate(iso){ return new Date(String(iso) + "T00:00:00Z"); }
-function trendText(v){
-  const n=Number(v||0);
-  if(n>0.05) return `Alta de ${fmt(n)} ponto em duas semanas`;
-  if(n<-0.05) return `Queda de ${fmt(Math.abs(n))} ponto em duas semanas`;
-  return "Estável nas últimas duas semanas";
+async function carregar(url){
+  try{ const r=await fetch(url,{cache:"no-store"}); if(!r.ok) throw 0; return await r.json(); }
+  catch(e){ return null; }
 }
 
-function topTwo(){
-  return (AGG.candidatos || []).slice(0,2);
-}
-
-function selectedSeries(){
-  const candidates = AGG.candidatos || [];
-  return showAllCandidates ? candidates : candidates.slice(0,2);
-}
-
-function colorFor(index){
-  return COLORS[index % COLORS.length];
-}
-
-function visibleHistory(){
-  const series = selectedSeries();
-  const all = (HIST.pontos || []).filter(p => p && p.valores);
-  let filtered = all.filter(p => series.some(c => Number.isFinite(Number(p.valores[c.nome]))));
-  if(!filtered.length) return filtered;
-  if(rangeDays >= 9999) return filtered;
-  const maxDate = parseDate(filtered[filtered.length-1].data);
-  const minDate = new Date(maxDate);
-  minDate.setUTCDate(minDate.getUTCDate() - rangeDays);
-  return filtered.filter(p => parseDate(p.data) >= minDate);
-}
-
-function visiblePolls(){
-  const list = Array.isArray(POLLS?.pesquisas) ? POLLS.pesquisas : Array.isArray(POLLS) ? POLLS : [];
-  const series = selectedSeries();
-  let filtered = list.filter(p => series.some(c => Number.isFinite(Number(p?.candidates?.[c.nome]))));
-  if(!filtered.length) return filtered;
-  if(rangeDays < 9999){
-    const hist = visibleHistory();
-    const latest = filtered.map(p => p.collection_date).filter(Boolean).sort().at(-1);
-    const base = hist.length ? parseDate(hist[hist.length-1].data) : parseDate(latest);
-    const minDate = new Date(base);
-    minDate.setUTCDate(minDate.getUTCDate() - rangeDays);
-    filtered = filtered.filter(p => parseDate(p.collection_date) >= minDate);
+/* ---------- gráfico de linha (top 2) ---------- */
+function svgLinha(points, series){
+  const W=640,H=220,pad={t:16,r:64,b:28,l:30};
+  const vals=[];
+  points.forEach(p=>series.forEach(s=>{ const v=p.valores?.[s.name]; if(v!=null) vals.push(v); }));
+  if(!vals.length) return "";
+  let lo=Math.min(...vals), hi=Math.max(...vals);
+  const yMin=Math.max(0,Math.floor(lo/5)*5-2), yMax=Math.min(100,Math.ceil(hi/5)*5+2);
+  const step=Math.max(2,Math.round((yMax-yMin)/4));
+  const x=(i,n)=> pad.l+(n<=1?0:(i/(n-1)))*(W-pad.l-pad.r);
+  const y=v=> pad.t+(1-(v-yMin)/(yMax-yMin||1))*(H-pad.t-pad.b);
+  let grid="";
+  for(let v=yMin;v<=yMax;v+=step){
+    grid+=`<line x1="${pad.l}" y1="${y(v).toFixed(1)}" x2="${W-pad.r}" y2="${y(v).toFixed(1)}" stroke="var(--hair)" stroke-width="1"/>`
+       +  `<text x="${pad.l-6}" y="${(y(v)+3).toFixed(1)}" text-anchor="end" font-family="var(--mono)" font-size="10" fill="var(--muted)">${v}</text>`;
   }
-  return filtered.sort((a,b) => String(a.collection_date).localeCompare(String(b.collection_date)));
+  let body="";
+  if(points.length>=2){
+    series.forEach(s=>{
+      const pts=points.map((p,i)=>({i,v:p.valores?.[s.name]})).filter(o=>o.v!=null);
+      if(pts.length<2) return;
+      const d=pts.map((o,k)=>`${k?"L":"M"}${x(o.i,points.length).toFixed(1)},${y(o.v).toFixed(1)}`).join(" ");
+      const last=pts[pts.length-1];
+      body+=`<path d="${d}" fill="none" stroke="${s.color}" stroke-width="2.5"/>`
+         +  `<circle cx="${x(last.i,points.length).toFixed(1)}" cy="${y(last.v).toFixed(1)}" r="3.5" fill="${s.color}"/>`
+         +  `<text x="${(x(last.i,points.length)+7).toFixed(1)}" y="${(y(last.v)+3).toFixed(1)}" font-family="var(--mono)" font-size="11" font-weight="600" fill="${s.color}">${nf1(last.v)}</text>`;
+    });
+    const n=points.length, everyk=Math.ceil(n/5);
+    points.forEach((p,i)=>{ if(i%everyk===0||i===n-1)
+      body+=`<text x="${x(i,n).toFixed(1)}" y="${H-pad.b+15}" text-anchor="middle" font-family="var(--mono)" font-size="10" fill="var(--muted)">${ddmm(p.data)}</text>`; });
+  } else {
+    body+=`<text x="${(pad.l+(W-pad.r))/2}" y="${H/2}" text-anchor="middle" font-family="var(--mono)" font-size="12" fill="var(--muted)">Série em formação — a linha aparece a partir do 2º ponto</text>`;
+  }
+  return `<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Tendência do agregado">${grid}${body}</svg>`;
 }
 
-function renderTop(){
-  const top = topTwo();
-  const series = selectedSeries();
-  const latestPoll = (AGG.ultimas_pesquisas || [])[0];
-  const rawScenario = String(AGG.cenario || "");
-  const round = /2º|segundo/i.test(rawScenario) ? "2º turno" : "1º turno";
+/* ---------- render de uma corrida (presidente OU um estado) ---------- */
+function renderRace(el, vm){
+  const cs=vm.candidatos, maxV=Math.max(...cs.map(c=>c.ic_max||c.media),1), scale=100/maxV;
+  const linhas=cs.map((c,i)=>{
+    const cls=i===0?"lead":i===1?"two":"";
+    return `<div class="cand ${cls}">
+      <div class="cand-top">
+        <span class="rk">${String(i+1).padStart(2,"0")}</span>
+        <span class="nm">${esc(c.nome)}${c.partido?`<span class="party">${esc(c.partido)}</span>`:""}</span>
+        <span class="pct">${nf1(c.media)}<span class="u">%</span>${trendMark(c.tendencia_14d)}</span>
+      </div>
+      <div class="barwrap">
+        <div class="ic" style="left:${(c.ic_min*scale).toFixed(1)}%;width:${((c.ic_max-c.ic_min)*scale).toFixed(1)}%"></div>
+        <div class="bar" style="width:${(c.media*scale).toFixed(1)}%"></div>
+      </div>
+      <div class="sub">IC 95%: ${nf1(c.ic_min)}–${nf1(c.ic_max)}%</div>
+    </div>`;
+  }).join("");
 
-  document.getElementById("live").textContent = `atualizado em ${dateBR(AGG.atualizado_em || AGG.corte)}`;
-  document.getElementById("scenarioLabel").textContent = `Presidente · ${round} · Pesquisa estimulada`;
-  document.getElementById("headline").textContent =
-    top.length === 2
-      ? `${top[0].nome} lidera; ${top[1].nome} aparece em segundo`
-      : "Evolução da corrida presidencial";
+  const s2=cs.slice(0,2).map((c,i)=>({name:c.nome,color:i?GRA:RED}));
+  const chart=svgLinha(vm.points||[], s2);
+  const legenda = (vm.points||[]).length>=2
+    ? `Série própria (ExameLab), 1 ponto por atualização — os 2 primeiros do cenário. ${s2.map(s=>`<span class="swatch" style="background:${s.color}"></span>${esc(s.name.split(" ")[0])}`).join(" &nbsp; ")}`
+    : `A tendência se forma com os retratos diários do coletor.`;
 
-  document.getElementById("summary").innerHTML = [
-    AGG.corte ? `<span class="pill">Atualizado até <strong>${dateLong(AGG.corte)}</strong></span>` : "",
-    AGG.pesquisas_no_calculo ? `<span class="pill"><strong>${AGG.pesquisas_no_calculo}</strong> pesquisas consideradas</span>` : "",
-    latestPoll?.instituto ? `<span class="pill">Última pesquisa: <strong>${esc(latestPoll.instituto)}</strong></span>` : "",
-    `<span class="pill"><strong>Cenário nacional</strong></span>`
-  ].join("");
+  const polls=(vm.ultimas_pesquisas||[]).map(p=>`<div class="poll">
+    <div><div class="inst">${esc(p.instituto)}</div>
+    <div class="psub">Coleta ${ddmmyy(p.coleta)}${p.tse?` · TSE ${esc(p.tse)}`:""}${p.margem?` · margem ${nf1(p.margem)} p.p.`:""}</div></div>
+    <div class="amostra">amostra<br>${intBR(p.amostra)}</div></div>`).join("");
 
-  document.getElementById("quick").innerHTML = top.map((c,i) => `
-    <article class="quick-card">
-      <div class="quick-label">${esc(c.nome)}</div>
-      <div class="quick-value" style="color:${colorFor(i)}">${fmt(c.media)}%</div>
-      <div class="quick-sub">${trendText(c.tendencia_14d)}</div>
-    </article>
-  `).join("");
-
-  const toggle = document.getElementById("candidateToggle");
-  toggle.setAttribute("aria-pressed", String(showAllCandidates));
-  toggle.innerHTML = showAllCandidates
-    ? `<span aria-hidden="true">−</span> Mostrar apenas os dois primeiros`
-    : `<span aria-hidden="true">＋</span> Adicionar todos os candidatos`;
-
-  document.getElementById("candidateHint").textContent = showAllCandidates
-    ? `${series.length} candidatos incluídos. Alguns podem não ter dados em todas as datas.`
-    : "O gráfico mostra os dois primeiros colocados.";
-
-  const candidateItems = series.map((c,i)=>`
-    <div class="legend-item">
-      <span class="legend-candidate" style="background:${colorFor(i)}"></span>${esc(c.nome)}
-    </div>`).join("");
-
-  const keyItems = [
-    (viewMode==="complete" || viewMode==="scatter")
-      ? `<div class="legend-item"><span class="legend-hollow"></span>Resultado de uma pesquisa</div>`
-      : "",
-    (viewMode==="complete" || viewMode==="lines")
-      ? `<div class="legend-item"><span class="legend-average"></span>Média ponderada</div>`
-      : ""
+  const metas=[
+    `<span><b>Cenário</b> ${esc(vm.kicker)}</span>`,
+    `<span><b>Corte</b> ${ddmmyy(vm.corte)}</span>`,
+    vm.pesquisas_no_calculo?`<span><b>No cálculo</b> ${vm.pesquisas_no_calculo} pesquisas</span>`:"",
+    vm.indecisos!=null?`<span><b>Indecisos</b> ${nf1(vm.indecisos)}%</span>`:""
   ].filter(Boolean).join("");
 
-  document.getElementById("legend").innerHTML = `
-    <div class="legend-group candidates">${candidateItems}</div>
-    ${keyItems ? `<div class="legend-group keys">${keyItems}</div>` : ""}
-  `;
+  el.innerHTML =
+    `<div class="meta">${metas}</div>
+     <div class="sec"><div class="sec-h">Intenção de voto — agregado</div>${linhas}</div>
+     <div class="sec"><div class="sec-h">Tendência</div>${chart||'<div class="chart-note">Sem série ainda.</div>'}<div class="chart-note">${legenda}</div></div>
+     ${polls?`<div class="sec"><div class="sec-h">Pesquisas mais recentes</div>${polls}</div>`:""}`;
 }
 
-function buildSmoothPath(points){
-  if(points.length < 2) return "";
-  let d = `M ${points[0].x.toFixed(1)} ${points[0].y.toFixed(1)}`;
-  for(let i=0;i<points.length-1;i++){
-    const p0 = points[i-1] || points[i];
-    const p1 = points[i];
-    const p2 = points[i+1];
-    const p3 = points[i+2] || p2;
-    const cp1x = p1.x + (p2.x - p0.x) / 6;
-    const cp1y = p1.y + (p2.y - p0.y) / 6;
-    const cp2x = p2.x - (p3.x - p1.x) / 6;
-    const cp2y = p2.y - (p3.y - p1.y) / 6;
-    d += ` C ${cp1x.toFixed(1)} ${cp1y.toFixed(1)}, ${cp2x.toFixed(1)} ${cp2y.toFixed(1)}, ${p2.x.toFixed(1)} ${p2.y.toFixed(1)}`;
-  }
-  return d;
+function waiting(el, titulo, msg){
+  el.innerHTML = `<div class="waiting"><div class="wt">${titulo}</div><div class="ws">${msg}</div></div>`;
 }
 
-function renderChart(){
-  const svg = document.getElementById("chart");
-  const tip = document.getElementById("tooltip");
-  const hist = visibleHistory();
-  const polls = visiblePolls();
-  const series = selectedSeries();
-  if(!series.length || (!hist.length && !polls.length)){
-    svg.innerHTML = `<text x="430" y="190" text-anchor="middle" fill="#7a7f86" font-size="15">Ainda não há dados suficientes para desenhar o gráfico.</text>`;
-    return;
-  }
-
-  const W=860,H=380,p={l:58,r:86,t:24,b:54};
-  const dates = [
-    ...hist.map(p=>parseDate(p.data).getTime()),
-    ...polls.map(p=>parseDate(p.collection_date).getTime())
-  ].sort((a,b)=>a-b);
-  const minT = dates[0], maxT = dates[dates.length-1];
-  const x = t => p.l + ((t-minT) / Math.max(1, maxT-minT)) * (W-p.l-p.r);
-
-  const values = [];
-  hist.forEach(row => series.forEach(s => { const v = Number(row.valores[s.nome]); if(Number.isFinite(v)) values.push(v); }));
-  polls.forEach(row => series.forEach(s => { const v = Number(row.candidates[s.nome]); if(Number.isFinite(v)) values.push(v); }));
-  const rawMin = Math.min(...values), rawMax = Math.max(...values);
-  const yMin = Math.max(0, Math.floor((rawMin - 3) / 5) * 5);
-  const yMax = Math.min(100, Math.ceil((rawMax + 3) / 5) * 5);
-  const y = v => p.t + (1 - ((v-yMin) / Math.max(1, yMax-yMin))) * (H-p.t-p.b);
-
-  let out = "";
-  for(let v=yMin; v<=yMax; v+=5){
-    out += `<line class="grid-line" x1="${p.l}" y1="${y(v)}" x2="${W-p.r}" y2="${y(v)}" />`;
-    out += `<text class="axis-label" x="${p.l-12}" y="${y(v)+4}" text-anchor="end">${v}%</text>`;
-  }
-
-  const tickPool = hist.length ? hist : polls.map(poll => ({data:poll.collection_date}));
-  const step = Math.max(1, Math.ceil(tickPool.length / 7));
-  tickPool.forEach((row,i) => {
-    if(i % step === 0 || i === tickPool.length - 1){
-      const tx = x(parseDate(row.data).getTime());
-      out += `<text class="axis-label" x="${tx}" y="${H-16}" text-anchor="middle" transform="rotate(-35 ${tx} ${H-16})">${shortDate(row.data)}</text>`;
-    }
-  });
-
-  if(viewMode === "complete" || viewMode === "scatter"){
-    polls.forEach((poll, pollIndex) => {
-      const t = parseDate(poll.collection_date).getTime();
-      series.forEach((s,si) => {
-        const v = Number(poll.candidates[s.nome]);
-        if(!Number.isFinite(v)) return;
-        const cx = x(t), cy = y(v);
-        out += `<circle class="point-poll" data-type="poll" data-poll="${pollIndex}" data-cand="${si}" cx="${cx}" cy="${cy}" r="6.5"
-          fill="rgba(255,255,255,.95)" stroke="${colorFor(si)}" stroke-width="2.5" />`;
-      });
-    });
-  }
-
-  if(viewMode === "complete" || viewMode === "lines"){
-    series.forEach((s,si) => {
-      const pts = hist
-        .map((row, idx) => {
-          const v = Number(row.valores[s.nome]);
-          if(!Number.isFinite(v)) return null;
-          return { idx, time: parseDate(row.data).getTime(), x: x(parseDate(row.data).getTime()), y: y(v), v };
-        })
-        .filter(Boolean);
-
-      if(pts.length >= 2){
-        out += `<path d="${buildSmoothPath(pts)}" fill="none" stroke="${colorFor(si)}" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />`;
-      } else if(pts.length === 1){
-        out += `<circle cx="${pts[0].x}" cy="${pts[0].y}" r="4.5" fill="${colorFor(si)}" />`;
-      }
-
-      pts.forEach((pt, pointIndex) => {
-        out += `<circle class="point-agg" data-type="agg" data-row="${pointIndex}" data-cand="${si}" cx="${pt.x}" cy="${pt.y}" r="7"
-          fill="transparent" stroke="transparent" stroke-width="10" />`;
-      });
-
-      const last = pts[pts.length-1];
-      if(last){
-        out += `<circle cx="${last.x}" cy="${last.y}" r="4.5" fill="${colorFor(si)}" />`;
-        out += `<text class="end-label" x="${last.x + 14}" y="${last.y + 5}" fill="${colorFor(si)}">${fmt(last.v)}%</text>`;
-      }
-    });
-  }
-
-  svg.innerHTML = out;
-
-  const histForTip = hist;
-  const pollList = polls;
-  const chartBox = document.getElementById("chartBox");
-
-  function showTooltip(html, clientX, clientY){
-    const box = chartBox.getBoundingClientRect();
-    tip.innerHTML = html;
-    tip.style.left = `${clientX - box.left}px`;
-    tip.style.top = `${clientY - box.top}px`;
-    tip.classList.add("show");
-  }
-  function hideTooltip(){ tip.classList.remove("show"); }
-
-  svg.querySelectorAll(".point-poll").forEach(el => {
-    const pollIndex = Number(el.dataset.poll);
-    el.addEventListener("mouseenter", e => {
-      const poll = pollList[pollIndex];
-      const html = `
-        <div class="tip-label">resultado de uma pesquisa</div>
-        <div class="tip-title">${esc(poll.institute)}</div>
-        ${series.map((s,si)=>({s,si,v:Number(poll.candidates[s.nome])})).filter(item=>Number.isFinite(item.v)).map(({s,si,v})=>`<div class="tip-row"><span class="tip-dot" style="background:${colorFor(si)}"></span>${esc(s.nome)}: <strong>${fmt(v)}%</strong></div>`).join("")}
-        <div class="tip-meta">${dateLong(poll.collection_date)} · ${Number(poll.sample_size || 0).toLocaleString("pt-BR")} entrevistas</div>
-      `;
-      showTooltip(html, e.clientX, e.clientY);
-    });
-    el.addEventListener("mousemove", e => {
-      if(!tip.classList.contains("show")) return;
-      showTooltip(tip.innerHTML, e.clientX, e.clientY);
-    });
-    el.addEventListener("mouseleave", hideTooltip);
-    el.addEventListener("click", e => {
-      const poll = pollList[pollIndex];
-      const html = `
-        <div class="tip-label">resultado de uma pesquisa</div>
-        <div class="tip-title">${esc(poll.institute)}</div>
-        ${series.map((s,si)=>({s,si,v:Number(poll.candidates[s.nome])})).filter(item=>Number.isFinite(item.v)).map(({s,si,v})=>`<div class="tip-row"><span class="tip-dot" style="background:${colorFor(si)}"></span>${esc(s.nome)}: <strong>${fmt(v)}%</strong></div>`).join("")}
-        <div class="tip-meta">${dateLong(poll.collection_date)} · ${Number(poll.sample_size || 0).toLocaleString("pt-BR")} entrevistas</div>
-      `;
-      showTooltip(html, e.clientX, e.clientY);
-    });
-  });
-
-  if(viewMode === "complete" || viewMode === "lines"){
-    histForTip.forEach((row, rowIndex) => {
-      const points = [...svg.querySelectorAll(`.point-agg[data-row="${rowIndex}"]`)];
-      points.forEach(point => {
-        point.addEventListener("mouseenter", e => {
-          const html = `
-            <div class="tip-label">média ponderada</div>
-            <div class="tip-title">${dateBR(row.data)}</div>
-            ${series.map((s,si)=>({s,si,v:Number(row.valores[s.nome])})).filter(item=>Number.isFinite(item.v)).map(({s,si,v})=>`<div class="tip-row"><span class="tip-dot" style="background:${colorFor(si)}"></span>${esc(s.nome)}: <strong>${fmt(v)}%</strong></div>`).join("")}
-            <div class="tip-meta">Estimativa calculada a partir do conjunto de pesquisas disponível nessa data.</div>
-          `;
-          showTooltip(html, e.clientX, e.clientY);
-        });
-        point.addEventListener("mousemove", e => {
-          if(!tip.classList.contains("show")) return;
-          showTooltip(tip.innerHTML, e.clientX, e.clientY);
-        });
-        point.addEventListener("mouseleave", hideTooltip);
-        point.addEventListener("click", e => {
-          const html = `
-            <div class="tip-label">média ponderada</div>
-            <div class="tip-title">${dateBR(row.data)}</div>
-            ${series.map((s,si)=>({s,si,v:Number(row.valores[s.nome])})).filter(item=>Number.isFinite(item.v)).map(({s,si,v})=>`<div class="tip-row"><span class="tip-dot" style="background:${colorFor(si)}"></span>${esc(s.nome)}: <strong>${fmt(v)}%</strong></div>`).join("")}
-            <div class="tip-meta">Estimativa calculada a partir do conjunto de pesquisas disponível nessa data.</div>
-          `;
-          showTooltip(html, e.clientX, e.clientY);
-        });
-      });
-    });
-  }
-}
-
-function drawerContent(type){
-  if(type === "candidates"){
-    const topNames = new Set(topTwo().map(c=>c.nome));
-    const rest = (AGG.candidatos || []).filter(c => !topNames.has(c.nome));
-    return {
-      title:"Todos os candidatos",
-      body: `
-        <div class="section"><p>Os dois primeiros colocados aparecem na tela principal. Veja abaixo os demais nomes incluídos no mesmo cenário.</p></div>
-        <div class="list">
-          ${rest.length ? rest.map(c => `
-            <div class="item">
-              <div>
-                <div class="name">${esc(c.nome)}${c.partido ? ` <span class="meta">· ${esc(c.partido)}</span>` : ""}</div>
-                <div class="meta">Faixa estimada: ${fmt(c.ic_min)}% a ${fmt(c.ic_max)}%</div>
-              </div>
-              <div class="number">${fmt(c.media)}%</div>
-            </div>`).join("") : `<div class="empty">Não há outros candidatos nesse arquivo.</div>`}
-        </div>`
-    };
-  }
-  if(type === "polls"){
-    const list = AGG.ultimas_pesquisas || [];
-    return {
-      title:"Ver pesquisas",
-      body: `
-        <div class="section"><p>Veja os levantamentos mais recentes considerados no cálculo atual do agregador.</p></div>
-        <div class="list">
-          ${list.length ? list.map(p => `
-            <div class="item">
-              <div>
-                <div class="name">${esc(p.instituto)}</div>
-                <div class="meta">${esc(p.tipo || "Pesquisa estimulada")} · ${dateLong(p.coleta || p.collection_date || "")}</div>
-              </div>
-              <div class="number">${Number(p.amostra || p.sample_size || 0).toLocaleString("pt-BR")} entrevistas</div>
-            </div>`).join("") : `<div class="empty">A lista detalhada de pesquisas não veio neste arquivo.</div>`}
-        </div>`
-    };
-  }
-  return {
-    title:"Como funciona",
-    body: `
-      <div class="section">
-        <h3>Como o agregador é calculado</h3>
-        <p>O agregador combina pesquisas nacionais de intenção de voto para presidente. Levantamentos mais recentes e com amostras maiores recebem mais peso. Pesquisas com cenários diferentes de candidatos não são misturadas.</p>
-      </div>
-      <div class="section">
-        <h3>Detalhes do modelo</h3>
-        <p>${esc(AGG.metodologia || "Média ponderada das pesquisas, com maior peso para levantamentos recentes e amostras maiores.")}</p>
-      </div>
-      <div class="section">
-        <h3>Como interpretar</h3>
-        <p>O resultado representa a tendência observada no conjunto das pesquisas. Não é uma pesquisa isolada nem uma previsão do resultado da eleição.</p>
-      </div>
-      <div class="section">
-        <h3>Faixa de incerteza</h3>
-        <p>A faixa estimada mostra onde o modelo calcula que o resultado provavelmente esteja. Ela não é a margem de erro de uma pesquisa específica.</p>
-      </div>
-      ${AGG.indecisos != null ? `<div class="section"><h3>Indecisos e outras respostas</h3><p>No cenário atual, ${fmt(AGG.indecisos)}% aparecem como indecisos ou sem candidato definido na base agregada.</p></div>` : ""}
-      <div class="section">
-        <h3>Fonte dos dados</h3>
-        <p>${esc(AGG.fonte || "Base pública de pesquisas eleitorais")}.</p>
-        ${AGG.fonte_url ? `<p style="margin-top:10px"><a class="link" href="${esc(AGG.fonte_url)}" target="_blank" rel="noopener">Ver origem dos dados →</a></p>` : ""}
-      </div>`
-  };
-}
-
-function openDrawer(type){
-  const data = drawerContent(type);
-  document.getElementById("drawerTitle").textContent = data.title;
-  document.getElementById("drawerBody").innerHTML = data.body;
-  document.getElementById("drawer").showModal();
-}
-
-document.querySelectorAll(".tab").forEach(btn => btn.addEventListener("click", () => {
-  document.querySelectorAll(".tab").forEach(el => el.classList.toggle("active", el === btn));
-  viewMode = btn.dataset.mode;
-  renderTop();
-  renderChart();
-}));
-
-document.querySelectorAll(".range").forEach(btn => btn.addEventListener("click", () => {
-  document.querySelectorAll(".range").forEach(el => el.classList.toggle("active", el === btn));
-  rangeDays = Number(btn.dataset.range);
-  renderChart();
-}));
-
-document.getElementById("candidateToggle").addEventListener("click", () => {
-  showAllCandidates = !showAllCandidates;
-  renderTop();
-  renderChart();
-});
-
-document.querySelectorAll("[data-open]").forEach(btn => btn.addEventListener("click", () => openDrawer(btn.dataset.open)));
-document.getElementById("menuBtn").addEventListener("click", () => openDrawer("method"));
-document.getElementById("infoBtn").addEventListener("click", () => openDrawer("method"));
-document.getElementById("closeDrawer").addEventListener("click", () => document.getElementById("drawer").close());
-document.getElementById("drawer").addEventListener("click", e => {
-  const d = e.currentTarget;
-  const r = d.getBoundingClientRect();
-  if(e.clientX < r.left) d.close();
-});
-
-(async function init(){
-  [AGG,HIST,POLLS] = await Promise.all([
-    load("./dados/agregado.json", FALLBACK_AGG),
-    load("./dados/historico.json", FALLBACK_HIST),
-    load("./dados/pesquisas.json", FALLBACK_POLLS)
+/* ---------- montagem ---------- */
+(async function(){
+  const [pres, hist, gov, govHist] = await Promise.all([
+    carregar("./dados/agregado.json"),
+    carregar("./dados/historico.json"),
+    carregar("./dados/governadores.json"),
+    carregar("./dados/historico-governadores.json"),
   ]);
-  renderTop();
-  renderChart();
-})();
 
-const GOV_UFS = {
-  AC:"Acre",AL:"Alagoas",AP:"Amapá",AM:"Amazonas",BA:"Bahia",CE:"Ceará",DF:"Distrito Federal",
-  ES:"Espírito Santo",GO:"Goiás",MA:"Maranhão",MT:"Mato Grosso",MS:"Mato Grosso do Sul",MG:"Minas Gerais",
-  PA:"Pará",PB:"Paraíba",PR:"Paraná",PE:"Pernambuco",PI:"Piauí",RJ:"Rio de Janeiro",RN:"Rio Grande do Norte",
-  RS:"Rio Grande do Sul",RO:"Rondônia",RR:"Roraima",SC:"Santa Catarina",SP:"São Paulo",SE:"Sergipe",TO:"Tocantins"
-};
-const GOV_POS = {
-  RR:[1,1],AP:[1,7],AM:[2,1],PA:[2,5],MA:[2,7],CE:[2,9],RN:[2,10],
-  AC:[3,1],RO:[3,2],TO:[3,6],PI:[3,8],PB:[3,10],PE:[4,9],AL:[5,9],SE:[6,9],
-  BA:[5,7],MT:[4,4],GO:[5,5],DF:[5,6],MS:[6,4],MG:[6,6],ES:[6,8],
-  SP:[7,5],RJ:[7,7],PR:[8,5],SC:[9,5],RS:[10,4]
-};
-let GOV_DATA={estados:{}}, GOV_HIST={estados:{}}, GOV_POLLS={pesquisas:[]}, govUF=null;
-const govColors=["#b84535","#3e6f9f","#688b58","#b47b35","#80679b","#438a86"];
+  const fontes=[];
 
-function govDate(iso){ if(!iso)return""; const [y,m,d]=iso.split("-"); return `${d}/${m}/${String(y).slice(2)}`; }
-function govFmt(n){ return Number(n).toLocaleString("pt-BR",{minimumFractionDigits:1,maximumFractionDigits:1}); }
-function govEsc(s){ return String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m])); }
-
-function renderGovMap(){
-  const map=document.getElementById("govMap");
-  map.innerHTML=Object.entries(GOV_UFS).map(([uf,name])=>{
-    const state=GOV_DATA.estados?.[uf], pos=GOV_POS[uf]||[11,1];
-    const leader=state?.candidatos?.[0];
-    return `<button class="gov-tile ${state?"has":""} ${govUF===uf?"active":""}" data-uf="${uf}"
-      style="grid-row:${pos[0]};grid-column:${pos[1]}" ${state?"":"disabled"}
-      title="${state?`${name}: ${leader?.nome||"sem líder"} ${leader?govFmt(leader.media)+"%":""}`:`${name}: sem dados suficientes`}">
-      ${uf}${leader?`<small>${govEsc(leader.nome.split(" ")[0])}</small>`:""}
-    </button>`;
-  }).join("");
-  map.querySelectorAll(".gov-tile.has").forEach(btn=>btn.addEventListener("click",()=>selectGov(btn.dataset.uf)));
-}
-function populateGovSelect(){
-  const sel=document.getElementById("govSelect");
-  const available=Object.keys(GOV_DATA.estados||{}).sort((a,b)=>GOV_UFS[a].localeCompare(GOV_UFS[b],"pt-BR"));
-  sel.innerHTML=available.length?available.map(uf=>`<option value="${uf}">${GOV_UFS[uf]}</option>`).join("")
-    :`<option>Nenhum estado com dados suficientes</option>`;
-  if(available.length&&!govUF) govUF=available[0];
-  sel.value=govUF||"";
-  sel.onchange=()=>selectGov(sel.value);
-}
-function selectGov(uf){
-  if(!GOV_DATA.estados?.[uf]) return;
-  govUF=uf;
-  document.getElementById("govSelect").value=uf;
-  renderGovMap(); renderGovState();
-}
-function renderGovState(){
-  const box=document.getElementById("govStateSummary"), svg=document.getElementById("govChart");
-  const st=GOV_DATA.estados?.[govUF];
-  if(!st){
-    box.innerHTML=`<div class="empty">Ainda não há pesquisas compatíveis suficientes para calcular um agregado estadual.</div>`;
-    svg.innerHTML=""; return;
+  /* Presidente */
+  const elP=document.getElementById("panel-presidente");
+  if(pres){
+    const sig=pres._cenario_assinatura;
+    const points=(hist?.pontos||[]).filter(p=>!p.cenario||p.cenario===sig);
+    renderRace(elP,{
+      kicker:"1º turno · Brasil (nacional)",
+      corte:pres.corte, pesquisas_no_calculo:pres.pesquisas_no_calculo, indecisos:pres.indecisos,
+      candidatos:pres.candidatos, ultimas_pesquisas:pres.ultimas_pesquisas, points,
+    });
+    if(pres.fonte) fontes.push([pres.fonte,pres.fonte_url]);
+    document.getElementById("live").textContent="atualizado "+ddmmyy(pres.atualizado_em);
+  } else {
+    waiting(elP,"Agregado presidencial — em coleta","O robô diário publica os números assim que a primeira coleta rodar.");
   }
-  const top=st.candidatos.slice(0,2);
-  box.innerHTML=`<div class="gov-state-title"><div><h2>${govEsc(st.estado)}</h2>
-    <p>${st.pesquisas_no_calculo} pesquisas consideradas · atualizado até ${govDate(st.corte)}</p></div></div>
-    <div class="gov-leaders">${top.map((c,i)=>`<div class="gov-leader"><span style="color:${govColors[i]};font-weight:800">${govEsc(c.nome)}</span>
-      <strong style="color:${govColors[i]}">${govFmt(c.media)}%</strong><span class="meta">${govEsc(c.partido||"")} · faixa ${govFmt(c.ic_min)}% a ${govFmt(c.ic_max)}%</span></div>`).join("")}</div>`;
-  drawGovChart(st);
-  document.getElementById("govPolls").innerHTML=`<h3 style="font-size:14px;margin:14px 0 4px">Pesquisas consideradas</h3>`+
-    (st.ultimas_pesquisas||[]).map(p=>`<div class="gov-poll"><div><strong>${govEsc(p.instituto)}</strong>
-      <div class="meta">${govDate(p.coleta)} · ${Number(p.amostra||0).toLocaleString("pt-BR")} entrevistas</div></div>
-      <div>${p.tse?govEsc(p.tse):""}</div></div>`).join("");
-}
-function drawGovChart(st){
-  const svg=document.getElementById("govChart"), hist=GOV_HIST.estados?.[govUF]?.pontos||[];
-  const series=st.candidatos.slice(0,2), W=860,H=360,p={l:55,r:80,t:24,b:48};
-  if(hist.length<2||series.length<2){
-    svg.innerHTML=`<text x="430" y="180" text-anchor="middle" fill="#777" font-size="14">A série histórica aparece quando houver ao menos dois cortes compatíveis.</text>`;
-    document.getElementById("govLegend").innerHTML=""; return;
+
+  /* Governador — seletor de estado */
+  const elG=document.getElementById("panel-governador");
+  const estados=gov?.estados||null;
+  const ufs=estados?Object.keys(estados).sort((a,b)=>estados[a].estado.localeCompare(estados[b].estado,"pt-BR")):[];
+  if(ufs.length){
+    const opcoes=ufs.map(uf=>`<option value="${uf}">${esc(estados[uf].estado)}</option>`).join("");
+    elG.innerHTML=`<div class="picker"><label for="uf">Estado</label>
+      <select id="uf" aria-label="Escolha o estado">${opcoes}</select></div>
+      <div id="gov-body"></div>`;
+    const body=elG.querySelector("#gov-body");
+    const desenha=uf=>{
+      const ag=estados[uf];
+      const points=(govHist?.estados?.[uf]?.pontos)||[];
+      renderRace(body,{
+        kicker:`Governador · 1º turno · ${ag.estado}`,
+        corte:ag.corte, pesquisas_no_calculo:ag.pesquisas_no_calculo, indecisos:null,
+        candidatos:ag.candidatos, ultimas_pesquisas:ag.ultimas_pesquisas, points,
+      });
+    };
+    elG.querySelector("#uf").addEventListener("change",e=>desenha(e.target.value));
+    desenha(ufs[0]);
+    if(gov.estados[ufs[0]]?.fonte) fontes.push([gov.estados[ufs[0]].fonte, gov.estados[ufs[0]].fonte_url]);
+  } else {
+    waiting(elG,"Corridas estaduais — em coleta",
+      "Assim que houver pesquisas estaduais registradas em número suficiente, cada estado aparece aqui com seu próprio agregado.");
   }
-  const times=hist.map(x=>new Date(x.data+"T00:00:00Z").getTime()), minT=Math.min(...times),maxT=Math.max(...times);
-  const vals=hist.flatMap(row=>series.map(c=>Number(row.valores[c.nome])).filter(Number.isFinite));
-  const ymin=Math.max(0,Math.floor((Math.min(...vals)-3)/5)*5), ymax=Math.min(100,Math.ceil((Math.max(...vals)+3)/5)*5);
-  const x=t=>p.l+(t-minT)/Math.max(1,maxT-minT)*(W-p.l-p.r);
-  const y=v=>p.t+(1-(v-ymin)/Math.max(1,ymax-ymin))*(H-p.t-p.b);
-  let out="";
-  for(let v=ymin;v<=ymax;v+=5){out+=`<line x1="${p.l}" y1="${y(v)}" x2="${W-p.r}" y2="${y(v)}" stroke="#e9ebee"/><text x="${p.l-10}" y="${y(v)+4}" text-anchor="end" fill="#6b6f75" font-size="11">${v}%</text>`;}
-  hist.forEach((r,i)=>{if(i%Math.max(1,Math.ceil(hist.length/6))===0||i===hist.length-1)out+=`<text x="${x(times[i])}" y="${H-16}" text-anchor="middle" fill="#6b6f75" font-size="11">${govDate(r.data)}</text>`;});
-  series.forEach((c,ci)=>{
-    const pts=hist.map((r,i)=>({x:x(times[i]),y:y(Number(r.valores[c.nome])),v:Number(r.valores[c.nome]),date:r.data})).filter(q=>Number.isFinite(q.v));
-    if(pts.length>1)out+=`<path d="${pts.map((q,i)=>`${i?"L":"M"}${q.x},${q.y}`).join(" ")}" fill="none" stroke="${govColors[ci]}" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>`;
-    pts.forEach((q,qi)=>out+=`<circle class="gov-point" data-ci="${ci}" data-qi="${qi}" cx="${q.x}" cy="${q.y}" r="7" fill="transparent" stroke="transparent" stroke-width="10"/>`);
-    const last=pts.at(-1); if(last)out+=`<circle cx="${last.x}" cy="${last.y}" r="4" fill="${govColors[ci]}"/><text x="${last.x+12}" y="${last.y+4}" fill="${govColors[ci]}" font-size="13" font-weight="800">${govFmt(last.v)}%</text>`;
-  });
-  svg.innerHTML=out;
-  const tip=document.getElementById("govTooltip"), wrap=svg.parentElement;
-  svg.querySelectorAll(".gov-point").forEach(el=>el.addEventListener("mouseenter",e=>{
-    const ci=Number(el.dataset.ci),qi=Number(el.dataset.qi),c=series[ci];
-    const pts=hist.map(r=>({date:r.data,v:Number(r.valores[c.nome])})).filter(q=>Number.isFinite(q.v)), q=pts[qi];
-    tip.innerHTML=`<div class="tip-label">média ponderada</div><div class="tip-title">${govDate(q.date)}</div><div class="tip-row"><span class="tip-dot" style="background:${govColors[ci]}"></span>${govEsc(c.nome)}: <strong>${govFmt(q.v)}%</strong></div>`;
-    const rect=wrap.getBoundingClientRect();tip.style.left=`${e.clientX-rect.left}px`;tip.style.top=`${e.clientY-rect.top}px`;tip.classList.add("show");
+
+  /* alternador */
+  document.querySelectorAll(".switch button").forEach(b=>b.addEventListener("click",()=>{
+    document.querySelectorAll(".switch button").forEach(x=>x.setAttribute("aria-selected", x===b?"true":"false"));
+    document.querySelectorAll(".panel").forEach(p=>p.classList.toggle("active", p.id==="panel-"+b.dataset.race));
   }));
-  svg.querySelectorAll(".gov-point").forEach(el=>el.addEventListener("mouseleave",()=>tip.classList.remove("show")));
-  document.getElementById("govLegend").innerHTML=series.map((c,i)=>`<div class="legend-item"><span class="legend-dot" style="background:${govColors[i]}"></span>${govEsc(c.nome)}</div>`).join("");
-}
-async function initGovernors(){
-  [GOV_DATA,GOV_HIST,GOV_POLLS]=await Promise.all([
-    load("./dados/governadores.json",{estados:{}}),
-    load("./dados/historico-governadores.json",{estados:{}}),
-    load("./dados/pesquisas-governadores.json",{pesquisas:[]})
-  ]);
-  populateGovSelect();renderGovMap();renderGovState();
-}
-document.querySelectorAll(".race-tab").forEach(btn=>btn.addEventListener("click",()=>{
-  const governor=btn.dataset.race==="governor";
-  document.querySelectorAll(".race-tab").forEach(b=>{b.classList.toggle("active",b===btn);b.setAttribute("aria-selected",String(b===btn));});
-  document.getElementById("presidentView").hidden=governor;
-  document.getElementById("governorView").hidden=!governor;
-  if(governor&&!GOV_DATA.atualizado_em)initGovernors();
-}));
 
+  /* rodapé */
+  const fonteHTML=[...new Map(fontes.map(([f,u])=>[f,u])).entries()]
+    .map(([f,u])=>`<p>Fonte: ${esc(f)}.${u?` <a href="${esc(u)}" target="_blank" rel="noopener">Ver origem →</a>`:""}</p>`).join("");
+  document.getElementById("foot").innerHTML=
+    `<p><b>Como ler:</b> não são pesquisas — são estimativas matemáticas a partir de pesquisas registradas no TSE. IC 95% é o intervalo de confiança; a barra vermelha marca quem lidera.</p>`
+   +`<details><summary>Como é calculado</summary>
+       <p>${esc(pres?.metodologia||"Média ponderada por recência (meia-vida de 30 dias) e tamanho da amostra; cada estado é calculado separadamente.")}</p></details>`
+   + fonteHTML
+   +`<p>${esc(pres?.licenca_dados||"Dados compilados da Wikipédia em português (CC BY-SA) — preservar atribuição e consultar as fontes originais.")}</p>`
+   +`<p>Índice ExameLab · estimativas sujeitas a revisão a cada nova pesquisa.</p>`;
+})();
 </script>
 </body>
 </html>
