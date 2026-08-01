@@ -1,0 +1,20 @@
+{
+  "_instrucoes": "Adicione somente resultados publicados e verificados. O campo registro_tse deve corresponder ao cadastro oficial.",
+  "pesquisas": [
+    {
+      "registro_tse": "SP-00000/2026",
+      "uf": "SP",
+      "instituto": "Exemplo",
+      "coleta": "2026-08-01",
+      "amostra": 2000,
+      "margem": 2.2,
+      "fonte_url": "https://exemplo.com/pesquisa",
+      "cenario": "1º turno",
+      "resultados": {
+        "Candidato A": 40.0,
+        "Candidato B": 30.0
+      },
+      "verificado": false
+    }
+  ]
+}
