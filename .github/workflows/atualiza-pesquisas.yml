@@ -3,7 +3,7 @@ name: Atualiza pesquisas
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 11 * * *"   # ~08:15 BRT
+    - cron: "15 11 * * *"
 
 permissions:
   contents: write
@@ -22,18 +22,26 @@ jobs:
       - name: Configurar Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
-      - name: Testar parsers (presidente e governadores)
-        run: |
-          node scripts/teste.mjs
-          node scripts/teste-governadores.mjs
+      - name: Testar coletor presidencial
+        run: node scripts/teste.mjs
 
-      - name: Coletar presidente
+      - name: Testar coletor de governadores
+        run: node scripts/teste-governadores.mjs
+
+      - name: Atualizar presidente
         run: node scripts/coleta.mjs
 
-      - name: Coletar governadores
+      - name: Atualizar governadores
         run: node scripts/coleta-governadores.mjs
+
+      - name: Limpar histórico estadual
+        run: node scripts/normaliza-historico-governadores.mjs
+
+      - name: Atualizar extras sem derrubar o principal
+        continue-on-error: true
+        run: node scripts/extras.mjs
 
       - name: Publicar dados atualizados
         run: |
