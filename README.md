@@ -1,53 +1,33 @@
-# Agregador de pesquisas · Eleições 2026 (ExameLab)
+# Coleta híbrida de pesquisas estaduais
 
-Monitor diário das pesquisas de **presidente** e **governador** de 2026, com
-modelo de agregação próprio e dados auditáveis. Página estática publicada por
-GitHub Pages e embutível por iframe.
+## Arquivos
 
-## Como funciona
+- `index.html`
+- `scripts/coleta-tse-governadores.mjs`
+- `dados/resultados-governadores-manual.json`
+- `.github/workflows/atualiza-pesquisas.yml`
 
-Um robô (GitHub Action, `.github/workflows/atualiza-pesquisas.yml`) roda todo
-dia por volta das 8h (Brasília):
+Mantenha também o arquivo já criado:
 
-1. **Testa os parsers** (`scripts/teste.mjs` e `scripts/teste-governadores.mjs`)
-   contra fixtures locais. Se algo quebrar, a coleta nem começa.
-2. **`scripts/coleta.mjs`** — presidente. Lê as tabelas de 1º turno na Wikipédia
-   em português (API MediaWiki), extrai cada pesquisa (data, instituto, amostra,
-   margem, registro TSE) e calcula o agregado: média ponderada por recência
-   (meia-vida de 30 dias) e tamanho de amostra, faixa de 95% por bootstrap com
-   semente fixa (reproduzível) e série histórica reconstruída retroativamente.
-3. **`scripts/coleta-governadores.mjs`** — governador. Mesma fonte e mesmo
-   padrão, um agregado calculado **separadamente por estado**.
+- `scripts/normaliza-historico-governadores.mjs`
 
-Cada corrida grava o **mesmo formato** de arquivos em `dados/`, e a página
-(`index.html`) lê esses JSON. Nada de banco de dados nem back-end.
+## O que esta etapa faz
 
-## Arquivos de dados (`dados/`)
+1. Consulta a API CKAN do Portal de Dados Abertos do TSE.
+2. Descobre dinamicamente o recurso de pesquisas eleitorais de 2026.
+3. Baixa e abre o CSV/ZIP oficial.
+4. Filtra pesquisas para governador.
+5. Cruza os registros com os resultados já coletados.
+6. Produz:
+   - `dados/registros-governadores-tse.json`
+   - `dados/_governadores_pendentes.json`
 
-| Arquivo | Corrida | Conteúdo |
-|---|---|---|
-| `agregado.json` | Presidente | agregado atual (consumido pela página) |
-| `historico.json` | Presidente | série por data |
-| `pesquisas.json` | Presidente | pesquisas normalizadas e auditáveis |
-| `governadores.json` | Governador | agregado por estado |
-| `historico-governadores.json` | Governador | série por estado |
-| `pesquisas-governadores.json` | Governador | pesquisas estaduais auditáveis |
-| `_status.json` / `_governadores_status.json` | — | diagnóstico da última execução |
+## Estados no mapa
 
-## Rodar localmente
+- Resultado localizado: mostra líderes e gráfico.
+- Registrada no TSE, resultado pendente: mostra quantidade de registros.
+- Sem registro localizado: informa que não há pesquisa cadastrada na base oficial.
 
-```
-node scripts/teste.mjs                 # testa o parser presidencial (offline)
-node scripts/teste-governadores.mjs    # testa o parser estadual (offline)
-node scripts/coleta.mjs                # coleta presidente (precisa de internet)
-node scripts/coleta-governadores.mjs   # coleta governadores (precisa de internet)
-```
+## Próxima etapa
 
-Para ver a página, sirva a pasta e abra `index.html` (ex.: `npx serve .`).
-
-## Dados e atribuição
-
-- Pesquisas compiladas das tabelas públicas da Wikipédia em português,
-  licenciadas em **CC BY-SA**; consulte sempre as fontes originais citadas lá.
-- Isto **não é uma pesquisa eleitoral** — é uma estimativa matemática, sujeita
-  a revisão a cada nova pesquisa.
+O arquivo `resultados-governadores-manual.json` será usado por um integrador editorial. O exemplo vem com `verificado: false` e não entra em nenhum cálculo.
