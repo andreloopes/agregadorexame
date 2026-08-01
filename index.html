@@ -113,7 +113,23 @@ svg.chart{width:100%;height:auto;display:block;overflow:visible}
 .map-head h2{font-weight:300;font-size:20px;margin:0 0 3px}
 .map-head p{font-size:13px;color:var(--soft);margin:0;max-width:52ch}
 .map-switch{display:flex;gap:6px;flex:none}
-.gov-map-layout{display:grid;grid-template-columns:minmax(330px,1.1fr) minmax(250px,.9fr);gap:24px;align-items:start}
+.gov-map-layout{display:grid;grid-template-columns:minmax(320px,.9fr) minmax(360px,1.1fr);gap:24px;align-items:start}
+.gov-map-side{position:relative}
+.gov-chart-side{min-width:0}
+.gov-chart-head{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;margin-bottom:8px}
+.gov-chart-head h3{font-weight:300;font-size:20px;line-height:1.15;margin:0 0 3px}
+.gov-chart-head p{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin:0}
+.gov-chart-box{position:relative;min-height:250px}
+.gov-chart-box svg{width:100%;height:auto;display:block;overflow:visible}
+.gov-chart-summary{font-size:12px;color:var(--soft);margin:8px 0 0}
+.map-tip{position:fixed;z-index:20;width:min(260px,calc(100vw - 24px));background:#fff;border:1px solid var(--ink);
+  box-shadow:0 7px 24px rgba(0,0,0,.12);padding:10px 11px;pointer-events:none}
+.map-tip[hidden]{display:none}
+.map-tip .uf{font-family:var(--mono);font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin-bottom:5px}
+.map-tip .candidate{display:grid;grid-template-columns:1fr auto;gap:9px;padding:4px 0;border-top:1px solid var(--hair2)}
+.map-tip .candidate:first-of-type{border-top:0}
+.map-tip .candidate strong{font-size:13px;font-weight:500}
+.map-tip .candidate span{font-family:var(--mono);font-size:12px}
 .cartogram{display:grid;grid-template-columns:repeat(6,minmax(42px,1fr));grid-auto-rows:55px;gap:6px;
   grid-template-areas:
   ". RR . AP . ."
@@ -129,8 +145,8 @@ svg.chart{width:100%;height:auto;display:block;overflow:visible}
   display:flex;flex-direction:column;align-items:center;justify-content:center;padding:3px;min-width:0}
 .state[data-has="true"]{background:#fff;border-color:#aaa49d}
 .state[aria-pressed="true"]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
-.state b{font-size:13px}
-.state small{font-family:var(--mono);font-size:8.5px;color:var(--soft);max-width:100%;overflow:hidden;text-overflow:ellipsis}
+.state b{font-family:var(--mono);font-size:14px;font-weight:500;letter-spacing:.03em}
+.state small{display:none}
 .state-list{display:grid;gap:5px}
 .state-list[hidden]{display:none}
 .state-list button{display:grid;grid-template-columns:40px 1fr auto;gap:8px;align-items:center;min-height:42px;
@@ -165,6 +181,8 @@ footer details summary{font-family:var(--mono);font-size:10.5px;color:var(--ink)
 
 @media(max-width:680px){
   .gov-map-layout{grid-template-columns:1fr}
+  .gov-chart-side{order:1}
+  .gov-map-side{order:2}
 }
 @media(max-width:520px){
   .wrap{padding:0 14px 36px}
@@ -351,9 +369,13 @@ function wireChart(){
 }
 function syncChart(){
   document.querySelectorAll("[data-preset]").forEach(x=>x.setAttribute("aria-pressed",x.dataset.preset===st.preset));
-  document.getElementById("span").textContent=ds.pts.length?`${dateBR(ds.pts[st.i0]?.data)} — ${dateBR(ds.pts[st.i1]?.data)}`:"";
-  st.view==="scatter"?drawScatter():drawTrend();
-  document.getElementById("chart-summary").textContent=summary();
+  const span=document.getElementById("span");
+  if(span)span.textContent=ds.pts.length?`${dateBR(ds.pts[st.i0]?.data)} — ${dateBR(ds.pts[st.i1]?.data)}`:"";
+  const chart=document.getElementById("chart-box");
+  if(chart){
+    st.view==="scatter"?drawScatter():drawTrend();
+    const sum=document.getElementById("chart-summary");if(sum)sum.textContent=summary();
+  }
 }
 function openPoll(id){
   const p=ds.polls.find(x=>x.id===id);if(!p)return;
@@ -370,16 +392,77 @@ function mapBlock(){
   const states=DATA.gov?.estados||{};
   if(!st.uf||!states[st.uf])st.uf=Object.keys(states)[0]||null;
   return `<section class="map-block"><div class="map-head"><div><h2>Mapa das disputas</h2>
-    <p>Uma visão rápida dos estados. O gráfico de linha continua logo abaixo, com a evolução da corrida selecionada.</p></div>
+    <p>Passe o cursor ou foque um estado para ver os dois primeiros colocados. Selecione a UF para atualizar o gráfico.</p></div>
     <div class="map-switch"><button id="map-btn" aria-pressed="${st.mapMode==="map"}">Mapa</button><button id="list-btn" aria-pressed="${st.mapMode==="list"}">Lista</button></div></div>
-    <div class="gov-map-layout"><div>
-      <div class="cartogram" id="cartogram" ${st.mapMode==="list"?"hidden":""}>${UFS.map(uf=>{
-        const e=states[uf],top=e?.candidatos?.[0];return `<button class="state" style="grid-area:${AREA[uf]}" data-uf="${uf}" data-has="${!!e}" aria-pressed="${st.uf===uf}">
-          <b>${uf}</b>${top?`<small>${esc(top.nome.split(" ")[0])} ${nf(top.media)}</small>`:""}</button>`}).join("")}</div>
-      <div class="state-list" id="state-list" ${st.mapMode==="map"?"hidden":""}>${UFS.map(uf=>{
-        const e=states[uf],top=e?.candidatos?.[0];return `<button data-uf="${uf}" aria-pressed="${st.uf===uf}"><b>${uf}</b><span>${esc(e?.estado||"Sem dados")}</span><span>${top?nf(top.media)+"%":"—"}</span></button>`}).join("")}</div>
-    </div><div id="state-overview" class="state-overview"></div></div></section>`;
+    <div class="gov-map-layout">
+      <div class="gov-map-side">
+        <div class="cartogram" id="cartogram" ${st.mapMode==="list"?"hidden":""}>${UFS.map(uf=>{
+          const e=states[uf],top=(e?.candidatos||[]).filter(c=>c.nome&&!/^(cen\.?|cenário|outros|indecisos)$/i.test(c.nome)).slice(0,2);
+          const label=e?`${e.estado}. ${top.map(c=>`${c.nome}, ${nf(c.media)}%`).join("; ")}.`:`${uf}. Sem pesquisas disponíveis.`;
+          return `<button class="state" style="grid-area:${AREA[uf]}" data-uf="${uf}" data-has="${!!e}" aria-pressed="${st.uf===uf}" aria-label="${esc(label)}"><b>${uf}</b></button>`}).join("")}</div>
+        <div class="state-list" id="state-list" ${st.mapMode==="map"?"hidden":""}>${UFS.map(uf=>{
+          const e=states[uf],top=(e?.candidatos||[]).filter(c=>c.nome&&!/^(cen\.?|cenário|outros|indecisos)$/i.test(c.nome)).slice(0,2);
+          return `<button data-uf="${uf}" aria-pressed="${st.uf===uf}"><b>${uf}</b><span>${esc(e?.estado||"Sem dados")}</span><span>${top[0]?`${esc(top[0].nome.split(" ")[0])} ${nf(top[0].media)}%`:"—"}</span></button>`}).join("")}</div>
+        <div class="map-tip" id="map-tip" role="tooltip" hidden></div>
+      </div>
+      <div class="gov-chart-side">
+        <div class="gov-chart-head"><div><h3 id="gov-chart-title">${esc(states[st.uf]?.estado||"Estado")}</h3>
+          <p id="gov-chart-meta">${states[st.uf]?.pesquisas_no_calculo||0} pesquisas · corte ${dateBR(states[st.uf]?.corte)}</p></div></div>
+        <div class="gov-chart-box" id="gov-mini-chart"></div>
+        <p class="gov-chart-summary" id="gov-chart-summary"></p>
+      </div>
+    </div></section>`;
 }
+
+function drawGovernorMiniChart(){
+  const box=document.getElementById("gov-mini-chart");if(!box||!ds)return;
+  const view=ds.pts||[];
+  const vis=ds.cands.slice(0,2);
+  const values=view.flatMap(p=>vis.map(c=>p.valores?.[c]).filter(Number.isFinite));
+  if(!view.length||!values.length){
+    box.innerHTML='<p class="note">Ainda não há uma série histórica suficiente para este estado.</p>';
+    document.getElementById("gov-chart-summary").textContent="";
+    return;
+  }
+  const W=430,H=245,P={l:30,r:46,t:15,b:28};
+  let lo=Math.min(...values),hi=Math.max(...values);
+  const y0=Math.max(0,Math.floor(lo/5)*5-1),y1=Math.min(100,Math.ceil(hi/5)*5+1);
+  const X=i=>P.l+(view.length<=1?0:i/(view.length-1))*(W-P.l-P.r);
+  const Y=v=>P.t+(1-(v-y0)/(y1-y0||1))*(H-P.t-P.b);
+  const step=Math.max(2,Math.round((y1-y0)/3));
+  let grid="",labels="",lines="";
+  for(let v=y0;v<=y1;v+=step)grid+=`<line x1="${P.l}" y1="${Y(v)}" x2="${W-P.r}" y2="${Y(v)}" stroke="var(--hair2)"/><text x="${P.l-6}" y="${Y(v)+3}" text-anchor="end" font-family="var(--mono)" font-size="9" fill="var(--muted)">${v}</text>`;
+  const every=Math.max(1,Math.ceil(view.length/4));
+  view.forEach((p,i)=>{if(i%every===0||i===view.length-1)labels+=`<text x="${X(i)}" y="${H-7}" text-anchor="middle" font-family="var(--mono)" font-size="9" fill="var(--muted)">${month(p.data)}</text>`});
+  vis.forEach(c=>{
+    const pp=view.map((p,i)=>({i,v:p.valores?.[c]})).filter(o=>Number.isFinite(o.v));if(!pp.length)return;
+    const d=pp.map((o,k)=>`${k?"L":"M"}${X(o.i).toFixed(1)},${Y(o.v).toFixed(1)}`).join(" ");
+    lines+=`<path d="${d}" fill="none" stroke="${color(c)}" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>`;
+    const last=pp.at(-1);
+    lines+=`<circle cx="${X(last.i)}" cy="${Y(last.v)}" r="3" fill="${color(c)}"/><text x="${X(last.i)+6}" y="${Y(last.v)+3}" fill="${color(c)}" font-family="var(--mono)" font-size="9.5">${nf(last.v)}</text>`;
+  });
+  box.innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-labelledby="gov-line-title gov-line-desc">
+    <title id="gov-line-title">Evolução da disputa para governador em ${esc(ds.e.estado)}</title>
+    <desc id="gov-line-desc">Gráfico simplificado com os dois primeiros colocados no agregado.</desc>${grid}${labels}${lines}</svg>`;
+  const a=vis[0],b=vis[1];
+  document.getElementById("gov-chart-summary").textContent=a&&b?`${a} aparece com ${nf(ds.last[a])}%, seguido por ${b}, com ${nf(ds.last[b])}%.`:"";
+}
+function showMapTip(button,event){
+  const e=DATA.gov?.estados?.[button.dataset.uf],tip=document.getElementById("map-tip");if(!tip)return;
+  if(!e){tip.innerHTML=`<div class="uf">${button.dataset.uf}</div><div class="candidate"><strong>Sem pesquisas disponíveis</strong><span>—</span></div>`}
+  else{
+    const top=(e.candidatos||[]).filter(c=>c.nome&&!/^(cen\.?|cenário|outros|indecisos)$/i.test(c.nome)).slice(0,2);
+    tip.innerHTML=`<div class="uf">${esc(e.estado)} · ${button.dataset.uf}</div>${top.map((c,i)=>`<div class="candidate"><strong>${i+1}. ${esc(c.nome)}</strong><span>${nf(c.media)}%</span></div>`).join("")||'<div class="candidate"><strong>Sem candidatos válidos</strong><span>—</span></div>'}`;
+  }
+  tip.hidden=false;
+  const r=button.getBoundingClientRect(),w=tip.offsetWidth,h=tip.offsetHeight;
+  let left=r.right+10,top=r.top+(r.height-h)/2;
+  if(left+w>window.innerWidth-10)left=r.left-w-10;
+  top=Math.max(10,Math.min(window.innerHeight-h-10,top));
+  tip.style.left=left+"px";tip.style.top=top+"px";
+}
+function hideMapTip(){const tip=document.getElementById("map-tip");if(tip)tip.hidden=true}
+
 function stateOverview(){
   const e=DATA.gov?.estados?.[st.uf],el=document.getElementById("state-overview");if(!el)return;
   if(!e){el.innerHTML='<p class="note">Sem pesquisas compatíveis neste estado.</p>';return}
@@ -402,12 +485,18 @@ function renderGovernor(){
   if(!ds){p.innerHTML='<div class="empty"><div class="t">Corridas estaduais — em coleta</div><div class="s">Ainda não há dados suficientes.</div></div>';return}
   applyPreset("tudo");
   p.innerHTML=`${mapBlock()}<div class="controls"><div class="uf-pick"><label for="uf">Estado</label><select id="uf">${Object.keys(states).sort((a,b)=>states[a].estado.localeCompare(states[b].estado,"pt-BR")).map(uf=>`<option value="${uf}" ${uf===st.uf?"selected":""}>${esc(states[uf].estado)}</option>`).join("")}</select></div>
-    <span class="scen"><b>Cenário:</b> governador · 1º turno</span></div>${chartBlock()}${archiveBlock()}`;
+    <span class="scen"><b>Cenário:</b> governador · 1º turno</span></div>${archiveBlock()}`;
   p.querySelector("#uf").addEventListener("change",e=>{st.uf=e.target.value;renderGovernor()});
-  p.querySelectorAll("[data-uf]").forEach(x=>x.addEventListener("click",()=>{if(states[x.dataset.uf]){st.uf=x.dataset.uf;renderGovernor()}}));
+  p.querySelectorAll("[data-uf]").forEach(x=>{
+    x.addEventListener("click",()=>{if(states[x.dataset.uf]){st.uf=x.dataset.uf;renderGovernor()}});
+    x.addEventListener("mouseenter",e=>showMapTip(x,e));
+    x.addEventListener("mouseleave",hideMapTip);
+    x.addEventListener("focus",e=>showMapTip(x,e));
+    x.addEventListener("blur",hideMapTip);
+  });
   p.querySelector("#map-btn")?.addEventListener("click",()=>{st.mapMode="map";renderGovernor()});
   p.querySelector("#list-btn")?.addEventListener("click",()=>{st.mapMode="list";renderGovernor()});
-  stateOverview();wireChart();
+  stateOverview();drawGovernorMiniChart();wireChart();
 }
 function renderCurrent(){st.race==="presidente"?renderPresident():renderGovernor()}
 function setRace(race,focus=false){
