@@ -388,9 +388,13 @@ export function buildHistory(polls, aggregate){
   return {uf:aggregate.uf,estado:aggregate.estado,pontos};
 }
 function stateFromTitle(title){
-  const f=fold(title);
-  for(const [uf,name] of Object.entries(STATES)) if(f.includes(fold(name))) return {uf,estado:name};
-  return null;
+  const normalized=fold(String(title||"").replace(/_/g," "));
+  const exact=Object.entries(STATE_PAGES).find(([,expected])=>
+    fold(expected.replace(/_/g," "))===normalized
+  );
+  if(!exact) return null;
+  const [uf]=exact;
+  return {uf,estado:STATES[uf]};
 }
 async function api(params){
   const u=new URL(CONFIG.API_URL);
@@ -400,33 +404,63 @@ async function api(params){
   const j=await r.json(); if(j.error) throw new Error(j.error.info||j.error.code); return j;
 }
 async function discoverPages(){
-  const pages=Object.entries(STATE_PAGES).map(([uf,title])=>({
-    uf, estado:STATES[uf], title
+  return Object.entries(STATE_PAGES).map(([uf,title])=>({
+    uf,
+    estado:STATES[uf],
+    title
   }));
-
-  // Busca automática apenas como reserva para detectar eventual renomeação ou página nova.
-  try{
-    const j=await api({
-      action:"query", list:"search",
-      srsearch:"Pesquisas eleitorais eleição estadual 2026 governador",
-      srlimit:"50", srnamespace:"0"
-    });
-    for(const item of j.query?.search||[]){
-      if(!/pesquis/i.test(item.title)||!/2026/.test(item.title)) continue;
-      const st=stateFromTitle(item.title);
-      if(st&&!pages.some(p=>p.uf===st.uf&&p.title===item.title)){
-        pages.push({...st,title:item.title,fallback:true});
-      }
-    }
-  }catch(e){
-    // A lista explícita continua suficiente mesmo se a busca falhar.
-  }
-  return pages;
 }
 async function fetchPage(title){
-  const j=await api({action:"parse",page:title,prop:"text|displaytitle"});
-  return {html:j.parse?.text||"", title:j.parse?.title||title};
+  const j=await api({
+    action:"parse",
+    page:title,
+    redirects:"1",
+    prop:"text|displaytitle"
+  });
+  const resolved=j.parse?.title||title;
+  const expectedKey=fold(String(title).replace(/_/g," "));
+  const resolvedKey=fold(String(resolved).replace(/_/g," "));
+  if(resolvedKey!==expectedKey){
+    throw new Error(`Redirecionamento inesperado: "${title}" → "${resolved}"`);
+  }
+  return {html:j.parse?.text||"",title:resolved};
 }
+
+function candidateSuggestionGroups(pending){
+  const result={};
+  for(const [uf,estado] of Object.entries(STATES)){
+    const candidates=pending
+      .filter(item=>item.uf===uf)
+      .filter(item=>{
+        const name=norm(item.nome_encontrado);
+        if(!name||name.length<3||name.length>80) return false;
+        if(/[{}[\]<>]|https?:|mw-parser|tooltip|background|font-size|display:/i.test(name)) return false;
+        if(/^(cen\.?|cenário|cenario|outros?|indecisos?|brancos?|nulos?|nenhum|não sabe|nao sabe|vantagem)$/i.test(name)) return false;
+        return /[A-Za-zÀ-ÿ]/.test(name);
+      })
+      .sort((a,b)=>b.ocorrencias-a.ocorrencias||a.nome_encontrado.localeCompare(b.nome_encontrado))
+      .map(item=>({
+        nome:item.nome_encontrado,
+        ocorrencias:item.ocorrencias,
+        paginas:item.paginas,
+        fontes:item.fontes
+      }));
+    result[uf]={uf,estado,candidatos};
+  }
+  return result;
+}
+function printEmptyAllowlistSuggestions(allowlist, groups){
+  for(const [uf,group] of Object.entries(groups)){
+    if(approvedCandidateMap(allowlist,uf).size) continue;
+    const names=group.candidatos.slice(0,12).map(item=>item.nome);
+    console.log(
+      names.length
+        ? `[${uf}] allowlist vazia. Sugestões encontradas: ${names.join(" | ")}`
+        : `[${uf}] allowlist vazia e nenhuma sugestão válida encontrada.`
+    );
+  }
+}
+
 export async function collect(){
   mkdirSync(DADOS,{recursive:true});
   const pages=await discoverPages(), all=[], errors=[], pageStatus={};
@@ -450,6 +484,8 @@ export async function collect(){
   const rawPolls=dedupe(all);
   const allowlist=loadCandidateAllowlist();
   const validated=applyCandidateAllowlist(rawPolls,allowlist);
+  const suggestionGroups=candidateSuggestionGroups(validated.pendentes);
+  printEmptyAllowlistSuggestions(allowlist,suggestionGroups);
   const polls=validated.accepted;
   const estados={}, historicos={};
   for(const [uf,estado] of Object.entries(STATES)){
@@ -473,6 +509,16 @@ export async function collect(){
     instrucoes:"Nomes deste arquivo foram encontrados nas tabelas, mas não estão aprovados. Revise e copie apenas os corretos para candidatos-governadores-aprovados.json.",
     total:validated.pendentes.length,
     candidatos:validated.pendentes
+  },null,2)+"\n");
+  writeFileSync(join(DADOS,"_candidatos-governadores-sugestoes.json"),JSON.stringify({
+    atualizado_em:today(),
+    status:"RASCUNHO — NÃO PUBLICAR SEM REVISÃO EDITORIAL",
+    instrucoes:[
+      "Os nomes foram extraídos automaticamente e agrupados por UF.",
+      "Revise cada nome e copie somente os corretos para candidatos-governadores-aprovados.json.",
+      "A ordem prioriza nomes que apareceram mais vezes nas pesquisas."
+    ],
+    estados:suggestionGroups
   },null,2)+"\n");
   writeFileSync(join(DADOS,"historico-governadores.json"),JSON.stringify({atualizado_em:today(),estados:historicos},null,2)+"\n");
   writeFileSync(join(DADOS,"_governadores_status.json"),JSON.stringify({
