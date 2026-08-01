@@ -1,119 +1,363 @@
 {
   "_instrucoes": [
-    "Inclua somente nomes conferidos editorialmente.",
-    "permitidos contém o nome canônico que aparecerá no site.",
-    "aliases converte variações da Wikipédia para o nome canônico.",
-    "Enquanto um estado estiver sem nomes aprovados, ele não será publicado."
+    "Lista editorial semeada em 2026-08-01 com base em levantamento nacional recente de pré-candidatos.",
+    "As convenções partidárias ainda estavam em andamento; revise após 5 de agosto e novamente após o prazo de registro no TSE em 15 de agosto.",
+    "permitidos contém apenas nomes tratados como pré-candidatos ao governo, não nomes citados somente para o Senado.",
+    "aliases converte grafias abreviadas ou variantes encontradas nas tabelas da Wikipédia."
   ],
   "modo": "estrito",
   "estados": {
     "AC": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Alan Rick",
+        "Mailza Assis",
+        "Thor Dantas",
+        "Tião Bocalom"
+      ],
+      "aliases": {
+        "Dr. Thor Dantas": "Thor Dantas",
+        "Tiao Bocalom": "Tião Bocalom"
+      }
     },
     "AL": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Renan Filho",
+        "JHC"
+      ],
+      "aliases": {
+        "João Henrique Caldas": "JHC",
+        "Jhc": "JHC"
+      }
     },
     "AP": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Clécio Luís",
+        "Dr. Furlan"
+      ],
+      "aliases": {
+        "Clécio": "Clécio Luís",
+        "Dr Furlan": "Dr. Furlan"
+      }
     },
     "AM": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Roberto Cidade",
+        "Omar Aziz",
+        "Maria do Carmo",
+        "David Almeida"
+      ],
+      "aliases": {
+        "Davi Almeida": "David Almeida",
+        "Roberto Cidade Filho": "Roberto Cidade"
+      }
     },
     "BA": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Jerônimo Rodrigues",
+        "ACM Neto",
+        "Ronaldo Mansur",
+        "José Estêvão"
+      ],
+      "aliases": {
+        "Jerônimo": "Jerônimo Rodrigues",
+        "Jose Estevao": "José Estêvão"
+      }
     },
     "CE": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Elmano de Freitas",
+        "Ciro Gomes",
+        "Eduardo Girão"
+      ],
+      "aliases": {
+        "Elmano": "Elmano de Freitas"
+      }
     },
     "DF": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Celina Leão",
+        "Paula Belmonte",
+        "José Roberto Arruda",
+        "Ricardo Cappelli",
+        "Leandro Grass"
+      ],
+      "aliases": {
+        "Celina Leao": "Celina Leão",
+        "José Arruda": "José Roberto Arruda",
+        "Arruda": "José Roberto Arruda"
+      }
     },
     "ES": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Ricardo Ferraço",
+        "Lorenzo Pazolini",
+        "Helder Salomão",
+        "Paulo Hartung"
+      ],
+      "aliases": {
+        "Ricardo Ferraco": "Ricardo Ferraço",
+        "Pazolini": "Lorenzo Pazolini"
+      }
     },
     "GO": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Daniel Vilela",
+        "Wilder Morais",
+        "Marconi Perillo"
+      ],
+      "aliases": {
+        "Daniel": "Daniel Vilela",
+        "Marconi": "Marconi Perillo"
+      }
     },
     "MA": {
-      "permitidos": [],
-      "aliases": {}
-    },
-    "MT": {
-      "permitidos": [],
-      "aliases": {}
-    },
-    "MS": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Orleans Brandão",
+        "Eduardo Braide",
+        "Felipe Camarão",
+        "Lahesio Bonfim",
+        "André Luís",
+        "Enilton Rodrigues"
+      ],
+      "aliases": {
+        "Orleans Brandao": "Orleans Brandão",
+        "Felipe Camarao": "Felipe Camarão",
+        "Lahesio": "Lahesio Bonfim"
+      }
     },
     "MG": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Mateus Simões",
+        "Flávio Roscoe",
+        "Alexandre Kalil",
+        "Gabriel Azevedo",
+        "Cleitinho",
+        "César Pires",
+        "Ben Mendes",
+        "Maria da Consolação",
+        "Túlio Lopes"
+      ],
+      "aliases": {
+        "Mateus Simoes": "Mateus Simões",
+        "Kalil": "Alexandre Kalil"
+      }
+    },
+    "MS": {
+      "permitidos": [
+        "Eduardo Riedel",
+        "João Henrique Catan",
+        "Fábio Trad"
+      ],
+      "aliases": {
+        "João Henrique": "João Henrique Catan",
+        "Fabio Trad": "Fábio Trad"
+      }
+    },
+    "MT": {
+      "permitidos": [
+        "Otaviano Pivetta",
+        "Wellington Fagundes",
+        "Natasha Slhessarenko",
+        "Jayme Campos"
+      ],
+      "aliases": {
+        "Otaviano Pivetta O Brasil retira a pré-candidatura de Jayme Campos .": "Otaviano Pivetta",
+        "Natasha Slhessarenko O Brasil retira a pré-candidatura de Jayme Campos .": "Natasha Slhessarenko",
+        "Wellington Fagundes O Brasil retira a pré-candidatura de Jayme Campos .": "Wellington Fagundes",
+        "Jayme Campos O Brasil retira a pré-candidatura de Jayme Campos .": "Jayme Campos"
+      }
     },
     "PA": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Hana Ghassan",
+        "Daniel Santos",
+        "Mário Couto",
+        "Cleber Rabelo",
+        "Araceli Lemos"
+      ],
+      "aliases": {
+        "Dr. Daniel Santos": "Daniel Santos",
+        "Dr Daniel Santos": "Daniel Santos",
+        "Mario Couto": "Mário Couto"
+      }
     },
     "PB": {
-      "permitidos": [],
-      "aliases": {}
-    },
-    "PR": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Lucas Ribeiro",
+        "Cícero Lucena",
+        "Efraim Filho",
+        "Olímpio Rocha"
+      ],
+      "aliases": {
+        "Cicero Lucena": "Cícero Lucena",
+        "Olimpio Rocha": "Olímpio Rocha"
+      }
     },
     "PE": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Raquel Lyra",
+        "João Campos",
+        "Eduardo Moura",
+        "Ivan Moraes"
+      ],
+      "aliases": {
+        "Joao Campos": "João Campos"
+      }
     },
     "PI": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Rafael Fonteles",
+        "Joel Rodrigues",
+        "Elizeu Aguiar",
+        "Francisco Jurity",
+        "Geraldo Carvalho",
+        "Jesus Rodrigues",
+        "José Maia Filho",
+        "Lúcia Santos",
+        "Toni Rodrigues"
+      ],
+      "aliases": {
+        "Jose Maia Filho": "José Maia Filho",
+        "Lucia Santos": "Lúcia Santos"
+      }
+    },
+    "PR": {
+      "permitidos": [
+        "Sandro Alex",
+        "Sergio Moro",
+        "Rafael Greca",
+        "Requião Filho",
+        "Luiz França",
+        "Tony Garcia"
+      ],
+      "aliases": {
+        "Sérgio Moro": "Sergio Moro",
+        "Requiao Filho": "Requião Filho"
+      }
     },
     "RJ": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Douglas Ruas",
+        "Eduardo Paes",
+        "William Siri",
+        "André Marinho",
+        "André Português",
+        "Anthony Garotinho",
+        "Rafa Luz",
+        "Cyro Garcia",
+        "Juliete Pantoja",
+        "Luan Monteiro"
+      ],
+      "aliases": {
+        "Bombeiro Rafa Luz": "Rafa Luz",
+        "Andre Marinho": "André Marinho",
+        "Andre Português": "André Português"
+      }
     },
     "RN": {
-      "permitidos": [],
-      "aliases": {}
-    },
-    "RS": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Cadu Xavier",
+        "Álvaro Dias",
+        "Allyson Bezerra",
+        "Dário Barbosa"
+      ],
+      "aliases": {
+        "Alvaro Dias": "Álvaro Dias",
+        "Dario Barbosa": "Dário Barbosa"
+      }
     },
     "RO": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Adailton Fúria",
+        "Marcos Rogério",
+        "Hildon Chaves",
+        "Pedro Abib",
+        "Expedito Netto",
+        "Luiz Carlos Teodoro",
+        "Samuel Costa"
+      ],
+      "aliases": {
+        "Adaílton Fúria": "Adailton Fúria",
+        "Adailton Furia": "Adailton Fúria"
+      }
     },
     "RR": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Arthur Henrique",
+        "Paulo César Quartiero",
+        "Antônia Pedrosa",
+        "Soldado Sampaio"
+      ],
+      "aliases": {
+        "Paulo Cesar Quartiero": "Paulo César Quartiero",
+        "Antonia Pedrosa": "Antônia Pedrosa"
+      }
+    },
+    "RS": {
+      "permitidos": [
+        "Gabriel Souza",
+        "Luciano Zucco",
+        "Juliana Brizola",
+        "Marcelo Maranata"
+      ],
+      "aliases": {
+        "Zucco": "Luciano Zucco"
+      }
     },
     "SC": {
-      "permitidos": [],
-      "aliases": {}
-    },
-    "SP": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Jorginho Mello",
+        "João Rodrigues",
+        "Gelson Merísio",
+        "Laís Chaud",
+        "Marcelo Brigadeiro",
+        "Ralf Zimmer"
+      ],
+      "aliases": {
+        "Jorginho Melo": "Jorginho Mello",
+        "Joao Rodrigues": "João Rodrigues",
+        "Gelson Merisio": "Gelson Merísio",
+        "Lais Chaud": "Laís Chaud"
+      }
     },
     "SE": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Fábio Mitidieri",
+        "Valmir de Francisquinho",
+        "Helton Monteiro",
+        "Emanuel Cacho",
+        "Ricardo Marques"
+      ],
+      "aliases": {
+        "Fabio Mitidieri": "Fábio Mitidieri"
+      }
+    },
+    "SP": {
+      "permitidos": [
+        "Tarcísio de Freitas",
+        "Fernando Haddad",
+        "Kim Kataguiri",
+        "Paulo Serra"
+      ],
+      "aliases": {
+        "Tarcísio": "Tarcísio de Freitas",
+        "Tarcisio": "Tarcísio de Freitas",
+        "Haddad": "Fernando Haddad",
+        "Kataguiri": "Kim Kataguiri",
+        "Serra": "Paulo Serra"
+      }
     },
     "TO": {
-      "permitidos": [],
-      "aliases": {}
+      "permitidos": [
+        "Professora Dorinha",
+        "Laurez Moreira",
+        "Vicentinho Júnior",
+        "Ataídes Oliveira"
+      ],
+      "aliases": {
+        "Vicentinho Junior": "Vicentinho Júnior",
+        "Ataides Oliveira": "Ataídes Oliveira"
+      }
     }
   }
 }
