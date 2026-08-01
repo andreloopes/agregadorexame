@@ -174,7 +174,7 @@
           "pesquisas": 17
         },
         {
-          "nome": "David Almeida",
+          "nome": "Davi Almeida",
           "partido": "Avante",
           "media": 17.2,
           "ic_min": 16,
@@ -396,32 +396,32 @@
       "estado": "Espírito Santo",
       "cenario": "Governador · 1º turno",
       "corte": "2026-07-21",
-      "pesquisas_no_calculo": 19,
+      "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Ricardo Ferraço",
           "partido": "MDB",
-          "media": 32.7,
-          "ic_min": 30.2,
-          "ic_max": 35.3,
-          "pesquisas": 19
+          "media": 31.5,
+          "ic_min": 28.9,
+          "ic_max": 34.1,
+          "pesquisas": 20
         },
         {
           "nome": "Lorenzo Pazolini",
           "partido": "Republicanos",
-          "media": 30.4,
-          "ic_min": 27.8,
-          "ic_max": 33.1,
-          "pesquisas": 19
+          "media": 28.5,
+          "ic_min": 25.7,
+          "ic_max": 31.2,
+          "pesquisas": 20
         },
         {
           "nome": "Helder Salomão",
           "partido": "PT",
-          "media": 10.2,
-          "ic_min": 8.9,
-          "ic_max": 11.4,
-          "pesquisas": 19
+          "media": 9.6,
+          "ic_min": 8.5,
+          "ic_max": 10.7,
+          "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
@@ -442,12 +442,20 @@
           "fonte_url": "#cite_note-:9-1"
         },
         {
-          "instituto": "Quaest",
-          "coleta": "2026-07-13",
-          "amostra": 804,
-          "margem": 3,
+          "instituto": "Real Time Big Data",
+          "coleta": "2026-07-21",
+          "amostra": 1600,
+          "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:8-2"
+          "fonte_url": "#cite_note-:9-1"
+        },
+        {
+          "instituto": "Real Time Big Data",
+          "coleta": "2026-07-21",
+          "amostra": 1600,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "#cite_note-:9-1"
         },
         {
           "instituto": "Quaest",
@@ -458,20 +466,12 @@
           "fonte_url": "#cite_note-:8-2"
         },
         {
-          "instituto": "Instituto França",
-          "coleta": "2026-07-07",
-          "amostra": 1066,
+          "instituto": "Quaest",
+          "coleta": "2026-07-13",
+          "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:7-3"
-        },
-        {
-          "instituto": "Instituto França",
-          "coleta": "2026-07-07",
-          "amostra": 1066,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-:7-3"
+          "fonte_url": "#cite_note-:8-2"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
@@ -786,40 +786,32 @@
       "estado": "Pará",
       "cenario": "Governador · 1º turno",
       "corte": "2026-12-23",
-      "pesquisas_no_calculo": 9,
+      "pesquisas_no_calculo": 13,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Daniel Santos",
           "partido": "PSB",
-          "media": 26.8,
-          "ic_min": 20.2,
-          "ic_max": 33.4,
-          "pesquisas": 9
+          "media": 27.5,
+          "ic_min": 22.3,
+          "ic_max": 32.7,
+          "pesquisas": 13
         },
         {
           "nome": "Hana Ghassan",
           "partido": "MDB",
-          "media": 21.9,
-          "ic_min": 19.2,
-          "ic_max": 24.6,
-          "pesquisas": 9
+          "media": 22.4,
+          "ic_min": 20.4,
+          "ic_max": 24.5,
+          "pesquisas": 13
         },
         {
           "nome": "Mário Couto",
           "partido": "PL",
-          "media": 14.9,
-          "ic_min": 10.4,
-          "ic_max": 19.4,
-          "pesquisas": 9
-        },
-        {
-          "nome": "Araceli Lemos",
-          "partido": "PSOL",
-          "media": 4.5,
-          "ic_min": 2.4,
-          "ic_max": 6.6,
-          "pesquisas": 9
+          "media": 13.5,
+          "ic_min": 9.7,
+          "ic_max": 17.2,
+          "pesquisas": 13
         }
       ],
       "ultimas_pesquisas": [
@@ -1484,7 +1476,7 @@
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
-          "nome": "Jorginho Mello",
+          "nome": "Jorginho Melo",
           "partido": "PL",
           "media": 45.2,
           "ic_min": 42.3,
@@ -1541,29 +1533,37 @@
       "uf": "SP",
       "estado": "São Paulo",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-10-12",
-      "pesquisas_no_calculo": 9,
+      "corte": "2026-11-29",
+      "pesquisas_no_calculo": 3,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Tarcísio de Freitas",
           "partido": "REP",
-          "media": 48.7,
-          "ic_min": 46.8,
-          "ic_max": 50.6,
-          "pesquisas": 9
+          "media": 49,
+          "ic_min": 47.8,
+          "ic_max": 50.2,
+          "pesquisas": 3
         },
         {
-          "nome": "Paulo Serra",
-          "partido": "PSDB",
-          "media": 4.5,
-          "ic_min": 2.9,
-          "ic_max": 6.1,
-          "pesquisas": 9
+          "nome": "Fernando Haddad",
+          "partido": "PT",
+          "media": 22.7,
+          "ic_min": 21,
+          "ic_max": 24.4,
+          "pesquisas": 3
         }
       ],
       "ultimas_pesquisas": [
         {
+          "instituto": "Real Time Big Data",
+          "coleta": "2026-11-29",
+          "amostra": 1500,
+          "margem": 3,
+          "tse": "",
+          "fonte_url": "#cite_note-26"
+        },
+        {
           "instituto": "Paraná Pesquisas",
           "coleta": "2026-10-12",
           "amostra": 1680,
@@ -1573,47 +1573,15 @@
         },
         {
           "instituto": "Paraná Pesquisas",
-          "coleta": "2026-10-12",
+          "coleta": "2026-08-24",
           "amostra": 1680,
           "margem": 2.4,
           "tse": "",
-          "fonte_url": "#cite_note-:2-27"
-        },
-        {
-          "instituto": "Real Time Big Data",
-          "coleta": "2026-10-03",
-          "amostra": 1500,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-28"
-        },
-        {
-          "instituto": "Real Time Big Data",
-          "coleta": "2026-10-03",
-          "amostra": 1500,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-28"
-        },
-        {
-          "instituto": "AltasIntel",
-          "coleta": "2026-09-03",
-          "amostra": 2059,
-          "margem": 2,
-          "tse": "",
-          "fonte_url": "#cite_note-:1-29"
-        },
-        {
-          "instituto": "AltasIntel",
-          "coleta": "2026-09-03",
-          "amostra": 2059,
-          "margem": 2,
-          "tse": "",
-          "fonte_url": "#cite_note-:1-29"
+          "fonte_url": "#cite_note-:0-30"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:2-27"
+      "fonte_url": "#cite_note-26"
     },
     "TO": {
       "uf": "TO",
