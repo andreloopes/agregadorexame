@@ -1,38 +1,171 @@
 {
-  "ultima_execucao": "2026-08-01T21:07:50.910Z",
-  "paginas_tentadas": 70,
-  "pesquisas_extraidas": 1217,
-  "estados_com_agregado": 10,
-  "erros": [
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Acre: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Acre: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Alagoas: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Amapá: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Amapá: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Amazonas: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Amazonas: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Bahia: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Bahia: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Ceará: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Ceará: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Distrito Federal: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Distrito Federal: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Espírito Santo: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Espírito Santo: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Goiás: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Maranhão: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Maranhão: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Mato Grosso: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Mato Grosso do Sul: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Minas Gerais: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Pará: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Pará: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Paraíba: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Paraná: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Paraná: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Pernambuco: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Piauí: The page you specified doesn't exist.",
-    "Pesquisas de opinião para a eleição estadual de 2026 em Piauí: The page you specified doesn't exist.",
-    "Pesquisas eleitorais para a eleição estadual de 2026 em Rio de Janeiro: The page you specified doesn't exist."
-  ]
+  "ultima_execucao": "2026-08-01T22:03:16.401Z",
+  "paginas_tentadas": 41,
+  "pesquisas_extraidas": 1846,
+  "estados_com_agregado": 27,
+  "paginas": {
+    "AC": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "status": "ok",
+      "pesquisas": 47,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Acre"
+    },
+    "AL": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "status": "ok",
+      "pesquisas": 28,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Alagoas"
+    },
+    "AP": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amapá",
+      "status": "ok",
+      "pesquisas": 27,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amap%C3%A1"
+    },
+    "AM": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "status": "ok",
+      "pesquisas": 47,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
+    },
+    "BA": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
+      "status": "ok",
+      "pesquisas": 25,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Bahia"
+    },
+    "CE": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "status": "ok",
+      "pesquisas": 61,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Cear%C3%A1"
+    },
+    "DF": {
+      "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "status": "ok",
+      "pesquisas": 23,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
+    },
+    "ES": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "status": "ok",
+      "pesquisas": 64,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Esp%C3%ADrito_Santo"
+    },
+    "GO": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "status": "ok",
+      "pesquisas": 59,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
+    },
+    "MA": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "status": "ok",
+      "pesquisas": 26,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Maranh%C3%A3o"
+    },
+    "MT": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "status": "ok",
+      "pesquisas": 41,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso_do_Sul"
+    },
+    "MS": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "status": "ok",
+      "pesquisas": 41,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso_do_Sul"
+    },
+    "MG": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "status": "ok",
+      "pesquisas": 41,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Minas_Gerais"
+    },
+    "PA": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "status": "ok",
+      "pesquisas": 72,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
+    },
+    "PB": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
+      "status": "ok",
+      "pesquisas": 30,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Para%C3%ADba"
+    },
+    "PR": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "status": "ok",
+      "pesquisas": 83,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
+    },
+    "PE": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "status": "ok",
+      "pesquisas": 79,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
+    },
+    "PI": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
+      "status": "ok",
+      "pesquisas": 36,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Piau%C3%AD"
+    },
+    "RJ": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "status": "ok",
+      "pesquisas": 47,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_de_Janeiro"
+    },
+    "RN": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "status": "ok",
+      "pesquisas": 72,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
+    },
+    "RS": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
+      "status": "ok",
+      "pesquisas": 43,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Sul"
+    },
+    "RO": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "status": "ok",
+      "pesquisas": 24,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Rond%C3%B4nia"
+    },
+    "RR": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
+      "status": "ok",
+      "pesquisas": 9,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Roraima"
+    },
+    "SC": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
+      "status": "ok",
+      "pesquisas": 29,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Santa_Catarina"
+    },
+    "SP": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em São Paulo",
+      "status": "ok",
+      "pesquisas": 72,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_S%C3%A3o_Paulo"
+    },
+    "SE": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "status": "ok",
+      "pesquisas": 40,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
+    },
+    "TO": {
+      "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "status": "ok",
+      "pesquisas": 27,
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
+    }
+  },
+  "erros": []
 }
