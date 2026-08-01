@@ -1,4 +1,2333 @@
 {
   "atualizado_em": "2026-08-01",
-  "estados": {}
+  "estados": {
+    "AC": {
+      "uf": "AC",
+      "estado": "Acre",
+      "pontos": [
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Alan Rick": 40.8,
+            "Tião Bocalom": 21,
+            "Mailza Assis": 23,
+            "Thor Dantas": 5.3
+          }
+        },
+        {
+          "data": "2026-04-27",
+          "valores": {
+            "Alan Rick": 39.5,
+            "Tião Bocalom": 21.5,
+            "Mailza Assis": 28,
+            "Thor Dantas": 6.1
+          }
+        },
+        {
+          "data": "2026-04-30",
+          "valores": {
+            "Alan Rick": 39.5,
+            "Tião Bocalom": 20.6,
+            "Mailza Assis": 24,
+            "Thor Dantas": 4.6
+          }
+        },
+        {
+          "data": "2026-05-16",
+          "valores": {
+            "Alan Rick": 40.3,
+            "Tião Bocalom": 19.2,
+            "Mailza Assis": 21.7,
+            "Thor Dantas": 3.7
+          }
+        },
+        {
+          "data": "2026-06-02",
+          "valores": {
+            "Alan Rick": 40.6,
+            "Tião Bocalom": 18.2,
+            "Mailza Assis": 22.5,
+            "Thor Dantas": 3.7
+          }
+        },
+        {
+          "data": "2026-06-06",
+          "valores": {
+            "Alan Rick": 40.3,
+            "Tião Bocalom": 17.9,
+            "Mailza Assis": 21.7,
+            "Thor Dantas": 3.2
+          }
+        },
+        {
+          "data": "2026-06-17",
+          "valores": {
+            "Alan Rick": 39.9,
+            "Tião Bocalom": 17.9,
+            "Mailza Assis": 22.9,
+            "Thor Dantas": 3.7
+          }
+        },
+        {
+          "data": "2026-06-30",
+          "valores": {
+            "Alan Rick": 40.2,
+            "Tião Bocalom": 18.3,
+            "Mailza Assis": 22.1,
+            "Thor Dantas": 3.5
+          }
+        },
+        {
+          "data": "2026-07-15",
+          "valores": {
+            "Alan Rick": 39.7,
+            "Tião Bocalom": 18.5,
+            "Mailza Assis": 21.5,
+            "Thor Dantas": 3.1
+          }
+        },
+        {
+          "data": "2026-07-25",
+          "valores": {
+            "Alan Rick": 39.2,
+            "Tião Bocalom": 18,
+            "Mailza Assis": 23.3,
+            "Thor Dantas": 4.1
+          }
+        }
+      ]
+    },
+    "AP": {
+      "uf": "AP",
+      "estado": "Amapá",
+      "pontos": [
+        {
+          "data": "2026-03-15",
+          "valores": {
+            "Dr. Furlan": 65.5,
+            "Clécio Luís": 26.8
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Dr. Furlan": 67.9,
+            "Clécio Luís": 27.4
+          }
+        },
+        {
+          "data": "2026-03-28",
+          "valores": {
+            "Dr. Furlan": 67.2,
+            "Clécio Luís": 28.5
+          }
+        },
+        {
+          "data": "2026-04-28",
+          "valores": {
+            "Dr. Furlan": 67.5,
+            "Clécio Luís": 28.5
+          }
+        },
+        {
+          "data": "2026-05-31",
+          "valores": {
+            "Dr. Furlan": 68.8,
+            "Clécio Luís": 28.9
+          }
+        },
+        {
+          "data": "2026-06-13",
+          "valores": {
+            "Dr. Furlan": 67.3,
+            "Clécio Luís": 27.9
+          }
+        },
+        {
+          "data": "2026-07-05",
+          "valores": {
+            "Dr. Furlan": 65.4,
+            "Clécio Luís": 28.7
+          }
+        },
+        {
+          "data": "2026-07-20",
+          "valores": {
+            "Dr. Furlan": 65.6,
+            "Clécio Luís": 27.6
+          }
+        },
+        {
+          "data": "2026-07-23",
+          "valores": {
+            "Dr. Furlan": 65.6,
+            "Clécio Luís": 28.2
+          }
+        }
+      ]
+    },
+    "AM": {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "pontos": [
+        {
+          "data": "2026-03-15",
+          "valores": {
+            "Omar Aziz": 38.5,
+            "Maria do Carmo": 36.7,
+            "David Almeida": 13.3
+          }
+        },
+        {
+          "data": "2026-03-18",
+          "valores": {
+            "Omar Aziz": 38.3,
+            "Maria do Carmo": 32.9,
+            "David Almeida": 16
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Omar Aziz": 37.6,
+            "Maria do Carmo": 34.1,
+            "David Almeida": 17.1
+          }
+        },
+        {
+          "data": "2026-04-28",
+          "valores": {
+            "Omar Aziz": 37.6,
+            "Maria do Carmo": 34.1,
+            "David Almeida": 17.1
+          }
+        },
+        {
+          "data": "2026-05-10",
+          "valores": {
+            "Omar Aziz": 36.7,
+            "Maria do Carmo": 30,
+            "David Almeida": 17.1
+          }
+        },
+        {
+          "data": "2026-05-14",
+          "valores": {
+            "Omar Aziz": 36.7,
+            "Maria do Carmo": 30,
+            "David Almeida": 17.1
+          }
+        },
+        {
+          "data": "2026-05-18",
+          "valores": {
+            "Omar Aziz": 36.7,
+            "Maria do Carmo": 30,
+            "David Almeida": 17.1
+          }
+        },
+        {
+          "data": "2026-05-22",
+          "valores": {
+            "Omar Aziz": 36.2,
+            "Maria do Carmo": 26.7,
+            "David Almeida": 17.6
+          }
+        },
+        {
+          "data": "2026-05-26",
+          "valores": {
+            "Omar Aziz": 36.2,
+            "Maria do Carmo": 26.7,
+            "David Almeida": 17.6
+          }
+        },
+        {
+          "data": "2026-05-27",
+          "valores": {
+            "Omar Aziz": 36.2,
+            "Maria do Carmo": 26.7,
+            "David Almeida": 17.6
+          }
+        },
+        {
+          "data": "2026-06-04",
+          "valores": {
+            "Omar Aziz": 29,
+            "Maria do Carmo": 25.2,
+            "Roberto Cidade": 17,
+            "David Almeida": 16.2
+          }
+        },
+        {
+          "data": "2026-06-10",
+          "valores": {
+            "Omar Aziz": 28.7,
+            "Maria do Carmo": 24.8,
+            "Roberto Cidade": 16.9,
+            "David Almeida": 16.6
+          }
+        },
+        {
+          "data": "2026-06-20",
+          "valores": {
+            "Omar Aziz": 28.6,
+            "Maria do Carmo": 24.2,
+            "Roberto Cidade": 17.2,
+            "David Almeida": 17.1
+          }
+        },
+        {
+          "data": "2026-06-26",
+          "valores": {
+            "Omar Aziz": 29.1,
+            "Maria do Carmo": 23.7,
+            "Roberto Cidade": 16.9,
+            "David Almeida": 17.3
+          }
+        },
+        {
+          "data": "2026-07-02",
+          "valores": {
+            "Omar Aziz": 29.6,
+            "Maria do Carmo": 23.1,
+            "Roberto Cidade": 17.2,
+            "David Almeida": 17.6
+          }
+        },
+        {
+          "data": "2026-07-05",
+          "valores": {
+            "Omar Aziz": 29.4,
+            "Maria do Carmo": 23.9,
+            "Roberto Cidade": 16.7,
+            "David Almeida": 17.2
+          }
+        },
+        {
+          "data": "2026-07-10",
+          "valores": {
+            "Omar Aziz": 29.5,
+            "Maria do Carmo": 23.4,
+            "Roberto Cidade": 17.3,
+            "David Almeida": 17.3
+          }
+        },
+        {
+          "data": "2026-07-23",
+          "valores": {
+            "Omar Aziz": 29,
+            "Maria do Carmo": 22.3,
+            "Roberto Cidade": 18.4,
+            "David Almeida": 17.2
+          }
+        }
+      ]
+    },
+    "BA": {
+      "uf": "BA",
+      "estado": "Bahia",
+      "pontos": [
+        {
+          "data": "2026-02-23",
+          "valores": {
+            "ACM Neto": 39.6,
+            "Jerônimo Rodrigues": 47
+          }
+        },
+        {
+          "data": "2026-02-27",
+          "valores": {
+            "ACM Neto": 41.9,
+            "Jerônimo Rodrigues": 42
+          }
+        },
+        {
+          "data": "2026-03-11",
+          "valores": {
+            "ACM Neto": 42.8,
+            "Jerônimo Rodrigues": 40.7
+          }
+        },
+        {
+          "data": "2026-03-20",
+          "valores": {
+            "ACM Neto": 45.3,
+            "Jerônimo Rodrigues": 38
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "ACM Neto": 48.3,
+            "Jerônimo Rodrigues": 39.8
+          }
+        },
+        {
+          "data": "2026-04-26",
+          "valores": {
+            "ACM Neto": 44.8,
+            "Jerônimo Rodrigues": 38.3
+          }
+        },
+        {
+          "data": "2026-04-27",
+          "valores": {
+            "ACM Neto": 47.8,
+            "Jerônimo Rodrigues": 39.3
+          }
+        },
+        {
+          "data": "2026-05-12",
+          "valores": {
+            "ACM Neto": 47.8,
+            "Jerônimo Rodrigues": 39.2
+          }
+        },
+        {
+          "data": "2026-05-26",
+          "valores": {
+            "ACM Neto": 50.5,
+            "Jerônimo Rodrigues": 38.8
+          }
+        },
+        {
+          "data": "2026-06-09",
+          "valores": {
+            "ACM Neto": 50.2,
+            "Jerônimo Rodrigues": 38.9
+          }
+        },
+        {
+          "data": "2026-06-30",
+          "valores": {
+            "ACM Neto": 50.3,
+            "Jerônimo Rodrigues": 38.3
+          }
+        },
+        {
+          "data": "2026-07-27",
+          "valores": {
+            "ACM Neto": 46.6,
+            "Jerônimo Rodrigues": 38.2
+          }
+        },
+        {
+          "data": "2026-07-29",
+          "valores": {
+            "ACM Neto": 46.6,
+            "Jerônimo Rodrigues": 38.2
+          }
+        }
+      ]
+    },
+    "CE": {
+      "uf": "CE",
+      "estado": "Ceará",
+      "pontos": [
+        {
+          "data": "2026-03-18",
+          "valores": {
+            "Ciro Gomes": 36,
+            "Elmano de Freitas": 43,
+            "Eduardo Girão": 5.9
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Ciro Gomes": 41.8,
+            "Elmano de Freitas": 40.9,
+            "Eduardo Girão": 9.3
+          }
+        },
+        {
+          "data": "2026-03-28",
+          "valores": {
+            "Ciro Gomes": 40.8,
+            "Elmano de Freitas": 41.3,
+            "Eduardo Girão": 10.6
+          }
+        },
+        {
+          "data": "2026-03-30",
+          "valores": {
+            "Ciro Gomes": 41.1,
+            "Elmano de Freitas": 37.1,
+            "Eduardo Girão": 7.5
+          }
+        },
+        {
+          "data": "2026-04-27",
+          "valores": {
+            "Ciro Gomes": 44.3,
+            "Elmano de Freitas": 36.6,
+            "Eduardo Girão": 8
+          }
+        },
+        {
+          "data": "2026-04-28",
+          "valores": {
+            "Ciro Gomes": 43.8,
+            "Elmano de Freitas": 35.9,
+            "Eduardo Girão": 7.3
+          }
+        },
+        {
+          "data": "2026-05-19",
+          "valores": {
+            "Ciro Gomes": 42.8,
+            "Elmano de Freitas": 37.6,
+            "Eduardo Girão": 7.5
+          }
+        },
+        {
+          "data": "2026-05-26",
+          "valores": {
+            "Ciro Gomes": 43.3,
+            "Elmano de Freitas": 37.9,
+            "Eduardo Girão": 6.6
+          }
+        },
+        {
+          "data": "2026-06-01",
+          "valores": {
+            "Ciro Gomes": 43.4,
+            "Elmano de Freitas": 37.2,
+            "Eduardo Girão": 6.2
+          }
+        },
+        {
+          "data": "2026-06-14",
+          "valores": {
+            "Ciro Gomes": 43.9,
+            "Elmano de Freitas": 38.7,
+            "Eduardo Girão": 5.9
+          }
+        },
+        {
+          "data": "2026-06-25",
+          "valores": {
+            "Ciro Gomes": 43.9,
+            "Elmano de Freitas": 38.7,
+            "Eduardo Girão": 5.6
+          }
+        },
+        {
+          "data": "2026-07-14",
+          "valores": {
+            "Ciro Gomes": 42.9,
+            "Elmano de Freitas": 40,
+            "Eduardo Girão": 5.9
+          }
+        },
+        {
+          "data": "2026-07-18",
+          "valores": {
+            "Ciro Gomes": 43.1,
+            "Elmano de Freitas": 38.5,
+            "Eduardo Girão": 5.9
+          }
+        },
+        {
+          "data": "2026-07-28",
+          "valores": {
+            "Ciro Gomes": 43.1,
+            "Elmano de Freitas": 37.4,
+            "Eduardo Girão": 5.1
+          }
+        }
+      ]
+    },
+    "ES": {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "pontos": [
+        {
+          "data": "2026-03-14",
+          "valores": {
+            "Ricardo Ferraço": 34.6,
+            "Lorenzo Pazolini": 34.2,
+            "Helder Salomão": 8.3
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Ricardo Ferraço": 31.5,
+            "Lorenzo Pazolini": 33.6,
+            "Helder Salomão": 11
+          }
+        },
+        {
+          "data": "2026-03-25",
+          "valores": {
+            "Ricardo Ferraço": 30.8,
+            "Lorenzo Pazolini": 28.8,
+            "Helder Salomão": 9.7
+          }
+        },
+        {
+          "data": "2026-04-16",
+          "valores": {
+            "Ricardo Ferraço": 28.7,
+            "Lorenzo Pazolini": 32.2,
+            "Helder Salomão": 9.4
+          }
+        },
+        {
+          "data": "2026-04-28",
+          "valores": {
+            "Ricardo Ferraço": 28.5,
+            "Lorenzo Pazolini": 29.6,
+            "Helder Salomão": 9.2
+          }
+        },
+        {
+          "data": "2026-05-26",
+          "valores": {
+            "Ricardo Ferraço": 26.8,
+            "Lorenzo Pazolini": 29.5,
+            "Helder Salomão": 11.3
+          }
+        },
+        {
+          "data": "2026-06-08",
+          "valores": {
+            "Ricardo Ferraço": 31,
+            "Lorenzo Pazolini": 29.9,
+            "Helder Salomão": 10.8
+          }
+        },
+        {
+          "data": "2026-06-13",
+          "valores": {
+            "Ricardo Ferraço": 30.9,
+            "Lorenzo Pazolini": 31.9,
+            "Helder Salomão": 9.9
+          }
+        },
+        {
+          "data": "2026-07-07",
+          "valores": {
+            "Ricardo Ferraço": 30.2,
+            "Lorenzo Pazolini": 33.2,
+            "Helder Salomão": 10.5
+          }
+        },
+        {
+          "data": "2026-07-13",
+          "valores": {
+            "Ricardo Ferraço": 30.5,
+            "Lorenzo Pazolini": 31.1,
+            "Helder Salomão": 10.6
+          }
+        },
+        {
+          "data": "2026-07-21",
+          "valores": {
+            "Ricardo Ferraço": 32.7,
+            "Lorenzo Pazolini": 30.4,
+            "Helder Salomão": 10.2
+          }
+        }
+      ]
+    },
+    "GO": {
+      "uf": "GO",
+      "estado": "Goiás",
+      "pontos": [
+        {
+          "data": "2026-03-17",
+          "valores": {
+            "Daniel Vilela": 35.2,
+            "Marconi Perillo": 24.7,
+            "Wilder Morais": 12.2
+          }
+        },
+        {
+          "data": "2026-04-03",
+          "valores": {
+            "Daniel Vilela": 40.5,
+            "Marconi Perillo": 25.2,
+            "Wilder Morais": 11.8
+          }
+        },
+        {
+          "data": "2026-04-10",
+          "valores": {
+            "Daniel Vilela": 41.8,
+            "Marconi Perillo": 22.8,
+            "Wilder Morais": 13.5
+          }
+        },
+        {
+          "data": "2026-04-13",
+          "valores": {
+            "Daniel Vilela": 41,
+            "Marconi Perillo": 22.4,
+            "Wilder Morais": 16.1
+          }
+        },
+        {
+          "data": "2026-04-28",
+          "valores": {
+            "Daniel Vilela": 38.3,
+            "Marconi Perillo": 21.9,
+            "Wilder Morais": 14
+          }
+        },
+        {
+          "data": "2026-04-30",
+          "valores": {
+            "Daniel Vilela": 38.3,
+            "Marconi Perillo": 21.9,
+            "Wilder Morais": 14
+          }
+        },
+        {
+          "data": "2026-05-12",
+          "valores": {
+            "Daniel Vilela": 38.6,
+            "Marconi Perillo": 22.9,
+            "Wilder Morais": 14
+          }
+        },
+        {
+          "data": "2026-05-16",
+          "valores": {
+            "Daniel Vilela": 39.1,
+            "Marconi Perillo": 22.9,
+            "Wilder Morais": 13.7
+          }
+        },
+        {
+          "data": "2026-05-17",
+          "valores": {
+            "Daniel Vilela": 39.6,
+            "Marconi Perillo": 23.1,
+            "Wilder Morais": 13.2
+          }
+        },
+        {
+          "data": "2026-05-26",
+          "valores": {
+            "Daniel Vilela": 39,
+            "Marconi Perillo": 22.6,
+            "Wilder Morais": 12.9
+          }
+        },
+        {
+          "data": "2026-05-29",
+          "valores": {
+            "Daniel Vilela": 38.1,
+            "Marconi Perillo": 21.7,
+            "Wilder Morais": 13.7
+          }
+        },
+        {
+          "data": "2026-06-02",
+          "valores": {
+            "Daniel Vilela": 37,
+            "Marconi Perillo": 21.2,
+            "Wilder Morais": 14.5
+          }
+        },
+        {
+          "data": "2026-06-13",
+          "valores": {
+            "Daniel Vilela": 35.7,
+            "Marconi Perillo": 22.9,
+            "Wilder Morais": 13.8
+          }
+        },
+        {
+          "data": "2026-06-18",
+          "valores": {
+            "Daniel Vilela": 35.5,
+            "Marconi Perillo": 23,
+            "Wilder Morais": 13.9
+          }
+        },
+        {
+          "data": "2026-06-30",
+          "valores": {
+            "Daniel Vilela": 34.9,
+            "Marconi Perillo": 23.9,
+            "Wilder Morais": 14
+          }
+        },
+        {
+          "data": "2026-07-05",
+          "valores": {
+            "Daniel Vilela": 35.8,
+            "Marconi Perillo": 24.2,
+            "Wilder Morais": 13.7
+          }
+        },
+        {
+          "data": "2026-07-08",
+          "valores": {
+            "Daniel Vilela": 37.3,
+            "Marconi Perillo": 24.5,
+            "Wilder Morais": 13.9
+          }
+        },
+        {
+          "data": "2026-07-16",
+          "valores": {
+            "Daniel Vilela": 37.1,
+            "Marconi Perillo": 23.5,
+            "Wilder Morais": 15.2
+          }
+        },
+        {
+          "data": "2026-07-28",
+          "valores": {
+            "Daniel Vilela": 37.2,
+            "Marconi Perillo": 23.3,
+            "Wilder Morais": 14.9
+          }
+        }
+      ]
+    },
+    "MA": {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "pontos": [
+        {
+          "data": "2026-07-16",
+          "valores": {
+            "Eduardo Braide": 43.7,
+            "Orleans Brandão": 39.5,
+            "Felipe Camarão": 5.6
+          }
+        },
+        {
+          "data": "2026-07-29",
+          "valores": {
+            "Eduardo Braide": 48.4,
+            "Orleans Brandão": 30.9,
+            "Felipe Camarão": 6.6
+          }
+        }
+      ]
+    },
+    "MT": {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "pontos": [
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Wellington Fagundes": 38.6,
+            "Otaviano Pivetta": 23,
+            "Natasha Slhessarenko": 8.4
+          }
+        },
+        {
+          "data": "2026-04-30",
+          "valores": {
+            "Wellington Fagundes": 42,
+            "Otaviano Pivetta": 26,
+            "Natasha Slhessarenko": 8.3
+          }
+        },
+        {
+          "data": "2026-05-03",
+          "valores": {
+            "Wellington Fagundes": 35.8,
+            "Otaviano Pivetta": 19.9,
+            "Natasha Slhessarenko": 8
+          }
+        },
+        {
+          "data": "2026-05-17",
+          "valores": {
+            "Wellington Fagundes": 33.4,
+            "Otaviano Pivetta": 19.9,
+            "Natasha Slhessarenko": 7.7
+          }
+        },
+        {
+          "data": "2026-05-30",
+          "valores": {
+            "Wellington Fagundes": 33.8,
+            "Otaviano Pivetta": 19.7,
+            "Natasha Slhessarenko": 8.3
+          }
+        },
+        {
+          "data": "2026-05-31",
+          "valores": {
+            "Wellington Fagundes": 33.8,
+            "Otaviano Pivetta": 19.7,
+            "Natasha Slhessarenko": 8.3
+          }
+        },
+        {
+          "data": "2026-06-22",
+          "valores": {
+            "Wellington Fagundes": 33.8,
+            "Otaviano Pivetta": 19.7,
+            "Natasha Slhessarenko": 8.3
+          }
+        },
+        {
+          "data": "2026-07-04",
+          "valores": {
+            "Wellington Fagundes": 31.5,
+            "Otaviano Pivetta": 21.5,
+            "Natasha Slhessarenko": 8.7
+          }
+        },
+        {
+          "data": "2026-07-21",
+          "valores": {
+            "Wellington Fagundes": 27.6,
+            "Otaviano Pivetta": 23.8,
+            "Natasha Slhessarenko": 9.9
+          }
+        },
+        {
+          "data": "2026-07-27",
+          "valores": {
+            "Wellington Fagundes": 27.3,
+            "Otaviano Pivetta": 22.9,
+            "Natasha Slhessarenko": 9.4
+          }
+        }
+      ]
+    },
+    "MG": {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "pontos": [
+        {
+          "data": "2026-03-12",
+          "valores": {
+            "Cleitinho": 41.8,
+            "Alexandre Kalil": 21.6,
+            "Gabriel Azevedo": 10
+          }
+        },
+        {
+          "data": "2026-03-18",
+          "valores": {
+            "Cleitinho": 34.4,
+            "Mateus Simões": 17.5,
+            "Gabriel Azevedo": 6.9
+          }
+        },
+        {
+          "data": "2026-03-28",
+          "valores": {
+            "Cleitinho": 34.4,
+            "Mateus Simões": 17.5,
+            "Gabriel Azevedo": 6.9
+          }
+        },
+        {
+          "data": "2026-03-30",
+          "valores": {
+            "Cleitinho": 36,
+            "Mateus Simões": 20.8,
+            "Gabriel Azevedo": 7.4
+          }
+        },
+        {
+          "data": "2026-04-26",
+          "valores": {
+            "Cleitinho": 36.3,
+            "Mateus Simões": 19.5,
+            "Gabriel Azevedo": 6.2
+          }
+        },
+        {
+          "data": "2026-05-03",
+          "valores": {
+            "Cleitinho": 34.8,
+            "Mateus Simões": 20.6,
+            "Gabriel Azevedo": 6.4
+          }
+        },
+        {
+          "data": "2026-05-20",
+          "valores": {
+            "Cleitinho": 35.9,
+            "Mateus Simões": 19.6,
+            "Gabriel Azevedo": 8.1
+          }
+        },
+        {
+          "data": "2026-06-17",
+          "valores": {
+            "Cleitinho": 35.9,
+            "Mateus Simões": 19.6,
+            "Gabriel Azevedo": 8.1
+          }
+        },
+        {
+          "data": "2026-06-23",
+          "valores": {
+            "Cleitinho": 35.9,
+            "Mateus Simões": 19.6,
+            "Gabriel Azevedo": 8.1
+          }
+        },
+        {
+          "data": "2026-07-26",
+          "valores": {
+            "Cleitinho": 34.3,
+            "Alexandre Kalil": 13.2,
+            "Mateus Simões": 5.6,
+            "Gabriel Azevedo": 3.8,
+            "Ben Mendes": 2.3
+          }
+        },
+        {
+          "data": "2026-07-29",
+          "valores": {
+            "Cleitinho": 35.3,
+            "Alexandre Kalil": 14,
+            "Mateus Simões": 7.7,
+            "Gabriel Azevedo": 5.2,
+            "Ben Mendes": 1.6
+          }
+        }
+      ]
+    },
+    "PA": {
+      "uf": "PA",
+      "estado": "Pará",
+      "pontos": [
+        {
+          "data": "2026-03-21",
+          "valores": {
+            "Daniel Santos": 24.7,
+            "Hana Ghassan": 26,
+            "Mário Couto": 14.4,
+            "Araceli Lemos": 3.3
+          }
+        },
+        {
+          "data": "2026-03-30",
+          "valores": {
+            "Daniel Santos": 33.8,
+            "Hana Ghassan": 24.5,
+            "Mário Couto": 16.3
+          }
+        },
+        {
+          "data": "2026-04-14",
+          "valores": {
+            "Daniel Santos": 33.8,
+            "Hana Ghassan": 24.5,
+            "Mário Couto": 16.3
+          }
+        },
+        {
+          "data": "2026-04-24",
+          "valores": {
+            "Daniel Santos": 33.8,
+            "Hana Ghassan": 24.5,
+            "Mário Couto": 16.3
+          }
+        },
+        {
+          "data": "2026-04-25",
+          "valores": {
+            "Daniel Santos": 25,
+            "Hana Ghassan": 23.6,
+            "Mário Couto": 11.6,
+            "Araceli Lemos": 2.6
+          }
+        },
+        {
+          "data": "2026-04-29",
+          "valores": {
+            "Daniel Santos": 25,
+            "Hana Ghassan": 23.6,
+            "Mário Couto": 11.6,
+            "Araceli Lemos": 2.6
+          }
+        },
+        {
+          "data": "2026-04-30",
+          "valores": {
+            "Daniel Santos": 26.3,
+            "Hana Ghassan": 24.5,
+            "Mário Couto": 8.3,
+            "Araceli Lemos": 3.1
+          }
+        },
+        {
+          "data": "2026-05-04",
+          "valores": {
+            "Daniel Santos": 26.7,
+            "Hana Ghassan": 24.4,
+            "Mário Couto": 8.2,
+            "Araceli Lemos": 2.8
+          }
+        },
+        {
+          "data": "2026-05-07",
+          "valores": {
+            "Daniel Santos": 26.7,
+            "Hana Ghassan": 24.4,
+            "Mário Couto": 8.2,
+            "Araceli Lemos": 2.8
+          }
+        },
+        {
+          "data": "2026-05-14",
+          "valores": {
+            "Daniel Santos": 26.6,
+            "Hana Ghassan": 25.6,
+            "Mário Couto": 7.6,
+            "Araceli Lemos": 2.6
+          }
+        },
+        {
+          "data": "2026-05-17",
+          "valores": {
+            "Daniel Santos": 26.6,
+            "Hana Ghassan": 25.6,
+            "Mário Couto": 7.6,
+            "Araceli Lemos": 2.6
+          }
+        },
+        {
+          "data": "2026-05-24",
+          "valores": {
+            "Daniel Santos": 27.3,
+            "Hana Ghassan": 24.8,
+            "Mário Couto": 8.6,
+            "Araceli Lemos": 2.5
+          }
+        },
+        {
+          "data": "2026-05-31",
+          "valores": {
+            "Daniel Santos": 32.4,
+            "Hana Ghassan": 26.3,
+            "Mário Couto": 7.1,
+            "Araceli Lemos": 3.1
+          }
+        },
+        {
+          "data": "2026-06-10",
+          "valores": {
+            "Daniel Santos": 32.7,
+            "Hana Ghassan": 26.3,
+            "Mário Couto": 6.9,
+            "Araceli Lemos": 3
+          }
+        },
+        {
+          "data": "2026-06-14",
+          "valores": {
+            "Daniel Santos": 29.6,
+            "Hana Ghassan": 27.6,
+            "Mário Couto": 5.8,
+            "Araceli Lemos": 2.3
+          }
+        },
+        {
+          "data": "2026-06-20",
+          "valores": {
+            "Daniel Santos": 29.6,
+            "Hana Ghassan": 27.6,
+            "Mário Couto": 5.8,
+            "Araceli Lemos": 2.3
+          }
+        },
+        {
+          "data": "2026-06-24",
+          "valores": {
+            "Daniel Santos": 29.6,
+            "Hana Ghassan": 27.6,
+            "Mário Couto": 5.8,
+            "Araceli Lemos": 2.3
+          }
+        },
+        {
+          "data": "2026-06-25",
+          "valores": {
+            "Daniel Santos": 30,
+            "Hana Ghassan": 27.8,
+            "Mário Couto": 6.3,
+            "Araceli Lemos": 2.3
+          }
+        },
+        {
+          "data": "2026-07-07",
+          "valores": {
+            "Daniel Santos": 30.7,
+            "Hana Ghassan": 28.1,
+            "Mário Couto": 7,
+            "Araceli Lemos": 2.4
+          }
+        },
+        {
+          "data": "2026-07-10",
+          "valores": {
+            "Daniel Santos": 30.7,
+            "Hana Ghassan": 28.1,
+            "Mário Couto": 7,
+            "Araceli Lemos": 2.4
+          }
+        },
+        {
+          "data": "2026-07-14",
+          "valores": {
+            "Daniel Santos": 29.2,
+            "Hana Ghassan": 21.6
+          }
+        },
+        {
+          "data": "2026-07-25",
+          "valores": {
+            "Daniel Santos": 29,
+            "Hana Ghassan": 27.4,
+            "Mário Couto": 7.6,
+            "Araceli Lemos": 2.3
+          }
+        }
+      ]
+    },
+    "PB": {
+      "uf": "PB",
+      "estado": "Paraíba",
+      "pontos": [
+        {
+          "data": "2026-03-28",
+          "valores": {
+            "Lucas Ribeiro": 24.9,
+            "Efraim Filho": 17
+          }
+        },
+        {
+          "data": "2026-03-30",
+          "valores": {
+            "Lucas Ribeiro": 31.3,
+            "Efraim Filho": 22
+          }
+        },
+        {
+          "data": "2026-04-28",
+          "valores": {
+            "Lucas Ribeiro": 31.3,
+            "Efraim Filho": 22
+          }
+        },
+        {
+          "data": "2026-04-30",
+          "valores": {
+            "Lucas Ribeiro": 36.4,
+            "Efraim Filho": 27.4
+          }
+        },
+        {
+          "data": "2026-05-26",
+          "valores": {
+            "Lucas Ribeiro": 36.4,
+            "Efraim Filho": 27.4
+          }
+        },
+        {
+          "data": "2026-05-27",
+          "valores": {
+            "Lucas Ribeiro": 36.4,
+            "Efraim Filho": 27.4
+          }
+        },
+        {
+          "data": "2026-05-29",
+          "valores": {
+            "Lucas Ribeiro": 31.5,
+            "Efraim Filho": 21.3
+          }
+        },
+        {
+          "data": "2026-06-09",
+          "valores": {
+            "Lucas Ribeiro": 30.7,
+            "Efraim Filho": 19.6
+          }
+        },
+        {
+          "data": "2026-06-12",
+          "valores": {
+            "Lucas Ribeiro": 33.1,
+            "Efraim Filho": 16.9
+          }
+        },
+        {
+          "data": "2026-06-20",
+          "valores": {
+            "Lucas Ribeiro": 30.2,
+            "Efraim Filho": 16.2
+          }
+        },
+        {
+          "data": "2026-06-27",
+          "valores": {
+            "Lucas Ribeiro": 30.8,
+            "Efraim Filho": 16.8
+          }
+        },
+        {
+          "data": "2026-07-07",
+          "valores": {
+            "Lucas Ribeiro": 31,
+            "Efraim Filho": 17
+          }
+        },
+        {
+          "data": "2026-07-12",
+          "valores": {
+            "Lucas Ribeiro": 30.4,
+            "Efraim Filho": 16.9
+          }
+        }
+      ]
+    },
+    "PR": {
+      "uf": "PR",
+      "estado": "Paraná",
+      "pontos": [
+        {
+          "data": "2026-01-22",
+          "valores": {
+            "Sergio Moro": 40.8,
+            "Requião Filho": 19.1,
+            "Luiz França": 0.9
+          }
+        },
+        {
+          "data": "2026-03-04",
+          "valores": {
+            "Sergio Moro": 43.1,
+            "Requião Filho": 22.3,
+            "Luiz França": 1
+          }
+        },
+        {
+          "data": "2026-03-20",
+          "valores": {
+            "Sergio Moro": 44,
+            "Requião Filho": 21.1,
+            "Luiz França": 1.1
+          }
+        },
+        {
+          "data": "2026-03-30",
+          "valores": {
+            "Sergio Moro": 50.2,
+            "Requião Filho": 26.4,
+            "Rafael Greca": 7.6,
+            "Luiz França": 2.5
+          }
+        },
+        {
+          "data": "2026-04-12",
+          "valores": {
+            "Sergio Moro": 50.2,
+            "Requião Filho": 26.4,
+            "Rafael Greca": 7.6,
+            "Luiz França": 2.5
+          }
+        },
+        {
+          "data": "2026-04-25",
+          "valores": {
+            "Sergio Moro": 50.2,
+            "Requião Filho": 26.4,
+            "Rafael Greca": 7.6,
+            "Luiz França": 2.5
+          }
+        },
+        {
+          "data": "2026-04-29",
+          "valores": {
+            "Sergio Moro": 50.2,
+            "Requião Filho": 26.4,
+            "Rafael Greca": 7.6,
+            "Luiz França": 2.5
+          }
+        },
+        {
+          "data": "2026-05-03",
+          "valores": {
+            "Sergio Moro": 50.2,
+            "Requião Filho": 26.4,
+            "Rafael Greca": 7.6,
+            "Luiz França": 2.5
+          }
+        },
+        {
+          "data": "2026-05-10",
+          "valores": {
+            "Sergio Moro": 50.2,
+            "Requião Filho": 26.4,
+            "Rafael Greca": 7.6,
+            "Luiz França": 2.5
+          }
+        },
+        {
+          "data": "2026-05-20",
+          "valores": {
+            "Sergio Moro": 50.2,
+            "Requião Filho": 26.4,
+            "Rafael Greca": 7.6,
+            "Luiz França": 2.5
+          }
+        },
+        {
+          "data": "2026-06-06",
+          "valores": {
+            "Sergio Moro": 45.5,
+            "Requião Filho": 18.3,
+            "Rafael Greca": 12.3,
+            "Sandro Alex": 8.8,
+            "Luiz França": 1.5,
+            "Tony Garcia": 0.7
+          }
+        },
+        {
+          "data": "2026-06-09",
+          "valores": {
+            "Sergio Moro": 44.7,
+            "Requião Filho": 18.7,
+            "Rafael Greca": 12.7,
+            "Sandro Alex": 9.3,
+            "Luiz França": 1.3,
+            "Tony Garcia": 0.9
+          }
+        },
+        {
+          "data": "2026-06-13",
+          "valores": {
+            "Sergio Moro": 43.5,
+            "Requião Filho": 18.7,
+            "Rafael Greca": 12.5,
+            "Sandro Alex": 10.2,
+            "Luiz França": 1.3,
+            "Tony Garcia": 0.9
+          }
+        },
+        {
+          "data": "2026-06-29",
+          "valores": {
+            "Sergio Moro": 42.5,
+            "Requião Filho": 19.2,
+            "Rafael Greca": 13.9,
+            "Sandro Alex": 8.8,
+            "Luiz França": 1.1,
+            "Tony Garcia": 1.1
+          }
+        },
+        {
+          "data": "2026-07-06",
+          "valores": {
+            "Sergio Moro": 41.9,
+            "Requião Filho": 19.6,
+            "Rafael Greca": 14,
+            "Sandro Alex": 9.2,
+            "Luiz França": 1.3,
+            "Tony Garcia": 1.2
+          }
+        },
+        {
+          "data": "2026-07-21",
+          "valores": {
+            "Sergio Moro": 41.7,
+            "Requião Filho": 19.4,
+            "Rafael Greca": 13.2,
+            "Sandro Alex": 9.4,
+            "Luiz França": 1.6,
+            "Tony Garcia": 1.3
+          }
+        },
+        {
+          "data": "2026-07-25",
+          "valores": {
+            "Sergio Moro": 41.2,
+            "Requião Filho": 19.2,
+            "Rafael Greca": 13,
+            "Sandro Alex": 9,
+            "Luiz França": 1.5,
+            "Tony Garcia": 1.3
+          }
+        },
+        {
+          "data": "2026-07-28",
+          "valores": {
+            "Sergio Moro": 40.6,
+            "Requião Filho": 19.2,
+            "Rafael Greca": 12.7,
+            "Sandro Alex": 10.2,
+            "Luiz França": 1.3,
+            "Tony Garcia": 1.1
+          }
+        }
+      ]
+    },
+    "PI": {
+      "uf": "PI",
+      "estado": "Piauí",
+      "pontos": [
+        {
+          "data": "2026-03-30",
+          "valores": {
+            "Rafael Fonteles": 53.2,
+            "Joel Rodrigues": 31.3,
+            "Toni Rodrigues": 6.3,
+            "Lúcia Santos": 1.3
+          }
+        },
+        {
+          "data": "2026-04-10",
+          "valores": {
+            "Rafael Fonteles": 52.6,
+            "Joel Rodrigues": 31.7,
+            "Toni Rodrigues": 9.9,
+            "Lúcia Santos": 1
+          }
+        },
+        {
+          "data": "2026-04-30",
+          "valores": {
+            "Rafael Fonteles": 52.6,
+            "Joel Rodrigues": 31.7,
+            "Toni Rodrigues": 9.9,
+            "Lúcia Santos": 1
+          }
+        },
+        {
+          "data": "2026-05-18",
+          "valores": {
+            "Rafael Fonteles": 52.6,
+            "Joel Rodrigues": 31.7,
+            "Toni Rodrigues": 9.9,
+            "Lúcia Santos": 1
+          }
+        },
+        {
+          "data": "2026-06-06",
+          "valores": {
+            "Rafael Fonteles": 52.6,
+            "Joel Rodrigues": 31.7,
+            "Toni Rodrigues": 9.9,
+            "Lúcia Santos": 1
+          }
+        },
+        {
+          "data": "2026-06-18",
+          "valores": {
+            "Rafael Fonteles": 52.6,
+            "Joel Rodrigues": 31.7,
+            "Toni Rodrigues": 9.9,
+            "Lúcia Santos": 1
+          }
+        },
+        {
+          "data": "2026-06-21",
+          "valores": {
+            "Rafael Fonteles": 66.7,
+            "Joel Rodrigues": 17.8,
+            "Toni Rodrigues": 1.5,
+            "Elizeu Aguiar": 1,
+            "Lúcia Santos": 0.5
+          }
+        },
+        {
+          "data": "2026-06-24",
+          "valores": {
+            "Rafael Fonteles": 63,
+            "Joel Rodrigues": 20,
+            "Toni Rodrigues": 1.3,
+            "Elizeu Aguiar": 0.9,
+            "Lúcia Santos": 0.4
+          }
+        },
+        {
+          "data": "2026-07-11",
+          "valores": {
+            "Rafael Fonteles": 56.4,
+            "Joel Rodrigues": 25.1,
+            "Toni Rodrigues": 1.8,
+            "Elizeu Aguiar": 0.9,
+            "Lúcia Santos": 0.4
+          }
+        },
+        {
+          "data": "2026-07-12",
+          "valores": {
+            "Rafael Fonteles": 59.8,
+            "Joel Rodrigues": 23.8,
+            "Toni Rodrigues": 1.7,
+            "Elizeu Aguiar": 0.9,
+            "Lúcia Santos": 0.5
+          }
+        },
+        {
+          "data": "2026-07-13",
+          "valores": {
+            "Rafael Fonteles": 59.8,
+            "Joel Rodrigues": 23.8,
+            "Toni Rodrigues": 1.7,
+            "Elizeu Aguiar": 0.9,
+            "Lúcia Santos": 0.5
+          }
+        },
+        {
+          "data": "2026-07-20",
+          "valores": {
+            "Rafael Fonteles": 60.7,
+            "Joel Rodrigues": 23.3,
+            "Toni Rodrigues": 1.9,
+            "Elizeu Aguiar": 0.9,
+            "Lúcia Santos": 0.5
+          }
+        }
+      ]
+    },
+    "RJ": {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "pontos": [
+        {
+          "data": "2026-03-10",
+          "valores": {
+            "Eduardo Paes": 44,
+            "Douglas Ruas": 12,
+            "William Siri": 2.5
+          }
+        },
+        {
+          "data": "2026-04-04",
+          "valores": {
+            "Eduardo Paes": 46.6,
+            "Douglas Ruas": 21.4,
+            "William Siri": 5.1
+          }
+        },
+        {
+          "data": "2026-04-25",
+          "valores": {
+            "Eduardo Paes": 46.6,
+            "Douglas Ruas": 21.4,
+            "William Siri": 5.1
+          }
+        },
+        {
+          "data": "2026-04-26",
+          "valores": {
+            "Eduardo Paes": 46.6,
+            "Douglas Ruas": 21.4,
+            "William Siri": 5.1
+          }
+        },
+        {
+          "data": "2026-05-08",
+          "valores": {
+            "Eduardo Paes": 46.6,
+            "Douglas Ruas": 21.4,
+            "William Siri": 5.1
+          }
+        },
+        {
+          "data": "2026-06-03",
+          "valores": {
+            "Eduardo Paes": 46.6,
+            "Douglas Ruas": 21.4,
+            "William Siri": 5.1
+          }
+        },
+        {
+          "data": "2026-07-01",
+          "valores": {
+            "Eduardo Paes": 50.9,
+            "Douglas Ruas": 13.5,
+            "André Marinho": 3.9,
+            "William Siri": 1.2
+          }
+        },
+        {
+          "data": "2026-07-02",
+          "valores": {
+            "Eduardo Paes": 42.7,
+            "Douglas Ruas": 12,
+            "Anthony Garotinho": 9.2,
+            "André Marinho": 2.9,
+            "William Siri": 0.8
+          }
+        },
+        {
+          "data": "2026-07-15",
+          "valores": {
+            "Eduardo Paes": 42.7,
+            "Douglas Ruas": 12,
+            "Anthony Garotinho": 9.2,
+            "André Marinho": 2.9,
+            "William Siri": 0.8
+          }
+        },
+        {
+          "data": "2026-07-25",
+          "valores": {
+            "Eduardo Paes": 41.4,
+            "Douglas Ruas": 10.9,
+            "André Marinho": 1,
+            "William Siri": 2
+          }
+        },
+        {
+          "data": "2026-07-27",
+          "valores": {
+            "Eduardo Paes": 41.4,
+            "Douglas Ruas": 10.9,
+            "André Marinho": 1,
+            "William Siri": 2
+          }
+        },
+        {
+          "data": "2026-07-30",
+          "valores": {
+            "Eduardo Paes": 41.4,
+            "Douglas Ruas": 12.6,
+            "Anthony Garotinho": 11.1,
+            "André Marinho": 2.2,
+            "William Siri": 1.9
+          }
+        }
+      ]
+    },
+    "RN": {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "pontos": [
+        {
+          "data": "2026-03-26",
+          "valores": {
+            "Allyson Bezerra": 34.6,
+            "Álvaro Dias": 25.5,
+            "Cadu Xavier": 7.8
+          }
+        },
+        {
+          "data": "2026-03-28",
+          "valores": {
+            "Allyson Bezerra": 32.9,
+            "Álvaro Dias": 29,
+            "Cadu Xavier": 8.7
+          }
+        },
+        {
+          "data": "2026-04-04",
+          "valores": {
+            "Allyson Bezerra": 32,
+            "Álvaro Dias": 28.6,
+            "Cadu Xavier": 13.6
+          }
+        },
+        {
+          "data": "2026-04-11",
+          "valores": {
+            "Allyson Bezerra": 30.9,
+            "Álvaro Dias": 29.6,
+            "Cadu Xavier": 16.6
+          }
+        },
+        {
+          "data": "2026-04-17",
+          "valores": {
+            "Allyson Bezerra": 30.9,
+            "Álvaro Dias": 29.6,
+            "Cadu Xavier": 16.6
+          }
+        },
+        {
+          "data": "2026-04-20",
+          "valores": {
+            "Allyson Bezerra": 33.4,
+            "Álvaro Dias": 26.7,
+            "Cadu Xavier": 15.9
+          }
+        },
+        {
+          "data": "2026-05-08",
+          "valores": {
+            "Allyson Bezerra": 31.8,
+            "Álvaro Dias": 27.4,
+            "Cadu Xavier": 17.5
+          }
+        },
+        {
+          "data": "2026-05-09",
+          "valores": {
+            "Allyson Bezerra": 31.8,
+            "Álvaro Dias": 27.4,
+            "Cadu Xavier": 17.5
+          }
+        },
+        {
+          "data": "2026-05-21",
+          "valores": {
+            "Allyson Bezerra": 31,
+            "Álvaro Dias": 29.2,
+            "Cadu Xavier": 19.2
+          }
+        },
+        {
+          "data": "2026-05-22",
+          "valores": {
+            "Allyson Bezerra": 31,
+            "Álvaro Dias": 29.2,
+            "Cadu Xavier": 19.2
+          }
+        },
+        {
+          "data": "2026-05-23",
+          "valores": {
+            "Allyson Bezerra": 31,
+            "Álvaro Dias": 29.2,
+            "Cadu Xavier": 19.2
+          }
+        },
+        {
+          "data": "2026-05-27",
+          "valores": {
+            "Allyson Bezerra": 29.9,
+            "Álvaro Dias": 28.5,
+            "Cadu Xavier": 25
+          }
+        },
+        {
+          "data": "2026-05-28",
+          "valores": {
+            "Allyson Bezerra": 29.9,
+            "Álvaro Dias": 28.5,
+            "Cadu Xavier": 25
+          }
+        },
+        {
+          "data": "2026-05-29",
+          "valores": {
+            "Allyson Bezerra": 29.9,
+            "Álvaro Dias": 28.5,
+            "Cadu Xavier": 25
+          }
+        },
+        {
+          "data": "2026-05-31",
+          "valores": {
+            "Allyson Bezerra": 28.9,
+            "Álvaro Dias": 29.6,
+            "Cadu Xavier": 24.9
+          }
+        },
+        {
+          "data": "2026-06-14",
+          "valores": {
+            "Allyson Bezerra": 28.9,
+            "Álvaro Dias": 29.6,
+            "Cadu Xavier": 24.9
+          }
+        },
+        {
+          "data": "2026-06-17",
+          "valores": {
+            "Allyson Bezerra": 28.9,
+            "Álvaro Dias": 29.6,
+            "Cadu Xavier": 24.9
+          }
+        },
+        {
+          "data": "2026-06-22",
+          "valores": {
+            "Allyson Bezerra": 35.6,
+            "Álvaro Dias": 25,
+            "Cadu Xavier": 12.4
+          }
+        },
+        {
+          "data": "2026-07-05",
+          "valores": {
+            "Allyson Bezerra": 35.5,
+            "Álvaro Dias": 25.6,
+            "Cadu Xavier": 12.2
+          }
+        },
+        {
+          "data": "2026-07-06",
+          "valores": {
+            "Allyson Bezerra": 35.5,
+            "Álvaro Dias": 25.5,
+            "Cadu Xavier": 13
+          }
+        },
+        {
+          "data": "2026-07-08",
+          "valores": {
+            "Allyson Bezerra": 34.4,
+            "Álvaro Dias": 26.4,
+            "Cadu Xavier": 13.7
+          }
+        },
+        {
+          "data": "2026-07-10",
+          "valores": {
+            "Allyson Bezerra": 35.2,
+            "Álvaro Dias": 26.4,
+            "Cadu Xavier": 13.7
+          }
+        },
+        {
+          "data": "2026-07-11",
+          "valores": {
+            "Allyson Bezerra": 35.2,
+            "Álvaro Dias": 27.1,
+            "Cadu Xavier": 13.4
+          }
+        },
+        {
+          "data": "2026-07-17",
+          "valores": {
+            "Allyson Bezerra": 36,
+            "Álvaro Dias": 25.3,
+            "Cadu Xavier": 13.7
+          }
+        },
+        {
+          "data": "2026-07-21",
+          "valores": {
+            "Allyson Bezerra": 36,
+            "Álvaro Dias": 25.3,
+            "Cadu Xavier": 13.7
+          }
+        },
+        {
+          "data": "2026-07-22",
+          "valores": {
+            "Allyson Bezerra": 36.3,
+            "Álvaro Dias": 25.6,
+            "Cadu Xavier": 14
+          }
+        },
+        {
+          "data": "2026-07-25",
+          "valores": {
+            "Allyson Bezerra": 36.5,
+            "Álvaro Dias": 25.5,
+            "Cadu Xavier": 14
+          }
+        }
+      ]
+    },
+    "RS": {
+      "uf": "RS",
+      "estado": "Rio Grande do Sul",
+      "pontos": [
+        {
+          "data": "2026-02-10",
+          "valores": {
+            "Luciano Zucco": 27.9,
+            "Juliana Brizola": 19.1,
+            "Gabriel Souza": 5.9
+          }
+        },
+        {
+          "data": "2026-03-16",
+          "valores": {
+            "Luciano Zucco": 31.2,
+            "Juliana Brizola": 24.2,
+            "Gabriel Souza": 11.4
+          }
+        },
+        {
+          "data": "2026-04-04",
+          "valores": {
+            "Luciano Zucco": 36.1,
+            "Juliana Brizola": 19.8,
+            "Gabriel Souza": 9.8
+          }
+        },
+        {
+          "data": "2026-04-07",
+          "valores": {
+            "Luciano Zucco": 33.8,
+            "Juliana Brizola": 20,
+            "Gabriel Souza": 9.4
+          }
+        },
+        {
+          "data": "2026-04-21",
+          "valores": {
+            "Luciano Zucco": 34.2,
+            "Juliana Brizola": 20.1,
+            "Gabriel Souza": 8.3
+          }
+        },
+        {
+          "data": "2026-04-28",
+          "valores": {
+            "Luciano Zucco": 31.5,
+            "Juliana Brizola": 20.9,
+            "Gabriel Souza": 7.8
+          }
+        },
+        {
+          "data": "2026-05-08",
+          "valores": {
+            "Luciano Zucco": 31.5,
+            "Juliana Brizola": 20.9,
+            "Gabriel Souza": 7.8
+          }
+        },
+        {
+          "data": "2026-06-03",
+          "valores": {
+            "Luciano Zucco": 31.5,
+            "Juliana Brizola": 20.9,
+            "Gabriel Souza": 7.8
+          }
+        },
+        {
+          "data": "2026-06-22",
+          "valores": {
+            "Luciano Zucco": 32,
+            "Juliana Brizola": 28.4,
+            "Gabriel Souza": 12.6
+          }
+        },
+        {
+          "data": "2026-07-03",
+          "valores": {
+            "Luciano Zucco": 34.3,
+            "Juliana Brizola": 25.7,
+            "Gabriel Souza": 10.4
+          }
+        },
+        {
+          "data": "2026-07-11",
+          "valores": {
+            "Luciano Zucco": 39.7,
+            "Juliana Brizola": 28.3,
+            "Gabriel Souza": 11
+          }
+        },
+        {
+          "data": "2026-07-19",
+          "valores": {
+            "Luciano Zucco": 38.6,
+            "Juliana Brizola": 28.8,
+            "Gabriel Souza": 11.4
+          }
+        },
+        {
+          "data": "2026-07-28",
+          "valores": {
+            "Luciano Zucco": 35.1,
+            "Juliana Brizola": 27.8,
+            "Gabriel Souza": 10.3
+          }
+        }
+      ]
+    },
+    "RO": {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "pontos": [
+        {
+          "data": "2026-03-19",
+          "valores": {
+            "Adailton Fúria": 20.1,
+            "Hildon Chaves": 9.3,
+            "Samuel Costa": 3.3
+          }
+        },
+        {
+          "data": "2026-04-17",
+          "valores": {
+            "Adailton Fúria": 18.2,
+            "Hildon Chaves": 15.2,
+            "Samuel Costa": 5.2
+          }
+        },
+        {
+          "data": "2026-05-08",
+          "valores": {
+            "Adailton Fúria": 18.2,
+            "Hildon Chaves": 15.2,
+            "Samuel Costa": 5.2
+          }
+        },
+        {
+          "data": "2026-05-23",
+          "valores": {
+            "Adailton Fúria": 20.9,
+            "Hildon Chaves": 14.7,
+            "Samuel Costa": 3.9
+          }
+        },
+        {
+          "data": "2026-06-03",
+          "valores": {
+            "Adailton Fúria": 23.6,
+            "Hildon Chaves": 14.7,
+            "Samuel Costa": 3.5
+          }
+        },
+        {
+          "data": "2026-06-24",
+          "valores": {
+            "Adailton Fúria": 25.4,
+            "Hildon Chaves": 11.6,
+            "Samuel Costa": 2.2
+          }
+        },
+        {
+          "data": "2026-07-09",
+          "valores": {
+            "Adailton Fúria": 26.5,
+            "Hildon Chaves": 12.9,
+            "Samuel Costa": 2.4
+          }
+        },
+        {
+          "data": "2026-07-15",
+          "valores": {
+            "Adailton Fúria": 26.8,
+            "Hildon Chaves": 13,
+            "Samuel Costa": 2.1
+          }
+        }
+      ]
+    },
+    "SC": {
+      "uf": "SC",
+      "estado": "Santa Catarina",
+      "pontos": [
+        {
+          "data": "2026-03-30",
+          "valores": {
+            "Jorginho Mello": 51.7,
+            "João Rodrigues": 19.4
+          }
+        },
+        {
+          "data": "2026-04-04",
+          "valores": {
+            "Jorginho Mello": 54.5,
+            "João Rodrigues": 18.3
+          }
+        },
+        {
+          "data": "2026-05-06",
+          "valores": {
+            "Jorginho Mello": 54.4,
+            "João Rodrigues": 18.3
+          }
+        },
+        {
+          "data": "2026-05-31",
+          "valores": {
+            "Jorginho Mello": 56.3,
+            "João Rodrigues": 16.1
+          }
+        },
+        {
+          "data": "2026-06-03",
+          "valores": {
+            "Jorginho Mello": 56.7,
+            "João Rodrigues": 17.3
+          }
+        },
+        {
+          "data": "2026-06-11",
+          "valores": {
+            "Jorginho Mello": 56.3,
+            "João Rodrigues": 16.8
+          }
+        },
+        {
+          "data": "2026-06-16",
+          "valores": {
+            "Jorginho Mello": 55.4,
+            "João Rodrigues": 17.6
+          }
+        },
+        {
+          "data": "2026-06-22",
+          "valores": {
+            "Jorginho Mello": 55.4,
+            "João Rodrigues": 17.2
+          }
+        },
+        {
+          "data": "2026-07-13",
+          "valores": {
+            "Jorginho Mello": 54.9,
+            "João Rodrigues": 19.4
+          }
+        },
+        {
+          "data": "2026-07-24",
+          "valores": {
+            "Jorginho Mello": 54.4,
+            "João Rodrigues": 19.6
+          }
+        }
+      ]
+    },
+    "SP": {
+      "uf": "SP",
+      "estado": "São Paulo",
+      "pontos": [
+        {
+          "data": "2026-02-10",
+          "valores": {
+            "Tarcísio de Freitas": 50.6,
+            "Paulo Serra": 4.9
+          }
+        },
+        {
+          "data": "2026-02-23",
+          "valores": {
+            "Tarcísio de Freitas": 42.2,
+            "Paulo Serra": 4.6
+          }
+        },
+        {
+          "data": "2026-03-05",
+          "valores": {
+            "Tarcísio de Freitas": 48.7,
+            "Paulo Serra": 5.9
+          }
+        },
+        {
+          "data": "2026-03-07",
+          "valores": {
+            "Tarcísio de Freitas": 47.8,
+            "Paulo Serra": 7.1
+          }
+        },
+        {
+          "data": "2026-03-19",
+          "valores": {
+            "Tarcísio de Freitas": 47.8,
+            "Paulo Serra": 7.1
+          }
+        },
+        {
+          "data": "2026-03-29",
+          "valores": {
+            "Tarcísio de Freitas": 48.3,
+            "Paulo Serra": 4.7
+          }
+        },
+        {
+          "data": "2026-04-14",
+          "valores": {
+            "Tarcísio de Freitas": 48.3,
+            "Paulo Serra": 4.7
+          }
+        },
+        {
+          "data": "2026-04-25",
+          "valores": {
+            "Tarcísio de Freitas": 48.3,
+            "Paulo Serra": 4.7
+          }
+        },
+        {
+          "data": "2026-04-27",
+          "valores": {
+            "Tarcísio de Freitas": 48.3,
+            "Paulo Serra": 4.7
+          }
+        },
+        {
+          "data": "2026-05-04",
+          "valores": {
+            "Tarcísio de Freitas": 48.3,
+            "Paulo Serra": 4.7
+          }
+        }
+      ]
+    },
+    "TO": {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "pontos": [
+        {
+          "data": "2026-01-30",
+          "valores": {
+            "Professora Dorinha": 25.6,
+            "Laurez Moreira": 8.8,
+            "Ataídes Oliveira": 3.3
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Professora Dorinha": 33.6,
+            "Laurez Moreira": 16.2,
+            "Ataídes Oliveira": 4.2
+          }
+        },
+        {
+          "data": "2026-04-12",
+          "valores": {
+            "Professora Dorinha": 28.5,
+            "Laurez Moreira": 13.8,
+            "Ataídes Oliveira": 3.4
+          }
+        },
+        {
+          "data": "2026-06-09",
+          "valores": {
+            "Professora Dorinha": 30.3,
+            "Laurez Moreira": 13.8,
+            "Ataídes Oliveira": 3.4
+          }
+        },
+        {
+          "data": "2026-06-18",
+          "valores": {
+            "Professora Dorinha": 32.4,
+            "Laurez Moreira": 17,
+            "Ataídes Oliveira": 4
+          }
+        },
+        {
+          "data": "2026-06-22",
+          "valores": {
+            "Professora Dorinha": 33.2,
+            "Laurez Moreira": 15.2,
+            "Ataídes Oliveira": 4.6
+          }
+        },
+        {
+          "data": "2026-07-16",
+          "valores": {
+            "Professora Dorinha": 32.9,
+            "Laurez Moreira": 15.2,
+            "Ataídes Oliveira": 5.2
+          }
+        },
+        {
+          "data": "2026-07-24",
+          "valores": {
+            "Professora Dorinha": 32.9,
+            "Laurez Moreira": 13.5,
+            "Ataídes Oliveira": 5.4
+          }
+        }
+      ]
+    }
+  }
 }
