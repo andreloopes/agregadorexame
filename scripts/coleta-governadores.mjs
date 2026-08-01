@@ -445,7 +445,11 @@ function candidateSuggestionGroups(pending){
         paginas:item.paginas,
         fontes:item.fontes
       }));
-    result[uf]={uf,estado,candidatos:candidates};
+    result[uf] = {
+  uf,
+  estado,
+  candidatos: candidates
+};
   }
   return result;
 }
