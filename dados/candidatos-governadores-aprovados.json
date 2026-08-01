@@ -1,0 +1,119 @@
+{
+  "_instrucoes": [
+    "Inclua somente nomes conferidos editorialmente.",
+    "permitidos contém o nome canônico que aparecerá no site.",
+    "aliases converte variações da Wikipédia para o nome canônico.",
+    "Enquanto um estado estiver sem nomes aprovados, ele não será publicado."
+  ],
+  "modo": "estrito",
+  "estados": {
+    "AC": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "AL": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "AP": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "AM": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "BA": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "CE": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "DF": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "ES": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "GO": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "MA": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "MT": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "MS": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "MG": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "PA": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "PB": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "PR": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "PE": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "PI": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "RJ": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "RN": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "RS": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "RO": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "RR": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "SC": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "SP": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "SE": {
+      "permitidos": [],
+      "aliases": {}
+    },
+    "TO": {
+      "permitidos": [],
+      "aliases": {}
+    }
+  }
+}
