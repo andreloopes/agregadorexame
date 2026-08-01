@@ -1,9 +1,23 @@
 {
-  "_instrucoes": [
-    "Lista editorial semeada em 2026-08-01 com base em levantamento nacional recente de pré-candidatos.",
-    "As convenções partidárias ainda estavam em andamento; revise após 5 de agosto e novamente após o prazo de registro no TSE em 15 de agosto.",
-    "permitidos contém apenas nomes tratados como pré-candidatos ao governo, não nomes citados somente para o Senado.",
-    "aliases converte grafias abreviadas ou variantes encontradas nas tabelas da Wikipédia."
+  "_criterio": "Nomes citados como pré-candidatos ao governo em fonte nacional atualizada em junho de 2026, com correções e confirmações noticiadas em julho de 2026. Não inclui nomes citados apenas para o Senado.",
+  "_periodo_fontes": "2026-06-01 a 2026-07-31",
+  "_observacao": "Lista provisória. Convenções partidárias seguem até 5 de agosto e registros no TSE até 15 de agosto.",
+  "_fontes_principais": [
+    {
+      "veiculo": "Folha de S.Paulo",
+      "data_atualizacao": "2026-06-08",
+      "uso": "Base nacional por UF"
+    },
+    {
+      "veiculo": "CNN Brasil",
+      "data": "2026-07-25",
+      "uso": "Confirmação de Fernando Haddad em SP"
+    },
+    {
+      "veiculo": "CNN Brasil",
+      "periodo": "2026-07-20 a 2026-07-25",
+      "uso": "Convenções e confirmações no RJ, BA e outros estados"
+    }
   ],
   "modo": "estrito",
   "estados": {
@@ -25,8 +39,7 @@
         "JHC"
       ],
       "aliases": {
-        "João Henrique Caldas": "JHC",
-        "Jhc": "JHC"
+        "João Henrique Caldas": "JHC"
       }
     },
     "AP": {
@@ -44,10 +57,10 @@
         "Roberto Cidade",
         "Omar Aziz",
         "Maria do Carmo",
-        "David Almeida"
+        "Davi Almeida"
       ],
       "aliases": {
-        "Davi Almeida": "David Almeida",
+        "David Almeida": "Davi Almeida",
         "Roberto Cidade Filho": "Roberto Cidade"
       }
     },
@@ -91,8 +104,7 @@
       "permitidos": [
         "Ricardo Ferraço",
         "Lorenzo Pazolini",
-        "Helder Salomão",
-        "Paulo Hartung"
+        "Helder Salomão"
       ],
       "aliases": {
         "Ricardo Ferraco": "Ricardo Ferraço",
@@ -171,9 +183,7 @@
       "permitidos": [
         "Hana Ghassan",
         "Daniel Santos",
-        "Mário Couto",
-        "Cleber Rabelo",
-        "Araceli Lemos"
+        "Mário Couto"
       ],
       "aliases": {
         "Dr. Daniel Santos": "Daniel Santos",
@@ -306,7 +316,7 @@
     },
     "SC": {
       "permitidos": [
-        "Jorginho Mello",
+        "Jorginho Melo",
         "João Rodrigues",
         "Gelson Merísio",
         "Laís Chaud",
@@ -314,7 +324,7 @@
         "Ralf Zimmer"
       ],
       "aliases": {
-        "Jorginho Melo": "Jorginho Mello",
+        "Jorginho Mello": "Jorginho Melo",
         "Joao Rodrigues": "João Rodrigues",
         "Gelson Merisio": "Gelson Merísio",
         "Lais Chaud": "Laís Chaud"
@@ -335,16 +345,12 @@
     "SP": {
       "permitidos": [
         "Tarcísio de Freitas",
-        "Fernando Haddad",
-        "Kim Kataguiri",
-        "Paulo Serra"
+        "Fernando Haddad"
       ],
       "aliases": {
         "Tarcísio": "Tarcísio de Freitas",
         "Tarcisio": "Tarcísio de Freitas",
-        "Haddad": "Fernando Haddad",
-        "Kataguiri": "Kim Kataguiri",
-        "Serra": "Paulo Serra"
+        "Haddad": "Fernando Haddad"
       }
     },
     "TO": {
