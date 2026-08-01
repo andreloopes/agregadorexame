@@ -1,0 +1,995 @@
+{
+  "atualizado_em": "2026-08-01",
+  "estados": {
+    "AC": {
+      "uf": "AC",
+      "estado": "Acre",
+      "pontos": [
+        {
+          "data": "2026-12-12",
+          "valores": {
+            "Gladson Cameli": 30.3,
+            "Márcio Bittar": 18.7,
+            "Jorge Viana": 16,
+            "Jéssica Sales": 12.4,
+            "Mara Rocha": 11.4,
+            "Coronel Ulysses": 8.6
+          }
+        }
+      ]
+    },
+    "AP": {
+      "uf": "AP",
+      "estado": "Amapá",
+      "pontos": [
+        {
+          "data": "2026-03-15",
+          "valores": {
+            "Dr. Furlan": 65.5,
+            "Clécio Luís": 26.8,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Dr. Furlan": 67.9,
+            "Clécio Luís": 27.4,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1
+          }
+        },
+        {
+          "data": "2026-03-28",
+          "valores": {
+            "Dr. Furlan": 67.2,
+            "Clécio Luís": 28.5,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1
+          }
+        },
+        {
+          "data": "2026-05-31",
+          "valores": {
+            "Dr. Furlan": 68.8,
+            "Clécio Luís": 28.9,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1
+          }
+        },
+        {
+          "data": "2026-06-13",
+          "valores": {
+            "Dr. Furlan": 67.3,
+            "Clécio Luís": 27.9,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1
+          }
+        },
+        {
+          "data": "2026-07-05",
+          "valores": {
+            "Dr. Furlan": 65.4,
+            "Clécio Luís": 28.7,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1
+          }
+        },
+        {
+          "data": "2026-07-20",
+          "valores": {
+            "Dr. Furlan": 65.6,
+            "Clécio Luís": 27.6,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1.3
+          }
+        },
+        {
+          "data": "2026-07-23",
+          "valores": {
+            "Dr. Furlan": 65.6,
+            "Clécio Luís": 28.2,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1.2
+          }
+        }
+      ]
+    },
+    "AM": {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "pontos": [
+        {
+          "data": "2026-05-14",
+          "valores": {
+            "Eduardo Braga": 32.8,
+            "Capitão Alberto Neto": 34.3,
+            "Wilson Lima": 17.2,
+            "ínio Valério": 22.9,
+            "Marcelo Ramos": 17.4,
+            "Marcos Rotta": 11.2
+          }
+        },
+        {
+          "data": "2026-05-18",
+          "valores": {
+            "Eduardo Braga": 32.8,
+            "Capitão Alberto Neto": 34.3,
+            "Wilson Lima": 17.2,
+            "ínio Valério": 22.9,
+            "Marcelo Ramos": 17.4,
+            "Marcos Rotta": 11.2
+          }
+        },
+        {
+          "data": "2026-05-22",
+          "valores": {
+            "Eduardo Braga": 33.7,
+            "Capitão Alberto Neto": 32.4,
+            "Wilson Lima": 17.9,
+            "ínio Valério": 21.3,
+            "Marcelo Ramos": 15.6,
+            "Marcos Rotta": 11.8
+          }
+        },
+        {
+          "data": "2026-05-26",
+          "valores": {
+            "Eduardo Braga": 31.2,
+            "Capitão Alberto Neto": 31.6,
+            "Wilson Lima": 15.6,
+            "ínio Valério": 18.8,
+            "Marcelo Ramos": 14.4,
+            "Marcos Rotta": 10
+          }
+        },
+        {
+          "data": "2026-05-27",
+          "valores": {
+            "Eduardo Braga": 29.9,
+            "Capitão Alberto Neto": 28.2,
+            "Wilson Lima": 15.4,
+            "ínio Valério": 16.7,
+            "Marcelo Ramos": 12.6,
+            "Marcos Rotta": 10.1
+          }
+        },
+        {
+          "data": "2026-06-04",
+          "valores": {
+            "Eduardo Braga": 28.4,
+            "Capitão Alberto Neto": 24.1,
+            "Wilson Lima": 14.8,
+            "ínio Valério": 14.6,
+            "Marcelo Ramos": 11.2,
+            "Marcos Rotta": 9.4
+          }
+        },
+        {
+          "data": "2026-06-10",
+          "valores": {
+            "Eduardo Braga": 30.2,
+            "Capitão Alberto Neto": 25.5,
+            "Wilson Lima": 15.8,
+            "ínio Valério": 15.5,
+            "Marcelo Ramos": 12,
+            "Marcos Rotta": 10
+          }
+        },
+        {
+          "data": "2026-06-20",
+          "valores": {
+            "Eduardo Braga": 29.7,
+            "Capitão Alberto Neto": 24.4,
+            "Wilson Lima": 15.7,
+            "ínio Valério": 14.7,
+            "Marcelo Ramos": 11.4,
+            "Marcos Rotta": 10.3
+          }
+        },
+        {
+          "data": "2026-06-26",
+          "valores": {
+            "Eduardo Braga": 31.5,
+            "Capitão Alberto Neto": 25.4,
+            "Wilson Lima": 16.9,
+            "ínio Valério": 15.4,
+            "Marcelo Ramos": 11.8,
+            "Marcos Rotta": 11
+          }
+        },
+        {
+          "data": "2026-07-02",
+          "valores": {
+            "Eduardo Braga": 30.4,
+            "Capitão Alberto Neto": 24.4,
+            "Wilson Lima": 16.5,
+            "ínio Valério": 15.1,
+            "Marcelo Ramos": 11.3,
+            "Marcos Rotta": 10.7
+          }
+        },
+        {
+          "data": "2026-07-05",
+          "valores": {
+            "Eduardo Braga": 30.3,
+            "Capitão Alberto Neto": 25.4,
+            "Wilson Lima": 15.6,
+            "ínio Valério": 15.4,
+            "Marcelo Ramos": 11.9,
+            "Marcos Rotta": 10
+          }
+        },
+        {
+          "data": "2026-07-10",
+          "valores": {
+            "Eduardo Braga": 33.8,
+            "Capitão Alberto Neto": 27.2,
+            "Wilson Lima": 17.5,
+            "ínio Valério": 16.4,
+            "Marcelo Ramos": 12.4,
+            "Marcos Rotta": 10.5
+          }
+        },
+        {
+          "data": "2026-07-23",
+          "valores": {
+            "Eduardo Braga": 33.9,
+            "Capitão Alberto Neto": 26.9,
+            "Wilson Lima": 17.6,
+            "ínio Valério": 16.3,
+            "Marcelo Ramos": 12.3,
+            "Marcos Rotta": 10.5
+          }
+        }
+      ]
+    },
+    "BA": {
+      "uf": "BA",
+      "estado": "Bahia",
+      "pontos": [
+        {
+          "data": "2026-02-27",
+          "valores": {
+            "ACM Neto": 41.9,
+            "Jerônimo": 42,
+            "José Carlos Aleluia": 0.8,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-03-11",
+          "valores": {
+            "ACM Neto": 42.8,
+            "Jerônimo": 40.7,
+            "José Carlos Aleluia": 1.3,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-03-20",
+          "valores": {
+            "ACM Neto": 42.8,
+            "Jerônimo": 40.7,
+            "José Carlos Aleluia": 1.3,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "ACM Neto": 48.3,
+            "Jerônimo": 39.8,
+            "José Carlos Aleluia": 1.2,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-04-26",
+          "valores": {
+            "ACM Neto": 46,
+            "Jerônimo": 39,
+            "José Carlos Aleluia": 0.9,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-04-27",
+          "valores": {
+            "ACM Neto": 49.2,
+            "Jerônimo": 40,
+            "José Carlos Aleluia": 0.8,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-05-12",
+          "valores": {
+            "ACM Neto": 49.2,
+            "Jerônimo": 40,
+            "José Carlos Aleluia": 0.8,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-05-26",
+          "valores": {
+            "ACM Neto": 49.2,
+            "Jerônimo": 40,
+            "José Carlos Aleluia": 0.8,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-06-09",
+          "valores": {
+            "ACM Neto": 49.2,
+            "Jerônimo": 40,
+            "José Carlos Aleluia": 0.8,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-06-30",
+          "valores": {
+            "ACM Neto": 50.9,
+            "Jerônimo": 38.1
+          }
+        },
+        {
+          "data": "2026-07-27",
+          "valores": {
+            "ACM Neto": 50.9,
+            "Jerônimo": 38.1
+          }
+        },
+        {
+          "data": "2026-07-29",
+          "valores": {
+            "ACM Neto": 50.9,
+            "Jerônimo": 38.1
+          }
+        },
+        {
+          "data": "2026-08-17",
+          "valores": {
+            "ACM Neto": 50.9,
+            "Jerônimo": 38.1
+          }
+        },
+        {
+          "data": "2026-09-19",
+          "valores": {
+            "ACM Neto": 51.5,
+            "Jerônimo": 38
+          }
+        },
+        {
+          "data": "2026-11-25",
+          "valores": {
+            "ACM Neto": 43.8,
+            "Jerônimo": 35.2,
+            "José Carlos Aleluia": 2.8,
+            "Kleber Rosa": 2,
+            "Cen.": 1.2
+          }
+        },
+        {
+          "data": "2026-12-09",
+          "valores": {
+            "ACM Neto": 43.8,
+            "Jerônimo": 35.2,
+            "José Carlos Aleluia": 2.8,
+            "Kleber Rosa": 2,
+            "Cen.": 1.2
+          }
+        }
+      ]
+    },
+    "CE": {
+      "uf": "CE",
+      "estado": "Ceará",
+      "pontos": [
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Ciro Gomes": 46.7,
+            "Elmano de Freitas": 37.8,
+            "Eduardo Girão": 11.5,
+            "Jarir Pereira": 1.4
+          }
+        },
+        {
+          "data": "2026-03-28",
+          "valores": {
+            "Ciro Gomes": 43.2,
+            "Elmano de Freitas": 39.7,
+            "Eduardo Girão": 12.2,
+            "Jarir Pereira": 0.7
+          }
+        },
+        {
+          "data": "2026-03-30",
+          "valores": {
+            "Ciro Gomes": 44.1,
+            "Elmano de Freitas": 40.6,
+            "Eduardo Girão": 10.2,
+            "Jarir Pereira": 0.8
+          }
+        },
+        {
+          "data": "2026-04-27",
+          "valores": {
+            "Ciro Gomes": 44.1,
+            "Elmano de Freitas": 40.6,
+            "Eduardo Girão": 10.2,
+            "Jarir Pereira": 0.8
+          }
+        },
+        {
+          "data": "2026-04-28",
+          "valores": {
+            "Ciro Gomes": 45.9,
+            "Elmano de Freitas": 35.4,
+            "Eduardo Girão": 6.6,
+            "Jarir Pereira": 1,
+            "Zé Batista": 0.5
+          }
+        },
+        {
+          "data": "2026-05-26",
+          "valores": {
+            "Ciro Gomes": 45.9,
+            "Elmano de Freitas": 35.4,
+            "Eduardo Girão": 6.6,
+            "Jarir Pereira": 1,
+            "Zé Batista": 0.5
+          }
+        },
+        {
+          "data": "2026-06-01",
+          "valores": {
+            "Ciro Gomes": 45.9,
+            "Elmano de Freitas": 35.4,
+            "Eduardo Girão": 6.6,
+            "Jarir Pereira": 1,
+            "Zé Batista": 0.5
+          }
+        },
+        {
+          "data": "2026-06-14",
+          "valores": {
+            "Ciro Gomes": 45.9,
+            "Elmano de Freitas": 35.4,
+            "Eduardo Girão": 6.6,
+            "Jarir Pereira": 1,
+            "Zé Batista": 0.5
+          }
+        },
+        {
+          "data": "2026-06-25",
+          "valores": {
+            "Ciro Gomes": 45.9,
+            "Elmano de Freitas": 35.4,
+            "Eduardo Girão": 6.6,
+            "Jarir Pereira": 1,
+            "Zé Batista": 0.5
+          }
+        },
+        {
+          "data": "2026-07-14",
+          "valores": {
+            "Ciro Gomes": 41.9,
+            "Elmano de Freitas": 42.5,
+            "Eduardo Girão": 6.2,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1,
+            "Jarir Pereira": 1,
+            "Zé Batista": 0.4
+          }
+        },
+        {
+          "data": "2026-07-18",
+          "valores": {
+            "Ciro Gomes": 42.2,
+            "Elmano de Freitas": 39.4,
+            "Eduardo Girão": 6.2,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1,
+            "Jarir Pereira": 1,
+            "Zé Batista": 0.5
+          }
+        },
+        {
+          "data": "2026-07-26",
+          "valores": {
+            "Ciro Gomes": 42.2,
+            "Elmano de Freitas": 39.4,
+            "Eduardo Girão": 6.2,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1,
+            "Jarir Pereira": 1,
+            "Zé Batista": 0.5
+          }
+        },
+        {
+          "data": "2026-07-28",
+          "valores": {
+            "Ciro Gomes": 42.4,
+            "Elmano de Freitas": 37.7,
+            "Eduardo Girão": 5.3,
+            ".mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help} Cen.": 1,
+            "Jarir Pereira": 1,
+            "Zé Batista": 0.4
+          }
+        }
+      ]
+    },
+    "ES": {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "pontos": [
+        {
+          "data": "2026-03-14",
+          "valores": {
+            "Ricardo Ferraço": 35.5,
+            "Lorenzo Pazolini": 38.1,
+            "Helder Salomão": 8.5,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Ricardo Ferraço": 35.5,
+            "Lorenzo Pazolini": 38.1,
+            "Helder Salomão": 8.5,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-03-25",
+          "valores": {
+            "Ricardo Ferraço": 34.7,
+            "Lorenzo Pazolini": 32.4,
+            "Helder Salomão": 8.3,
+            "Cen.": 1.3
+          }
+        },
+        {
+          "data": "2026-04-16",
+          "valores": {
+            "Ricardo Ferraço": 31.5,
+            "Lorenzo Pazolini": 35.1,
+            "Helder Salomão": 8.9,
+            "Cen.": 1.6
+          }
+        },
+        {
+          "data": "2026-04-28",
+          "valores": {
+            "Ricardo Ferraço": 31.6,
+            "Lorenzo Pazolini": 32.3,
+            "Helder Salomão": 8.9,
+            "Cen.": 2.2
+          }
+        },
+        {
+          "data": "2026-05-26",
+          "valores": {
+            "Ricardo Ferraço": 23.9,
+            "Lorenzo Pazolini": 27.3,
+            "Helder Salomão": 12.1,
+            "Cen.": 1.3
+          }
+        },
+        {
+          "data": "2026-06-08",
+          "valores": {
+            "Ricardo Ferraço": 34.9,
+            "Lorenzo Pazolini": 32.6,
+            "Helder Salomão": 9.4,
+            "Cen.": 1.7
+          }
+        },
+        {
+          "data": "2026-06-13",
+          "valores": {
+            "Ricardo Ferraço": 28.7,
+            "Lorenzo Pazolini": 29.8,
+            "Helder Salomão": 10,
+            "Cen.": 1.4
+          }
+        },
+        {
+          "data": "2026-07-07",
+          "valores": {
+            "Ricardo Ferraço": 32,
+            "Lorenzo Pazolini": 36.1,
+            "Helder Salomão": 10.9,
+            "Cen.": 2.3
+          }
+        },
+        {
+          "data": "2026-07-13",
+          "valores": {
+            "Ricardo Ferraço": 32.8,
+            "Lorenzo Pazolini": 33.8,
+            "Helder Salomão": 11.1,
+            "Cen.": 2.2
+          }
+        },
+        {
+          "data": "2026-07-21",
+          "valores": {
+            "Ricardo Ferraço": 34.8,
+            "Lorenzo Pazolini": 32.9,
+            "Helder Salomão": 10.8,
+            "Cen.": 1.9
+          }
+        }
+      ]
+    },
+    "MA": {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "pontos": [
+        {
+          "data": "2026-03-16",
+          "valores": {
+            "Eduardo Braide Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 34.8,
+            "Orleans Brandão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 27.1,
+            "Felipe Camarão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 7,
+            "Lahesio Bonfim Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 13.5,
+            "Cen. 11 de junho": 1
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Eduardo Braide Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 42.9,
+            "Orleans Brandão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 23.7,
+            "Felipe Camarão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 7.6,
+            "Lahesio Bonfim Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 15.9,
+            "Cen. 11 de junho": 1
+          }
+        },
+        {
+          "data": "2026-04-30",
+          "valores": {
+            "Eduardo Braide Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 51.9,
+            "Orleans Brandão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 22,
+            "Felipe Camarão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 8.9,
+            "Lahesio Bonfim Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 12.9,
+            "Cen. 11 de junho": 1
+          }
+        },
+        {
+          "data": "2026-05-13",
+          "valores": {
+            "Eduardo Braide Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 50.1,
+            "Orleans Brandão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 22.5,
+            "Felipe Camarão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 11.5,
+            "Lahesio Bonfim Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 11.4,
+            "Cen. 11 de junho": 1.2
+          }
+        },
+        {
+          "data": "2026-06-13",
+          "valores": {
+            "Eduardo Braide Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 50.5,
+            "Orleans Brandão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 24.9,
+            "Felipe Camarão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 10.2,
+            "Lahesio Bonfim Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 9.9,
+            "Cen. 11 de junho": 1.2
+          }
+        },
+        {
+          "data": "2026-07-07",
+          "valores": {
+            "Eduardo Braide Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 51.3,
+            "Orleans Brandão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 24.6,
+            "Felipe Camarão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 10.4,
+            "Lahesio Bonfim Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 9.6,
+            "Cen. 11 de junho": 1.2
+          }
+        },
+        {
+          "data": "2026-07-16",
+          "valores": {
+            "Eduardo Braide Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 52,
+            "Orleans Brandão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 24.6,
+            "Felipe Camarão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 10.5,
+            "Lahesio Bonfim Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 9.6,
+            "Cen. 11 de junho": 1.2
+          }
+        },
+        {
+          "data": "2026-07-29",
+          "valores": {
+            "Eduardo Braide Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 51.9,
+            "Orleans Brandão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 25.1,
+            "Felipe Camarão Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 10.7,
+            "Lahesio Bonfim Lahesio Bonfim desiste oficialmente da pré-candidatura ao governo do Estado.": 8.8,
+            "Cen. 11 de junho": 1.2
+          }
+        }
+      ]
+    },
+    "MT": {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "pontos": [
+        {
+          "data": "2026-12-16",
+          "valores": {
+            "Wellington Fagundes": 43.4,
+            "Otaviano Pivetta": 24.3,
+            "Natasha Slhessarenko": 7.5,
+            "Cen.": 2
+          }
+        }
+      ]
+    },
+    "MG": {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "pontos": [
+        {
+          "data": "2026-03-12",
+          "valores": {
+            "Cleitinho": 41.8,
+            "Alexandre Kalil": 21.6,
+            "Gabriel Azevedo": 10,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-03-18",
+          "valores": {
+            "Cleitinho": 28.1,
+            "Patrus Ananias": 3.2,
+            "Mateus Simões": 15.3,
+            "Gabriel Azevedo": 3.8,
+            "Cen.": 2
+          }
+        },
+        {
+          "data": "2026-03-28",
+          "valores": {
+            "Cleitinho": 35.3,
+            "Alexandre Kalil": 8.8,
+            "Patrus Ananias": 2.4,
+            "Mateus Simões": 14.9,
+            "Gabriel Azevedo": 3.4,
+            "Cen.": 1.5
+          }
+        },
+        {
+          "data": "2026-03-30",
+          "valores": {
+            "Cleitinho": 34.2,
+            "Alexandre Kalil": 16.8,
+            "Patrus Ananias": 2.9,
+            "Mateus Simões": 13.6,
+            "Gabriel Azevedo": 4.7,
+            "Cen.": 1.3
+          }
+        },
+        {
+          "data": "2026-04-26",
+          "valores": {
+            "Cleitinho": 32.7,
+            "Alexandre Kalil": 13.6,
+            "Patrus Ananias": 3.3,
+            "Mateus Simões": 13.8,
+            "Gabriel Azevedo": 4.5,
+            "Cen.": 1.2
+          }
+        },
+        {
+          "data": "2026-05-03",
+          "valores": {
+            "Cleitinho": 31.3,
+            "Alexandre Kalil": 11.4,
+            "Patrus Ananias": 3.2,
+            "Mateus Simões": 15.9,
+            "Gabriel Azevedo": 5.2,
+            "Cen.": 1.1
+          }
+        },
+        {
+          "data": "2026-05-20",
+          "valores": {
+            "Cleitinho": 32.4,
+            "Alexandre Kalil": 12.5,
+            "Patrus Ananias": 2.9,
+            "Mateus Simões": 15.3,
+            "Gabriel Azevedo": 6.9,
+            "Cen.": 1.1
+          }
+        },
+        {
+          "data": "2026-06-17",
+          "valores": {
+            "Cleitinho": 32.4,
+            "Alexandre Kalil": 12.5,
+            "Patrus Ananias": 2.9,
+            "Mateus Simões": 15.3,
+            "Gabriel Azevedo": 6.9,
+            "Cen.": 1.1
+          }
+        },
+        {
+          "data": "2026-06-23",
+          "valores": {
+            "Cleitinho": 32.4,
+            "Alexandre Kalil": 12.5,
+            "Patrus Ananias": 2.9,
+            "Mateus Simões": 15.3,
+            "Gabriel Azevedo": 6.9,
+            "Cen.": 1.1
+          }
+        },
+        {
+          "data": "2026-07-26",
+          "valores": {
+            "Cleitinho": 32.7,
+            "Alexandre Kalil": 13.1,
+            "Patrus Ananias": 2.8,
+            "Mateus Simões": 15.3,
+            "Gabriel Azevedo": 7.3,
+            "Cen.": 1
+          }
+        },
+        {
+          "data": "2026-07-29",
+          "valores": {
+            "Cleitinho": 36.1,
+            "Alexandre Kalil": 13.9,
+            "Patrus Ananias": 12.6,
+            "Mateus Simões": 9,
+            "Gabriel Azevedo": 5.9,
+            "Cen.": 2.2
+          }
+        }
+      ]
+    },
+    "PA": {
+      "uf": "PA",
+      "estado": "Pará",
+      "pontos": [
+        {
+          "data": "2026-11-11",
+          "valores": {
+            "Daniel Santos": 23.8,
+            "Hana Ghassan": 22.6,
+            "Cen.": 2
+          }
+        },
+        {
+          "data": "2026-11-19",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-11-24",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-11-26",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-11-27",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-11-29",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-11-30",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-12-02",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-12-03",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-12-04",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-12-05",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-12-10",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-12-13",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-12-15",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-12-16",
+          "valores": {
+            "Daniel Santos": 23.5,
+            "Hana Ghassan": 22,
+            "Cen.": 2.1
+          }
+        },
+        {
+          "data": "2026-12-23",
+          "valores": {
+            "Daniel Santos": 27.7,
+            "Hana Ghassan": 22.1,
+            "Mário Couto": 15.3,
+            "Araceli Lemos": 4.6,
+            "Cen.": 4
+          }
+        },
+        {
+          "data": "2026-12-30",
+          "valores": {
+            "Daniel Santos": 27.7,
+            "Hana Ghassan": 22.1,
+            "Mário Couto": 15.3,
+            "Araceli Lemos": 4.6,
+            "Cen.": 4
+          }
+        }
+      ]
+    }
+  }
+}
