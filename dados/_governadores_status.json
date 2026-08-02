@@ -1,33 +1,1112 @@
 {
-  "ultima_execucao": "2026-08-01T23:27:25.665Z",
+  "ultima_execucao": "2026-08-02T00:19:26.751Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 1214,
-  "pesquisas_aprovadas": 599,
-  "candidatos_pendentes": 314,
-  "estados_com_agregado": 22,
+  "pesquisas_extraidas_brutas": 645,
+  "pesquisas_usadas": 645,
+  "estados_com_agregado": 24,
+  "nomes_excluidos": [],
+  "cenarios_por_estado": {
+    "AC": [
+      {
+        "candidatos": [
+          "Alan Rick",
+          "Mailza Assis",
+          "Thor Dantas",
+          "Tião Bocalom"
+        ],
+        "pesquisas": 13
+      },
+      {
+        "candidatos": [
+          "Alan Rick",
+          "Mailza Assis",
+          "Thor Dantas"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Alan Rick",
+          "Thor Dantas",
+          "Tião Bocalom"
+        ],
+        "pesquisas": 2
+      }
+    ],
+    "AL": [
+      {
+        "candidatos": [
+          "João Henrique Caldas",
+          "Renan Filho"
+        ],
+        "pesquisas": 12
+      },
+      {
+        "candidatos": [
+          "Alfredo Gaspar",
+          "Renan Filho"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "AM": [
+      {
+        "candidatos": [
+          "David Almeida",
+          "Maria do Carmo",
+          "Omar Aziz",
+          "Roberto Cidade"
+        ],
+        "pesquisas": 17
+      },
+      {
+        "candidatos": [
+          "David Almeida",
+          "Maria do Carmo",
+          "Omar Aziz",
+          "Tadeu de Souza"
+        ],
+        "pesquisas": 5
+      },
+      {
+        "candidatos": [
+          "David Almeida",
+          "Maria do Carmo",
+          "Omar Aziz"
+        ],
+        "pesquisas": 4
+      }
+    ],
+    "BA": [
+      {
+        "candidatos": [
+          "ACM Neto",
+          "Jerônimo",
+          "José Carlos Aleluia",
+          "Ronaldo Mansur"
+        ],
+        "pesquisas": 6
+      },
+      {
+        "candidatos": [
+          "ACM Neto",
+          "Jerônimo",
+          "Ronaldo Mansur"
+        ],
+        "pesquisas": 5
+      },
+      {
+        "candidatos": [
+          "ACM Neto",
+          "Jerônimo",
+          "João Roma",
+          "Kleber Rosa"
+        ],
+        "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "ACM Neto",
+          "Jerônimo",
+          "José Carlos Aleluia",
+          "Kleber Rosa"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "ACM Neto",
+          "Jerônimo",
+          "José Carlos Aleluia",
+          "João Roma",
+          "Kleber Rosa"
+        ],
+        "pesquisas": 2
+      }
+    ],
+    "CE": [
+      {
+        "candidatos": [
+          "Ciro Gomes",
+          "Eduardo Girão",
+          "Elmano de Freitas",
+          "Jarir Pereira",
+          "Zé Batista"
+        ],
+        "pesquisas": 10
+      },
+      {
+        "candidatos": [
+          "Ciro Gomes",
+          "Eduardo Girão",
+          "Elmano de Freitas",
+          "Jarir Pereira"
+        ],
+        "pesquisas": 6
+      },
+      {
+        "candidatos": [
+          "Camilo Santana",
+          "Ciro Gomes",
+          "Eduardo Girão",
+          "Jarir Pereira",
+          "Zé Batista"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Eduardo Girão",
+          "Elmano de Freitas",
+          "Jarir Pereira",
+          "Roberto Cláudio",
+          "Zé Batista"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Camilo Santana",
+          "Eduardo Girão",
+          "Jarir Pereira",
+          "Roberto Cláudio",
+          "Zé Batista"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "DF": [
+      {
+        "candidatos": [
+          "Celina Leão",
+          "José Roberto Arruda",
+          "Leandro Grass",
+          "Paula Belmonte",
+          "Ricardo Cappelli"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Celina Leão",
+          "Leandro Grass",
+          "Paula Belmonte",
+          "Ricardo Cappelli"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "ES": [
+      {
+        "candidatos": [
+          "Helder Salomão",
+          "Lorenzo Pazolini",
+          "Ricardo Ferraço"
+        ],
+        "pesquisas": 11
+      },
+      {
+        "candidatos": [
+          "Helder Salomão",
+          "Lorenzo Pazolini",
+          "Magno Malta",
+          "Ricardo Ferraço"
+        ],
+        "pesquisas": 10
+      },
+      {
+        "candidatos": [
+          "Helder Salomão",
+          "Lorenzo Pazolini",
+          "Magno Malta",
+          "Paulo Hartung",
+          "Ricardo Ferraço"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "Helder Salomão",
+          "Magno Malta",
+          "Ricardo Ferraço"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Arnaldinho Borgo",
+          "Helder Salomão",
+          "Ricardo Ferraço"
+        ],
+        "pesquisas": 2
+      }
+    ],
+    "GO": [
+      {
+        "candidatos": [
+          "Daniel Vilela",
+          "Luis Cesar Bueno",
+          "Marconi Perillo",
+          "Telêmaco Brandão",
+          "Wilder Morais"
+        ],
+        "pesquisas": 9
+      },
+      {
+        "candidatos": [
+          "Daniel Vilela",
+          "Luis Cesar Bueno",
+          "Marconi Perillo",
+          "Wilder Morais"
+        ],
+        "pesquisas": 8
+      },
+      {
+        "candidatos": [
+          "Adriana Accorsi",
+          "Daniel Vilela",
+          "Marconi Perillo",
+          "Telêmaco Brandão",
+          "Wilder Morais"
+        ],
+        "pesquisas": 7
+      },
+      {
+        "candidatos": [
+          "Daniel Vilela",
+          "Marconi Perillo",
+          "Telêmaco Brandão",
+          "Wilder Morais"
+        ],
+        "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "Adriana Accorsi",
+          "Daniel Vilela",
+          "Marconi Perillo",
+          "Wilder Morais"
+        ],
+        "pesquisas": 3
+      }
+    ],
+    "MA": [
+      {
+        "candidatos": [
+          "Eduardo Braide",
+          "Felipe Camarão",
+          "Orleans Brandão"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Eduardo Braide",
+          "Felipe Camarão",
+          "Orleans Brandão",
+          "Roberto Rocha"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "MT": [
+      {
+        "candidatos": [
+          "Natasha Slhessarenko",
+          "Otaviano Pivetta",
+          "Wellington Fagundes"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Jayme Campos",
+          "Natasha Slhessarenko",
+          "Otaviano Pivetta",
+          "Wellington Fagundes"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Otaviano Pivetta",
+          "Wellington Fagundes"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Jayme Campos",
+          "Otaviano Pivetta",
+          "Wellington Fagundes"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "MS": [
+      {
+        "candidatos": [
+          "Delcídio do Amaral",
+          "Eduardo Riedel",
+          "Fábio Trad",
+          "Jefferson Bezerra",
+          "João Henrique Catan",
+          "Lucien Rezende",
+          "Renato Gomes"
+        ],
+        "pesquisas": 7
+      },
+      {
+        "candidatos": [
+          "Eduardo Riedel",
+          "Fábio Trad",
+          "Jefferson Bezerra",
+          "João Henrique Catan",
+          "Lucien Rezende",
+          "Renato Gomes"
+        ],
+        "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "Eduardo Riedel",
+          "Fábio Trad",
+          "João Henrique Catan",
+          "Lucien Rezende"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Eduardo Riedel",
+          "Fábio Trad",
+          "João Henrique Catan"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Eduardo Riedel",
+          "Fábio Trad",
+          "Marcos Pollon"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "MG": [
+      {
+        "candidatos": [
+          "Alexandre Kalil",
+          "Ben Mendes",
+          "Cleitinho",
+          "Gabriel Azevedo",
+          "Mateus Simões",
+          "Patrus Ananias"
+        ],
+        "pesquisas": 6
+      },
+      {
+        "candidatos": [
+          "Alexandre Kalil",
+          "Cleitinho",
+          "Gabriel Azevedo",
+          "Marcelo Aro",
+          "Mateus Simões",
+          "Patrus Ananias"
+        ],
+        "pesquisas": 6
+      },
+      {
+        "candidatos": [
+          "Cleitinho",
+          "Gabriel Azevedo",
+          "Marcelo Aro",
+          "Mateus Simões",
+          "Patrus Ananias"
+        ],
+        "pesquisas": 5
+      },
+      {
+        "candidatos": [
+          "Alexandre Kalil",
+          "Cleitinho",
+          "Gabriel Azevedo",
+          "Marcelo Aro",
+          "Patrus Ananias"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "Alexandre Kalil",
+          "Ben Mendes",
+          "Cleitinho",
+          "Gabriel Azevedo",
+          "Mateus Simões"
+        ],
+        "pesquisas": 2
+      }
+    ],
+    "PA": [
+      {
+        "candidatos": [
+          "Daniel Santos",
+          "Hana Ghassan"
+        ],
+        "pesquisas": 19
+      },
+      {
+        "candidatos": [
+          "Araceli Lemos",
+          "Cleber Rabelo",
+          "Daniel Santos",
+          "Hana Ghassan",
+          "Mário Couto"
+        ],
+        "pesquisas": 11
+      },
+      {
+        "candidatos": [
+          "Araceli Lemos",
+          "Daniel Santos",
+          "Hana Ghassan",
+          "Mário Couto"
+        ],
+        "pesquisas": 11
+      },
+      {
+        "candidatos": [
+          "Daniel Santos",
+          "Hana Ghassan",
+          "Mário Couto"
+        ],
+        "pesquisas": 8
+      },
+      {
+        "candidatos": [
+          "Araceli Lemos",
+          "Cleber Rabelo",
+          "Daniel Santos",
+          "Hana Ghassan"
+        ],
+        "pesquisas": 7
+      }
+    ],
+    "PB": [
+      {
+        "candidatos": [
+          "Efraim Filho",
+          "Lucas Ribeiro",
+          "Olímpio Rocha"
+        ],
+        "pesquisas": 9
+      },
+      {
+        "candidatos": [
+          "Efraim Filho",
+          "Lucas Ribeiro"
+        ],
+        "pesquisas": 6
+      },
+      {
+        "candidatos": [
+          "Efraim Filho",
+          "Lucas Ribeiro",
+          "Pedro Cunha Lima"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "PR": [
+      {
+        "candidatos": [
+          "Luiz França",
+          "Rafael Greca",
+          "Requião Filho",
+          "Sandro Alex",
+          "Sergio Moro",
+          "Tony Garcia"
+        ],
+        "pesquisas": 12
+      },
+      {
+        "candidatos": [
+          "Luiz França",
+          "Requião Filho",
+          "Sandro Alex",
+          "Sergio Moro",
+          "Tony Garcia"
+        ],
+        "pesquisas": 8
+      },
+      {
+        "candidatos": [
+          "Guto Silva",
+          "Luiz França",
+          "Rafael Greca",
+          "Requião Filho",
+          "Sergio Moro"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "Luiz França",
+          "Rafael Greca",
+          "Requião Filho",
+          "Sandro Alex",
+          "Sergio Moro"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Luiz França",
+          "Requião Filho",
+          "Sandro Alex",
+          "Sergio Moro"
+        ],
+        "pesquisas": 2
+      }
+    ],
+    "PE": [
+      {
+        "candidatos": [
+          "Ivan Moraes",
+          "João Campos",
+          "Raquel Lyra"
+        ],
+        "pesquisas": 16
+      },
+      {
+        "candidatos": [
+          "Eduardo Moura",
+          "Ivan Moraes",
+          "João Campos",
+          "Raquel Lyra"
+        ],
+        "pesquisas": 12
+      },
+      {
+        "candidatos": [
+          "João Campos",
+          "Raquel Lyra"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "PI": [
+      {
+        "candidatos": [
+          "Elizeu Aguiar",
+          "Joel Rodrigues",
+          "Lourdes Melo",
+          "Lúcia Santos",
+          "Mainha",
+          "Rafael Fonteles",
+          "Toni Rodrigues"
+        ],
+        "pesquisas": 5
+      },
+      {
+        "candidatos": [
+          "Joel Rodrigues",
+          "Lourdes Melo",
+          "Lúcia Santos",
+          "Mainha",
+          "Rafael Fonteles",
+          "Toni Rodrigues"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "Elizeu Aguiar",
+          "Joel Rodrigues",
+          "Lourdes Melo",
+          "Lúcia Santos",
+          "Rafael Fonteles",
+          "Toni Rodrigues"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Joel Rodrigues",
+          "Mainha",
+          "Rafael Fonteles",
+          "Toni Rodrigues"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Elizeu Aguiar",
+          "Joel Rodrigues",
+          "Lúcia Santos",
+          "Mainha",
+          "Rafael Fonteles",
+          "Toni Rodrigues"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "RJ": [
+      {
+        "candidatos": [
+          "André Marinho",
+          "Douglas Ruas",
+          "Eduardo Paes",
+          "William Siri",
+          "Wilson Witzel"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "André Marinho",
+          "Anthony Garotinho",
+          "Bombeiro Rafa Luz",
+          "Douglas Ruas",
+          "Eduardo Paes",
+          "William Siri",
+          "Wilson Witzel"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "André Marinho",
+          "Anthony Garotinho",
+          "Douglas Ruas",
+          "Eduardo Paes",
+          "William Siri",
+          "Wilson Witzel"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "André Marinho",
+          "Bombeiro Rafa Luz",
+          "Douglas Ruas",
+          "Eduardo Paes",
+          "William Siri",
+          "Wilson Witzel"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "André Marinho",
+          "Anthony Garotinho",
+          "Douglas Ruas",
+          "Eduardo Paes",
+          "William Siri"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "RN": [
+      {
+        "candidatos": [
+          "Allyson Bezerra",
+          "Cadu Xavier",
+          "Dário Barbosa",
+          "Robério Paulino",
+          "Rodrigo Bolsonaro",
+          "Álvaro Dias"
+        ],
+        "pesquisas": 15
+      },
+      {
+        "candidatos": [
+          "Allyson Bezerra",
+          "Cadu Xavier",
+          "Álvaro Dias"
+        ],
+        "pesquisas": 11
+      },
+      {
+        "candidatos": [
+          "Allyson Bezerra",
+          "Cadu Xavier",
+          "Dário Barbosa",
+          "Robério Paulino",
+          "Álvaro Dias"
+        ],
+        "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "Allyson Bezerra",
+          "Cadu Xavier",
+          "Rogério Marinho"
+        ],
+        "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "Allyson Bezerra",
+          "Cadu Xavier",
+          "Robério Paulino",
+          "Rodrigo Bolsonaro",
+          "Álvaro Dias"
+        ],
+        "pesquisas": 2
+      }
+    ],
+    "RS": [
+      {
+        "candidatos": [
+          "Gabriel Souza",
+          "Juliana Brizola",
+          "Luciano Zucco",
+          "Marcelo Maranata"
+        ],
+        "pesquisas": 8
+      },
+      {
+        "candidatos": [
+          "Edegar Pretto",
+          "Gabriel Souza",
+          "Juliana Brizola",
+          "Luciano Zucco"
+        ],
+        "pesquisas": 5
+      },
+      {
+        "candidatos": [
+          "Edegar Pretto",
+          "Gabriel Souza",
+          "Luciano Zucco"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Gabriel Souza",
+          "Juliana Brizola",
+          "Luciano Zucco"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Covatti Filho",
+          "Edegar Pretto",
+          "Gabriel Souza",
+          "Juliana Brizola",
+          "Luciano Zucco",
+          "Marcelo Maranata"
+        ],
+        "pesquisas": 2
+      }
+    ],
+    "RO": [
+      {
+        "candidatos": [
+          "Adaílton Fúria",
+          "Expedito Netto",
+          "Hildon Chaves",
+          "Marcos Rogério",
+          "Samuel Costa"
+        ],
+        "pesquisas": 6
+      },
+      {
+        "candidatos": [
+          "Adaílton Fúria",
+          "Hildon Chaves",
+          "Marcos Rogério"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Adaílton Fúria",
+          "Expedito Netto",
+          "Hildon Chaves",
+          "Léo Moraes",
+          "Marcos Rogério",
+          "Samuel Costa"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Adaílton Fúria",
+          "Confúcio Moura",
+          "Expedito Netto",
+          "Hildon Chaves",
+          "Marcos Rogério",
+          "Samuel Costa",
+          "Sérgio Gonçalves"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Adaílton Fúria",
+          "Marcos Rogério",
+          "Samuel Costa",
+          "Sérgio Gonçalves"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "RR": [
+      {
+        "candidatos": [
+          "Arthur Henrique",
+          "Doutor Raposo",
+          "Edilson Damião",
+          "Juscelino Kubitschek Pereira",
+          "Soldado Sampaio"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Arthur Henrique",
+          "Doutor Raposo",
+          "Edilson Damião",
+          "Juscelino Kubitschek Pereira"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Arthur Henrique",
+          "Edilson Damião",
+          "Juscelino Kubitschek Pereira"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Edilson Damião",
+          "Juscelino Kubitschek Pereira",
+          "Teresa Surita"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Doutor Raposo",
+          "Edilson Damião",
+          "Juscelino Kubitschek Pereira",
+          "Soldado Sampaio",
+          "Teresa Surita"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "SC": [
+      {
+        "candidatos": [
+          "Gelson Merisio",
+          "Jorginho Mello",
+          "João Rodrigues"
+        ],
+        "pesquisas": 9
+      },
+      {
+        "candidatos": [
+          "Afrânio Boppré",
+          "Gelson Merisio",
+          "Jorginho Mello",
+          "João Rodrigues"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Jorginho Mello",
+          "João Rodrigues"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Adriano Silva",
+          "Afrânio Boppré",
+          "Décio Lima",
+          "Jorginho Mello",
+          "João Rodrigues"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Afrânio Boppré",
+          "Décio Lima",
+          "Jorginho Mello",
+          "João Rodrigues"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "SP": [
+      {
+        "candidatos": [
+          "Haddad",
+          "Kataguiri",
+          "Serra",
+          "Tarcísio"
+        ],
+        "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "Alckmin",
+          "Hilton",
+          "Serra",
+          "Tarcísio",
+          "d'Avila"
+        ],
+        "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "Haddad",
+          "Kataguiri",
+          "Serra",
+          "Tarcísio",
+          "d'Avila"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "Kataguiri",
+          "Serra",
+          "Tarcísio",
+          "Tebet"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "França",
+          "Kataguiri",
+          "Serra",
+          "Tarcísio"
+        ],
+        "pesquisas": 2
+      }
+    ],
+    "SE": [
+      {
+        "candidatos": [
+          "Emanuel Cacho",
+          "Fábio Mitidieri",
+          "Ricardo Marques",
+          "Valmir de Francisquinho"
+        ],
+        "pesquisas": 13
+      },
+      {
+        "candidatos": [
+          "Fábio Mitidieri",
+          "Ricardo Marques",
+          "Valmir de Francisquinho"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "Fábio Mitidieri",
+          "Valmir de Francisquinho"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Fábio Mitidieri",
+          "Ricardo Marques"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Emanuel Cacho",
+          "Fábio Mitidieri"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "TO": [
+      {
+        "candidatos": [
+          "Ataídes Oliveira",
+          "Laurez Moreira",
+          "Professora Dorinha"
+        ],
+        "pesquisas": 8
+      },
+      {
+        "candidatos": [
+          "Amélio Cayres",
+          "Ataídes Oliveira",
+          "Laurez Moreira",
+          "Professora Dorinha"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Amélio Cayres",
+          "Ataídes Oliveira",
+          "Carlos Amastha",
+          "Laurez Moreira",
+          "Professora Dorinha"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Ataídes Oliveira",
+          "Carlos Amastha",
+          "Laurez Moreira",
+          "Professora Dorinha"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Ataídes Oliveira",
+          "Eduardo Gomes",
+          "Laurez Moreira",
+          "Professora Dorinha"
+        ],
+        "pesquisas": 1
+      }
+    ]
+  },
   "paginas": {
     "AC": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
       "status": "ok",
-      "pesquisas": 47,
+      "pesquisas": 17,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Acre"
     },
     "AL": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "status": "ok",
-      "pesquisas": 28,
+      "pesquisas": 13,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Alagoas"
     },
     "AP": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amapá",
-      "status": "ok",
-      "pesquisas": 27,
+      "status": "sem_pesquisas_validas",
+      "pesquisas": 0,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amap%C3%A1"
     },
     "AM": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "status": "ok",
-      "pesquisas": 47,
+      "pesquisas": 26,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
     },
     "BA": {
@@ -39,43 +1118,43 @@
     "CE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "status": "ok",
-      "pesquisas": 61,
+      "pesquisas": 24,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Cear%C3%A1"
     },
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "status": "ok",
-      "pesquisas": 23,
+      "pesquisas": 2,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
       "status": "ok",
-      "pesquisas": 64,
+      "pesquisas": 33,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Esp%C3%ADrito_Santo"
     },
     "GO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "status": "ok",
-      "pesquisas": 59,
+      "pesquisas": 35,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
     },
     "MA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "status": "ok",
-      "pesquisas": 26,
+      "pesquisas": 3,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Maranh%C3%A3o"
     },
     "MT": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "status": "ok",
-      "pesquisas": 35,
+      "pesquisas": 5,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso"
     },
     "MS": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "status": "ok",
-      "pesquisas": 41,
+      "pesquisas": 14,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso_do_Sul"
     },
     "MG": {
@@ -87,85 +1166,85 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 99,
+      "pesquisas": 68,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
       "status": "ok",
-      "pesquisas": 30,
+      "pesquisas": 16,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Para%C3%ADba"
     },
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 83,
+      "pesquisas": 44,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "status": "ok",
-      "pesquisas": 79,
+      "pesquisas": 29,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
     },
     "PI": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
       "status": "ok",
-      "pesquisas": 36,
+      "pesquisas": 16,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Piau%C3%AD"
     },
     "RJ": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
       "status": "ok",
-      "pesquisas": 47,
+      "pesquisas": 24,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_de_Janeiro"
     },
     "RN": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "status": "ok",
-      "pesquisas": 72,
+      "pesquisas": 40,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
     },
     "RS": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
       "status": "ok",
-      "pesquisas": 43,
+      "pesquisas": 26,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Sul"
     },
     "RO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "status": "ok",
-      "pesquisas": 24,
+      "pesquisas": 14,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Rond%C3%B4nia"
     },
     "RR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
       "status": "ok",
-      "pesquisas": 9,
+      "pesquisas": 7,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Roraima"
     },
     "SC": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
       "status": "ok",
-      "pesquisas": 29,
+      "pesquisas": 16,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Santa_Catarina"
     },
     "SP": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em São Paulo",
       "status": "ok",
-      "pesquisas": 72,
+      "pesquisas": 71,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_S%C3%A3o_Paulo"
     },
     "SE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "status": "ok",
-      "pesquisas": 40,
+      "pesquisas": 23,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
     },
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 27,
+      "pesquisas": 13,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
