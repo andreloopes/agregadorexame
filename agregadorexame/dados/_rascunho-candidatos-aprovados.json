@@ -1,0 +1,573 @@
+{
+  "_status": "RASCUNHO — REVISAR ANTES DE PUBLICAR",
+  "_instrucoes": [
+    "Gerado a partir das pesquisas já coletadas, com as regras novas de nome.",
+    "permitidos: nomes que apareceram com 3% ou mais em alguma pesquisa.",
+    "Apague quem não é candidato a governador (senador, presidente, nome errado).",
+    "aliases: use para variações do mesmo nome, ex. {\"Jerônimo\":\"Jerônimo Rodrigues\"}.",
+    "Remova as chaves que começam com _ antes de usar."
+  ],
+  "modo": "estrito",
+  "estados": {
+    "AC": {
+      "_revisar": "12 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Alan Rick",
+        "Mailza Assis",
+        "Gladson Cameli",
+        "Márcio Bittar",
+        "Tião Bocalom",
+        "Jorge Viana",
+        "Mara Rocha",
+        "Sérgio Petecão",
+        "Eduardo Velloso",
+        "Jéssica Sales",
+        "Thor Dantas",
+        "Coronel Ulysses"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "AL": {
+      "_revisar": "7 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "João Henrique Caldas",
+        "Renan Filho",
+        "Alfredo Gaspar",
+        "Renan Calheiros",
+        "Arthur Lira",
+        "Davi Davino Filho",
+        "Eudócia Caldas"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "AM": {
+      "_revisar": "11 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Maria do Carmo",
+        "Omar Aziz",
+        "Eduardo Braga",
+        "Capitão Alberto Neto",
+        "Roberto Cidade",
+        "David Almeida",
+        "ínio Valério",
+        "Wilson Lima",
+        "Marcelo Ramos",
+        "Tadeu de Souza",
+        "Marcos Rotta"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "AP": {
+      "_revisar": "6 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Rayssa Furlan",
+        "Clécio Luís",
+        "Lucas Barreto",
+        "Randolfe Rodrigues",
+        "Waldez Góes",
+        "Acácio Favacho"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "BA": {
+      "_revisar": "4 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "ACM Neto",
+        "Jerônimo",
+        "Rui Costa",
+        "João Roma"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Ronaldo Mansur",
+        "José Carlos Aleluia",
+        "Kleber Rosa",
+        "Aroldo Félix"
+      ]
+    },
+    "CE": {
+      "_revisar": "18 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Ciro Gomes",
+        "Camilo Santana",
+        "Elmano de Freitas",
+        "Capitão Wagner",
+        "Roberto Cláudio",
+        "Cid Gomes",
+        "Eduardo Girão",
+        "Júnior Mano",
+        "Luizianne Lins",
+        "Eunício Oliveira",
+        "Alcides Fernandes",
+        "Priscila Costa",
+        "José Guimarães",
+        "Chiquinho Feitosa",
+        "General Theóphilo",
+        "Anna Karina",
+        "Jarir Pereira",
+        "Cândido Albuquerque"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Zé Batista"
+      ]
+    },
+    "DF": {
+      "_revisar": "8 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Michelle Bolsonaro",
+        "Leila Barros",
+        "Érika Kokay",
+        "Bia Kicis",
+        "José Reguffe",
+        "Rafael Prudente",
+        "Sebastião Coelho",
+        "Ibaneis Rocha"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "ES": {
+      "_revisar": "15 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Ricardo Ferraço",
+        "Lorenzo Pazolini",
+        "Renato Casagrande",
+        "Fabiano Contarato",
+        "Magno Malta",
+        "Paulo Hartung",
+        "Arnaldinho Borgo",
+        "Maguinha Malta",
+        "Helder Salomão",
+        "Sérgio Meneguelli",
+        "Rose de Freitas",
+        "Marcos do Val",
+        "Euclério Sampaio",
+        "Carlos Manato",
+        "Leonardo Monjardim"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Wellington Callegari"
+      ]
+    },
+    "GO": {
+      "_revisar": "13 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Daniel Vilela",
+        "Gracinha Caiado",
+        "Marconi Perillo",
+        "Wilder Morais",
+        "Gustavo Gayer",
+        "Vanderlan Cardoso",
+        "Zacarias Calil",
+        "Humberto Teófilo",
+        "Adriana Accorsi",
+        "Gustavo Mendanha",
+        "Alexandre Baldy",
+        "Luis Cesar Bueno",
+        "Oséias Varão"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Telêmaco Brandão",
+        "Iure Castro"
+      ]
+    },
+    "MA": {
+      "_revisar": "16 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Eduardo Braide",
+        "Orleans Brandão",
+        "Roseana Sarney",
+        "Carlos Brandão",
+        "Simplício Araújo",
+        "André Fufuca",
+        "Hilton Gonçalo",
+        "Lahesio Bonfim",
+        "Weverton Rocha",
+        "Eliziane Gama",
+        "Roberto Rocha",
+        "Franklin Douglas",
+        "Antonia Cariongo",
+        "Felipe Camarão",
+        "César Pires",
+        "Pedro Lucas Fernandes"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "MG": {
+      "_revisar": "7 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Cleitinho",
+        "Alexandre Kalil",
+        "Mateus Simões",
+        "Gabriel Azevedo",
+        "Patrus Ananias",
+        "Marcelo Aro",
+        "Ben Mendes"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "MS": {
+      "_revisar": "14 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Eduardo Riedel",
+        "Nelsinho Trad",
+        "Reinaldo Azambuja",
+        "Vander Loubet",
+        "Fábio Trad",
+        "Marcos Pollon",
+        "João Henrique Catan",
+        "Soraya Thronicke",
+        "Capitão Contar",
+        "Delcídio do Amaral",
+        "Lucien Rezende",
+        "Beto do Movimento",
+        "Renato Gomes",
+        "Daniel Junior"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Gianni Nogueira",
+        "Jefferson Bezerra"
+      ]
+    },
+    "MT": {
+      "_revisar": "7 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Mauro Mendes",
+        "Janaína Riva",
+        "Carlos Fávaro",
+        "José Medeiros",
+        "Pedro Taques",
+        "Jayme Campos",
+        "Antônio Galvan"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "PA": {
+      "_revisar": "13 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Daniel Santos",
+        "Helder Barbalho",
+        "Éder Mauro",
+        "Hana Ghassan",
+        "Mário Couto",
+        "Zequinha Marinho",
+        "Celso Sabino",
+        "Simão Jatene",
+        "Chicão Melo",
+        "Paulo Rocha",
+        "Cleber Rabelo",
+        "Gizelle Freitas",
+        "Araceli Lemos"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Raquel Brício",
+        "Marcelino Conti",
+        "Breno Guimarães",
+        "Gal Leite"
+      ]
+    },
+    "PB": {
+      "_revisar": "7 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "João Azevêdo",
+        "Lucas Ribeiro",
+        "Efraim Filho",
+        "Veneziano",
+        "Marcelo Queiroga",
+        "Nabor Wanderley",
+        "Major Fábio"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Olímpio Rocha",
+        "Avenzoar Arruda"
+      ]
+    },
+    "PE": {
+      "_revisar": "18 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Raquel Lyra",
+        "João Campos",
+        "Marília Arraes",
+        "Humberto Costa",
+        "Miguel Coelho",
+        "Anderson Ferreira",
+        "Silvio Costa Filho",
+        "Eduardo da Fonte",
+        "Mendonça Filho",
+        "Gilson Machado Neto",
+        "Túlio Gadêlha",
+        "Fernando Dueire",
+        "Armando Monteiro",
+        "Eduardo Moura",
+        "Silvio Nascimento",
+        "Ivan Moraes",
+        "Paulo Rubem Santiago",
+        "Jô Cavalcanti"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "PI": {
+      "_revisar": "9 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Rafael Fonteles",
+        "Ciro Nogueira",
+        "Joel Rodrigues",
+        "Marcelo Castro",
+        "Júlio César",
+        "Toni Rodrigues",
+        "Tiago Junqueira",
+        "Jorge Lopes",
+        "Francinaldo Leão"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Pedro Laurentino",
+        "Lourdes Melo",
+        "Mainha",
+        "Lúcia Santos",
+        "Elizeu Aguiar"
+      ]
+    },
+    "PR": {
+      "_revisar": "13 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Sergio Moro",
+        "Filipe Barros",
+        "Álvaro Dias",
+        "Deltan Dallagnol",
+        "Requião Filho",
+        "Gleisi Hoffmann",
+        "Sandro Alex",
+        "Rafael Greca",
+        "Alexandre Curi",
+        "Cristina Graeml",
+        "Guto Silva",
+        "Fernando Giacobo",
+        "Luiz França"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Tony Garcia"
+      ]
+    },
+    "RJ": {
+      "_revisar": "23 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Eduardo Paes",
+        "Douglas Ruas",
+        "Benedita da Silva",
+        "Rogéria Bolsonaro",
+        "Cláudio Castro",
+        "Pedro Paulo",
+        "Márcio Canella",
+        "Marcelo Crivella",
+        "Anthony Garotinho",
+        "Carlos Portinho",
+        "Rodrigo Pimentel",
+        "Waguinho",
+        "André Ceciliano",
+        "William Siri",
+        "Glauber Braga",
+        "Otoni de Paula",
+        "Wilson Witzel",
+        "Ítalo Marsili",
+        "Felipe Curi",
+        "André Marinho",
+        "Monica Benicio",
+        "Bombeiro Rafa Luz",
+        "Alessandro Molon"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Mauro Campos",
+        "Hélio Secco"
+      ]
+    },
+    "RN": {
+      "_revisar": "12 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Allyson Bezerra",
+        "Cadu Xavier",
+        "Álvaro Dias",
+        "Styvenson Valentim",
+        "Zenaide Maia",
+        "Samanda Alves",
+        "Coronel Hélio",
+        "Rafael Motta",
+        "Sandro Pimentel",
+        "Luciana Lima",
+        "Rosália Fernandes",
+        "Rodrigo Bolsonaro"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Robério Paulino",
+        "Dário Barbosa"
+      ]
+    },
+    "RO": {
+      "_revisar": "15 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Marcos Rogério",
+        "Sílvia Cristina",
+        "Adaílton Fúria",
+        "Hildon Chaves",
+        "Fernando Máximo",
+        "Acir Gurgacz",
+        "Confúcio Moura",
+        "Léo Moraes",
+        "Amir Lando",
+        "Mariana Carvalho",
+        "Bruno Scheid",
+        "Expedito Netto",
+        "Delegado Flori",
+        "Samuel Costa",
+        "Sérgio Gonçalves"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "RR": {
+      "_revisar": "12 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Arthur Henrique",
+        "Edilson Damião",
+        "Antônio Denarium",
+        "Teresa Surita",
+        "Antonio Carlos Nicoletti",
+        "Hélio Lopes",
+        "Chico Rodrigues",
+        "Helena da Asatur",
+        "Rogério Miranda",
+        "Mauro Asato Democrata",
+        "Isamar Ramalho",
+        "Juscelino Kubitschek Pereira"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Doutor Raposo"
+      ]
+    },
+    "RS": {
+      "_revisar": "13 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Luciano Zucco",
+        "Juliana Brizola",
+        "Edegar Pretto",
+        "Marcel van Hattem",
+        "Manuela d'Ávila",
+        "Ubiratan Sanderson",
+        "Paulo Pimenta",
+        "Gabriel Souza",
+        "Eduardo Leite",
+        "Germano Rigotto",
+        "Frederico Antunes",
+        "Marcelo Maranata",
+        "Covatti Filho"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Evandro Augusto"
+      ]
+    },
+    "SC": {
+      "_revisar": "8 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Jorginho Mello",
+        "Caroline De Toni",
+        "João Rodrigues",
+        "Carlos Bolsonaro",
+        "Esperidião Amin",
+        "Gelson Merisio",
+        "Décio Lima",
+        "Afrânio Boppré"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": []
+    },
+    "SE": {
+      "_revisar": "12 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Fábio Mitidieri",
+        "Valmir de Francisquinho",
+        "Delegado André David",
+        "Eduardo Amorim",
+        "André Moura",
+        "Ricardo Marques",
+        "Rogério Carvalho",
+        "Edvaldo Nogueira",
+        "Rodrigo Valadares",
+        "Alessandro Vieira",
+        "Emanuel Cacho",
+        "Coronel Rocha"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Iran Barbosa"
+      ]
+    },
+    "SP": {
+      "_revisar": "19 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Tarcísio",
+        "Haddad",
+        "Tebet",
+        "Alckmin",
+        "Nunes",
+        "França",
+        "Marçal",
+        "Marta",
+        "Derrite",
+        "Garcia",
+        "Manga",
+        "Kataguiri",
+        "Hilton",
+        "Serra",
+        "Padilha",
+        "Ramuth",
+        "Kassab",
+        "d'Avila",
+        "Prado"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Sabará"
+      ]
+    },
+    "TO": {
+      "_revisar": "12 nomes com 3%+ — confira e apague os que não são candidatos a governador",
+      "permitidos": [
+        "Professora Dorinha",
+        "Eduardo Gomes",
+        "Wanderlei Barbosa",
+        "Carlos Gaguim",
+        "Alexandre Guimarães",
+        "Laurez Moreira",
+        "Irajá Abreu",
+        "Eli Borges",
+        "Amélio Cayres",
+        "Carlos Amastha",
+        "Vanderlei Luxemburgo",
+        "Ataídes Oliveira"
+      ],
+      "aliases": {},
+      "_descartados_menos_de_3pct": [
+        "Carlos Velozo Agir"
+      ]
+    }
+  }
+}

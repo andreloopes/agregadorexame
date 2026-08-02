@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Agregador de pesquisas · Eleições 2026 · ExameLab</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#1b1a19; --soft:#5f5b56; --muted:#77716b; --hair:#ddd9d4; --hair2:#f4f3f1;
+  --paper:#fff; --accent:#D9001E;
+  --body:"Archivo",system-ui,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--paper);color:var(--ink);font-family:var(--body);font-weight:400;
+  line-height:1.5;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+button,select{font:inherit}
+a{color:var(--accent);text-underline-offset:3px}
+.wrap{max-width:860px;margin:0 auto;padding:0 18px 40px}
+.skip{position:fixed;left:12px;top:10px;z-index:100;background:#fff;color:var(--ink);
+  border:2px solid var(--ink);padding:8px 11px;transform:translateY(-140%)}
+.skip:focus{transform:none}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.sr-only{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;
+  margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+
+header.top{display:flex;align-items:baseline;gap:10px;padding:22px 0 18px;flex-wrap:wrap}
+.brand{font-weight:300;font-size:13px;letter-spacing:.02em;color:var(--soft)}
+.brand b{font-weight:500;color:var(--ink)}
+.top .upd{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--muted)}
+
+h1{font-weight:300;font-size:clamp(26px,6.4vw,40px);letter-spacing:-.02em;line-height:1.05;margin:0 0 6px}
+.lede{font-weight:300;font-size:15px;color:var(--soft);max-width:58ch;margin:0 0 20px}
+
+.races{display:flex;gap:22px;border-bottom:1px solid var(--hair);margin-bottom:6px}
+.races button{appearance:none;background:none;border:none;cursor:pointer;padding:0 0 12px;
+  font-family:var(--body);font-weight:400;font-size:15px;color:var(--muted);
+  border-bottom:2px solid transparent;margin-bottom:-1px}
+.races button[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+
+.controls{display:flex;flex-wrap:wrap;align-items:center;gap:12px 18px;padding:16px 0 4px}
+.uf-pick{display:flex;align-items:center;gap:8px}
+.uf-pick label,.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--muted);text-transform:uppercase}
+select{font-family:var(--body);font-size:14px;color:var(--ink);background:#fff;border:1px solid var(--hair);
+  min-height:38px;padding:6px 30px 6px 9px;cursor:pointer}
+.scen{font-family:var(--mono);font-size:11px;color:var(--muted)}
+.scen b{color:var(--soft);font-weight:500}
+
+.view-switch{display:flex;gap:7px;flex-wrap:wrap;margin:12px 0 2px}
+.view-switch button,.ranges button{
+  appearance:none;
+  cursor:pointer;
+  background:#fff;
+  border:1px solid var(--hair);
+  border-radius:999px;
+  font-family:var(--mono);
+  font-size:11px;
+  font-weight:400;
+  line-height:1;
+  color:var(--soft);
+  padding:8px 12px;
+  min-height:34px;
+  box-shadow:none;
+}
+.view-switch button:hover,.ranges button:hover{
+  border-color:var(--muted);
+  color:var(--ink);
+}
+.view-switch button[aria-pressed="true"],.ranges button[aria-pressed="true"]{
+  background:var(--ink);
+  border-color:var(--ink);
+  color:#fff;
+}
+
+.legend{display:flex;flex-wrap:wrap;gap:8px;padding:14px 0 6px}
+.chip{display:inline-flex;align-items:center;gap:7px;cursor:pointer;user-select:none;
+  border:1px solid var(--hair);border-radius:999px;padding:6px 11px 6px 9px;background:#fff;
+  font-size:13px;font-weight:400;color:var(--ink);min-height:36px}
+.chip .dot{width:9px;height:9px;border-radius:50%;flex:none}
+.chip .val{font-family:var(--mono);font-size:11px;color:var(--muted)}
+.chip[aria-pressed="false"]{opacity:.48}
+
+.chart-box{position:relative;margin:6px 0 0;touch-action:pan-y}
+svg.chart{width:100%;height:auto;display:block;overflow:visible}
+.tt{position:absolute;pointer-events:none;background:#fff;border:1px solid var(--hair);
+  box-shadow:0 4px 18px rgba(0,0,0,.07);padding:9px 11px;font-size:12px;min-width:150px;
+  transform:translate(-50%,0);z-index:5}
+.tt[hidden]{display:none}
+.tt .d{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-bottom:6px}
+.tt .r{display:flex;align-items:center;gap:7px;margin:3px 0}
+.tt .r .dot{width:8px;height:8px;border-radius:50%;flex:none}
+.tt .r .n{flex:1;white-space:nowrap}
+.tt .r .v{font-family:var(--mono);font-weight:500}
+.poll-dot{cursor:pointer;stroke:#fff;stroke-width:1.6}
+.poll-dot:focus{outline:none;stroke:var(--ink);stroke-width:3}
+
+.time{margin:16px 0 2px}
+.time .tl{position:relative;height:34px;cursor:pointer;touch-action:none}
+.time svg{width:100%;height:34px;display:block}
+.ranges{display:flex;gap:7px;margin-top:8px;flex-wrap:wrap}
+.ranges .span{margin-left:auto;font-family:var(--mono);font-size:11px;color:var(--muted);align-self:center}
+.note{font-family:var(--mono);font-size:10.5px;color:var(--muted);line-height:1.6;margin:14px 0 0}
+.chart-summary{font-size:13px;color:var(--soft);margin:10px 0 0}
+
+.raw{margin-top:30px;border-top:1px solid var(--hair);padding-top:16px}
+.raw-toggle{width:100%;appearance:none;background:none;border:0;cursor:pointer;padding:5px 0;
+  display:flex;align-items:center;justify-content:space-between;text-align:left;color:var(--ink)}
+.raw-toggle .title{font-weight:300;font-size:20px;letter-spacing:-.01em}
+.raw-toggle .count{font-family:var(--mono);font-size:11px;color:var(--muted)}
+.raw-panel{padding-top:14px}
+.raw-panel[hidden]{display:none}
+.raw .sub{font-weight:300;font-size:13px;color:var(--soft);margin:0 0 14px}
+.raw .filter{display:flex;align-items:center;gap:8px;margin-bottom:6px;flex-wrap:wrap}
+.raw .filter label{font-family:var(--mono);font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.poll{width:100%;padding:12px 0;border:0;border-top:1px solid var(--hair2);background:#fff;
+  display:flex;gap:14px;justify-content:space-between;align-items:baseline;text-align:left;cursor:pointer}
+.poll:hover .inst{text-decoration:underline}
+.poll .l .inst{font-weight:500;font-size:14px}
+.poll .l .vals{font-family:var(--mono);font-size:11px;color:var(--soft);margin-top:3px;line-height:1.6}
+.poll .r{font-family:var(--mono);font-size:10.5px;color:var(--muted);text-align:right;white-space:nowrap;flex:none}
+.more{appearance:none;background:none;border:1px solid var(--hair);cursor:pointer;
+  font-family:var(--mono);font-size:11px;color:var(--soft);padding:9px 14px;margin-top:14px;width:100%}
+
+.map-block{margin:16px 0 28px;border-top:1px solid var(--hair);border-bottom:1px solid var(--hair);padding:18px 0}
+.map-head{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;margin-bottom:14px}
+.map-head h2{font-weight:300;font-size:20px;margin:0 0 3px}
+.map-head p{font-size:13px;color:var(--soft);margin:0;max-width:52ch}
+.gov-map-layout{display:grid;grid-template-columns:minmax(330px,1.05fr) minmax(300px,.95fr);gap:24px;align-items:stretch}
+.map-area{position:relative;min-width:0}
+.gov-mini-chart{min-width:0;border-left:1px solid var(--hair);padding-left:22px;display:flex;flex-direction:column}
+.gov-mini-chart h3{font-weight:300;font-size:22px;line-height:1.1;margin:0 0 4px}
+.gov-mini-chart .mini-meta{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-bottom:10px}
+.gov-mini-chart .mini-legend{display:flex;gap:12px;flex-wrap:wrap;margin:4px 0 8px}
+.gov-mini-chart .mini-legend span{display:inline-flex;align-items:center;gap:6px;font-size:12px}
+.gov-mini-chart .mini-legend i{width:8px;height:8px;border-radius:50%;display:inline-block}
+.gov-mini-chart svg{width:100%;height:auto;display:block;min-height:220px}
+
+.state[data-status="resultado"]{background:#fff;border-color:#8f8982}
+.state[data-status="pendente"]{background:repeating-linear-gradient(135deg,#fff,#fff 5px,var(--hair2) 5px,var(--hair2) 10px);border-style:dashed}
+.state[data-status="sem-registro"]{opacity:.58}
+.status-key{display:flex;gap:12px;flex-wrap:wrap;margin:8px 0 14px;font-family:var(--mono);font-size:9.5px;color:var(--muted)}
+.status-key span{display:inline-flex;align-items:center;gap:5px}
+.status-key i{width:10px;height:10px;border:1px solid var(--hair);display:inline-block}
+.status-key .result i{background:#fff;border-color:#8f8982}
+.status-key .pending i{background:repeating-linear-gradient(135deg,#fff,#fff 3px,var(--hair2) 3px,var(--hair2) 6px);border-style:dashed}
+.status-key .none i{background:var(--hair2);opacity:.6}
+
+.map-tooltip{position:absolute;z-index:20;min-width:190px;max-width:230px;background:#fff;border:1px solid var(--ink);
+  box-shadow:0 8px 24px rgba(0,0,0,.12);padding:10px 11px;font-size:12px;pointer-events:none}
+.map-tooltip[hidden]{display:none}
+.map-tooltip .uf{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-bottom:6px}
+.map-tooltip .candidate{display:grid;grid-template-columns:1fr auto;gap:10px;margin:4px 0}
+.map-tooltip .candidate strong{font-family:var(--mono);font-weight:500}
+.cartogram{display:grid;grid-template-columns:repeat(6,minmax(42px,1fr));grid-auto-rows:55px;gap:6px;
+  grid-template-areas:
+  ". RR . AP . ."
+  "AM . PA MA CE RN"
+  "AC RO TO PI PE PB"
+  ". MT GO BA AL SE"
+  ". MS DF MG ES ."
+  ". . SP RJ . ."
+  ". . PR . . ."
+  ". . SC . . ."
+  ". . RS . . ."}
+.state{border:1px solid var(--hair);background:var(--hair2);border-radius:8px;cursor:pointer;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;padding:3px;min-width:0}
+.state[data-has="true"]{background:#fff;border-color:#aaa49d}
+.state[aria-pressed="true"]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.state b{font-family:var(--mono);font-size:13px;letter-spacing:.03em}
+.state small{display:none}
+.state-list button{display:grid;grid-template-columns:40px 1fr auto;gap:8px;align-items:center;min-height:42px;
+  border:1px solid var(--hair);background:#fff;text-align:left;padding:7px 9px;cursor:pointer}
+.state-overview h3{font-weight:300;font-size:24px;line-height:1.1;margin:0 0 5px}
+.state-overview .state-meta{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-bottom:12px}
+.rank{display:grid;grid-template-columns:1fr auto;gap:10px;border-top:1px solid var(--hair2);padding:9px 0}
+.rank:first-of-type{border-top:0}
+.rank .name{font-size:14px;font-weight:500}
+.rank .party{font-family:var(--mono);font-size:10px;color:var(--muted)}
+.rank .value{font-family:var(--mono);font-size:15px;font-weight:500}
+.empty{border:1px dashed var(--hair);padding:30px 18px;text-align:center;margin-top:16px}
+.empty .t{font-weight:400;font-size:15px;margin-bottom:6px}
+.empty .s{font-family:var(--mono);font-size:11px;color:var(--muted);line-height:1.6}
+
+dialog{width:min(92vw,510px);border:1px solid var(--hair);padding:0;box-shadow:0 15px 50px rgba(0,0,0,.18)}
+dialog::backdrop{background:rgba(0,0,0,.34)}
+.dialog-head{display:flex;gap:10px;align-items:flex-start;padding:16px;border-bottom:1px solid var(--hair)}
+.dialog-head h2{font-weight:300;font-size:22px;margin:0}
+.dialog-close{margin-left:auto;min-width:40px;min-height:40px;border:1px solid var(--hair);background:#fff;cursor:pointer}
+.dialog-body{padding:16px}
+.dialog-row{display:grid;grid-template-columns:1fr auto;gap:10px;padding:8px 0;border-top:1px solid var(--hair2)}
+.dialog-row:first-child{border-top:0}
+.dialog-row strong{font-family:var(--mono);font-size:12px}
+
+footer{margin-top:36px;border-top:1px solid var(--hair);padding-top:18px}
+footer p{font-family:var(--mono);font-size:10.5px;color:var(--muted);line-height:1.6;margin:0 0 8px}
+footer b{color:var(--soft);font-weight:500}
+footer details summary{font-family:var(--mono);font-size:10.5px;color:var(--ink);cursor:pointer;
+  text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px;min-height:36px;display:flex;align-items:center}
+
+@media(max-width:680px){
+  .gov-map-layout{grid-template-columns:1fr}
+  .gov-mini-chart{order:1;border-left:0;border-bottom:1px solid var(--hair);padding:0 0 18px}
+  .map-area{order:2}
+}
+@media(max-width:520px){
+  .wrap{padding:0 14px 36px}
+  .lede{font-size:14px}
+  .poll{flex-direction:column;gap:4px}
+  .poll .r{text-align:left}
+    }
+@media(prefers-reduced-motion:reduce){
+  *{scroll-behavior:auto!important;transition:none!important;animation:none!important}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Pular para o conteúdo</a>
+<div class="wrap">
+<header class="top">
+  <span class="brand"><b>ExameLab</b> · Agregador de pesquisas 2026</span>
+  <span class="upd" id="upd" aria-live="polite"></span>
+</header>
+
+<main id="main">
+<h1>Como a corrida eleitoral se move</h1>
+<p class="lede">Evolução das intenções de voto a partir das pesquisas registradas no TSE. Ligue e desligue candidatos, ajuste o período e explore os levantamentos.</p>
+
+<nav class="races" role="tablist" aria-label="Corrida eleitoral">
+  <button id="tab-presidente" role="tab" aria-selected="true" aria-controls="panel-presidente" tabindex="0" data-race="presidente">Presidente</button>
+  <button id="tab-governador" role="tab" aria-selected="false" aria-controls="panel-governador" tabindex="-1" data-race="governador">Governador</button>
+</nav>
+
+<section id="panel-presidente" role="tabpanel" aria-labelledby="tab-presidente"></section>
+<section id="panel-governador" role="tabpanel" aria-labelledby="tab-governador" hidden></section>
+<div class="sr-only" id="live" aria-live="polite"></div>
+</main>
+
+<footer id="foot"></footer>
+</div>
+
+<dialog id="poll-dialog" aria-labelledby="dialog-title">
+  <div class="dialog-head">
+    <h2 id="dialog-title">Pesquisa</h2>
+    <button class="dialog-close" id="dialog-close" aria-label="Fechar">×</button>
+  </div>
+  <div class="dialog-body" id="dialog-body"></div>
+</dialog>
+
+<script>
+const J=async u=>{try{const r=await fetch(u,{cache:"no-store"});if(!r.ok)throw 0;return await r.json()}catch{return null}};
+const PALETTE=["#D9001E","#3C6E9C","#2F8F6B","#9B6C12","#7C5C9E","#B0553B","#586066"];
+const UFS=["AC","AL","AP","AM","BA","CE","DF","ES","GO","MA","MT","MS","MG","PA","PB","PR","PE","PI","RJ","RN","RS","RO","RR","SC","SP","SE","TO"];
+const AREA=Object.fromEntries(UFS.map(x=>[x,x]));
+const nf=n=>Number(n).toLocaleString("pt-BR",{minimumFractionDigits:1,maximumFractionDigits:1});
+const intBR=n=>Number(n||0).toLocaleString("pt-BR");
+const dateBR=iso=>{const[y,m,d]=String(iso||"").split("-");return y&&m&&d?`${d}/${m}/${y.slice(2)}`:"—"};
+const month=iso=>{const[y,m]=String(iso||"").split("-");return ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"][+m-1]+"/"+String(y).slice(2)};
+const esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+const fold=s=>String(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
+const days=(a,b)=>Math.round((Date.parse(b+"T00:00:00Z")-Date.parse(a+"T00:00:00Z"))/864e5);
+
+let DATA={},ds;
+let st={race:"presidente",view:"trend",uf:"SP",hidden:new Set(),i0:0,i1:0,preset:"30",shown:30,archive:false,presDefaultsApplied:false};
+const CW=720,CH=300,PAD={t:18,r:52,b:26,l:30};
+
+function presidentDataset(){
+  const sig=DATA.pres?._cenario_assinatura;
+  const pts=(DATA.presHist?.pontos||[]).filter(p=>!p.cenario||!sig||p.cenario===sig).sort((a,b)=>a.data.localeCompare(b.data));
+  const last=pts.at(-1)?.valores||{};
+  const cands=[...new Set(pts.flatMap(p=>Object.keys(p.valores||{})))].sort((a,b)=>(last[b]??-1)-(last[a]??-1));
+  const polls=(DATA.presPolls?.pesquisas||[]).map((p,i)=>({
+    id:"p"+i,inst:p.institute,data:p.collection_date,amostra:p.sample_size,margem:p.margin_error,
+    tse:p.tse_registration,url:p.source_url,vals:p.candidates||{}
+  })).filter(p=>p.data).sort((a,b)=>b.data.localeCompare(a.data));
+  return{label:"Presidente · 1º turno · Brasil",pts,last,cands,polls,corte:DATA.pres?.corte};
+}
+function governorDataset(uf){
+  const e=DATA.gov?.estados?.[uf],h=DATA.govHist?.estados?.[uf];
+  if(!e)return null;
+  const pts=(h?.pontos||[]).slice().sort((a,b)=>a.data.localeCompare(b.data));
+  const cands=(e.candidatos||[]).filter(c=>c.nome&&!/^(cen\.?|cenário|outros|indecisos)$/i.test(c.nome)).map(c=>c.nome);
+  const last=pts.at(-1)?.valores||Object.fromEntries((e.candidatos||[]).map(c=>[c.nome,c.media]));
+  const polls=(e.ultimas_pesquisas||[]).map((p,i)=>({
+    id:`g${uf}${i}`,inst:p.instituto,data:p.coleta,amostra:p.amostra,margem:p.margem,
+    tse:p.tse||"",url:p.url||"",vals:p.valores||{}
+  }));
+  return{label:`Governador · 1º turno · ${e.estado}`,pts,last,cands,polls,corte:e.corte,e};
+}
+function color(name){return PALETTE[Math.max(0,ds.cands.indexOf(name))%PALETTE.length]}
+function applyPreset(name){
+  st.preset=name;st.i1=Math.max(0,ds.pts.length-1);
+  if(name==="tudo"){st.i0=0;return}
+  const n={30:30,90:90,180:180}[name],last=ds.pts.at(-1)?.data;let i=0;
+  while(i<ds.pts.length-1&&days(ds.pts[i].data,last)>n)i++;st.i0=i;
+}
+function legend(){
+  return `<div class="legend" id="legend">${ds.cands.map(c=>`<button class="chip" aria-pressed="${!st.hidden.has(c)}" data-c="${esc(c)}">
+    <span class="dot" style="background:${color(c)}" aria-hidden="true"></span>${esc(c)}
+    ${Number.isFinite(ds.last[c])?`<span class="val">${nf(ds.last[c])}%</span>`:""}</button>`).join("")}</div>`;
+}
+function drawTrend(){
+  const box=document.getElementById("chart-box"),view=ds.pts.slice(st.i0,st.i1+1),vis=ds.cands.filter(c=>!st.hidden.has(c));
+  const vals=view.flatMap(p=>vis.map(c=>p.valores?.[c]).filter(Number.isFinite));
+  if(!view.length||!vals.length){box.innerHTML='<div class="note">Sem dados no período selecionado.</div>';return}
+  let lo=Math.min(...vals),hi=Math.max(...vals),y0=Math.max(0,Math.floor(lo/5)*5-1),y1=Math.min(100,Math.ceil(hi/5)*5+1);
+  const X=i=>PAD.l+(view.length<=1?0:i/(view.length-1))*(CW-PAD.l-PAD.r);
+  const Y=v=>PAD.t+(1-(v-y0)/(y1-y0||1))*(CH-PAD.t-PAD.b);
+  const step=Math.max(2,Math.round((y1-y0)/4));let grid="",labels="",lines="";
+  for(let v=y0;v<=y1;v+=step)grid+=`<line x1="${PAD.l}" y1="${Y(v)}" x2="${CW-PAD.r}" y2="${Y(v)}" stroke="var(--hair)" /><text x="${PAD.l-7}" y="${Y(v)+3}" text-anchor="end" font-family="var(--mono)" font-size="10" fill="var(--muted)">${v}</text>`;
+  const every=Math.max(1,Math.ceil(view.length/6));
+  view.forEach((p,i)=>{if(i%every===0||i===view.length-1)labels+=`<text x="${X(i)}" y="${CH-8}" text-anchor="middle" font-family="var(--mono)" font-size="10" fill="var(--muted)">${month(p.data)}</text>`});
+  vis.forEach(c=>{
+    const pp=view.map((p,i)=>({i,v:p.valores?.[c]})).filter(o=>Number.isFinite(o.v));if(!pp.length)return;
+    const d=pp.map((o,k)=>`${k?"L":"M"}${X(o.i).toFixed(1)},${Y(o.v).toFixed(1)}`).join(" ");
+    lines+=`<path d="${d}" fill="none" stroke="${color(c)}" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>`;
+    const last=pp.at(-1);lines+=`<circle cx="${X(last.i)}" cy="${Y(last.v)}" r="2.8" fill="${color(c)}"/><text x="${X(last.i)+6}" y="${Y(last.v)+3.5}" fill="${color(c)}" font-family="var(--mono)" font-size="10.5">${nf(last.v)}</text>`;
+  });
+  box.innerHTML=`<svg class="chart" viewBox="0 0 ${CW} ${CH}" role="img" aria-labelledby="chart-title chart-desc">
+    <title id="chart-title">Evolução das intenções de voto</title>
+    <desc id="chart-desc">Gráfico de linhas do agregado ao longo do tempo. A descrição dos valores mais recentes aparece abaixo.</desc>
+    ${grid}${labels}${lines}</svg>`;
+}
+function drawScatter(){
+  const box=document.getElementById("chart-box"),vis=ds.cands.filter(c=>!st.hidden.has(c));
+  const polls=ds.polls.slice().reverse(),dates=[...new Set(polls.map(p=>p.data))].sort();
+  const vals=polls.flatMap(p=>vis.map(c=>p.vals?.[c]).filter(Number.isFinite));
+  if(!dates.length||!vals.length){box.innerHTML='<div class="note">Sem pesquisas individuais suficientes para a dispersão.</div>';return}
+  let lo=Math.min(...vals),hi=Math.max(...vals),y0=Math.max(0,Math.floor(lo/5)*5-1),y1=Math.min(100,Math.ceil(hi/5)*5+1);
+  const X=d=>PAD.l+(dates.length<=1?.5:dates.indexOf(d)/(dates.length-1))*(CW-PAD.l-PAD.r);
+  const Y=v=>PAD.t+(1-(v-y0)/(y1-y0||1))*(CH-PAD.t-PAD.b);
+  const step=Math.max(2,Math.round((y1-y0)/4));let grid="",labels="",points="";
+  for(let v=y0;v<=y1;v+=step)grid+=`<line x1="${PAD.l}" y1="${Y(v)}" x2="${CW-PAD.r}" y2="${Y(v)}" stroke="var(--hair)" /><text x="${PAD.l-7}" y="${Y(v)+3}" text-anchor="end" font-family="var(--mono)" font-size="10" fill="var(--muted)">${v}</text>`;
+  const every=Math.max(1,Math.ceil(dates.length/6));dates.forEach((d,i)=>{if(i%every===0||i===dates.length-1)labels+=`<text x="${X(d)}" y="${CH-8}" text-anchor="middle" font-family="var(--mono)" font-size="10" fill="var(--muted)">${dateBR(d)}</text>`});
+  polls.forEach((p,i)=>vis.forEach(c=>{const v=p.vals?.[c];if(!Number.isFinite(v))return;
+    const label=`${p.inst}, ${c}, ${nf(v)}%, coleta ${dateBR(p.data)}`;
+    points+=`<circle class="poll-dot" role="button" tabindex="0" aria-label="${esc(label)}. Abrir detalhes." data-id="${p.id}" cx="${X(p.data)+(i%5-2)*2}" cy="${Y(v)}" r="4.6" fill="${color(c)}"><title>${esc(label)}</title></circle>`;
+  }));
+  box.innerHTML=`<svg class="chart" viewBox="0 0 ${CW} ${CH}" role="img" aria-labelledby="scatter-title scatter-desc">
+    <title id="scatter-title">Dispersão das pesquisas</title><desc id="scatter-desc">Cada ponto representa um resultado publicado por uma pesquisa. Os pontos podem ser percorridos com Tab.</desc>${grid}${labels}${points}</svg>`;
+  box.querySelectorAll(".poll-dot").forEach(x=>{
+    x.addEventListener("click",()=>openPoll(x.dataset.id));
+    x.addEventListener("keydown",e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();openPoll(x.dataset.id)}});
+  });
+}
+function summary(){
+  const vis=ds.cands.filter(c=>!st.hidden.has(c)).sort((a,b)=>(ds.last[b]??-1)-(ds.last[a]??-1));
+  const a=vis[0],b=vis[1];
+  return a&&b?`${a} aparece com ${nf(ds.last[a])}%, seguido por ${b}, com ${nf(ds.last[b])}%.`:"";
+}
+function chartBlock(){
+  return `${legend()}<div class="chart-box" id="chart-box"></div>
+  <div class="time"><div class="ranges">
+    <button data-preset="30">30 dias</button><button data-preset="90">90 dias</button>
+    <button data-preset="180">6 meses</button><button data-preset="tudo">Tudo</button>
+    <span class="span" id="span"></span></div></div>
+  <p class="chart-summary" id="chart-summary"></p>
+  <p class="note">${st.view==="scatter"?"Cada ponto é uma pesquisa publicada. Pressione Tab para navegar pelos pontos e Enter para abrir a ficha.":"Cada linha é a média móvel do agregado, e não uma pesquisa isolada."}</p>`;
+}
+function archiveBlock(){
+  return `<section class="raw"><button class="raw-toggle" id="raw-toggle" aria-expanded="${st.archive}" aria-controls="raw-panel">
+    <span class="title">Pesquisas no acervo</span><span class="count">${ds.polls.length} levantamentos ${st.archive?"−":"+"}</span>
+  </button><div class="raw-panel" id="raw-panel" ${st.archive?"":"hidden"}></div></section>`;
+}
+function drawArchive(){
+  const el=document.getElementById("raw-panel");if(!el||!st.archive)return;
+  const inst=[...new Set(ds.polls.map(p=>p.inst))].sort((a,b)=>a.localeCompare(b,"pt-BR"));
+  const f=el.dataset.f||"todos",list=ds.polls.filter(p=>f==="todos"||p.inst===f),shown=list.slice(0,st.shown);
+  el.innerHTML=`<p class="sub">Os números brutos por trás das linhas.</p><div class="filter"><label for="finst">Instituto</label>
+    <select id="finst"><option value="todos">Todos</option>${inst.map(i=>`<option value="${esc(i)}" ${i===f?"selected":""}>${esc(i)}</option>`).join("")}</select></div>
+    ${shown.map(p=>`<button class="poll" data-id="${p.id}"><span class="l"><span class="inst">${esc(p.inst)}</span>
+      <span class="vals">${Object.entries(p.vals||{}).sort((a,b)=>b[1]-a[1]).slice(0,4).map(([n,v])=>`${esc(n.split(" ")[0])} ${nf(v)}`).join(" · ")}</span></span>
+      <span class="r">${dateBR(p.data)}${p.amostra?`<br>${intBR(p.amostra)} entrev.`:""}${Number.isFinite(p.margem)?`<br>±${nf(p.margem)} p.p.`:""}</span></button>`).join("")||'<p class="note">Nenhuma pesquisa.</p>'}
+    ${list.length>shown.length?'<button class="more" id="more">Mostrar mais</button>':""}`;
+  el.querySelector("#finst")?.addEventListener("change",e=>{el.dataset.f=e.target.value;st.shown=30;drawArchive()});
+  el.querySelector("#more")?.addEventListener("click",()=>{st.shown+=30;drawArchive()});
+  el.querySelectorAll(".poll").forEach(x=>x.addEventListener("click",()=>openPoll(x.dataset.id)));
+}
+function wireChart(){
+  document.querySelectorAll(".chip").forEach(x=>x.addEventListener("click",()=>{
+    const c=x.dataset.c,visible=ds.cands.filter(n=>!st.hidden.has(n));if(st.hidden.has(c))st.hidden.delete(c);else if(visible.length>1)st.hidden.add(c);renderCurrent()
+  }));
+  document.querySelectorAll("[data-preset]").forEach(x=>x.addEventListener("click",()=>{applyPreset(x.dataset.preset);syncChart()}));
+  document.getElementById("raw-toggle")?.addEventListener("click",()=>{st.archive=!st.archive;renderCurrent()});
+  syncChart();drawArchive();
+}
+function syncChart(){
+  document.querySelectorAll("[data-preset]").forEach(x=>x.setAttribute("aria-pressed",x.dataset.preset===st.preset));
+  document.getElementById("span").textContent=ds.pts.length?`${dateBR(ds.pts[st.i0]?.data)} — ${dateBR(ds.pts[st.i1]?.data)}`:"";
+  st.view==="scatter"?drawScatter():drawTrend();
+  document.getElementById("chart-summary").textContent=summary();
+}
+function openPoll(id){
+  const p=ds.polls.find(x=>x.id===id);if(!p)return;
+  document.getElementById("dialog-title").textContent=p.inst;
+  document.getElementById("dialog-body").innerHTML=`<div class="dialog-row"><span>Coleta</span><strong>${dateBR(p.data)}</strong></div>
+    ${p.amostra?`<div class="dialog-row"><span>Amostra</span><strong>${intBR(p.amostra)} entrevistas</strong></div>`:""}
+    ${Number.isFinite(p.margem)?`<div class="dialog-row"><span>Margem</span><strong>±${nf(p.margem)} p.p.</strong></div>`:""}
+    ${p.tse?`<div class="dialog-row"><span>Registro TSE</span><strong>${esc(p.tse)}</strong></div>`:""}
+    ${Object.entries(p.vals||{}).sort((a,b)=>b[1]-a[1]).map(([n,v])=>`<div class="dialog-row"><span>${esc(n)}</span><strong>${nf(v)}%</strong></div>`).join("")}
+    ${p.url?`<p><a href="${esc(p.url)}" target="_blank" rel="noopener">Abrir pesquisa original →</a></p>`:""}`;
+  document.getElementById("poll-dialog").showModal();
+}
+function mapBlock(){
+  const states=DATA.gov?.estados||{},registry=DATA.tseGov?.estados||{};
+  if(!st.uf||(!states[st.uf]&&!registry[st.uf]))st.uf=states.SP||registry.SP?"SP":Object.keys({...registry,...states})[0]||null;
+  return `<section class="map-block"><div class="map-head"><div><h2>Mapa das disputas</h2>
+    <p>Passe o cursor ou navegue pelo teclado para ver os líderes ou o estado do registro oficial no TSE.</p></div></div>
+    <div class="status-key" aria-label="Legenda do mapa">
+      <span class="result"><i></i>Resultado localizado</span>
+      <span class="pending"><i></i>Registrada no TSE, resultado pendente</span>
+      <span class="none"><i></i>Sem registro localizado</span>
+    </div>
+    <div class="gov-map-layout">
+      <div class="map-area">
+        <div class="cartogram" id="cartogram">${UFS.map(uf=>{
+          const e=states[uf],r=registry[uf],top=(e?.candidatos||[]).filter(c=>c.nome&&!/^(cen\.?|cenário|outros|indecisos)$/i.test(c.nome)).slice(0,2);
+          const status=e?"resultado":r?.registros?.length?"pendente":"sem-registro";
+          const aria=e?`${e.estado}. ${top.map((c,i)=>`${i+1}º ${c.nome}, ${nf(c.media)}%`).join("; ")}.`
+            :r?.registros?.length?`${r.estado||uf}. ${r.registros.length} pesquisa${r.registros.length===1?"":"s"} registrada${r.registros.length===1?"":"s"} no TSE, resultados ainda não localizados.`
+            :`${uf}. Nenhuma pesquisa para governador localizada no cadastro oficial.`;
+          return `<button class="state" style="grid-area:${AREA[uf]}" data-uf="${uf}" data-status="${status}" data-has="${!!e}" aria-pressed="${st.uf===uf}" aria-label="${esc(aria)}"><b>${uf}</b></button>`}).join("")}</div>
+        <div class="map-tooltip" id="map-tooltip" role="tooltip" hidden></div>
+      </div>
+      <div class="gov-mini-chart" id="gov-mini-chart"></div>
+    </div></section>`;
+}
+function governorTopCandidates(e){
+  return (e?.candidatos||[]).filter(c=>c.nome&&!/^(cen\.?|cenário|outros|indecisos)$/i.test(c.nome)).slice(0,2);
+}
+function drawGovernorMiniChart(){
+  const e=DATA.gov?.estados?.[st.uf],h=DATA.govHist?.estados?.[st.uf],el=document.getElementById("gov-mini-chart");
+  if(!el)return;
+  if(!e){el.innerHTML='<p class="note">Sem pesquisas compatíveis neste estado.</p>';return}
+  const today=new Date().toISOString().slice(0,10);
+  const top=governorTopCandidates(e),points=(h?.pontos||[])
+    .filter(p=>/^\d{4}-\d{2}-\d{2}$/.test(String(p.data||""))&&p.data<=today)
+    .map(p=>({data:p.data,valores:Object.fromEntries(Object.entries(p.valores||{}).filter(([name,value])=>
+      !/cen\.?|cenario|cenário|tooltip|mw-parser-output/i.test(name)&&Number.isFinite(Number(value))
+    ))}))
+    .filter(p=>Object.keys(p.valores).length)
+    .slice().sort((a,b)=>a.data.localeCompare(b.data));
+  const names=top.map(c=>c.nome);
+  const last=Object.fromEntries(top.map(c=>[c.nome,c.media]));
+  let chart="";
+  if(points.length&&names.length){
+    const W=420,H=250,P={l:28,r:40,t:15,b:28};
+    const vals=points.flatMap(p=>names.map(n=>p.valores?.[n]).filter(Number.isFinite));
+    if(vals.length){
+      const lo=Math.min(...vals),hi=Math.max(...vals),y0=Math.max(0,Math.floor(lo/5)*5-1),y1=Math.min(100,Math.ceil(hi/5)*5+1);
+      const X=i=>P.l+(points.length<=1?0:i/(points.length-1))*(W-P.l-P.r);
+      const Y=v=>P.t+(1-(v-y0)/(y1-y0||1))*(H-P.t-P.b);
+      const step=Math.max(2,Math.round((y1-y0)/3));let grid="",lines="",labels="";
+      for(let v=y0;v<=y1;v+=step)grid+=`<line x1="${P.l}" y1="${Y(v)}" x2="${W-P.r}" y2="${Y(v)}" stroke="var(--hair2)"/><text x="${P.l-6}" y="${Y(v)+3}" text-anchor="end" font-family="var(--mono)" font-size="9" fill="var(--muted)">${v}</text>`;
+      const every=Math.max(1,Math.ceil(points.length/4));
+      points.forEach((p,i)=>{if(i%every===0||i===points.length-1)labels+=`<text x="${X(i)}" y="${H-8}" text-anchor="middle" font-family="var(--mono)" font-size="9" fill="var(--muted)">${month(p.data)}</text>`});
+      names.forEach((name,idx)=>{
+        const pp=points.map((p,i)=>({i,v:p.valores?.[name]})).filter(o=>Number.isFinite(o.v));
+        if(!pp.length)return;
+        const d=pp.map((o,k)=>`${k?"L":"M"}${X(o.i).toFixed(1)},${Y(o.v).toFixed(1)}`).join(" ");
+        lines+=`<path d="${d}" fill="none" stroke="${PALETTE[idx]}" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>`;
+        const l=pp.at(-1);lines+=`<circle cx="${X(l.i)}" cy="${Y(l.v)}" r="2.7" fill="${PALETTE[idx]}"/><text x="${X(l.i)+6}" y="${Y(l.v)+3}" fill="${PALETTE[idx]}" font-family="var(--mono)" font-size="10">${nf(l.v)}</text>`;
+      });
+      chart=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-labelledby="gov-mini-title gov-mini-desc"><title id="gov-mini-title">Evolução da disputa para governador em ${esc(e.estado)}</title><desc id="gov-mini-desc">Linhas dos dois candidatos mais bem colocados nas pesquisas agregadas.</desc>${grid}${labels}${lines}</svg>`;
+    }
+  }
+  el.innerHTML=`<h3>${esc(e.estado)}</h3><div class="mini-meta">${e.pesquisas_no_calculo||0} pesquisas · corte ${dateBR(e.corte)}</div>
+    <div class="mini-legend">${top.map((c,i)=>`<span><i style="background:${PALETTE[i]}"></i>${esc(c.nome)} <b>${nf(c.media)}%</b></span>`).join("")}</div>
+    ${chart||'<p class="note">Ainda não há série histórica suficiente para desenhar o gráfico.</p>'}`;
+}
+function showMapTooltip(button){
+  const e=DATA.gov?.estados?.[button.dataset.uf],r=DATA.tseGov?.estados?.[button.dataset.uf],tip=document.getElementById("map-tooltip");
+  if(!tip)return;
+  if(e){
+    const top=governorTopCandidates(e);
+    tip.innerHTML=`<div class="uf">${button.dataset.uf} · ${esc(e.estado)}</div>${top.map((c,i)=>`<div class="candidate"><span>${i+1}. ${esc(c.nome)}</span><strong>${nf(c.media)}%</strong></div>`).join("")||'<div>Sem candidatos válidos.</div>'}`;
+  }else if(r?.registros?.length){
+    const latest=r.registros.slice().sort((a,b)=>(b.data_registro||"").localeCompare(a.data_registro||""))[0];
+    tip.innerHTML=`<div class="uf">${button.dataset.uf} · ${esc(r.estado||button.dataset.uf)}</div>
+      <div>${r.registros.length} pesquisa${r.registros.length===1?"":"s"} registrada${r.registros.length===1?"":"s"} no TSE</div>
+      <div style="margin-top:5px;font-family:var(--mono);font-size:10px;color:var(--muted)">Resultado ainda não localizado${latest?.registro?` · ${esc(latest.registro)}`:""}</div>`;
+  }else{
+    tip.innerHTML=`<div class="uf">${button.dataset.uf}</div><div>Sem pesquisa para governador localizada no cadastro oficial.</div>`;
+  }
+  const area=document.querySelector(".map-area").getBoundingClientRect(),rect=button.getBoundingClientRect();
+  tip.hidden=false;
+  tip.style.left=Math.min(area.width-220,Math.max(0,rect.left-area.left+rect.width/2-95))+"px";
+  tip.style.top=Math.max(0,rect.top-area.top-82)+"px";
+}
+function hideMapTooltip(){
+  const tip=document.getElementById("map-tooltip");if(tip)tip.hidden=true;
+}
+function applyPresidentDefaults(){
+  if(st.presDefaultsApplied)return;
+  ds=presidentDataset();
+  const lula=ds.cands.find(c=>fold(c)==="lula"||fold(c).includes("lula"));
+  const bolsonaro=ds.cands.find(c=>fold(c).includes("bolsonaro"));
+  const selected=new Set([lula,bolsonaro].filter(Boolean));
+  st.hidden=new Set(ds.cands.filter(c=>!selected.has(c)));
+  st.preset="30";
+  st.presDefaultsApplied=true;
+}
+function renderPresident(){
+  ds=presidentDataset();
+  applyPresidentDefaults();
+  if(st.i1>=ds.pts.length||!ds.pts.length||st.preset==="30")applyPreset("30");
+  const p=document.getElementById("panel-presidente");
+  p.innerHTML=`<div class="controls"><span class="scen"><b>Cenário:</b> 1º turno nacional · corte ${dateBR(ds.corte)}</span></div>
+    <div class="view-switch" aria-label="Visualização"><button data-view="trend" aria-pressed="${st.view==="trend"}">Tendência</button>
+    <button data-view="scatter" aria-pressed="${st.view==="scatter"}">Dispersão</button></div>${chartBlock()}${archiveBlock()}`;
+  p.querySelectorAll("[data-view]").forEach(x=>x.addEventListener("click",()=>{st.view=x.dataset.view;renderPresident()}));wireChart();
+}
+function renderGovernor(){
+  const states=DATA.gov?.estados||{};
+  if(states.SP) st.uf=st.uf&&states[st.uf]?st.uf:"SP";
+  else if(!st.uf||!states[st.uf]) st.uf=Object.keys(states)[0]||null;
+  ds=governorDataset(st.uf);
+  const p=document.getElementById("panel-governador");
+  if(!ds){
+    const registry=DATA.tseGov?.estados?.[st.uf],count=registry?.registros?.length||0;
+    p.innerHTML=`<div class="controls"><div class="uf-pick"><label for="uf">Estado</label><select id="uf">${UFS.map(uf=>`<option value="${uf}" ${uf===st.uf?"selected":""}>${esc(DATA.tseGov?.estados?.[uf]?.estado||uf)}</option>`).join("")}</select></div></div>${mapBlock()}
+      <div class="empty"><div class="t">${count?`${count} pesquisa${count===1?"":"s"} registrada${count===1?"":"s"} no TSE`:"Nenhuma pesquisa registrada localizada"}</div>
+      <div class="s">${count?"O resultado ainda não foi encontrado pelas fontes automáticas. O registro já está na fila editorial.":"O mapa será atualizado assim que o TSE publicar um registro para governador."}</div></div>`;
+    p.querySelector("#uf")?.addEventListener("change",e=>{st.uf=e.target.value;renderGovernor()});
+    p.querySelectorAll("#cartogram [data-uf]").forEach(x=>{
+      x.addEventListener("click",()=>{st.uf=x.dataset.uf;renderGovernor()});
+      x.addEventListener("mouseenter",()=>showMapTooltip(x));x.addEventListener("mouseleave",hideMapTooltip);
+      x.addEventListener("focus",()=>showMapTooltip(x));x.addEventListener("blur",hideMapTooltip);
+    });
+    return;
+  }
+  p.innerHTML=`<div class="controls"><div class="uf-pick"><label for="uf">Estado</label><select id="uf">${Object.keys(states).sort((a,b)=>states[a].estado.localeCompare(states[b].estado,"pt-BR")).map(uf=>`<option value="${uf}" ${uf===st.uf?"selected":""}>${esc(states[uf].estado)}</option>`).join("")}</select></div>
+    <span class="scen"><b>Cenário:</b> governador · 1º turno</span></div>${mapBlock()}${archiveBlock()}`;
+  p.querySelector("#uf").addEventListener("change",e=>{st.uf=e.target.value;renderGovernor()});
+  p.querySelectorAll("#cartogram [data-uf]").forEach(x=>{
+    x.addEventListener("click",()=>{if(states[x.dataset.uf]){st.uf=x.dataset.uf;renderGovernor()}});
+    x.addEventListener("mouseenter",()=>showMapTooltip(x));
+    x.addEventListener("mouseleave",hideMapTooltip);
+    x.addEventListener("focus",()=>showMapTooltip(x));
+    x.addEventListener("blur",hideMapTooltip);
+  });
+drawGovernorMiniChart();
+  document.getElementById("raw-toggle")?.addEventListener("click",()=>{st.archive=!st.archive;renderGovernor()});
+  drawArchive();
+}
+function renderCurrent(){st.race==="presidente"?renderPresident():renderGovernor()}
+function setRace(race,focus=false){
+  st.race=race;st.archive=false;st.shown=30;st.view="trend";
+  if(race==="presidente"){
+    st.preset="30";
+    st.presDefaultsApplied=false;
+  }else{
+    st.uf=DATA.gov?.estados?.SP?"SP":st.uf;
+    st.preset="tudo";
+    st.hidden=new Set();
+  }
+  document.querySelectorAll('[role="tab"]').forEach(x=>{const on=x.dataset.race===race;x.setAttribute("aria-selected",on);x.tabIndex=on?0:-1});
+  document.getElementById("panel-presidente").hidden=race!=="presidente";
+  document.getElementById("panel-governador").hidden=race!=="governador";
+  renderCurrent();document.getElementById("live").textContent=`Aba ${race} selecionada.`;
+  if(focus)document.querySelector(`[data-race="${race}"]`).focus();
+}
+(async()=>{
+  const [pres,presHist,presPolls,gov,govHist,tseGov]=await Promise.all([
+    J("./dados/agregado.json"),J("./dados/historico.json"),J("./dados/pesquisas.json"),
+    J("./dados/governadores.json"),J("./dados/historico-governadores.json"),
+    J("./dados/registros-governadores-tse.json")
+  ]);
+  DATA={pres,presHist,presPolls,gov,govHist,tseGov};
+  document.getElementById("upd").textContent=pres?.atualizado_em?"atualizado "+dateBR(pres.atualizado_em):"";
+  const tabs=[...document.querySelectorAll('[role="tab"]')];
+  tabs.forEach((x,i)=>{
+    x.addEventListener("click",()=>setRace(x.dataset.race));
+    x.addEventListener("keydown",e=>{if(!["ArrowLeft","ArrowRight","Home","End"].includes(e.key))return;e.preventDefault();
+      let n=e.key==="Home"?0:e.key==="End"?tabs.length-1:e.key==="ArrowRight"?(i+1)%tabs.length:(i-1+tabs.length)%tabs.length;
+      setRace(tabs[n].dataset.race,true)
+    })
+  });
+  document.getElementById("dialog-close").addEventListener("click",()=>document.getElementById("poll-dialog").close());
+  renderPresident();
+  document.getElementById("foot").innerHTML=`<p><b>Como ler:</b> as linhas mostram a tendência de cada nome ao longo do tempo, não uma previsão. Como cada instituto usa método próprio, os números não são diretamente comparáveis entre si.</p>
+    <details><summary>Metodologia</summary><p>${esc(pres?.metodologia||"Média ponderada por recência e tamanho de amostra; cada estado é calculado separadamente.")}</p></details>
+    <p>${esc(pres?.licenca_dados||"Dados compilados da Wikipédia em português (CC BY-SA).")} · Índice ExameLab · estimativas sujeitas a revisão.</p>`;
+})();
+</script>
+</body>
+</html>
