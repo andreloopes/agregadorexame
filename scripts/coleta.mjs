@@ -297,7 +297,9 @@ function parseDateRange(value, headingMonth, year = 2026) {
   if (date.getUTCFullYear() !== year || date.getUTCMonth() !== month - 1 || date.getUTCDate() !== day) {
     return null;
   }
-  return date.toISOString().slice(0, 10);
+  const iso = date.toISOString().slice(0, 10);
+  // Nenhuma pesquisa pode ter sido feita depois de hoje.
+  return iso > new Date().toISOString().slice(0, 10) ? null : iso;
 }
 
 function canonicalCandidate(header) {
@@ -361,7 +363,7 @@ function parseTable(tableHtml, context) {
 
     const institute = normalizeSpace(instituteCell?.text || "");
     const sampleSize = parseSample(sampleCell?.text);
-    const collectionDate = parseDateRange(dateCell?.text, context.month, 2026);
+    const collectionDate = parseDateRange(dateCell?.text, context.month, context.year || 2026);
     if (!institute || !sampleSize || !collectionDate) continue;
 
     const values = {};
@@ -375,6 +377,10 @@ function parseTable(tableHtml, context) {
     }
 
     if (Object.keys(values).length < 2) continue;
+    // Intenção de voto de um turno não soma muito mais que 100. Somas muito
+    // acima disso indicam tabela com dois cenários lado a lado.
+    const somaLinha = Object.values(values).reduce((a, b) => a + (b || 0), 0);
+    if (somaLinha > 110) continue;
 
     const rowText = cells.map((cell) => cell?.text || "").join(" ");
     const tse = rowText.match(/\b(?:BR|[A-Z]{2})-\d{5}\/2026\b/i)?.[0]?.toUpperCase() || "";
@@ -429,7 +435,8 @@ export function parseWikipediaHtml(html) {
     if (!fold(context.h2).includes("primeiro turno")) continue;
     if (!fold(context.h3).startsWith("2026")) continue;
 
-    polls.push(...parseTable(tableHtml, { month: context.month || context.h4 }));
+    const anoSecao = Number(fold(context.h3).match(/\b(20\d{2})\b/)?.[1]) || 2026;
+    polls.push(...parseTable(tableHtml, { month: context.month || context.h4, year: anoSecao }));
   }
 
   return dedupePolls(polls);

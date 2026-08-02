@@ -2,7 +2,7 @@
 import { readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { parseStateHtml, aggregateState, buildHistory, tableMatrix } from "./coleta-governadores.mjs";
+import { parseStateHtml, aggregateState, buildHistory, tableMatrix, normalizaCandidatos } from "./coleta-governadores.mjs";
 
 const DIR=dirname(fileURLToPath(import.meta.url));
 const html=readFileSync(join(DIR,"fixture-governadores.html"),"utf8");
@@ -25,6 +25,71 @@ ok(ag.candidatos.every(c=>c.ic_min<=c.media&&c.media<=c.ic_max),"faixa contém a
 const hist=buildHistory(polls,ag);
 ok(hist.pontos.length>=2,`criou histórico retroativo (${hist.pontos.length} pontos)`);
 ok(Object.keys(hist.pontos.at(-1).valores).length>=2,"histórico tem ao menos dois candidatos");
+
+
+// ---- Regressões: bugs que já foram ao ar e não podem voltar ----
+
+// 1) Ano vinha cravado em 2026: pesquisa de dezembro/2025 virava data futura,
+//    e data futura ganha o peso máximo de recência.
+const htmlAnos=`
+<h2>Primeiro turno</h2>
+<h3>2026</h3><h4>Julho</h4>
+<table class="wikitable">
+<tr><th>Contratante</th><th>Data(s) de pesquisa</th><th>Amostra</th><th>Margem</th><th>Plínio Valério (PL)</th><th>Omar Aziz (PSD)</th></tr>
+<tr><td>Instituto A</td><td>20 a 22 de julho</td><td>1.000</td><td>3</td><td>30</td><td>40</td></tr></table>
+<h3>2025</h3><h4>Dezembro</h4>
+<table class="wikitable">
+<tr><th>Contratante</th><th>Data(s) de pesquisa</th><th>Amostra</th><th>Margem</th><th>Plínio Valério (PL)</th><th>Omar Aziz (PSD)</th></tr>
+<tr><td>Instituto B</td><td>10 a 12 de dezembro</td><td>1.000</td><td>3</td><td>25</td><td>35</td></tr></table>`;
+const pAnos=parseStateHtml(htmlAnos,{uf:"AM",estado:"Amazonas",title:"t",url:"u"});
+const hoje=new Date().toISOString().slice(0,10);
+ok(pAnos.some(p=>p.collection_date.startsWith("2025-12")),"lê o ano da seção (dezembro de 2025 não vira 2026)");
+ok(!pAnos.some(p=>p.collection_date>hoje),"nenhuma pesquisa com data no futuro");
+
+// 2) A sigla do partido era removida com \b, e em "Plínio" o "í" criava uma
+//    falsa borda de palavra: o nome saía como "ínio Valério".
+ok(pAnos.every(p=>"Plínio Valério" in p.candidates),"não corta o nome ao remover a sigla do partido (Plínio)");
+
+// 3) Nota de rodapé colada no cabeçalho não pode virar candidato.
+const htmlNota=`<h2>Primeiro turno</h2><h3>2026</h3><h4>Julho</h4>
+<table class="wikitable">
+<tr><th>Contratante</th><th>Data(s)</th><th>Amostra</th><th>Margem</th><th>Celina Leão desiste oficialmente da pré-candidatura ao governo do Estado.</th><th>Leandro Grass (PV)</th><th>Erika Kokay (PT)</th></tr>
+<tr><td>Instituto C</td><td>10 de julho</td><td>1.000</td><td>3</td><td>20</td><td>30</td><td>25</td></tr></table>`;
+const pNota=parseStateHtml(htmlNota,{uf:"DF",estado:"Distrito Federal",title:"t",url:"u"});
+ok(!pNota.some(p=>Object.keys(p.candidates).some(n=>n.length>45||/desiste/i.test(n))),"descarta cabeçalho com texto de nota de rodapé");
+
+// 4) Tabela com dois cenários lado a lado somava ~200% numa pesquisa só.
+const htmlSoma=`<h2>Primeiro turno</h2><h3>2026</h3><h4>Março</h4>
+<table class="wikitable">
+<tr><th>Contratante</th><th>Data(s)</th><th>Amostra</th><th>Margem</th><th>A Um (PT)</th><th>B Dois (PL)</th><th>C Três (PSD)</th><th>D Quatro (MDB)</th></tr>
+<tr><td>Veritá</td><td>24 de março</td><td>1.000</td><td>3</td><td>73</td><td>54</td><td>37</td><td>36</td></tr></table>`;
+const pSoma=parseStateHtml(htmlSoma,{uf:"AP",estado:"Amapá",title:"t",url:"u"});
+ok(pSoma.length===0,"descarta linha cuja soma de percentuais é impossível (dois cenários fundidos)");
+
+
+// 5) A Wikipédia escreve "Jerônimo" e "Jerônimo Rodrigues" para a mesma pessoa.
+//    Sem unificar, o candidato entra em algumas pesquisas e some de outras.
+const mesmoNome=[
+  {uf:"BA",estado:"Bahia",institute:"A",collection_date:"2026-07-10",sample_size:1000,
+   candidates:{"ACM Neto":44,"Jerônimo Rodrigues":37},parties:{},cenario:"ACM Neto|Jerônimo Rodrigues"},
+  {uf:"BA",estado:"Bahia",institute:"B",collection_date:"2026-07-20",sample_size:1000,
+   candidates:{"ACM Neto":46,"Jerônimo":40},parties:{},cenario:"ACM Neto|Jerônimo"},
+];
+const norm1=normalizaCandidatos(mesmoNome);
+const nomesFinais=new Set(norm1.accepted.flatMap(p=>Object.keys(p.candidates)));
+ok(nomesFinais.has("Jerônimo Rodrigues")&&!nomesFinais.has("Jerônimo"),
+   "unifica variações do mesmo nome (Jerônimo → Jerônimo Rodrigues)");
+ok(new Set(norm1.accepted.map(p=>p.cenario)).size===1,
+   "após unificar, as duas pesquisas caem no mesmo cenário");
+
+// 6) Nomes distintos que só compartilham um token NÃO podem ser fundidos.
+const homonimos=[
+  {uf:"CE",estado:"Ceará",institute:"A",collection_date:"2026-07-10",sample_size:1000,
+   candidates:{"Ciro Gomes":40,"Cid Gomes":20,"Camilo Santana":30},parties:{},cenario:"x"},
+];
+const norm2=normalizaCandidatos(homonimos);
+const n2=new Set(norm2.accepted.flatMap(p=>Object.keys(p.candidates)));
+ok(n2.has("Ciro Gomes")&&n2.has("Cid Gomes"),"não funde nomes diferentes que dividem sobrenome");
 
 if(fails){console.error(`\n${fails} teste(s) falharam.`);process.exit(1);}
 console.log("\nTudo certo — coletor estadual validado.");

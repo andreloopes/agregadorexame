@@ -28,6 +28,16 @@ export const CONFIG = {
   MAX_POLLS: int(process.env.GOV_MAX_POLLS, 20),
   MIN_POLLS: int(process.env.GOV_MIN_POLLS, 2),
   TOP_HISTORY: int(process.env.GOV_TOP_HISTORY, 6),
+  // Ano da eleição: usado só como padrão quando a seção da Wikipédia não diz o ano.
+  ELECTION_YEAR: int(process.env.GOV_ELECTION_YEAR, 2026),
+  // Um candidato com pelo menos este percentual é "relevante": se ele não estiver
+  // aprovado, a pesquisa inteira fica de fora para não publicarmos uma corrida
+  // com um nome importante escondido.
+  RELEVANCIA_PP: Number(process.env.GOV_RELEVANCIA_PP ?? 3),
+  // Intenção de voto de 1º turno não soma muito mais que 100. Somas de 150/200
+  // indicam tabela com dois cenários lado a lado (ou coluna que não é voto),
+  // que o leitor de tabela funde numa pesquisa só.
+  SOMA_MAX: Number(process.env.GOV_SOMA_MAX ?? 110),
 };
 
 const STATES = {
@@ -160,7 +170,7 @@ function findHeader(h, terms, fallback=-1){
   const i=h.findIndex(x=>terms.some(t=>fold(x).includes(fold(t))));
   return i>=0?i:fallback;
 }
-function dateFrom(v, monthHint){
+function dateFrom(v, monthHint, yearHint){
   const raw=fold(String(v??"").replace(/[–—]/g,"-"));
   const explicit=[...raw.matchAll(/(\d{1,2})\s*(?:de\s*)?(janeiro|fevereiro|marco|abril|maio|junho|julho|agosto|setembro|outubro|novembro|dezembro)/gi)];
   let day,month;
@@ -170,15 +180,33 @@ function dateFrom(v, monthHint){
     day=days.at(-1); month=MONTHS.get(fold(monthHint));
   }
   if(!day||!month) return null;
-  const d=new Date(Date.UTC(2026,month-1,day));
-  return d.getUTCMonth()===month-1&&d.getUTCDate()===day?d.toISOString().slice(0,10):null;
+  // Ano: 1) escrito na própria célula ("12 de dezembro de 2025"); 2) título da
+  // seção; 3) ano da eleição. Antes era cravado em 2026, o que transformava
+  // pesquisas de 2025 em datas futuras — e datas futuras ganham peso máximo.
+  const inCell=raw.match(/\b(20\d{2})\b/);
+  const year=Number(inCell?.[1]) || Number(yearHint) || CONFIG.ELECTION_YEAR;
+  const d=new Date(Date.UTC(year,month-1,day));
+  if(d.getUTCFullYear()!==year||d.getUTCMonth()!==month-1||d.getUTCDate()!==day) return null;
+  const iso=d.toISOString().slice(0,10);
+  // Rede de segurança: nenhuma pesquisa pode ter sido feita no futuro.
+  return iso>today() ? null : iso;
 }
+const PARTIDOS="PT|PL|PSD|MDB|PSDB|PSB|PDT|PP|NOVO|REPUBLICANOS|UNIÃO|UNIAO|REDE|SOLIDARIEDADE|PODE|AVANTE|PRD|DC|PCO|PSTU|UP|MISSÃO|MISSAO";
 function candidateName(header){
-  let s=norm(header)
-    .replace(/\([^)]*\)/g," ")
-    .replace(/\b(?:PT|PL|PSD|MDB|PSDB|PSB|PDT|PP|NOVO|REPUBLICANOS|UNIÃO|UNIAO|REDE|SOLIDARIEDADE|PODE|AVANTE|PRD|DC|PCO|PSTU|UP|MISSÃO|MISSAO)\b/gi," ");
-  s=norm(s);
-  if(!s||/outros|indecis|branco|nulo|nenhum|vantagem|não sabe|nao sabe|cen\.?|cenário|cenario|tooltip|mw-parser-output|parser-output/i.test(s)) return null;
+  let s=norm(header).replace(/\([^)]*\)/g," ");
+  // Atenção: \b não serve aqui. Em "Plínio", o "í" não é caractere de palavra,
+  // então \bPL\b casava com o "Pl" e o nome virava "ínio Valério".
+  // As lookarounds Unicode só removem a sigla quando ela está mesmo isolada.
+  s=norm(s.replace(new RegExp(`(?<!\\p{L})(?:${PARTIDOS})(?!\\p{L})`,"giu")," "));
+  if(!s) return null;
+  if(/outros|indecis|branco|nulo|nenhum|vantagem|não sabe|nao sabe|cen\.?|cenário|cenario|tooltip|mw-parser-output|parser-output/i.test(s)) return null;
+  // Guarda contra nota de rodapé colada no cabeçalho (ex.: "Celina Leão Izalci
+  // Lucas desiste oficialmente da pré-candidatura..."). Nome de candidato é curto;
+  // o que tiver cara de frase vai para revisão em vez de virar candidato.
+  if(s.length>45) return null;
+  if(s.split(/\s+/).length>5) return null;
+  if(/\.\s+\p{L}/u.test(s)) return null;
+  if(/\b(desist|renunci|candidatura|oficialmente|anunciou|declarou)\b/i.test(s)) return null;
   return s;
 }
 function partyFrom(header){
@@ -202,9 +230,12 @@ function parseTable(table, context){
     const name=candidateName(h[c]); if(name) cand.push({col:c,nome:name,partido:partyFrom(h[c])});
   }
   if(cand.length<2) return [];
+  // As colunas da tabela SÃO a lista de candidatos daquele cenário.
+  // Guardamos essa assinatura para nunca misturar cenários diferentes.
+  const cenario=cand.map(c=>c.nome).slice().sort().join("|");
   const polls=[];
   for(const row of matrix.slice(first)){
-    const institute=norm(row.cells[iInst]?.text), collection_date=dateFrom(row.cells[iDate]?.text,context.month);
+    const institute=norm(row.cells[iInst]?.text), collection_date=dateFrom(row.cells[iDate]?.text,context.month,context.year);
     const sample_size=sample(row.cells[iSample]?.text);
     if(!institute||!collection_date||!sample_size) continue;
     const candidates={}, parties={};
@@ -213,9 +244,12 @@ function parseTable(table, context){
       if(v!==null){ candidates[c.nome]=v; parties[c.nome]=c.partido; }
     }
     if(Object.keys(candidates).length<2) continue;
+    const soma=Object.values(candidates).reduce((a,b)=>a+(b||0),0);
+    if(soma>CONFIG.SOMA_MAX) continue; // tabela multi-cenário: não é uma corrida só
     const rowText=row.cells.map(c=>c?.text||"").join(" ");
     polls.push({
       uf:context.uf, estado:context.estado, page_title:context.title,
+      cenario, secao:norm([context.h2,context.h3,context.h4].filter(Boolean).join(" › ")),
       institute, collection_date, sample_size,
       margin_error:num(row.cells[iMargin]?.text),
       tse_registration:rowText.match(/\b(?:BR|[A-Z]{2})-\d{5}\/2026\b/i)?.[0]?.toUpperCase()||"",
@@ -226,85 +260,102 @@ function parseTable(table, context){
   return polls;
 }
 export function parseStateHtml(html, state){
-  const ctx={h2:"",h3:"",h4:"",month:"",...state};
+  const ctx={h2:"",h3:"",h4:"",month:"",year:CONFIG.ELECTION_YEAR,...state};
   const polls=[]; const re=/<(h[2-5])\b[^>]*>([\s\S]*?)<\/\1>|<table\b([^>]*)>([\s\S]*?)<\/table>/gi; let m;
   while((m=re.exec(html))){
     if(m[1]){
       const level=m[1].toLowerCase(), t=text(m[2]); ctx[level]=t;
       if(level==="h4"&&MONTHS.has(fold(t))) ctx.month=t;
       if(level==="h5"&&MONTHS.has(fold(t))) ctx.month=t;
+      // Seções de ano ("2025", "2026") definem o ano das tabelas seguintes.
+      const y=t.match(/\b(20\d{2})\b/);
+      if(y) ctx.year=Number(y[1]);
+      // Um título de mês reinicia nada; um título de nível maior sem ano mantém o atual.
       continue;
     }
     const attrs=m[3]||"", table=`<table ${attrs}>${m[4]}</table>`;
     if(!/wikitable/i.test(attrs)) continue;
     const headings=fold([ctx.h2,ctx.h3,ctx.h4].join(" "));
     if(/segundo turno/.test(headings)) continue;
+    // Tabelas que não são intenção de voto: rejeição, avaliação de governo,
+    // conhecimento//popularidade, senado. Os números existem, mas não são votos.
+    if(/rejeic|avaliac|aprovac|desaprovac|conhecimento|popularidade|senado|senador|presidente da republica/.test(headings)) continue;
     if(!/primeiro turno|governador|2026/.test(headings)) continue;
     polls.push(...parseTable(table,ctx));
   }
   return dedupe(polls);
 }
 
-function loadCandidateAllowlist(){
-  const path=join(DADOS,"candidatos-governadores-aprovados.json");
-  if(!existsSync(path)){
-    return {modo:"estrito",estados:{}};
-  }
+// A tabela da Wikipédia já diz quem são os candidatos: as colunas são a lista.
+// Não há curadoria manual obrigatória. Este arquivo é opcional e serve só para
+// barrar sujeira de extração (ex.: um cabeçalho mal lido) sem mexer no código.
+function loadExclusoes(){
+  const path=join(DADOS,"candidatos-excluidos.json");
+  if(!existsSync(path)) return {global:new Set(),porUf:new Map()};
   try{
     const parsed=JSON.parse(readFileSync(path,"utf8"));
-    return {
-      modo:parsed.modo==="estrito"?"estrito":"estrito",
-      estados:parsed.estados&&typeof parsed.estados==="object"?parsed.estados:{}
-    };
+    const global=new Set((parsed.global||[]).map(fold));
+    const porUf=new Map();
+    for(const [uf,nomes] of Object.entries(parsed.estados||{})) porUf.set(uf,new Set((nomes||[]).map(fold)));
+    return {global,porUf};
   }catch(e){
-    throw new Error(`Lista editorial inválida em ${path}: ${e.message}`);
+    throw new Error(`Lista de exclusões inválida em ${path}: ${e.message}`);
   }
 }
-function approvedCandidateMap(allowlist, uf){
-  const config=allowlist.estados?.[uf]||{};
-  const map=new Map();
-  for(const name of config.permitidos||[]){
-    const canonical=norm(name);
-    if(canonical) map.set(fold(canonical),canonical);
+
+// Normaliza variações do mesmo nome dentro de um estado. A Wikipédia às vezes
+// escreve "Jerônimo" e às vezes "Jerônimo Rodrigues"; sem isso o mesmo candidato
+// entra em algumas pesquisas e some de outras. Só unifica quando um nome é
+// prefixo/subconjunto de tokens do outro e não há ambiguidade.
+function mapaDeApelidos(polls){
+  const contagem=new Map();
+  for(const p of polls) for(const n of Object.keys(p.candidates||{})){
+    const k=fold(n); const cur=contagem.get(k)||{nome:n,vezes:0};
+    cur.vezes++; if(n.length>cur.nome.length) cur.nome=n; contagem.set(k,cur);
   }
-  for(const [alias,canonicalRaw] of Object.entries(config.aliases||{})){
-    const canonical=norm(canonicalRaw);
-    if(canonical) map.set(fold(alias),canonical);
+  const nomes=[...contagem.values()].sort((a,b)=>b.nome.length-a.nome.length);
+  const mapa=new Map();
+  for(const curto of nomes){
+    const tokCurto=fold(curto.nome).split(/\s+/).filter(Boolean);
+    const candidatos=nomes.filter(longo=>{
+      if(fold(longo.nome)===fold(curto.nome)) return false;
+      const tokLongo=fold(longo.nome).split(/\s+/).filter(Boolean);
+      return tokCurto.every(t=>tokLongo.includes(t));
+    });
+    // só unifica se houver exatamente um nome mais completo compatível
+    if(candidatos.length===1) mapa.set(fold(curto.nome),candidatos[0].nome);
   }
-  return map;
+  return mapa;
 }
-function applyCandidateAllowlist(rawPolls, allowlist){
-  const review=new Map();
-  const accepted=[];
-  for(const poll of rawPolls){
-    const approved=approvedCandidateMap(allowlist,poll.uf);
-    const candidates={},parties={};
-    for(const [rawName,value] of Object.entries(poll.candidates||{})){
-      const canonical=approved.get(fold(rawName));
-      if(!canonical){
-        const key=`${poll.uf}|${fold(rawName)}`;
-        if(!review.has(key)){
-          review.set(key,{
-            uf:poll.uf,estado:poll.estado,nome_encontrado:rawName,
-            ocorrencias:0,paginas:new Set(),fontes:new Set()
-          });
+
+export function normalizaCandidatos(rawPolls){
+  const exclusoes=loadExclusoes();
+  const out=[]; const descartados=new Map();
+  const porUf=new Map();
+  for(const p of rawPolls){ if(!porUf.has(p.uf)) porUf.set(p.uf,[]); porUf.get(p.uf).push(p); }
+  for(const [uf,lista] of porUf){
+    const apelidos=mapaDeApelidos(lista);
+    const bloq=exclusoes.porUf.get(uf)||new Set();
+    for(const p of lista){
+      const candidates={},parties={};
+      for(const [nome,valor] of Object.entries(p.candidates||{})){
+        const k=fold(nome);
+        if(exclusoes.global.has(k)||bloq.has(k)){
+          const key=`${uf}|${k}`;
+          descartados.set(key,{uf,nome,motivo:"lista de exclusão"});
+          continue;
         }
-        const item=review.get(key);
-        item.ocorrencias++;
-        if(poll.page_title)item.paginas.add(poll.page_title);
-        if(poll.source_url)item.fontes.add(poll.source_url);
-        continue;
+        const canonico=apelidos.get(k)||nome;
+        candidates[canonico]=valor;
+        parties[canonico]=p.parties?.[nome]||p.parties?.[canonico]||"";
       }
-      candidates[canonical]=value;
-      parties[canonical]=poll.parties?.[rawName]||poll.parties?.[canonical]||"";
+      if(Object.keys(candidates).length<2) continue;
+      // a assinatura do cenário acompanha a normalização de nomes
+      const cenario=Object.keys(candidates).slice().sort().join("|");
+      out.push({...p,candidates,parties,cenario});
     }
-    if(Object.keys(candidates).length<2) continue;
-    accepted.push({...poll,candidates,parties});
   }
-  const pendentes=[...review.values()]
-    .map(item=>({...item,paginas:[...item.paginas],fontes:[...item.fontes]}))
-    .sort((a,b)=>a.uf.localeCompare(b.uf)||b.ocorrencias-a.ocorrencias||a.nome_encontrado.localeCompare(b.nome_encontrado));
-  return {accepted:dedupe(accepted),pendentes};
+  return {accepted:dedupe(out),descartados:[...descartados.values()]};
 }
 
 function dedupe(polls){
@@ -317,7 +368,10 @@ function dedupe(polls){
   return out.sort((a,b)=>b.collection_date.localeCompare(a.collection_date));
 }
 function signature(p){
-  return Object.entries(p.candidates).sort((a,b)=>b[1]-a[1]).slice(0,6).map(([n])=>n).sort().join("|");
+  // Assinatura estrutural: o conjunto de colunas da tabela de origem.
+  // Antes usávamos os 6 maiores percentuais, o que fundia cenários diferentes
+  // sempre que os líderes coincidiam.
+  return p.cenario || Object.keys(p.candidates).slice().sort().join("|");
 }
 function chooseScenario(polls, asOf=null){
   let pool=asOf?polls.filter(p=>p.collection_date<=asOf):polls;
@@ -426,45 +480,6 @@ async function fetchPage(title){
   return {html:j.parse?.text||"",title:resolved};
 }
 
-function candidateSuggestionGroups(pending){
-  const result={};
-  for(const [uf,estado] of Object.entries(STATES)){
-    const candidates=pending
-      .filter(item=>item.uf===uf)
-      .filter(item=>{
-        const name=norm(item.nome_encontrado);
-        if(!name||name.length<3||name.length>80) return false;
-        if(/[{}[\]<>]|https?:|mw-parser|tooltip|background|font-size|display:/i.test(name)) return false;
-        if(/^(cen\.?|cenário|cenario|outros?|indecisos?|brancos?|nulos?|nenhum|não sabe|nao sabe|vantagem)$/i.test(name)) return false;
-        return /[A-Za-zÀ-ÿ]/.test(name);
-      })
-      .sort((a,b)=>b.ocorrencias-a.ocorrencias||a.nome_encontrado.localeCompare(b.nome_encontrado))
-      .map(item=>({
-        nome:item.nome_encontrado,
-        ocorrencias:item.ocorrencias,
-        paginas:item.paginas,
-        fontes:item.fontes
-      }));
-    result[uf] = {
-  uf,
-  estado,
-  candidatos: candidates
-};
-  }
-  return result;
-}
-function printEmptyAllowlistSuggestions(allowlist, groups){
-  for(const [uf,group] of Object.entries(groups)){
-    if(approvedCandidateMap(allowlist,uf).size) continue;
-    const names=group.candidatos.slice(0,12).map(item=>item.nome);
-    console.log(
-      names.length
-        ? `[${uf}] allowlist vazia. Sugestões encontradas: ${names.join(" | ")}`
-        : `[${uf}] allowlist vazia e nenhuma sugestão válida encontrada.`
-    );
-  }
-}
-
 export async function collect(){
   mkdirSync(DADOS,{recursive:true});
   const pages=await discoverPages(), all=[], errors=[], pageStatus={};
@@ -486,10 +501,7 @@ export async function collect(){
     }
   }
   const rawPolls=dedupe(all);
-  const allowlist=loadCandidateAllowlist();
-  const validated=applyCandidateAllowlist(rawPolls,allowlist);
-  const suggestionGroups=candidateSuggestionGroups(validated.pendentes);
-  printEmptyAllowlistSuggestions(allowlist,suggestionGroups);
+  const validated=normalizaCandidatos(rawPolls);
   const polls=validated.accepted;
   const estados={}, historicos={};
   for(const [uf,estado] of Object.entries(STATES)){
@@ -498,6 +510,16 @@ export async function collect(){
     if(!ag) continue;
     estados[uf]=ag;
     historicos[uf]=buildHistory(rows,ag);
+  }
+  const cenariosPorEstado={};
+  for(const [uf] of Object.entries(STATES)){
+    const rows=polls.filter(p=>p.uf===uf);
+    if(!rows.length) continue;
+    const grupos=new Map();
+    for(const r of rows){ const k=r.cenario||""; grupos.set(k,(grupos.get(k)||0)+1); }
+    cenariosPorEstado[uf]=[...grupos.entries()]
+      .sort((a,b)=>b[1]-a[1]).slice(0,5)
+      .map(([c,n])=>({candidatos:c.split("|"),pesquisas:n}));
   }
   const output={
     atualizado_em:today(),
@@ -508,29 +530,18 @@ export async function collect(){
   writeFileSync(join(DADOS,"governadores.json"),JSON.stringify(output,null,2)+"\n");
   writeFileSync(join(DADOS,"pesquisas-governadores.json"),JSON.stringify({atualizado_em:today(),pesquisas:polls},null,2)+"\n");
   writeFileSync(join(DADOS,"_pesquisas-governadores-brutas.json"),JSON.stringify({atualizado_em:today(),pesquisas:rawPolls},null,2)+"\n");
-  writeFileSync(join(DADOS,"_candidatos-governadores-revisao.json"),JSON.stringify({
-    atualizado_em:today(),
-    instrucoes:"Nomes deste arquivo foram encontrados nas tabelas, mas não estão aprovados. Revise e copie apenas os corretos para candidatos-governadores-aprovados.json.",
-    total:validated.pendentes.length,
-    candidatos:validated.pendentes
-  },null,2)+"\n");
-  writeFileSync(join(DADOS,"_candidatos-governadores-sugestoes.json"),JSON.stringify({
-    atualizado_em:today(),
-    status:"RASCUNHO — NÃO PUBLICAR SEM REVISÃO EDITORIAL",
-    instrucoes:[
-      "Os nomes foram extraídos automaticamente e agrupados por UF.",
-      "Revise cada nome e copie somente os corretos para candidatos-governadores-aprovados.json.",
-      "A ordem prioriza nomes que apareceram mais vezes nas pesquisas."
-    ],
-    estados:suggestionGroups
-  },null,2)+"\n");
   writeFileSync(join(DADOS,"historico-governadores.json"),JSON.stringify({atualizado_em:today(),estados:historicos},null,2)+"\n");
   writeFileSync(join(DADOS,"_governadores_status.json"),JSON.stringify({
     ultima_execucao:new Date().toISOString(), paginas_tentadas:pages.length,
-    pesquisas_extraidas_brutas:rawPolls.length, pesquisas_aprovadas:polls.length, candidatos_pendentes:validated.pendentes.length, estados_com_agregado:Object.keys(estados).length,
+    pesquisas_extraidas_brutas:rawPolls.length, pesquisas_usadas:polls.length,
+    estados_com_agregado:Object.keys(estados).length,
+    nomes_excluidos:validated.descartados,
+    cenarios_por_estado:cenariosPorEstado,
     paginas:pageStatus, erros:errors.slice(0,30)
   },null,2)+"\n");
-  console.log(`OK governadores — ${rawPolls.length} pesquisas brutas; ${polls.length} aprovadas; ${validated.pendentes.length} nomes em revisão; ${Object.keys(estados).length} estados com agregado.`);
+  console.log(`OK governadores — ${rawPolls.length} pesquisas brutas; ${polls.length} usadas; ${Object.keys(estados).length} de 27 estados publicados.`);
+  const semAgregado=Object.keys(STATES).filter(uf=>!estados[uf]);
+  if(semAgregado.length) console.log(`  Sem agregado (menos de ${CONFIG.MIN_POLLS} pesquisas no cenário dominante): ${semAgregado.join(", ")}`);
   return {polls,estados,historicos};
 }
 
