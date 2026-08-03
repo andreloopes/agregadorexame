@@ -1,6 +1,85 @@
 {
-  "atualizado_em": "2026-08-02",
+  "atualizado_em": "2026-08-03",
   "pesquisas": [
+    {
+      "uf": "BA",
+      "estado": "Bahia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
+      "cenario": "ACM Neto|Aroldo Félix|Jerônimo|Ronaldo Mansur",
+      "secao": "Primeiro turno (governador) › 2026 › Maio - Agosto",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-08-02",
+      "sample_size": 2400,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-1",
+      "candidates": {
+        "ACM Neto": 48.9,
+        "Jerônimo": 39.7,
+        "Ronaldo Mansur": 0.7,
+        "Aroldo Félix": 0.1
+      },
+      "parties": {
+        "ACM Neto": "UNIÃO",
+        "Jerônimo": "PT",
+        "Ronaldo Mansur": "PSOL",
+        "Aroldo Félix": "UP"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-08-01",
+      "sample_size": 2010,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:14-1",
+      "candidates": {
+        "Sergio Moro": 47.5,
+        "Requião Filho": 16.3,
+        "Sandro Alex": 9.4,
+        "Rafael Greca": 10.8,
+        "Tony Garcia": 0.1,
+        "Luiz França": 2.2
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Rafael Greca": "MDB",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-01",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-1",
+      "candidates": {
+        "Fábio Mitidieri": 43,
+        "Valmir de Francisquinho": 40,
+        "Ricardo Marques": 6,
+        "Emanuel Cacho": 2
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
     {
       "uf": "PE",
       "estado": "Pernambuco",
@@ -245,6 +324,27 @@
       }
     },
     {
+      "uf": "PB",
+      "estado": "Paraíba",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
+      "cenario": "Efraim Filho|Lucas Ribeiro|Olímpio Rocha",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataTrends",
+      "collection_date": "2026-07-29",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-1",
+      "candidates": {
+        "Lucas Ribeiro": 34,
+        "Efraim Filho": 15
+      },
+      "parties": {
+        "Lucas Ribeiro": "PP",
+        "Efraim Filho": "PL"
+      }
+    },
+    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -324,13 +424,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "IRG",
       "collection_date": "2026-07-28",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-1",
+      "source_url": "#cite_note-3",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -384,7 +484,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-1",
+      "source_url": "#cite_note-:4-3",
       "candidates": {
         "ACM Neto": 39,
         "Jerônimo": 38,
@@ -696,13 +796,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Genial/Quaest",
       "collection_date": "2026-07-25",
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-2",
+      "source_url": "#cite_note-:13-4",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -725,13 +825,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Genial/Quaest",
       "collection_date": "2026-07-25",
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-2",
+      "source_url": "#cite_note-:13-4",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -752,13 +852,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Genial/Quaest",
       "collection_date": "2026-07-25",
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-2",
+      "source_url": "#cite_note-:13-4",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -939,7 +1039,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-1",
+      "source_url": "#cite_note-3",
       "candidates": {
         "Fábio Mitidieri": 45.4,
         "Valmir de Francisquinho": 32.2,
@@ -1166,13 +1266,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Neokemp",
       "collection_date": "2026-07-21",
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-5",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -1195,13 +1295,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Neokemp",
       "collection_date": "2026-07-21",
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-5",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -1380,7 +1480,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-5",
       "candidates": {
         "Fábio Mitidieri": 46.2,
         "Valmir de Francisquinho": 34,
@@ -1640,7 +1740,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Fábio Mitidieri": 39.33,
         "Valmir de Francisquinho": 27.8,
@@ -1809,7 +1909,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-1",
+      "source_url": "#cite_note-:8-2",
       "candidates": {
         "Lucas Ribeiro": 28.3,
         "Efraim Filho": 16.5,
@@ -2269,7 +2369,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 38.69,
@@ -2467,7 +2567,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-3",
+      "source_url": "#cite_note-:7-4",
       "candidates": {
         "Lucas Ribeiro": 32,
         "Efraim Filho": 18,
@@ -2484,13 +2584,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-07-06",
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -2513,13 +2613,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-07-06",
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -2766,7 +2866,7 @@
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-7",
+      "source_url": "#cite_note-:4-9",
       "candidates": {
         "Fábio Mitidieri": 40.67,
         "Valmir de Francisquinho": 29.22,
@@ -2966,7 +3066,7 @@
       "sample_size": 1200,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Fábio Mitidieri": 33.1,
         "Valmir de Francisquinho": 39.25,
@@ -2985,13 +3085,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Vox Brasil",
       "collection_date": "2026-06-29",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-5",
+      "source_url": "#cite_note-:12-7",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -3014,13 +3114,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Vox Brasil",
       "collection_date": "2026-06-29",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-5",
+      "source_url": "#cite_note-:12-7",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -3041,13 +3141,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Vox Brasil",
       "collection_date": "2026-06-29",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-5",
+      "source_url": "#cite_note-:12-7",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -3068,13 +3168,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Vox Brasil",
       "collection_date": "2026-06-29",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-5",
+      "source_url": "#cite_note-:12-7",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -3091,13 +3191,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Vox Brasil",
       "collection_date": "2026-06-29",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-5",
+      "source_url": "#cite_note-:12-7",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -3120,7 +3220,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Lucas Ribeiro": 32.7,
         "Efraim Filho": 18.5,
@@ -3532,7 +3632,7 @@
       "sample_size": 783,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-7",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Lucas Ribeiro": 18.3,
         "Efraim Filho": 13.5,
@@ -3555,7 +3655,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Fábio Mitidieri": 41.2,
         "Valmir de Francisquinho": 26.7,
@@ -3636,7 +3736,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Fábio Mitidieri": 34.95,
         "Valmir de Francisquinho": 41.5,
@@ -4096,13 +4196,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "IRG Pesquisa",
       "collection_date": "2026-06-13",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-6",
+      "source_url": "#cite_note-:11-8",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -4125,13 +4225,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "IRG Pesquisa",
       "collection_date": "2026-06-13",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-6",
+      "source_url": "#cite_note-:11-8",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -4158,7 +4258,7 @@
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-14",
+      "source_url": "#cite_note-:3-16",
       "candidates": {
         "Fábio Mitidieri": 38.7,
         "Valmir de Francisquinho": 42.8,
@@ -4183,7 +4283,7 @@
       "sample_size": 782,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Lucas Ribeiro": 42.1,
         "Efraim Filho": 6.6,
@@ -4354,7 +4454,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-5",
       "candidates": {
         "ACM Neto": 49,
         "Jerônimo": 39,
@@ -4377,7 +4477,7 @@
       "sample_size": 1200,
       "margin_error": 2.86,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-11",
+      "source_url": "#cite_note-:5-12",
       "candidates": {
         "Lucas Ribeiro": 33,
         "Efraim Filho": 19,
@@ -4394,13 +4494,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-06-09",
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -4423,13 +4523,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-06-09",
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -4527,7 +4627,7 @@
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Fábio Mitidieri": 40.8,
         "Valmir de Francisquinho": 30.3,
@@ -4571,13 +4671,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Veritá",
       "collection_date": "2026-06-06",
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-10",
+      "source_url": "#cite_note-:10-12",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -4870,7 +4970,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-18",
+      "source_url": "#cite_note-:2-20",
       "candidates": {
         "Fábio Mitidieri": 44.7,
         "Valmir de Francisquinho": 38.7,
@@ -5076,7 +5176,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-12",
+      "source_url": "#cite_note-:6-13",
       "candidates": {
         "Lucas Ribeiro": 26.6,
         "Efraim Filho": 15.1
@@ -5178,7 +5278,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Lucas Ribeiro": 30.2,
         "Efraim Filho": 21.4,
@@ -5457,7 +5557,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-15",
+      "source_url": "#cite_note-:4-16",
       "candidates": {
         "Lucas Ribeiro": 30,
         "Efraim Filho": 19,
@@ -5509,7 +5609,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-20",
+      "source_url": "#cite_note-:1-22",
       "candidates": {
         "Fábio Mitidieri": 41,
         "Valmir de Francisquinho": 38,
@@ -5642,7 +5742,7 @@
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-22",
+      "source_url": "#cite_note-:0-24",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 39.72,
@@ -5842,13 +5942,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "IRG Pesquisa",
       "collection_date": "2026-05-20",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-11",
+      "source_url": "#cite_note-:9-13",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -5871,13 +5971,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "IRG Pesquisa",
       "collection_date": "2026-05-20",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-11",
+      "source_url": "#cite_note-:9-13",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -6412,13 +6512,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-05-10",
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -6441,13 +6541,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-05-10",
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -6697,13 +6797,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Veritá",
       "collection_date": "2026-05-03",
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-13",
+      "source_url": "#cite_note-Veritá2-15",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -6933,13 +7033,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Neokemp Pesquisas",
       "collection_date": "2026-04-29",
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -6962,13 +7062,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Neokemp Pesquisas",
       "collection_date": "2026-04-29",
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -7299,7 +7399,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Lucas Ribeiro": 28,
         "Efraim Filho": 18.7,
@@ -7474,7 +7574,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-17",
+      "source_url": "#cite_note-QuaestAbril-19",
       "candidates": {
         "Tarcísio": 38,
         "Haddad": 26,
@@ -7499,7 +7599,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-17",
+      "source_url": "#cite_note-QuaestAbril-19",
       "candidates": {
         "Tarcísio": 40,
         "Haddad": 28,
@@ -7522,7 +7622,7 @@
       "sample_size": 1312,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-SE04-24",
+      "source_url": "#cite_note-SE04-26",
       "candidates": {
         "Fábio Mitidieri": 37.27,
         "Valmir de Francisquinho": 44.59,
@@ -7545,7 +7645,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-7",
+      "source_url": "#cite_note-QuaestAbril-9",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 37,
@@ -7570,7 +7670,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-7",
+      "source_url": "#cite_note-QuaestAbril-9",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 36,
@@ -7803,13 +7903,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Quaest",
       "collection_date": "2026-04-25",
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-15",
+      "source_url": "#cite_note-:8-17",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -7832,13 +7932,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Quaest",
       "collection_date": "2026-04-25",
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-15",
+      "source_url": "#cite_note-:8-17",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -7948,7 +8048,7 @@
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-VoxAbril-18",
+      "source_url": "#cite_note-VoxAbril-20",
       "candidates": {
         "Tarcísio": 48.2,
         "Haddad": 32.3,
@@ -8023,7 +8123,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-25",
+      "source_url": "#cite_note-SE05-27",
       "candidates": {
         "Fábio Mitidieri": 35.3,
         "Valmir de Francisquinho": 39.9,
@@ -8252,7 +8352,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Tarcísio": 47.8,
         "Haddad": 33.1,
@@ -8296,13 +8396,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-04-12",
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -8325,13 +8425,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-04-12",
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -8352,13 +8452,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-04-12",
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -8379,13 +8479,13 @@
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Alexandre Curi|Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-04-12",
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -8853,7 +8953,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-27",
+      "source_url": "#cite_note-Veritá1-29",
       "candidates": {
         "Fábio Mitidieri": 44.2,
         "Valmir de Francisquinho": 34.5,
@@ -9288,7 +9388,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-17",
+      "source_url": "#cite_note-:7-19",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -9315,7 +9415,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-17",
+      "source_url": "#cite_note-:7-19",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -9342,7 +9442,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-17",
+      "source_url": "#cite_note-:7-19",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -9367,7 +9467,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-17",
+      "source_url": "#cite_note-:7-19",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -9515,7 +9615,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-20",
+      "source_url": "#cite_note-:5-22",
       "candidates": {
         "Tarcísio": 49.1,
         "Haddad": 42.6,
@@ -9540,7 +9640,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-20",
+      "source_url": "#cite_note-:5-22",
       "candidates": {
         "Tarcísio": 48.8,
         "Tebet": 41.8,
@@ -9565,7 +9665,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-20",
+      "source_url": "#cite_note-:5-22",
       "candidates": {
         "Tarcísio": 49.4,
         "França": 32.2,
@@ -9590,7 +9690,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-20",
+      "source_url": "#cite_note-:5-22",
       "candidates": {
         "Tarcísio": 48.4,
         "Alckmin": 41.4,
@@ -9796,7 +9896,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Lucas Ribeiro": 25.3,
         "Efraim Filho": 17.6
@@ -10336,7 +10436,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-19",
+      "source_url": "#cite_note-:3-21",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -10363,7 +10463,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-19",
+      "source_url": "#cite_note-:3-21",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -10390,7 +10490,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-19",
+      "source_url": "#cite_note-:3-21",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -10463,7 +10563,7 @@
       "sample_size": 3025,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-22",
+      "source_url": "#cite_note-Veritá1-24",
       "candidates": {
         "Tarcísio": 41.1,
         "Haddad": 27.7,
@@ -10696,7 +10796,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-29",
+      "source_url": "#cite_note-SE02-31",
       "candidates": {
         "Fábio Mitidieri": 42.88,
         "Valmir de Francisquinho": 35.03
@@ -10717,7 +10817,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-29",
+      "source_url": "#cite_note-SE02-31",
       "candidates": {
         "Fábio Mitidieri": 44.51,
         "Ricardo Marques": 21.63
@@ -10738,7 +10838,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-29",
+      "source_url": "#cite_note-SE02-31",
       "candidates": {
         "Fábio Mitidieri": 51.64,
         "Emanuel Cacho": 10.3
@@ -11317,7 +11417,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 39,
@@ -11519,7 +11619,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Tarcísio": 47,
         "Haddad": 31,
@@ -11544,7 +11644,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Tarcísio": 44,
         "Alckmin": 33,
@@ -11569,7 +11669,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 21,
@@ -11594,7 +11694,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Tarcísio": 48,
         "França": 23,
@@ -11619,7 +11719,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Tarcísio": 43,
         "Derrite": 18,
@@ -11671,7 +11771,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-24",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Tarcísio": 44,
         "Haddad": 31,
@@ -11698,7 +11798,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-24",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Tarcísio": 46,
         "Alckmin": 26,
@@ -11725,7 +11825,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-24",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Tarcísio": 44,
         "França": 5,
@@ -11754,7 +11854,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-24",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 19,
@@ -11781,7 +11881,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-20",
+      "source_url": "#cite_note-:1-22",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -11810,7 +11910,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-20",
+      "source_url": "#cite_note-:1-22",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -11839,7 +11939,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-20",
+      "source_url": "#cite_note-:1-22",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -11922,7 +12022,7 @@
       "sample_size": 1535,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "ACM Neto": 48.28,
         "Jerônimo": 31.15,
@@ -11972,7 +12072,7 @@
       "sample_size": 2045,
       "margin_error": 2.17,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "ACM Neto": 37.7,
         "Jerônimo": 54.24
@@ -11993,7 +12093,7 @@
       "sample_size": 2045,
       "margin_error": 2.17,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "ACM Neto": 35.65,
         "Jerônimo": 52.51,
@@ -12157,7 +12257,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 51,
         "Haddad": 27.7,
@@ -12184,7 +12284,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 48.5,
         "Alckmin": 29.9,
@@ -12211,7 +12311,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 52.8,
         "França": 18.5,
@@ -12238,7 +12338,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "França": 24.2,
         "Nunes": 36,
@@ -12265,7 +12365,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "França": 29.2,
         "Serra": 10.7,
@@ -12508,7 +12608,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Lucas Ribeiro": 23.7,
         "Efraim Filho": 15.3
@@ -12577,7 +12677,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-21",
+      "source_url": "#cite_note-:5-23",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -12604,7 +12704,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-21",
+      "source_url": "#cite_note-:5-23",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -12631,7 +12731,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-21",
+      "source_url": "#cite_note-:5-23",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -13775,7 +13875,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-24",
+      "source_url": "#cite_note-:1-25",
       "candidates": {
         "Lucas Ribeiro": 16,
         "Efraim Filho": 13,
@@ -13798,7 +13898,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-24",
+      "source_url": "#cite_note-:1-25",
       "candidates": {
         "Lucas Ribeiro": 20,
         "Efraim Filho": 18
@@ -13819,7 +13919,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Tarcísio": 45,
         "Alckmin": 26,
@@ -13848,7 +13948,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Tarcísio": 49,
         "Hilton": 8,
@@ -13877,7 +13977,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Tarcísio": 50,
         "França": 18,
@@ -13906,7 +14006,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Derrite": 25,
         "Hilton": 8,
@@ -13935,7 +14035,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Nunes": 28,
         "Hilton": 8,
@@ -13964,7 +14064,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Hilton": 8,
         "Haddad": 29,
@@ -13993,7 +14093,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Hilton": 8,
         "Haddad": 33,
@@ -14022,7 +14122,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Derrite": 18,
         "Nunes": 18,
@@ -14143,7 +14243,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-30",
+      "source_url": "#cite_note-SE01-32",
       "candidates": {
         "Fábio Mitidieri": 46,
         "Valmir de Francisquinho": 33
@@ -14164,7 +14264,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-30",
+      "source_url": "#cite_note-SE01-32",
       "candidates": {
         "Fábio Mitidieri": 49,
         "Thiago de Joaldo": 26
@@ -14185,7 +14285,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-30",
+      "source_url": "#cite_note-SE01-32",
       "candidates": {
         "Fábio Mitidieri": 48,
         "Emília Corrêa": 32
@@ -14206,7 +14306,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-30",
+      "source_url": "#cite_note-SE01-32",
       "candidates": {
         "Fábio Mitidieri": 50,
         "Eduardo Amorim": 28
@@ -14227,7 +14327,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Rui Costa": 46,
         "Kleber Rosa": 1,
@@ -14250,7 +14350,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Jerônimo": 39,
         "Kleber Rosa": 2,
@@ -14273,7 +14373,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "ACM Neto": 42,
         "Rui Costa": 43,
@@ -14298,7 +14398,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 35,
@@ -14690,7 +14790,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "Tarcísio": 48.3,
         "Alckmin": 22.7,
@@ -14717,7 +14817,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "Tarcísio": 50.1,
         "Hilton": 8.8,
@@ -14744,7 +14844,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "Tarcísio": 52.7,
         "França": 12.6,
@@ -14773,7 +14873,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "França": 17.6,
         "Nunes": 32.7,
@@ -14804,7 +14904,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "França": 22.4,
         "Hilton": 13.9,
@@ -14833,7 +14933,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "França": 24,
         "Hilton": 14.5,
@@ -14862,7 +14962,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "França": 24.2,
         "Hilton": 14.4,
@@ -14975,7 +15075,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Tarcísio": 52,
         "França": 16,
@@ -15002,7 +15102,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Tarcísio": 47,
         "Alckmin": 26,
@@ -15029,7 +15129,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "França": 20,
         "Nunes": 34,
@@ -15056,7 +15156,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "França": 27,
         "Hilton": 10,
@@ -15083,7 +15183,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Alckmin": 31,
         "Nunes": 30,
@@ -15187,7 +15287,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Tarcísio": 47.3,
         "França": 18.2,
@@ -15214,7 +15314,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Tarcísio": 48.6,
         "Alckmin": 34.2,
@@ -15241,7 +15341,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Manga": 10.8,
         "Alckmin": 39.4,
@@ -15272,7 +15372,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Manga": 8.2,
         "Derrite": 23.2,
@@ -15299,7 +15399,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Tarcísio": 43.8,
         "Manga": 4.7,
@@ -15330,7 +15430,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Tarcísio": 47.7,
         "Manga": 4.9,
@@ -15361,7 +15461,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Tarcísio": 46.1,
         "Manga": 4.9,
@@ -15392,7 +15492,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Manga": 8.6,
         "França": 14.2,
@@ -15421,7 +15521,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Manga": 9.9,
         "França": 18,
@@ -15452,7 +15552,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Manga": 10.4,
         "França": 19.8,
@@ -15481,7 +15581,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Manga": 10.3,
         "França": 19.8,
@@ -15583,7 +15683,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 34,
@@ -15610,7 +15710,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Tarcísio": 43,
         "Alckmin": 21,
@@ -15964,7 +16064,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Tarcísio": 42.1,
         "Manga": 4.8,
@@ -15995,7 +16095,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Tarcísio": 46.5,
         "Manga": 5.4,
@@ -16026,7 +16126,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Manga": 8.7,
         "França": 16.2,
@@ -16057,7 +16157,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Manga": 11.7,
         "França": 20.6,
@@ -16088,7 +16188,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Manga": 11.6,
         "França": 21.8,
@@ -16119,7 +16219,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Manga": 11.4,
         "França": 21.8,
@@ -16196,7 +16296,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-19",
+      "source_url": "#cite_note-:0-21",
       "candidates": {
         "ACM Neto": 42,
         "Jerônimo": 38,
@@ -16221,7 +16321,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Tarcísio": 37.8,
         "Alckmin": 24.7,
@@ -16248,7 +16348,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Tarcísio": 40.3,
         "França": 12.7,
@@ -16275,7 +16375,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Tarcísio": 48.6,
         "França": 16.6,
@@ -16300,7 +16400,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "França": 17,
         "Nunes": 27,
@@ -16327,7 +16427,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "França": 21.6,
         "Nunes": 35.8,
@@ -16352,7 +16452,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Manga": 9.5,
         "França": 18.8,
@@ -16381,7 +16481,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Manga": 9.8,
         "França": 19.3,
@@ -16410,7 +16510,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Tarcísio": 38,
         "França": 6,
@@ -16456,7 +16556,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 37,
@@ -16481,7 +16581,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Tarcísio": 40.5,
         "França": 12.6,
@@ -16508,7 +16608,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "França": 14.6,
         "Nunes": 27.2,

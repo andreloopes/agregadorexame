@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-08-02T12:13:25.045Z",
+  "ultima_execucao": "2026-08-03T13:47:57.037Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 645,
-  "pesquisas_usadas": 645,
+  "pesquisas_extraidas_brutas": 649,
+  "pesquisas_usadas": 649,
   "estados_com_agregado": 24,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -107,9 +107,9 @@
       {
         "candidatos": [
           "ACM Neto",
+          "Aroldo Félix",
           "Jerônimo",
-          "José Carlos Aleluia",
-          "Kleber Rosa"
+          "Ronaldo Mansur"
         ],
         "pesquisas": 2
       },
@@ -118,7 +118,6 @@
           "ACM Neto",
           "Jerônimo",
           "José Carlos Aleluia",
-          "João Roma",
           "Kleber Rosa"
         ],
         "pesquisas": 2
@@ -506,7 +505,7 @@
           "Efraim Filho",
           "Lucas Ribeiro"
         ],
-        "pesquisas": 6
+        "pesquisas": 7
       },
       {
         "candidatos": [
@@ -527,7 +526,7 @@
           "Sergio Moro",
           "Tony Garcia"
         ],
-        "pesquisas": 12
+        "pesquisas": 13
       },
       {
         "candidatos": [
@@ -1004,7 +1003,7 @@
           "Ricardo Marques",
           "Valmir de Francisquinho"
         ],
-        "pesquisas": 13
+        "pesquisas": 14
       },
       {
         "candidatos": [
@@ -1112,7 +1111,7 @@
     "BA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "status": "ok",
-      "pesquisas": 25,
+      "pesquisas": 26,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Bahia"
     },
     "CE": {
@@ -1172,13 +1171,13 @@
     "PB": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
       "status": "ok",
-      "pesquisas": 16,
+      "pesquisas": 17,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Para%C3%ADba"
     },
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 44,
+      "pesquisas": 45,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
@@ -1238,7 +1237,7 @@
     "SE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "status": "ok",
-      "pesquisas": 23,
+      "pesquisas": 24,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
     },
     "TO": {
