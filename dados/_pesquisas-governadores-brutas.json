@@ -1,6 +1,60 @@
 {
-  "atualizado_em": "2026-08-03",
+  "atualizado_em": "2026-08-04",
   "pesquisas": [
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-03",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:30-1",
+      "candidates": {
+        "Daniel Santos": 29,
+        "Hana Ghassan": 31,
+        "Mário Couto": 12,
+        "Araceli Lemos": 4,
+        "Cleber Rabelo": 1,
+        "Raquel Brício": 0
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-08-02",
+      "sample_size": 997,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-1",
+      "candidates": {
+        "Alan Rick": 33.1,
+        "Mailza Assis": 35.2,
+        "Tião Bocalom": 18.5,
+        "Thor Dantas": 9.7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
     {
       "uf": "BA",
       "estado": "Bahia",
@@ -137,7 +191,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-1",
+      "source_url": "#cite_note-:0-3",
       "candidates": {
         "Eduardo Paes": 48.6,
         "Douglas Ruas": 11.1,
@@ -171,6 +225,52 @@
         "Eduardo Braide": 56.2,
         "Orleans Brandão": 16.4,
         "Felipe Camarão": 8.2
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-1",
+      "candidates": {
+        "Eduardo Braide": 60.7,
+        "Orleans Brandão": 17,
+        "Felipe Camarão": 8.5
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-1",
+      "candidates": {
+        "Eduardo Braide": 64.8,
+        "Orleans Brandão": 17.2,
+        "Felipe Camarão": 9.4
       },
       "parties": {
         "Eduardo Braide": "PSD",
@@ -368,6 +468,89 @@
       }
     },
     {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Prefab",
+      "collection_date": "2026-07-29",
+      "sample_size": 2000,
+      "margin_error": 2.19,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Eduardo Paes": 34.5,
+        "Douglas Ruas": 10.9,
+        "André Marinho": 1.8,
+        "Wilson Witzel": 3.6,
+        "William Siri": 1.8,
+        "Anthony Garotinho": 10.8
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Anthony Garotinho": "Republicanos"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Prefab Future",
+      "collection_date": "2026-07-29",
+      "sample_size": 2000,
+      "margin_error": 2.19,
+      "tse_registration": "",
+      "source_url": "#cite_note-5",
+      "candidates": {
+        "Eduardo Paes": 34.5,
+        "Douglas Ruas": 10.9,
+        "André Marinho": 1.8,
+        "Wilson Witzel": 3.6,
+        "William Siri": 1.8,
+        "Anthony Garotinho": 10.8
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Anthony Garotinho": "Republicanos"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-28",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:12-2",
+      "candidates": {
+        "Omar Aziz": 27.4,
+        "Maria do Carmo": 27.3,
+        "David Almeida": 13.3,
+        "Roberto Cidade": 15.5
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -509,7 +692,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-3",
+      "source_url": "#cite_note-:10-7",
       "candidates": {
         "Eduardo Paes": 37,
         "Douglas Ruas": 16,
@@ -721,7 +904,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-1",
+      "source_url": "#cite_note-:4-2",
       "candidates": {
         "Alan Rick": 38,
         "Mailza Assis": 28,
@@ -736,6 +919,29 @@
       }
     },
     {
+      "uf": "BA",
+      "estado": "Bahia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
+      "cenario": "ACM Neto|Aroldo Félix|Jerônimo|Ronaldo Mansur",
+      "secao": "Primeiro turno (governador) › 2026 › Maio - Agosto",
+      "institute": "Futura Inteligência",
+      "collection_date": "2026-07-25",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-4",
+      "candidates": {
+        "ACM Neto": 53,
+        "Jerônimo": 39.8,
+        "Ronaldo Mansur": 1.2
+      },
+      "parties": {
+        "ACM Neto": "UNIÃO",
+        "Jerônimo": "PT",
+        "Ronaldo Mansur": "PSOL"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -746,7 +952,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-1",
+      "source_url": "#cite_note-:29-3",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -775,7 +981,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-1",
+      "source_url": "#cite_note-:29-3",
       "candidates": {
         "Daniel Santos": 23,
         "Hana Ghassan": 25,
@@ -906,7 +1112,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-5",
+      "source_url": "#cite_note-:9-9",
       "candidates": {
         "Eduardo Paes": 38,
         "Douglas Ruas": 10,
@@ -935,7 +1141,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-5",
+      "source_url": "#cite_note-:9-9",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -962,7 +1168,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-5",
+      "source_url": "#cite_note-:9-9",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -1081,13 +1287,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Projeta",
       "collection_date": "2026-07-23",
       "sample_size": 3000,
       "margin_error": 1.79,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-2",
+      "source_url": "#cite_note-:11-3",
       "candidates": {
         "Omar Aziz": 27,
         "Maria do Carmo": 16.8,
@@ -1557,7 +1763,7 @@
       "sample_size": 2610,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
@@ -1603,7 +1809,7 @@
       "sample_size": 1006,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-3",
+      "source_url": "#cite_note-:3-4",
       "candidates": {
         "Alan Rick": 38.27,
         "Mailza Assis": 19.48,
@@ -1628,7 +1834,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 9,
@@ -1659,7 +1865,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Eduardo Paes": 47,
         "Douglas Ruas": 11,
@@ -2086,13 +2292,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Action",
       "collection_date": "2026-07-10",
       "sample_size": 2685,
       "margin_error": 1.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-3",
+      "source_url": "#cite_note-:10-4",
       "candidates": {
         "Omar Aziz": 30,
         "Maria do Carmo": 21,
@@ -2117,7 +2323,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-4",
+      "source_url": "#cite_note-:28-6",
       "candidates": {
         "Daniel Santos": 34.4,
         "Hana Ghassan": 22.5,
@@ -2142,7 +2348,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-4",
+      "source_url": "#cite_note-:28-6",
       "candidates": {
         "Daniel Santos": 37.1,
         "Hana Ghassan": 24.7,
@@ -2165,7 +2371,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-4",
+      "source_url": "#cite_note-:28-6",
       "candidates": {
         "Daniel Santos": 36.3,
         "Hana Ghassan": 25.6,
@@ -2490,7 +2696,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-5",
+      "source_url": "#cite_note-:4-6",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
@@ -2515,7 +2721,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-5",
+      "source_url": "#cite_note-:27-7",
       "candidates": {
         "Daniel Santos": 37.2,
         "Hana Ghassan": 31.6,
@@ -2540,7 +2746,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-5",
+      "source_url": "#cite_note-:27-7",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 29.2,
@@ -2669,13 +2875,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Veritá",
       "collection_date": "2026-07-05",
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-4",
+      "source_url": "#cite_note-:7-5",
       "candidates": {
         "Omar Aziz": 27.2,
         "Maria do Carmo": 30.4,
@@ -2804,13 +3010,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "DMP",
       "collection_date": "2026-07-02",
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-6",
+      "source_url": "#cite_note-:6-7",
       "candidates": {
         "Omar Aziz": 33.9,
         "Maria do Carmo": 18.3,
@@ -2835,7 +3041,7 @@
       "sample_size": 2500,
       "margin_error": 1.96,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Eduardo Paes": 33.9,
         "Douglas Ruas": 10.3,
@@ -2912,7 +3118,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-13",
+      "source_url": "#cite_note-:7-17",
       "candidates": {
         "Eduardo Paes": 54.2,
         "Douglas Ruas": 14.6,
@@ -2941,7 +3147,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-13",
+      "source_url": "#cite_note-:7-17",
       "candidates": {
         "Eduardo Paes": 50.7,
         "Douglas Ruas": 13.8,
@@ -2972,7 +3178,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-5",
       "candidates": {
         "Alan Rick": 41.25,
         "Mailza Assis": 19.25,
@@ -3237,13 +3443,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Comunidados",
       "collection_date": "2026-06-26",
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-8",
+      "source_url": "#cite_note-:5-9",
       "candidates": {
         "Omar Aziz": 33,
         "Maria do Carmo": 19,
@@ -3293,7 +3499,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-8",
+      "source_url": "#cite_note-:26-10",
       "candidates": {
         "Daniel Santos": 32,
         "Hana Ghassan": 29,
@@ -3576,13 +3782,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Direito ao Ponto",
       "collection_date": "2026-06-20",
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Omar Aziz": 28,
         "Maria do Carmo": 20,
@@ -3607,7 +3813,7 @@
       "sample_size": 780,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Daniel Santos": 22.4,
         "Hana Ghassan": 25.6,
@@ -3807,7 +4013,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-5",
+      "source_url": "#cite_note-:2-6",
       "candidates": {
         "Alan Rick": 39,
         "Mailza Assis": 26,
@@ -3990,7 +4196,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-13",
+      "source_url": "#cite_note-:25-15",
       "candidates": {
         "Daniel Santos": 24.8,
         "Hana Ghassan": 30.4,
@@ -4019,7 +4225,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-13",
+      "source_url": "#cite_note-:25-15",
       "candidates": {
         "Daniel Santos": 24.5,
         "Hana Ghassan": 29.1,
@@ -4344,13 +4550,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Imediato/Iveritas",
       "collection_date": "2026-06-10",
       "sample_size": 1792,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-11",
+      "source_url": "#cite_note-:3-12",
       "candidates": {
         "Omar Aziz": 26.45,
         "Maria do Carmo": 21.82,
@@ -4454,7 +4660,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-6",
       "candidates": {
         "ACM Neto": 49,
         "Jerônimo": 39,
@@ -4652,7 +4858,7 @@
       "sample_size": 1201,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-7",
+      "source_url": "#cite_note-:1-8",
       "candidates": {
         "Alan Rick": 39.55,
         "Mailza Assis": 19.4,
@@ -4760,13 +4966,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Eficaz",
       "collection_date": "2026-06-04",
       "sample_size": 1507,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-13",
+      "source_url": "#cite_note-:2-14",
       "candidates": {
         "Omar Aziz": 25.3,
         "Maria do Carmo": 18.8,
@@ -4785,13 +4991,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Projeta",
       "collection_date": "2026-06-04",
       "sample_size": 2996,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-14",
+      "source_url": "#cite_note-:1-15",
       "candidates": {
         "Omar Aziz": 25.1,
         "Maria do Carmo": 16.2,
@@ -4816,7 +5022,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-15",
+      "source_url": "#cite_note-:6-19",
       "candidates": {
         "Eduardo Paes": 48.3,
         "Douglas Ruas": 12.6,
@@ -4922,7 +5128,7 @@
       "sample_size": 1000,
       "margin_error": 3.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-8",
+      "source_url": "#cite_note-:0-9",
       "candidates": {
         "Alan Rick": 41.2,
         "Mailza Assis": 24.4,
@@ -5022,7 +5228,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-17",
+      "source_url": "#cite_note-Veritá3-19",
       "candidates": {
         "Daniel Santos": 52.5,
         "Hana Ghassan": 32,
@@ -5253,7 +5459,7 @@
       "sample_size": 3003,
       "margin_error": 1.79,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-15",
+      "source_url": "#cite_note-:8-16",
       "candidates": {
         "Maria do Carmo": 20.1,
         "Omar Aziz": 29.1,
@@ -5405,7 +5611,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-17",
+      "source_url": "#cite_note-:0-18",
       "candidates": {
         "Maria do Carmo": 41.4,
         "Omar Aziz": 32.6,
@@ -5634,7 +5840,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-19",
+      "source_url": "#cite_note-:24-21",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -5661,7 +5867,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-19",
+      "source_url": "#cite_note-:24-21",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -5767,7 +5973,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Maria do Carmo": 17.1,
         "Omar Aziz": 34.6,
@@ -5790,7 +5996,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Maria do Carmo": 15.6,
         "Omar Aziz": 29.8,
@@ -5815,7 +6021,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-AM06-22",
+      "source_url": "#cite_note-AM06-23",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 32,
@@ -6054,7 +6260,7 @@
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-Action-26",
+      "source_url": "#cite_note-Action-27",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 31,
@@ -6160,7 +6366,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-10",
+      "source_url": "#cite_note-:-1-11",
       "candidates": {
         "Alan Rick": 42,
         "Mailza Assis": 16.12,
@@ -6212,7 +6418,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-23",
+      "source_url": "#cite_note-AM05-24",
       "candidates": {
         "Maria do Carmo": 38.4,
         "Omar Aziz": 27.5,
@@ -6237,7 +6443,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-23",
+      "source_url": "#cite_note-AM05-24",
       "candidates": {
         "Maria do Carmo": 45,
         "Omar Aziz": 30.1,
@@ -6262,7 +6468,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -6289,7 +6495,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -6493,7 +6699,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Maria do Carmo": 22,
         "Omar Aziz": 35,
@@ -6603,7 +6809,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2A-16",
+      "source_url": "#cite_note-Veritá2A-20",
       "candidates": {
         "Eduardo Paes": 50,
         "Douglas Ruas": 32.3,
@@ -6720,7 +6926,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-24",
+      "source_url": "#cite_note-:23-26",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -6874,7 +7080,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-2-11",
+      "source_url": "#cite_note-:-2-12",
       "candidates": {
         "Alan Rick": 39.6,
         "Mailza Assis": 16.5,
@@ -6924,7 +7130,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-26",
+      "source_url": "#cite_note-Veritá2-28",
       "candidates": {
         "Daniel Santos": 29.1,
         "Hana Ghassan": 26.6,
@@ -7016,7 +7222,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-28",
+      "source_url": "#cite_note-:22-30",
       "candidates": {
         "Daniel Santos": 35.2,
         "Hana Ghassan": 26,
@@ -7095,7 +7301,7 @@
       "sample_size": 1202,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-28",
+      "source_url": "#cite_note-Veritá2-29",
       "candidates": {
         "Maria do Carmo": 41,
         "Omar Aziz": 34.5,
@@ -7447,7 +7653,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-13",
+      "source_url": "#cite_note-Veritá2-14",
       "candidates": {
         "Alan Rick": 38.1,
         "Mailza Assis": 32.9,
@@ -7645,7 +7851,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-9",
+      "source_url": "#cite_note-QuaestAbril-10",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 37,
@@ -7670,7 +7876,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-9",
+      "source_url": "#cite_note-QuaestAbril-10",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 36,
@@ -7828,7 +8034,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-17",
+      "source_url": "#cite_note-:4-21",
       "candidates": {
         "Eduardo Paes": 53,
         "Douglas Ruas": 13.2,
@@ -7852,12 +8058,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
       "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Quaest",
+      "institute": "Genial/Quaest",
       "collection_date": "2026-04-25",
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-30",
+      "source_url": "#cite_note-:20-32",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 19,
@@ -7879,12 +8085,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
       "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Quaest",
+      "institute": "Genial/Quaest",
       "collection_date": "2026-04-25",
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-30",
+      "source_url": "#cite_note-:20-32",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 22,
@@ -7963,7 +8169,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-19",
+      "source_url": "#cite_note-:5-23",
       "candidates": {
         "Eduardo Paes": 34,
         "Douglas Ruas": 9,
@@ -7994,7 +8200,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-19",
+      "source_url": "#cite_note-:5-23",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 10,
@@ -8021,7 +8227,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-19",
+      "source_url": "#cite_note-:5-23",
       "candidates": {
         "Eduardo Paes": 39,
         "Douglas Ruas": 11,
@@ -8300,7 +8506,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-33",
+      "source_url": "#cite_note-:19-35",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -8327,7 +8533,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-33",
+      "source_url": "#cite_note-:19-35",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -8822,7 +9028,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-24",
+      "source_url": "#cite_note-Veritá1-28",
       "candidates": {
         "Eduardo Paes": 49.7,
         "Douglas Ruas": 32.7,
@@ -9321,7 +9527,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Daniel Santos": 43.4,
         "Hana Ghassan": 25.5,
@@ -9344,7 +9550,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 18.7,
@@ -10111,7 +10317,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-14",
+      "source_url": "#cite_note-Veritá1-15",
       "candidates": {
         "Alan Rick": 41.3,
         "Mailza Assis": 25,
@@ -10136,7 +10342,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM03-29",
+      "source_url": "#cite_note-AM03-30",
       "candidates": {
         "Maria do Carmo": 40.8,
         "Omar Aziz": 33.8,
@@ -10313,7 +10519,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-3-15",
+      "source_url": "#cite_note-:-3-16",
       "candidates": {
         "Alan Rick": 40.36,
         "Mailza Assis": 20.78,
@@ -10338,7 +10544,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-41",
+      "source_url": "#cite_note-:0-43",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -10365,7 +10571,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-41",
+      "source_url": "#cite_note-:0-43",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -10588,7 +10794,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-AM04-30",
+      "source_url": "#cite_note-AM04-31",
       "candidates": {
         "Maria do Carmo": 27,
         "Omar Aziz": 39,
@@ -10611,7 +10817,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-AM04-30",
+      "source_url": "#cite_note-AM04-31",
       "candidates": {
         "Maria do Carmo": 26,
         "Omar Aziz": 37,
@@ -11017,7 +11223,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-31",
+      "source_url": "#cite_note-AM02-32",
       "candidates": {
         "Maria do Carmo": 41.8,
         "Omar Aziz": 40.4,
@@ -11042,7 +11248,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-31",
+      "source_url": "#cite_note-AM02-32",
       "candidates": {
         "Maria do Carmo": 42.2,
         "Omar Aziz": 40.6,
@@ -11065,7 +11271,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-31",
+      "source_url": "#cite_note-AM02-32",
       "candidates": {
         "Maria do Carmo": 42.8,
         "Omar Aziz": 40.5,
@@ -11394,7 +11600,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM01-32",
+      "source_url": "#cite_note-AM01-33",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 33,
@@ -11417,7 +11623,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-12",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 39,
@@ -11488,7 +11694,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-30",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 13,
@@ -11517,7 +11723,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-30",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -11548,7 +11754,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-30",
       "candidates": {
         "Eduardo Paes": 51,
         "Douglas Ruas": 19
@@ -11742,7 +11948,7 @@
       "sample_size": 1200,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-31",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 4,
@@ -12022,7 +12228,7 @@
       "sample_size": 1535,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-14",
       "candidates": {
         "ACM Neto": 48.28,
         "Jerônimo": 31.15,
@@ -12072,7 +12278,7 @@
       "sample_size": 2045,
       "margin_error": 2.17,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-15",
       "candidates": {
         "ACM Neto": 37.7,
         "Jerônimo": 54.24
@@ -12093,7 +12299,7 @@
       "sample_size": 2045,
       "margin_error": 2.17,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-15",
       "candidates": {
         "ACM Neto": 35.65,
         "Jerônimo": 52.51,
@@ -12448,7 +12654,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-50",
+      "source_url": "#cite_note-:3-52",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -12475,7 +12681,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-50",
+      "source_url": "#cite_note-:3-52",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -12498,7 +12704,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-32",
       "candidates": {
         "Eduardo Paes": 42.5,
         "Douglas Ruas": 1.6,
@@ -12529,7 +12735,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-32",
       "candidates": {
         "Eduardo Paes": 50.5,
         "Douglas Ruas": 2.3,
@@ -12556,7 +12762,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-32",
       "candidates": {
         "Eduardo Paes": 50.3,
         "Ítalo Marsili": 0.7,
@@ -12583,7 +12789,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-54",
+      "source_url": "#cite_note-:1-56",
       "candidates": {
         "Daniel Santos": 32.1,
         "Hana Ghassan": 22.2,
@@ -12858,7 +13064,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 30.5,
         "Hana Ghassan": 20.3,
@@ -12883,7 +13089,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 20.7,
         "Hana Ghassan": 19.8,
@@ -12908,7 +13114,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 34.1,
         "Hana Ghassan": 19.2,
@@ -12933,7 +13139,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 32,
@@ -12958,7 +13164,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 23.2,
         "Hana Ghassan": 21.3,
@@ -12983,7 +13189,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 47.8,
         "Hana Ghassan": 19.1,
@@ -13008,7 +13214,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 23.2,
@@ -13319,7 +13525,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-17",
+      "source_url": "#cite_note-AC01-18",
       "candidates": {
         "Alan Rick": 40,
         "Tião Bocalom": 24,
@@ -13344,7 +13550,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-17",
+      "source_url": "#cite_note-AC01-18",
       "candidates": {
         "Alan Rick": 51,
         "Mailza Assis": 21,
@@ -13367,7 +13573,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-17",
+      "source_url": "#cite_note-AC01-18",
       "candidates": {
         "Alan Rick": 46,
         "Tião Bocalom": 30,
@@ -13604,7 +13810,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-70",
+      "source_url": "#cite_note-:6-72",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -13627,7 +13833,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-70",
+      "source_url": "#cite_note-:6-72",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -13825,7 +14031,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-76",
+      "source_url": "#cite_note-:7-78",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
@@ -13850,7 +14056,7 @@
       "sample_size": 600,
       "margin_error": 4,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-74",
+      "source_url": "#cite_note-:9-76",
       "candidates": {
         "Daniel Santos": 29.4,
         "Hana Ghassan": 19.8,
@@ -14327,7 +14533,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Rui Costa": 46,
         "Kleber Rosa": 1,
@@ -14350,7 +14556,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Jerônimo": 39,
         "Kleber Rosa": 2,
@@ -14373,7 +14579,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "ACM Neto": 42,
         "Rui Costa": 43,
@@ -14398,7 +14604,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 35,
@@ -14638,7 +14844,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-84",
+      "source_url": "#cite_note-86",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -14661,7 +14867,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-84",
+      "source_url": "#cite_note-86",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -14991,7 +15197,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-89",
+      "source_url": "#cite_note-91",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -15012,7 +15218,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-89",
+      "source_url": "#cite_note-91",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -15033,7 +15239,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-89",
+      "source_url": "#cite_note-91",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -15054,7 +15260,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-89",
+      "source_url": "#cite_note-91",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -15612,7 +15818,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Alan Rick": 35,
         "Tião Bocalom": 23,
@@ -15637,7 +15843,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Alan Rick": 44,
         "Mailza Assis": 18,
@@ -15660,7 +15866,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Alan Rick": 38,
         "Tião Bocalom": 27,
@@ -15683,7 +15889,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 34,
@@ -15737,7 +15943,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-98",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -15760,7 +15966,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-98",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -15875,7 +16081,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-107",
+      "source_url": "#cite_note-:11-109",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -15959,7 +16165,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-117",
+      "source_url": "#cite_note-:13-119",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -15980,7 +16186,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-120",
+      "source_url": "#cite_note-122",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -16001,7 +16207,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-120",
+      "source_url": "#cite_note-122",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -16022,7 +16228,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-125",
+      "source_url": "#cite_note-:14-127",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -16043,7 +16249,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-128",
+      "source_url": "#cite_note-:15-130",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -16250,7 +16456,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-131",
+      "source_url": "#cite_note-:16-133",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -16296,7 +16502,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-21",
+      "source_url": "#cite_note-:0-22",
       "candidates": {
         "ACM Neto": 42,
         "Jerônimo": 38,
@@ -16535,7 +16741,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-134",
+      "source_url": "#cite_note-:17-136",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10
@@ -16556,7 +16762,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 37,

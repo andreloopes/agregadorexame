@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-08-03T13:47:57.037Z",
+  "ultima_execucao": "2026-08-04T13:07:15.041Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 649,
-  "pesquisas_usadas": 649,
+  "pesquisas_extraidas_brutas": 657,
+  "pesquisas_usadas": 657,
   "estados_com_agregado": 24,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -14,7 +14,7 @@
           "Thor Dantas",
           "Tião Bocalom"
         ],
-        "pesquisas": 13
+        "pesquisas": 14
       },
       {
         "candidatos": [
@@ -57,7 +57,7 @@
           "Omar Aziz",
           "Roberto Cidade"
         ],
-        "pesquisas": 17
+        "pesquisas": 18
       },
       {
         "candidatos": [
@@ -82,7 +82,6 @@
         "candidatos": [
           "ACM Neto",
           "Jerônimo",
-          "José Carlos Aleluia",
           "Ronaldo Mansur"
         ],
         "pesquisas": 6
@@ -91,9 +90,10 @@
         "candidatos": [
           "ACM Neto",
           "Jerônimo",
+          "José Carlos Aleluia",
           "Ronaldo Mansur"
         ],
-        "pesquisas": 5
+        "pesquisas": 6
       },
       {
         "candidatos": [
@@ -296,7 +296,7 @@
           "Felipe Camarão",
           "Orleans Brandão"
         ],
-        "pesquisas": 2
+        "pesquisas": 4
       },
       {
         "candidatos": [
@@ -654,6 +654,17 @@
       {
         "candidatos": [
           "André Marinho",
+          "Anthony Garotinho",
+          "Douglas Ruas",
+          "Eduardo Paes",
+          "William Siri",
+          "Wilson Witzel"
+        ],
+        "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "André Marinho",
           "Douglas Ruas",
           "Eduardo Paes",
           "William Siri",
@@ -672,17 +683,6 @@
           "Wilson Witzel"
         ],
         "pesquisas": 3
-      },
-      {
-        "candidatos": [
-          "André Marinho",
-          "Anthony Garotinho",
-          "Douglas Ruas",
-          "Eduardo Paes",
-          "William Siri",
-          "Wilson Witzel"
-        ],
-        "pesquisas": 2
       },
       {
         "candidatos": [
@@ -1087,7 +1087,7 @@
     "AC": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
       "status": "ok",
-      "pesquisas": 17,
+      "pesquisas": 18,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Acre"
     },
     "AL": {
@@ -1105,13 +1105,13 @@
     "AM": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "status": "ok",
-      "pesquisas": 26,
+      "pesquisas": 27,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
     },
     "BA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "status": "ok",
-      "pesquisas": 26,
+      "pesquisas": 27,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Bahia"
     },
     "CE": {
@@ -1141,7 +1141,7 @@
     "MA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "status": "ok",
-      "pesquisas": 3,
+      "pesquisas": 5,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Maranh%C3%A3o"
     },
     "MT": {
@@ -1165,7 +1165,7 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 68,
+      "pesquisas": 69,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
@@ -1195,7 +1195,7 @@
     "RJ": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
       "status": "ok",
-      "pesquisas": 24,
+      "pesquisas": 26,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_de_Janeiro"
     },
     "RN": {

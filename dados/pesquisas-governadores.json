@@ -1,6 +1,60 @@
 {
-  "atualizado_em": "2026-08-03",
+  "atualizado_em": "2026-08-04",
   "pesquisas": [
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-03",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:30-1",
+      "candidates": {
+        "Daniel Santos": 29,
+        "Hana Ghassan": 31,
+        "Mário Couto": 12,
+        "Araceli Lemos": 4,
+        "Cleber Rabelo": 1,
+        "Raquel Brício": 0
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-08-02",
+      "sample_size": 997,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-1",
+      "candidates": {
+        "Alan Rick": 33.1,
+        "Mailza Assis": 35.2,
+        "Tião Bocalom": 18.5,
+        "Thor Dantas": 9.7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
     {
       "uf": "BA",
       "estado": "Bahia",
@@ -137,7 +191,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-1",
+      "source_url": "#cite_note-:0-3",
       "candidates": {
         "Eduardo Paes": 48.6,
         "Douglas Ruas": 11.1,
@@ -179,6 +233,64 @@
       }
     },
     {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Prefab",
+      "collection_date": "2026-07-29",
+      "sample_size": 2000,
+      "margin_error": 2.19,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Eduardo Paes": 34.5,
+        "Douglas Ruas": 10.9,
+        "André Marinho": 1.8,
+        "Wilson Witzel": 3.6,
+        "William Siri": 1.8,
+        "Anthony Garotinho": 10.8
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Anthony Garotinho": "Republicanos"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Prefab Future",
+      "collection_date": "2026-07-29",
+      "sample_size": 2000,
+      "margin_error": 2.19,
+      "tse_registration": "",
+      "source_url": "#cite_note-5",
+      "candidates": {
+        "Eduardo Paes": 34.5,
+        "Douglas Ruas": 10.9,
+        "André Marinho": 1.8,
+        "Wilson Witzel": 3.6,
+        "William Siri": 1.8,
+        "Anthony Garotinho": 10.8
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Anthony Garotinho": "Republicanos"
+      }
+    },
+    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -194,6 +306,52 @@
         "Eduardo Braide": 56.2,
         "Orleans Brandão": 16.4,
         "Felipe Camarão": 8.2
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "secao": "Primeiro turno (governador) › 2026 › Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-1",
+      "candidates": {
+        "Eduardo Braide": 60.7,
+        "Orleans Brandão": 17,
+        "Felipe Camarão": 8.5
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "secao": "Primeiro turno (governador) › 2026 › Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-1",
+      "candidates": {
+        "Eduardo Braide": 64.8,
+        "Orleans Brandão": 17.2,
+        "Felipe Camarão": 9.4
       },
       "parties": {
         "Eduardo Braide": "PSD",
@@ -397,6 +555,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-28",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:12-2",
+      "candidates": {
+        "Omar Aziz": 27.4,
+        "Maria do Carmo": 27.3,
+        "David Almeida": 13.3,
+        "Roberto Cidade": 15.5
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -509,7 +692,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-3",
+      "source_url": "#cite_note-:10-7",
       "candidates": {
         "Eduardo Paes": 37,
         "Douglas Ruas": 16,
@@ -711,6 +894,110 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:29-3",
+      "candidates": {
+        "Daniel Santos": 20,
+        "Hana Ghassan": 24,
+        "Mário Couto": 11,
+        "Araceli Lemos": 2,
+        "Cleber Rabelo": 2,
+        "Raquel Brício": 2
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:29-3",
+      "candidates": {
+        "Daniel Santos": 23,
+        "Hana Ghassan": 25,
+        "Araceli Lemos": 5,
+        "Cleber Rabelo": 4,
+        "Raquel Brício": 2
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-25",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-2",
+      "candidates": {
+        "Alan Rick": 38,
+        "Mailza Assis": 28,
+        "Tião Bocalom": 17,
+        "Thor Dantas": 7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "BA",
+      "estado": "Bahia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
+      "cenario": "ACM Neto|Jerônimo|Ronaldo Mansur",
+      "secao": "Primeiro turno (governador) › 2026 › Maio - Agosto",
+      "institute": "Futura Inteligência",
+      "collection_date": "2026-07-25",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-4",
+      "candidates": {
+        "ACM Neto": 53,
+        "Jerônimo": 39.8,
+        "Ronaldo Mansur": 1.2
+      },
+      "parties": {
+        "ACM Neto": "UNIÃO",
+        "Jerônimo": "PT",
+        "Ronaldo Mansur": "PSOL"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -825,7 +1112,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-5",
+      "source_url": "#cite_note-:9-9",
       "candidates": {
         "Eduardo Paes": 38,
         "Douglas Ruas": 10,
@@ -854,7 +1141,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-5",
+      "source_url": "#cite_note-:9-9",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -881,7 +1168,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-5",
+      "source_url": "#cite_note-:9-9",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -893,87 +1180,6 @@
         "Douglas Ruas": "PL",
         "André Marinho": "NOVO",
         "William Siri": "PSOL"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-25",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-1",
-      "candidates": {
-        "Alan Rick": 38,
-        "Mailza Assis": 28,
-        "Tião Bocalom": 17,
-        "Thor Dantas": 7
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:29-1",
-      "candidates": {
-        "Daniel Santos": 20,
-        "Hana Ghassan": 24,
-        "Mário Couto": 11,
-        "Araceli Lemos": 2,
-        "Cleber Rabelo": 2,
-        "Raquel Brício": 2
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:29-1",
-      "candidates": {
-        "Daniel Santos": 23,
-        "Hana Ghassan": 25,
-        "Araceli Lemos": 5,
-        "Cleber Rabelo": 4,
-        "Raquel Brício": 2
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
       }
     },
     {
@@ -1112,13 +1318,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Projeta",
       "collection_date": "2026-07-23",
       "sample_size": 3000,
       "margin_error": 1.79,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-2",
+      "source_url": "#cite_note-:11-3",
       "candidates": {
         "Omar Aziz": 27,
         "Maria do Carmo": 16.8,
@@ -1532,7 +1738,7 @@
       "sample_size": 2610,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
@@ -1593,6 +1799,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-07-15",
+      "sample_size": 1006,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-4",
+      "candidates": {
+        "Alan Rick": 38.27,
+        "Mailza Assis": 19.48,
+        "Tião Bocalom": 19.28,
+        "Thor Dantas": 1.79
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
@@ -1603,7 +1834,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 9,
@@ -1634,7 +1865,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Eduardo Paes": 47,
         "Douglas Ruas": 11,
@@ -1648,31 +1879,6 @@
         "André Marinho": "NOVO",
         "Wilson Witzel": "Democrata",
         "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-07-15",
-      "sample_size": 1006,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-3",
-      "candidates": {
-        "Alan Rick": 38.27,
-        "Mailza Assis": 19.48,
-        "Tião Bocalom": 19.28,
-        "Thor Dantas": 1.79
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -2092,7 +2298,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-4",
+      "source_url": "#cite_note-:28-6",
       "candidates": {
         "Daniel Santos": 34.4,
         "Hana Ghassan": 22.5,
@@ -2117,7 +2323,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-4",
+      "source_url": "#cite_note-:28-6",
       "candidates": {
         "Daniel Santos": 37.1,
         "Hana Ghassan": 24.7,
@@ -2140,7 +2346,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-4",
+      "source_url": "#cite_note-:28-6",
       "candidates": {
         "Daniel Santos": 36.3,
         "Hana Ghassan": 25.6,
@@ -2150,6 +2356,31 @@
         "Daniel Santos": "PODE",
         "Hana Ghassan": "MDB",
         "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "Action",
+      "collection_date": "2026-07-10",
+      "sample_size": 2685,
+      "margin_error": 1.9,
+      "tse_registration": "",
+      "source_url": "#cite_note-:10-4",
+      "candidates": {
+        "Omar Aziz": 30,
+        "Maria do Carmo": 21,
+        "David Almeida": 18,
+        "Roberto Cidade": 21
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -2177,31 +2408,6 @@
         "Cadu Xavier": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Action",
-      "collection_date": "2026-07-10",
-      "sample_size": 2685,
-      "margin_error": 1.9,
-      "tse_registration": "",
-      "source_url": "#cite_note-:10-3",
-      "candidates": {
-        "Omar Aziz": 30,
-        "Maria do Carmo": 21,
-        "David Almeida": 18,
-        "Roberto Cidade": 21
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -2384,6 +2590,58 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Veritate",
+      "collection_date": "2026-07-07",
+      "sample_size": 1400,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:27-7",
+      "candidates": {
+        "Daniel Santos": 37.2,
+        "Hana Ghassan": 31.6,
+        "Araceli Lemos": 3.9,
+        "Cleber Rabelo": 5.9
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Veritate",
+      "collection_date": "2026-07-07",
+      "sample_size": 1400,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:27-7",
+      "candidates": {
+        "Daniel Santos": 34.2,
+        "Hana Ghassan": 29.2,
+        "Mário Couto": 10.6,
+        "Araceli Lemos": 2.9,
+        "Cleber Rabelo": 4.1
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -2394,7 +2652,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-5",
+      "source_url": "#cite_note-:4-6",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
@@ -2429,58 +2687,6 @@
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL",
         "Olímpio Rocha": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Veritate",
-      "collection_date": "2026-07-07",
-      "sample_size": 1400,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:27-5",
-      "candidates": {
-        "Daniel Santos": 37.2,
-        "Hana Ghassan": 31.6,
-        "Araceli Lemos": 3.9,
-        "Cleber Rabelo": 5.9
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Veritate",
-      "collection_date": "2026-07-07",
-      "sample_size": 1400,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:27-5",
-      "candidates": {
-        "Daniel Santos": 34.2,
-        "Hana Ghassan": 29.2,
-        "Mário Couto": 10.6,
-        "Araceli Lemos": 2.9,
-        "Cleber Rabelo": 4.1
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -2665,6 +2871,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-05",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-5",
+      "candidates": {
+        "Omar Aziz": 27.2,
+        "Maria do Carmo": 30.4,
+        "David Almeida": 13.5,
+        "Roberto Cidade": 12.7
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -2716,31 +2947,6 @@
         "Cadu Xavier": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-07-05",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-4",
-      "candidates": {
-        "Omar Aziz": 27.2,
-        "Maria do Carmo": 30.4,
-        "David Almeida": 13.5,
-        "Roberto Cidade": 12.7
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -2835,7 +3041,7 @@
       "sample_size": 2500,
       "margin_error": 1.96,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Eduardo Paes": 33.9,
         "Douglas Ruas": 10.3,
@@ -2860,13 +3066,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "DMP",
       "collection_date": "2026-07-02",
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-6",
+      "source_url": "#cite_note-:6-7",
       "candidates": {
         "Omar Aziz": 33.9,
         "Maria do Carmo": 18.3,
@@ -2891,7 +3097,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-13",
+      "source_url": "#cite_note-:7-17",
       "candidates": {
         "Eduardo Paes": 54.2,
         "Douglas Ruas": 14.6,
@@ -2920,7 +3126,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-13",
+      "source_url": "#cite_note-:7-17",
       "candidates": {
         "Eduardo Paes": 50.7,
         "Douglas Ruas": 13.8,
@@ -2959,6 +3165,31 @@
       "parties": {
         "João Henrique Caldas": "PSDB",
         "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/Acre em Dia",
+      "collection_date": "2026-06-30",
+      "sample_size": 800,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-5",
+      "candidates": {
+        "Alan Rick": 41.25,
+        "Mailza Assis": 19.25,
+        "Tião Bocalom": 19.5,
+        "Thor Dantas": 2.5
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -3032,31 +3263,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/Acre em Dia",
-      "collection_date": "2026-06-30",
-      "sample_size": 800,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-4",
-      "candidates": {
-        "Alan Rick": 41.25,
-        "Mailza Assis": 19.25,
-        "Tião Bocalom": 19.5,
-        "Thor Dantas": 2.5
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -3237,13 +3443,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Comunidados",
       "collection_date": "2026-06-26",
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-8",
+      "source_url": "#cite_note-:5-9",
       "candidates": {
         "Omar Aziz": 33,
         "Maria do Carmo": 19,
@@ -3255,6 +3461,33 @@
         "Maria do Carmo": "PL",
         "David Almeida": "Avante",
         "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Simetria",
+      "collection_date": "2026-06-25",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:26-10",
+      "candidates": {
+        "Daniel Santos": 32,
+        "Hana Ghassan": 29,
+        "Mário Couto": 9,
+        "Araceli Lemos": 2,
+        "Cleber Rabelo": 3
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -3280,33 +3513,6 @@
         "Elmano de Freitas": "PT",
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Simetria",
-      "collection_date": "2026-06-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:26-8",
-      "candidates": {
-        "Daniel Santos": 32,
-        "Hana Ghassan": 29,
-        "Mário Couto": 9,
-        "Araceli Lemos": 2,
-        "Cleber Rabelo": 3
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -3572,6 +3778,31 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Data Populi",
+      "collection_date": "2026-06-20",
+      "sample_size": 780,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-12",
+      "candidates": {
+        "Daniel Santos": 22.4,
+        "Hana Ghassan": 25.6,
+        "Araceli Lemos": 2.4,
+        "Cleber Rabelo": 9.4
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -3620,42 +3851,17 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Data Populi",
-      "collection_date": "2026-06-20",
-      "sample_size": 780,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-10",
-      "candidates": {
-        "Daniel Santos": 22.4,
-        "Hana Ghassan": 25.6,
-        "Araceli Lemos": 2.4,
-        "Cleber Rabelo": 9.4
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Direito ao Ponto",
       "collection_date": "2026-06-20",
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Omar Aziz": 28,
         "Maria do Carmo": 20,
@@ -3797,6 +4003,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-06-17",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:2-6",
+      "candidates": {
+        "Alan Rick": 39,
+        "Mailza Assis": 26,
+        "Tião Bocalom": 18,
+        "Thor Dantas": 5
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "MG",
       "estado": "Minas Gerais",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
@@ -3850,31 +4081,6 @@
         "Mateus Simões": "PSD",
         "Gabriel Azevedo": "MDB",
         "Ben Mendes": "MISSÃO"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-06-17",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-5",
-      "candidates": {
-        "Alan Rick": 39,
-        "Mailza Assis": 26,
-        "Tião Bocalom": 18,
-        "Thor Dantas": 5
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -3953,6 +4159,64 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Doxa",
+      "collection_date": "2026-06-14",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:25-15",
+      "candidates": {
+        "Daniel Santos": 24.8,
+        "Hana Ghassan": 30.4,
+        "Mário Couto": 4.3,
+        "Araceli Lemos": 1.1,
+        "Cleber Rabelo": 1.4,
+        "Raquel Brício": 0.6
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Doxa",
+      "collection_date": "2026-06-14",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:25-15",
+      "candidates": {
+        "Daniel Santos": 24.5,
+        "Hana Ghassan": 29.1,
+        "Mário Couto": 3.6,
+        "Araceli Lemos": 1.2,
+        "Cleber Rabelo": 1,
+        "Raquel Brício": 0.5
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -4000,64 +4264,6 @@
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL",
         "Zé Batista": "PSTU"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Doxa",
-      "collection_date": "2026-06-14",
-      "sample_size": 2000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:25-13",
-      "candidates": {
-        "Daniel Santos": 24.8,
-        "Hana Ghassan": 30.4,
-        "Mário Couto": 4.3,
-        "Araceli Lemos": 1.1,
-        "Cleber Rabelo": 1.4,
-        "Raquel Brício": 0.6
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Doxa",
-      "collection_date": "2026-06-14",
-      "sample_size": 2000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:25-13",
-      "candidates": {
-        "Daniel Santos": 24.5,
-        "Hana Ghassan": 29.1,
-        "Mário Couto": 3.6,
-        "Araceli Lemos": 1.2,
-        "Cleber Rabelo": 1,
-        "Raquel Brício": 0.5
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
       }
     },
     {
@@ -4423,13 +4629,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Imediato/Iveritas",
       "collection_date": "2026-06-10",
       "sample_size": 1792,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-11",
+      "source_url": "#cite_note-:3-12",
       "candidates": {
         "Omar Aziz": 26.45,
         "Maria do Carmo": 21.82,
@@ -4454,7 +4660,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-6",
       "candidates": {
         "ACM Neto": 49,
         "Jerônimo": 39,
@@ -4642,6 +4848,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-06-06",
+      "sample_size": 1201,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-8",
+      "candidates": {
+        "Alan Rick": 39.55,
+        "Mailza Assis": 19.4,
+        "Tião Bocalom": 17.07,
+        "Thor Dantas": 2
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -4668,31 +4899,6 @@
         "Rafael Greca": "MDB",
         "Tony Garcia": "DC",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-06-06",
-      "sample_size": 1201,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-7",
-      "candidates": {
-        "Alan Rick": 39.55,
-        "Mailza Assis": 19.4,
-        "Tião Bocalom": 17.07,
-        "Thor Dantas": 2
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -4760,13 +4966,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Eficaz",
       "collection_date": "2026-06-04",
       "sample_size": 1507,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-13",
+      "source_url": "#cite_note-:2-14",
       "candidates": {
         "Omar Aziz": 25.3,
         "Maria do Carmo": 18.8,
@@ -4785,13 +4991,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
       "institute": "Projeta",
       "collection_date": "2026-06-04",
       "sample_size": 2996,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-14",
+      "source_url": "#cite_note-:1-15",
       "candidates": {
         "Omar Aziz": 25.1,
         "Maria do Carmo": 16.2,
@@ -4816,7 +5022,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-15",
+      "source_url": "#cite_note-:6-19",
       "candidates": {
         "Eduardo Paes": 48.3,
         "Douglas Ruas": 12.6,
@@ -4912,6 +5118,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-06-02",
+      "sample_size": 1000,
+      "margin_error": 3.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:0-9",
+      "candidates": {
+        "Alan Rick": 41.2,
+        "Mailza Assis": 24.4,
+        "Tião Bocalom": 16.1,
+        "Thor Dantas": 3.8
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -4960,31 +5191,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-06-02",
-      "sample_size": 1000,
-      "margin_error": 3.2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:0-8",
-      "candidates": {
-        "Alan Rick": 41.2,
-        "Mailza Assis": 24.4,
-        "Tião Bocalom": 16.1,
-        "Thor Dantas": 3.8
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -5022,7 +5228,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-17",
+      "source_url": "#cite_note-Veritá3-19",
       "candidates": {
         "Daniel Santos": 52.5,
         "Hana Ghassan": 32,
@@ -5289,6 +5495,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Pontual",
+      "collection_date": "2026-05-27",
+      "sample_size": 3003,
+      "margin_error": 1.79,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-16",
+      "candidates": {
+        "Maria do Carmo": 20.1,
+        "Omar Aziz": 29.1,
+        "David Almeida": 20,
+        "Roberto Cidade": 22.1
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -5370,31 +5601,6 @@
       }
     },
     {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Pontual",
-      "collection_date": "2026-05-27",
-      "sample_size": 3003,
-      "margin_error": 1.79,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-15",
-      "candidates": {
-        "Maria do Carmo": 20.1,
-        "Omar Aziz": 29.1,
-        "David Almeida": 20,
-        "Roberto Cidade": 22.1
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
-      }
-    },
-    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -5438,6 +5644,31 @@
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL",
         "Olímpio Rocha": "PSOL"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Veritá",
+      "collection_date": "2026-05-26",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:0-18",
+      "candidates": {
+        "Maria do Carmo": 41.4,
+        "Omar Aziz": 32.6,
+        "David Almeida": 12.2,
+        "Roberto Cidade": 11.4
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -5517,31 +5748,6 @@
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT",
         "Telêmaco Brandão": "NOVO"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Veritá",
-      "collection_date": "2026-05-26",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:0-17",
-      "candidates": {
-        "Maria do Carmo": 41.4,
-        "Omar Aziz": 32.6,
-        "David Almeida": 12.2,
-        "Roberto Cidade": 11.4
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -5634,7 +5840,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-19",
+      "source_url": "#cite_note-:24-21",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -5661,7 +5867,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-19",
+      "source_url": "#cite_note-:24-21",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -5757,6 +5963,79 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Ipen/G6",
+      "collection_date": "2026-05-22",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-20",
+      "candidates": {
+        "Maria do Carmo": 17.1,
+        "Omar Aziz": 34.6,
+        "David Almeida": 19.3
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Ipen/G6",
+      "collection_date": "2026-05-22",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-20",
+      "candidates": {
+        "Maria do Carmo": 15.6,
+        "Omar Aziz": 29.8,
+        "David Almeida": 16,
+        "Roberto Cidade": 14.9
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Comunidados",
+      "collection_date": "2026-05-22",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM06-23",
+      "candidates": {
+        "Maria do Carmo": 21,
+        "Omar Aziz": 32,
+        "David Almeida": 17,
+        "Roberto Cidade": 15
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -5783,79 +6062,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Ipen/G6",
-      "collection_date": "2026-05-22",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-19",
-      "candidates": {
-        "Maria do Carmo": 17.1,
-        "Omar Aziz": 34.6,
-        "David Almeida": 19.3
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Ipen/G6",
-      "collection_date": "2026-05-22",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-19",
-      "candidates": {
-        "Maria do Carmo": 15.6,
-        "Omar Aziz": 29.8,
-        "David Almeida": 16,
-        "Roberto Cidade": 14.9
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Comunidados",
-      "collection_date": "2026-05-22",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM06-22",
-      "candidates": {
-        "Maria do Carmo": 21,
-        "Omar Aziz": 32,
-        "David Almeida": 17,
-        "Roberto Cidade": 15
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -6054,7 +6260,7 @@
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-Action-26",
+      "source_url": "#cite_note-Action-27",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 31,
@@ -6150,6 +6356,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/Notícias da Hora",
+      "collection_date": "2026-05-16",
+      "sample_size": 800,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-1-11",
+      "candidates": {
+        "Alan Rick": 42,
+        "Mailza Assis": 16.12,
+        "Tião Bocalom": 15.88,
+        "Thor Dantas": 1.5
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -6177,31 +6408,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/Notícias da Hora",
-      "collection_date": "2026-05-16",
-      "sample_size": 800,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-1-10",
-      "candidates": {
-        "Alan Rick": 42,
-        "Mailza Assis": 16.12,
-        "Tião Bocalom": 15.88,
-        "Thor Dantas": 1.5
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -6212,7 +6418,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -6239,7 +6445,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -6264,7 +6470,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-23",
+      "source_url": "#cite_note-AM05-24",
       "candidates": {
         "Maria do Carmo": 38.4,
         "Omar Aziz": 27.5,
@@ -6289,7 +6495,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-23",
+      "source_url": "#cite_note-AM05-24",
       "candidates": {
         "Maria do Carmo": 45,
         "Omar Aziz": 30.1,
@@ -6528,7 +6734,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Maria do Carmo": 22,
         "Omar Aziz": 35,
@@ -6603,7 +6809,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2A-16",
+      "source_url": "#cite_note-Veritá2A-20",
       "candidates": {
         "Eduardo Paes": 50,
         "Douglas Ruas": 32.3,
@@ -6720,7 +6926,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-24",
+      "source_url": "#cite_note-:23-26",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -6864,6 +7070,58 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-04-30",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá2-28",
+      "candidates": {
+        "Daniel Santos": 29.1,
+        "Hana Ghassan": 26.6,
+        "Mário Couto": 1,
+        "Araceli Lemos": 4,
+        "Cleber Rabelo": 0.7
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta",
+      "collection_date": "2026-04-30",
+      "sample_size": 1006,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-2-12",
+      "candidates": {
+        "Alan Rick": 39.6,
+        "Mailza Assis": 16.5,
+        "Tião Bocalom": 18.9,
+        "Thor Dantas": 1.79
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -6931,58 +7189,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta",
-      "collection_date": "2026-04-30",
-      "sample_size": 1006,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-2-11",
-      "candidates": {
-        "Alan Rick": 39.6,
-        "Mailza Assis": 16.5,
-        "Tião Bocalom": 18.9,
-        "Thor Dantas": 1.79
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-04-30",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-26",
-      "candidates": {
-        "Daniel Santos": 29.1,
-        "Hana Ghassan": 26.6,
-        "Mário Couto": 1,
-        "Araceli Lemos": 4,
-        "Cleber Rabelo": 0.7
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
       "uf": "PI",
       "estado": "Piauí",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
@@ -7003,6 +7209,29 @@
         "Rafael Fonteles": "PT",
         "Joel Rodrigues": "PP",
         "Toni Rodrigues": "PL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Ampla",
+      "collection_date": "2026-04-29",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:22-30",
+      "candidates": {
+        "Daniel Santos": 35.2,
+        "Hana Ghassan": 26,
+        "Araceli Lemos": 3.4
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL"
       }
     },
     {
@@ -7062,29 +7291,6 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Ampla",
-      "collection_date": "2026-04-29",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:22-28",
-      "candidates": {
-        "Daniel Santos": 35.2,
-        "Hana Ghassan": 26,
-        "Araceli Lemos": 3.4
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL"
-      }
-    },
-    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -7105,6 +7311,31 @@
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL",
         "Olímpio Rocha": "PSOL"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Veritá",
+      "collection_date": "2026-04-28",
+      "sample_size": 1202,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá2-29",
+      "candidates": {
+        "Maria do Carmo": 41,
+        "Omar Aziz": 34.5,
+        "David Almeida": 12.7,
+        "Roberto Cidade": 11.8
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -7314,31 +7545,6 @@
       }
     },
     {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Veritá",
-      "collection_date": "2026-04-28",
-      "sample_size": 1202,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-28",
-      "candidates": {
-        "Maria do Carmo": 41,
-        "Omar Aziz": 34.5,
-        "David Almeida": 12.7,
-        "Roberto Cidade": 11.8
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
-      }
-    },
-    {
       "uf": "ES",
       "estado": "Espírito Santo",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
@@ -7434,6 +7640,31 @@
         "Lorenzo Pazolini": "Republicanos",
         "Ricardo Ferraço": "MDB",
         "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-04-27",
+      "sample_size": 1030,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá2-14",
+      "candidates": {
+        "Alan Rick": 38.1,
+        "Mailza Assis": 32.9,
+        "Tião Bocalom": 22.1,
+        "Thor Dantas": 6.9
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -7541,31 +7772,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-04-27",
-      "sample_size": 1030,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-13",
-      "candidates": {
-        "Alan Rick": 38.1,
-        "Mailza Assis": 32.9,
-        "Tião Bocalom": 22.1,
-        "Thor Dantas": 6.9
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
@@ -7645,7 +7851,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-9",
+      "source_url": "#cite_note-QuaestAbril-10",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 37,
@@ -7670,7 +7876,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-9",
+      "source_url": "#cite_note-QuaestAbril-10",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 36,
@@ -7718,7 +7924,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-17",
+      "source_url": "#cite_note-:4-21",
       "candidates": {
         "Eduardo Paes": 53,
         "Douglas Ruas": 13.2,
@@ -7847,6 +8053,58 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:20-32",
+      "candidates": {
+        "Daniel Santos": 22,
+        "Hana Ghassan": 19,
+        "Mário Couto": 11,
+        "Araceli Lemos": 2,
+        "Cleber Rabelo": 3
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:20-32",
+      "candidates": {
+        "Daniel Santos": 24,
+        "Hana Ghassan": 22,
+        "Araceli Lemos": 3,
+        "Cleber Rabelo": 5
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -7911,7 +8169,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-19",
+      "source_url": "#cite_note-:5-23",
       "candidates": {
         "Eduardo Paes": 34,
         "Douglas Ruas": 9,
@@ -7942,7 +8200,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-19",
+      "source_url": "#cite_note-:5-23",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 10,
@@ -7969,7 +8227,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-19",
+      "source_url": "#cite_note-:5-23",
       "candidates": {
         "Eduardo Paes": 39,
         "Douglas Ruas": 11,
@@ -7983,58 +8241,6 @@
         "André Marinho": "NOVO",
         "Wilson Witzel": "Democrata",
         "William Siri": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:20-30",
-      "candidates": {
-        "Daniel Santos": 22,
-        "Hana Ghassan": 19,
-        "Mário Couto": 11,
-        "Araceli Lemos": 2,
-        "Cleber Rabelo": 3
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:20-30",
-      "candidates": {
-        "Daniel Santos": 24,
-        "Hana Ghassan": 22,
-        "Araceli Lemos": 3,
-        "Cleber Rabelo": 5
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -8300,7 +8506,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-33",
+      "source_url": "#cite_note-:19-35",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -8327,7 +8533,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-33",
+      "source_url": "#cite_note-:19-35",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -8847,7 +9053,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-24",
+      "source_url": "#cite_note-Veritá1-28",
       "candidates": {
         "Eduardo Paes": 49.7,
         "Douglas Ruas": 32.7,
@@ -9042,6 +9248,52 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 1525,
+      "margin_error": null,
+      "tse_registration": "",
+      "source_url": "#cite_note-40",
+      "candidates": {
+        "Daniel Santos": 43.4,
+        "Hana Ghassan": 25.5,
+        "Mário Couto": 17.4
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 1525,
+      "margin_error": null,
+      "tse_registration": "",
+      "source_url": "#cite_note-40",
+      "candidates": {
+        "Daniel Santos": 31.8,
+        "Hana Ghassan": 18.7,
+        "Mário Couto": 12.7
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL"
       }
     },
     {
@@ -9460,52 +9712,6 @@
         "Camilo Santana": "PT",
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 1525,
-      "margin_error": null,
-      "tse_registration": "",
-      "source_url": "#cite_note-38",
-      "candidates": {
-        "Daniel Santos": 43.4,
-        "Hana Ghassan": 25.5,
-        "Mário Couto": 17.4
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 1525,
-      "margin_error": null,
-      "tse_registration": "",
-      "source_url": "#cite_note-38",
-      "candidates": {
-        "Daniel Santos": 31.8,
-        "Hana Ghassan": 18.7,
-        "Mário Couto": 12.7
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL"
       }
     },
     {
@@ -10101,6 +10307,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-24",
+      "sample_size": 1030,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá1-15",
+      "candidates": {
+        "Alan Rick": 41.3,
+        "Mailza Assis": 25,
+        "Tião Bocalom": 26,
+        "Thor Dantas": 7.7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -10126,6 +10357,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Tadeu de Souza",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Veritá",
+      "collection_date": "2026-03-24",
+      "sample_size": 1138,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM03-30",
+      "candidates": {
+        "Maria do Carmo": 40.8,
+        "Omar Aziz": 33.8,
+        "David Almeida": 23,
+        "Tadeu de Souza": 2.4
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Tadeu de Souza": "PP"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -10148,31 +10404,6 @@
         "Elmano de Freitas": "PT",
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-03-24",
-      "sample_size": 1030,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-14",
-      "candidates": {
-        "Alan Rick": 41.3,
-        "Mailza Assis": 25,
-        "Tião Bocalom": 26,
-        "Thor Dantas": 7.7
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -10251,31 +10482,6 @@
       }
     },
     {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Tadeu de Souza",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Veritá",
-      "collection_date": "2026-03-24",
-      "sample_size": 1138,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM03-29",
-      "candidates": {
-        "Maria do Carmo": 40.8,
-        "Omar Aziz": 33.8,
-        "David Almeida": 23,
-        "Tadeu de Souza": 2.4
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Tadeu de Souza": "PP"
-      }
-    },
-    {
       "uf": "ES",
       "estado": "Espírito Santo",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
@@ -10303,31 +10509,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-03-21",
-      "sample_size": 1006,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-3-15",
-      "candidates": {
-        "Alan Rick": 40.36,
-        "Mailza Assis": 20.78,
-        "Tião Bocalom": 15.6,
-        "Thor Dantas": 2.68
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -10338,7 +10519,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-41",
+      "source_url": "#cite_note-:0-43",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -10365,7 +10546,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-41",
+      "source_url": "#cite_note-:0-43",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -10423,6 +10604,31 @@
         "Daniel Santos": "PODE",
         "Hana Ghassan": "MDB",
         "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-03-21",
+      "sample_size": 1006,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-3-16",
+      "candidates": {
+        "Alan Rick": 40.36,
+        "Mailza Assis": 20.78,
+        "Tião Bocalom": 15.6,
+        "Thor Dantas": 2.68
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -10724,6 +10930,54 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-18",
+      "sample_size": 1500,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM04-31",
+      "candidates": {
+        "Maria do Carmo": 27,
+        "Omar Aziz": 39,
+        "David Almeida": 22
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Tadeu de Souza",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-18",
+      "sample_size": 1500,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM04-31",
+      "candidates": {
+        "Maria do Carmo": 26,
+        "Omar Aziz": 37,
+        "David Almeida": 19,
+        "Tadeu de Souza": 8
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Tadeu de Souza": "PP"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -10798,54 +11052,6 @@
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu Xavier": "PT"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-18",
-      "sample_size": 1500,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM04-30",
-      "candidates": {
-        "Maria do Carmo": 27,
-        "Omar Aziz": 39,
-        "David Almeida": 22
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Tadeu de Souza",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-18",
-      "sample_size": 1500,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM04-30",
-      "candidates": {
-        "Maria do Carmo": 26,
-        "Omar Aziz": 37,
-        "David Almeida": 19,
-        "Tadeu de Souza": 8
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Tadeu de Souza": "PP"
       }
     },
     {
@@ -11017,7 +11223,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-31",
+      "source_url": "#cite_note-AM02-32",
       "candidates": {
         "Maria do Carmo": 41.8,
         "Omar Aziz": 40.4,
@@ -11042,7 +11248,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-31",
+      "source_url": "#cite_note-AM02-32",
       "candidates": {
         "Maria do Carmo": 42.2,
         "Omar Aziz": 40.6,
@@ -11065,7 +11271,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-31",
+      "source_url": "#cite_note-AM02-32",
       "candidates": {
         "Maria do Carmo": 42.8,
         "Omar Aziz": 40.5,
@@ -11394,7 +11600,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-12",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 39,
@@ -11419,7 +11625,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM01-32",
+      "source_url": "#cite_note-AM01-33",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 33,
@@ -11488,7 +11694,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-30",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 13,
@@ -11517,7 +11723,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-30",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -11548,7 +11754,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-30",
       "candidates": {
         "Eduardo Paes": 51,
         "Douglas Ruas": 19
@@ -11742,7 +11948,7 @@
       "sample_size": 1200,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-31",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 4,
@@ -12022,7 +12228,7 @@
       "sample_size": 1535,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-14",
       "candidates": {
         "ACM Neto": 48.28,
         "Jerônimo": 31.15,
@@ -12072,7 +12278,7 @@
       "sample_size": 2045,
       "margin_error": 2.17,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-15",
       "candidates": {
         "ACM Neto": 37.7,
         "Jerônimo": 54.24
@@ -12093,7 +12299,7 @@
       "sample_size": 2045,
       "margin_error": 2.17,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-15",
       "candidates": {
         "ACM Neto": 35.65,
         "Jerônimo": 52.51,
@@ -12448,7 +12654,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-50",
+      "source_url": "#cite_note-:3-52",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -12475,7 +12681,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-50",
+      "source_url": "#cite_note-:3-52",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -12498,7 +12704,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-32",
       "candidates": {
         "Eduardo Paes": 42.5,
         "Douglas Ruas": 1.6,
@@ -12529,7 +12735,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-32",
       "candidates": {
         "Eduardo Paes": 50.5,
         "Douglas Ruas": 2.3,
@@ -12556,7 +12762,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-32",
       "candidates": {
         "Eduardo Paes": 50.3,
         "Ítalo Marsili": 0.7,
@@ -12570,6 +12776,31 @@
         "Wilson Witzel": "Democrata",
         "Glauber Braga": "PSOL",
         "Felipe Curi": "Sem partido"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "Doxa",
+      "collection_date": "2026-01-30",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-56",
+      "candidates": {
+        "Daniel Santos": 32.1,
+        "Hana Ghassan": 22.2,
+        "Mário Couto": 16.7,
+        "Araceli Lemos": 2.9
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
       }
     },
     {
@@ -12591,31 +12822,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "Doxa",
-      "collection_date": "2026-01-30",
-      "sample_size": 2000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-54",
-      "candidates": {
-        "Daniel Santos": 32.1,
-        "Hana Ghassan": 22.2,
-        "Mário Couto": 16.7,
-        "Araceli Lemos": 2.9
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
       }
     },
     {
@@ -12858,7 +13064,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 30.5,
         "Hana Ghassan": 20.3,
@@ -12883,7 +13089,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 20.7,
         "Hana Ghassan": 19.8,
@@ -12908,7 +13114,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 34.1,
         "Hana Ghassan": 19.2,
@@ -12933,7 +13139,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 32,
@@ -12958,7 +13164,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 23.2,
         "Hana Ghassan": 21.3,
@@ -12983,7 +13189,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 47.8,
         "Hana Ghassan": 19.1,
@@ -13008,7 +13214,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 23.2,
@@ -13319,7 +13525,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-17",
+      "source_url": "#cite_note-AC01-18",
       "candidates": {
         "Alan Rick": 40,
         "Tião Bocalom": 24,
@@ -13344,7 +13550,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-17",
+      "source_url": "#cite_note-AC01-18",
       "candidates": {
         "Alan Rick": 51,
         "Mailza Assis": 21,
@@ -13367,7 +13573,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-17",
+      "source_url": "#cite_note-AC01-18",
       "candidates": {
         "Alan Rick": 46,
         "Tião Bocalom": 30,
@@ -13604,7 +13810,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-70",
+      "source_url": "#cite_note-:6-72",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -13627,7 +13833,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-70",
+      "source_url": "#cite_note-:6-72",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -13825,12 +14031,37 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-76",
+      "source_url": "#cite_note-:7-78",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
         "Mário Couto": 9.08,
         "Araceli Lemos": 4.02
+      },
+      "parties": {
+        "Daniel Santos": "PSB",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
+      "institute": "Doxa (Belém)",
+      "collection_date": "2025-11-29",
+      "sample_size": 600,
+      "margin_error": 4,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-76",
+      "candidates": {
+        "Daniel Santos": 29.4,
+        "Hana Ghassan": 19.8,
+        "Mário Couto": 15.7,
+        "Araceli Lemos": 2.5
       },
       "parties": {
         "Daniel Santos": "PSB",
@@ -13881,31 +14112,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
-      "institute": "Doxa (Belém)",
-      "collection_date": "2025-11-29",
-      "sample_size": 600,
-      "margin_error": 4,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-74",
-      "candidates": {
-        "Daniel Santos": 29.4,
-        "Hana Ghassan": 19.8,
-        "Mário Couto": 15.7,
-        "Araceli Lemos": 2.5
-      },
-      "parties": {
-        "Daniel Santos": "PSB",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
       }
     },
     {
@@ -14327,7 +14533,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Rui Costa": 46,
         "Kleber Rosa": 1,
@@ -14350,7 +14556,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Jerônimo": 39,
         "Kleber Rosa": 2,
@@ -14373,7 +14579,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "ACM Neto": 42,
         "Rui Costa": 43,
@@ -14398,7 +14604,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 35,
@@ -14638,7 +14844,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-84",
+      "source_url": "#cite_note-86",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -14661,7 +14867,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-84",
+      "source_url": "#cite_note-86",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -14991,7 +15197,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-89",
+      "source_url": "#cite_note-91",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -15012,7 +15218,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-89",
+      "source_url": "#cite_note-91",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -15033,7 +15239,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-89",
+      "source_url": "#cite_note-91",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -15054,7 +15260,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-89",
+      "source_url": "#cite_note-91",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -15602,33 +15808,6 @@
       }
     },
     {
-      "uf": "BA",
-      "estado": "Bahia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
-      "cenario": "ACM Neto|Jerônimo|José Carlos Aleluia|João Roma|Kleber Rosa",
-      "secao": "Primeiro turno (governador) › 2025 › Fevereiro - Abril",
-      "institute": "Genial/Quaest",
-      "collection_date": "2025-08-17",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-18",
-      "candidates": {
-        "ACM Neto": 41,
-        "Jerônimo": 34,
-        "João Roma": 4,
-        "Kleber Rosa": 2,
-        "José Carlos Aleluia": 1
-      },
-      "parties": {
-        "ACM Neto": "UNIÃO",
-        "Jerônimo": "PT",
-        "João Roma": "PL",
-        "Kleber Rosa": "PSOL",
-        "José Carlos Aleluia": "NOVO"
-      }
-    },
-    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -15639,7 +15818,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Alan Rick": 35,
         "Tião Bocalom": 23,
@@ -15664,7 +15843,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Alan Rick": 44,
         "Mailza Assis": 18,
@@ -15687,7 +15866,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Alan Rick": 38,
         "Tião Bocalom": 27,
@@ -15697,6 +15876,33 @@
         "Alan Rick": "Republicanos",
         "Tião Bocalom": "PL",
         "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "BA",
+      "estado": "Bahia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
+      "cenario": "ACM Neto|Jerônimo|José Carlos Aleluia|João Roma|Kleber Rosa",
+      "secao": "Primeiro turno (governador) › 2025 › Fevereiro - Abril",
+      "institute": "Genial/Quaest",
+      "collection_date": "2025-08-17",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-19",
+      "candidates": {
+        "ACM Neto": 41,
+        "Jerônimo": 34,
+        "João Roma": 4,
+        "Kleber Rosa": 2,
+        "José Carlos Aleluia": 1
+      },
+      "parties": {
+        "ACM Neto": "UNIÃO",
+        "Jerônimo": "PT",
+        "João Roma": "PL",
+        "Kleber Rosa": "PSOL",
+        "José Carlos Aleluia": "NOVO"
       }
     },
     {
@@ -15737,7 +15943,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-98",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -15760,7 +15966,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-98",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -15875,7 +16081,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-107",
+      "source_url": "#cite_note-:11-109",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -15959,7 +16165,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-117",
+      "source_url": "#cite_note-:13-119",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -15980,7 +16186,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-120",
+      "source_url": "#cite_note-122",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -16001,7 +16207,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-120",
+      "source_url": "#cite_note-122",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -16022,7 +16228,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-125",
+      "source_url": "#cite_note-:14-127",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -16043,7 +16249,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-128",
+      "source_url": "#cite_note-:15-130",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -16250,7 +16456,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-131",
+      "source_url": "#cite_note-:16-133",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -16296,7 +16502,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-21",
+      "source_url": "#cite_note-:0-22",
       "candidates": {
         "ACM Neto": 42,
         "Jerônimo": 38,
@@ -16535,7 +16741,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-134",
+      "source_url": "#cite_note-:17-136",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10
@@ -16556,7 +16762,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 37,
