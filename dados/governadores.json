@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-04",
+  "atualizado_em": "2026-08-05",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -646,37 +646,37 @@
         {
           "nome": "Eduardo Braide",
           "partido": "PSD",
-          "media": 56.3,
-          "ic_min": 48.4,
-          "ic_max": 64.1,
+          "media": 51.7,
+          "ic_min": 44.4,
+          "ic_max": 59.1,
           "pesquisas": 4
         },
         {
           "nome": "Orleans Brandão",
           "partido": "MDB",
-          "media": 24,
-          "ic_min": 12,
-          "ic_max": 36,
+          "media": 27.1,
+          "ic_min": 15.1,
+          "ic_max": 39.1,
           "pesquisas": 4
         },
         {
           "nome": "Felipe Camarão",
           "partido": "PT",
-          "media": 7.4,
-          "ic_min": 5.1,
-          "ic_max": 9.7,
+          "media": 7.1,
+          "ic_min": 4.9,
+          "ic_max": 9.4,
+          "pesquisas": 4
+        },
+        {
+          "nome": "André Luís",
+          "partido": "MISSÃO",
+          "media": 2.8,
+          "ic_min": 0.8,
+          "ic_max": 4.8,
           "pesquisas": 4
         }
       ],
       "ultimas_pesquisas": [
-        {
-          "instituto": "Veritá",
-          "coleta": "2026-07-29",
-          "amostra": 1525,
-          "margem": 2.5,
-          "tse": "",
-          "fonte_url": "#cite_note-:5-1"
-        },
         {
           "instituto": "Veritá",
           "coleta": "2026-07-29",
@@ -700,6 +700,14 @@
           "margem": 3.02,
           "tse": "",
           "fonte_url": "#cite_note-4"
+        },
+        {
+          "instituto": "Real Time Big Data",
+          "coleta": "2026-07-07",
+          "amostra": 1600,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "#cite_note-:4-6"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
@@ -1043,7 +1051,7 @@
           "amostra": 1400,
           "margem": 2.6,
           "tse": "",
-          "fonte_url": "#cite_note-:27-7"
+          "fonte_url": "#cite_note-:27-9"
         },
         {
           "instituto": "Simetria",
@@ -1051,7 +1059,7 @@
           "amostra": 1200,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:26-10"
+          "fonte_url": "#cite_note-:26-12"
         },
         {
           "instituto": "Veritá",
@@ -1059,7 +1067,7 @@
           "amostra": 1525,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-Veritá3-19"
+          "fonte_url": "#cite_note-Veritá3-21"
         },
         {
           "instituto": "Ampla",
@@ -1067,7 +1075,7 @@
           "amostra": 1500,
           "margem": 2.6,
           "tse": "",
-          "fonte_url": "#cite_note-:24-21"
+          "fonte_url": "#cite_note-:24-23"
         },
         {
           "instituto": "Doxa",
@@ -1075,7 +1083,7 @@
           "amostra": 2000,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-22"
+          "fonte_url": "#cite_note-24"
         },
         {
           "instituto": "Simetria",
@@ -1083,11 +1091,11 @@
           "amostra": 1200,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:23-26"
+          "fonte_url": "#cite_note-:23-28"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:27-7"
+      "fonte_url": "#cite_note-:27-9"
     },
     "PB": {
       "uf": "PB",
@@ -2143,43 +2151,51 @@
       "uf": "TO",
       "estado": "Tocantins",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-07-24",
-      "pesquisas_no_calculo": 6,
+      "corte": "2026-07-31",
+      "pesquisas_no_calculo": 7,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Professora Dorinha",
           "partido": "",
-          "media": 33.6,
-          "ic_min": 32.4,
-          "ic_max": 34.9,
-          "pesquisas": 6
+          "media": 34.3,
+          "ic_min": 32.9,
+          "ic_max": 35.7,
+          "pesquisas": 7
         },
         {
           "nome": "Laurez Moreira",
           "partido": "",
-          "media": 13.8,
-          "ic_min": 10.3,
-          "ic_max": 17.2,
-          "pesquisas": 6
+          "media": 12.6,
+          "ic_min": 9.3,
+          "ic_max": 15.9,
+          "pesquisas": 7
         },
         {
           "nome": "Ataídes Oliveira",
           "partido": "",
-          "media": 5.6,
-          "ic_min": 4.6,
-          "ic_max": 6.6,
-          "pesquisas": 6
+          "media": 6.4,
+          "ic_min": 5,
+          "ic_max": 7.8,
+          "pesquisas": 7
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Brasmarketing",
+          "coleta": "2026-07-31",
+          "amostra": 1200,
+          "margem": 2.84,
+          "tse": "",
+          "fonte_url": "#cite_note-1"
+        },
         {
           "instituto": "Paraná Pesquisas",
           "coleta": "2026-07-24",
           "amostra": 1300,
           "margem": 2.8,
           "tse": "",
-          "fonte_url": "#cite_note-:7-1"
+          "fonte_url": "#cite_note-:7-2"
         },
         {
           "instituto": "VÓPE/Primeira Página",
@@ -2187,7 +2203,7 @@
           "amostra": 1250,
           "margem": 2.8,
           "tse": "",
-          "fonte_url": "#cite_note-3"
+          "fonte_url": "#cite_note-4"
         },
         {
           "instituto": "Paraná Pesquisas",
@@ -2195,7 +2211,7 @@
           "amostra": 1340,
           "margem": 2.7,
           "tse": "",
-          "fonte_url": "#cite_note-:6-5"
+          "fonte_url": "#cite_note-:6-6"
         },
         {
           "instituto": "Real Time Big Data",
@@ -2203,7 +2219,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:4-6"
+          "fonte_url": "#cite_note-:4-7"
         },
         {
           "instituto": "Real Time Big Data",
@@ -2211,19 +2227,11 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:4-6"
-        },
-        {
-          "instituto": "Vox Tocantins",
-          "coleta": "2026-06-09",
-          "amostra": 1314,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-:5-9"
+          "fonte_url": "#cite_note-:4-7"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:7-1"
+      "fonte_url": "#cite_note-1"
     }
   },
   "cobertura": {

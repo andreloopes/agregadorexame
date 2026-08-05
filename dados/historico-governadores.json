@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-04",
+  "atualizado_em": "2026-08-05",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -892,11 +892,21 @@
       "estado": "Maranhão",
       "pontos": [
         {
+          "data": "2026-07-16",
+          "valores": {
+            "Eduardo Braide": 43.7,
+            "Orleans Brandão": 39.5,
+            "Felipe Camarão": 5.6,
+            "André Luís": 0.6
+          }
+        },
+        {
           "data": "2026-07-29",
           "valores": {
-            "Eduardo Braide": 56.3,
-            "Orleans Brandão": 24,
-            "Felipe Camarão": 7.4
+            "Eduardo Braide": 51.7,
+            "Orleans Brandão": 27.1,
+            "Felipe Camarão": 7.1,
+            "André Luís": 2.8
           }
         }
       ]
@@ -3065,6 +3075,14 @@
             "Professora Dorinha": 33.6,
             "Laurez Moreira": 13.8,
             "Ataídes Oliveira": 5.6
+          }
+        },
+        {
+          "data": "2026-07-31",
+          "valores": {
+            "Professora Dorinha": 34.3,
+            "Laurez Moreira": 12.6,
+            "Ataídes Oliveira": 6.4
           }
         }
       ]

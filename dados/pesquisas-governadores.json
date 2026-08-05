@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-04",
+  "atualizado_em": "2026-08-05",
   "pesquisas": [
     {
       "uf": "PA",
@@ -12,7 +12,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:30-1",
+      "source_url": "#cite_note-:30-3",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 31,
@@ -132,6 +132,29 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Brasmarketing",
+      "collection_date": "2026-07-31",
+      "sample_size": 1200,
+      "margin_error": 2.84,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Professora Dorinha": 36.7,
+        "Laurez Moreira": 8.3,
+        "Ataídes Oliveira": 9.3
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
       }
     },
     {
@@ -294,7 +317,7 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
       "secao": "Primeiro turno (governador) › 2026 › Julho",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
@@ -305,19 +328,21 @@
       "candidates": {
         "Eduardo Braide": 56.2,
         "Orleans Brandão": 16.4,
-        "Felipe Camarão": 8.2
+        "Felipe Camarão": 8.2,
+        "André Luís": 4.2
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT"
+        "Felipe Camarão": "PT",
+        "André Luís": "MISSÃO"
       }
     },
     {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
       "secao": "Primeiro turno (governador) › 2026 › Julho",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
@@ -328,12 +353,14 @@
       "candidates": {
         "Eduardo Braide": 60.7,
         "Orleans Brandão": 17,
-        "Felipe Camarão": 8.5
+        "Felipe Camarão": 8.5,
+        "André Luís": 5
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT"
+        "Felipe Camarão": "PT",
+        "André Luís": "MISSÃO"
       }
     },
     {
@@ -904,7 +931,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-3",
+      "source_url": "#cite_note-:29-5",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -933,7 +960,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-3",
+      "source_url": "#cite_note-:29-5",
       "candidates": {
         "Daniel Santos": 23,
         "Hana Ghassan": 25,
@@ -1237,6 +1264,29 @@
       }
     },
     {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-07-24",
+      "sample_size": 1300,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-2",
+      "candidates": {
+        "Professora Dorinha": 34.4,
+        "Laurez Moreira": 10.1,
+        "Ataídes Oliveira": 5.8
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
       "uf": "SC",
       "estado": "Santa Catarina",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
@@ -1257,29 +1307,6 @@
         "Jorginho Mello": "PL",
         "João Rodrigues": "PSD",
         "Gelson Merisio": "Solidariedade"
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-24",
-      "sample_size": 1300,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-1",
-      "candidates": {
-        "Professora Dorinha": 34.4,
-        "Laurez Moreira": 10.1,
-        "Ataídes Oliveira": 5.8
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Ataídes Oliveira": ""
       }
     },
     {
@@ -1728,10 +1755,33 @@
       }
     },
     {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "VÓPE/Primeira Página",
+      "collection_date": "2026-07-16",
+      "sample_size": 1250,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-4",
+      "candidates": {
+        "Professora Dorinha": 32,
+        "Laurez Moreira": 15,
+        "Ataídes Oliveira": 7
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
       "secao": "Primeiro turno (governador) › 2026 › Julho",
       "institute": "INOP",
       "collection_date": "2026-07-16",
@@ -1742,12 +1792,14 @@
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
-        "Felipe Camarão": 3.41
+        "Felipe Camarão": 3.41,
+        "André Luís": 0.35
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT"
+        "Felipe Camarão": "PT",
+        "André Luís": "MISSÃO"
       }
     },
     {
@@ -1773,29 +1825,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "VÓPE/Primeira Página",
-      "collection_date": "2026-07-16",
-      "sample_size": 1250,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-3",
-      "candidates": {
-        "Professora Dorinha": 32,
-        "Laurez Moreira": 15,
-        "Ataídes Oliveira": 7
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Ataídes Oliveira": ""
       }
     },
     {
@@ -2298,7 +2327,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-6",
+      "source_url": "#cite_note-:28-8",
       "candidates": {
         "Daniel Santos": 34.4,
         "Hana Ghassan": 22.5,
@@ -2323,7 +2352,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-6",
+      "source_url": "#cite_note-:28-8",
       "candidates": {
         "Daniel Santos": 37.1,
         "Hana Ghassan": 24.7,
@@ -2346,7 +2375,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-6",
+      "source_url": "#cite_note-:28-8",
       "candidates": {
         "Daniel Santos": 36.3,
         "Hana Ghassan": 25.6,
@@ -2600,7 +2629,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-7",
+      "source_url": "#cite_note-:27-9",
       "candidates": {
         "Daniel Santos": 37.2,
         "Hana Ghassan": 31.6,
@@ -2625,7 +2654,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-7",
+      "source_url": "#cite_note-:27-9",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 29.2,
@@ -2645,7 +2674,7 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
       "secao": "Primeiro turno (governador) › 2026 › Julho",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-07",
@@ -2657,13 +2686,13 @@
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
         "Felipe Camarão": 9,
-        "Roberto Rocha": 9
+        "André Luís": 1
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
+        "André Luís": "MISSÃO"
       }
     },
     {
@@ -3474,7 +3503,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-10",
+      "source_url": "#cite_note-:26-12",
       "candidates": {
         "Daniel Santos": 32,
         "Hana Ghassan": 29,
@@ -3626,6 +3655,29 @@
       }
     },
     {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-06-22",
+      "sample_size": 1340,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-6",
+      "candidates": {
+        "Professora Dorinha": 35.9,
+        "Laurez Moreira": 8.8,
+        "Ataídes Oliveira": 6.9
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
       "uf": "RS",
       "estado": "Rio Grande do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
@@ -3703,29 +3755,6 @@
       }
     },
     {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-06-22",
-      "sample_size": 1340,
-      "margin_error": 2.7,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-5",
-      "candidates": {
-        "Professora Dorinha": 35.9,
-        "Laurez Moreira": 8.8,
-        "Ataídes Oliveira": 6.9
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Ataídes Oliveira": ""
-      }
-    },
-    {
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
@@ -3788,7 +3817,7 @@
       "sample_size": 780,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Daniel Santos": 22.4,
         "Hana Ghassan": 25.6,
@@ -3901,31 +3930,6 @@
       }
     },
     {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Diagnóstico/Acieg",
-      "collection_date": "2026-06-18",
-      "sample_size": 1100,
-      "margin_error": 4.84,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-9",
-      "candidates": {
-        "Daniel Vilela": 36.1,
-        "Marconi Perillo": 22.7,
-        "Wilder Morais": 15.5,
-        "Luis Cesar Bueno": 2.3
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -3936,7 +3940,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-6",
+      "source_url": "#cite_note-:4-7",
       "candidates": {
         "Professora Dorinha": 33,
         "Laurez Moreira": 17,
@@ -3959,7 +3963,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-6",
+      "source_url": "#cite_note-:4-7",
       "candidates": {
         "Professora Dorinha": 35,
         "Laurez Moreira": 22,
@@ -3969,6 +3973,31 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "institute": "Diagnóstico/Acieg",
+      "collection_date": "2026-06-18",
+      "sample_size": 1100,
+      "margin_error": 4.84,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-9",
+      "candidates": {
+        "Daniel Vilela": 36.1,
+        "Marconi Perillo": 22.7,
+        "Wilder Morais": 15.5,
+        "Luis Cesar Bueno": 2.3
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -4169,7 +4198,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-15",
+      "source_url": "#cite_note-:25-17",
       "candidates": {
         "Daniel Santos": 24.8,
         "Hana Ghassan": 30.4,
@@ -4198,7 +4227,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-15",
+      "source_url": "#cite_note-:25-17",
       "candidates": {
         "Daniel Santos": 24.5,
         "Hana Ghassan": 29.1,
@@ -4729,6 +4758,29 @@
       }
     },
     {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Vox Tocantins",
+      "collection_date": "2026-06-09",
+      "sample_size": 1314,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-10",
+      "candidates": {
+        "Professora Dorinha": 31.1,
+        "Laurez Moreira": 11.8,
+        "Ataídes Oliveira": 3.3
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -4749,29 +4801,6 @@
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL",
         "Olímpio Rocha": "PSOL"
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Vox Tocantins",
-      "collection_date": "2026-06-09",
-      "sample_size": 1314,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-9",
-      "candidates": {
-        "Professora Dorinha": 31.1,
-        "Laurez Moreira": 11.8,
-        "Ataídes Oliveira": 3.3
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Ataídes Oliveira": ""
       }
     },
     {
@@ -5228,7 +5257,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-19",
+      "source_url": "#cite_note-Veritá3-21",
       "candidates": {
         "Daniel Santos": 52.5,
         "Hana Ghassan": 32,
@@ -5840,7 +5869,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-21",
+      "source_url": "#cite_note-:24-23",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -5867,7 +5896,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-21",
+      "source_url": "#cite_note-:24-23",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -6418,7 +6447,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -6445,7 +6474,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -6926,7 +6955,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-26",
+      "source_url": "#cite_note-:23-28",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -7080,7 +7109,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-28",
+      "source_url": "#cite_note-Veritá2-30",
       "candidates": {
         "Daniel Santos": 29.1,
         "Hana Ghassan": 26.6,
@@ -7222,7 +7251,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-30",
+      "source_url": "#cite_note-:22-32",
       "candidates": {
         "Daniel Santos": 35.2,
         "Hana Ghassan": 26,
@@ -8063,7 +8092,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-32",
+      "source_url": "#cite_note-:20-34",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 19,
@@ -8090,7 +8119,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-32",
+      "source_url": "#cite_note-:20-34",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 22,
@@ -8506,7 +8535,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-35",
+      "source_url": "#cite_note-:19-37",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -8533,7 +8562,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-35",
+      "source_url": "#cite_note-:19-37",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -8718,7 +8747,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Professora Dorinha": 12.38,
         "Laurez Moreira": 6,
@@ -9261,7 +9290,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Daniel Santos": 43.4,
         "Hana Ghassan": 25.5,
@@ -9284,7 +9313,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 18.7,
@@ -10357,6 +10386,81 @@
       }
     },
     {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-24",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-13",
+      "candidates": {
+        "Professora Dorinha": 35,
+        "Laurez Moreira": 18,
+        "Carlos Amastha": 11,
+        "Amélio Cayres": 8,
+        "Ataídes Oliveira": 4
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Carlos Amastha": "",
+        "Amélio Cayres": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-24",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-13",
+      "candidates": {
+        "Professora Dorinha": 39,
+        "Laurez Moreira": 20,
+        "Carlos Amastha": 11,
+        "Ataídes Oliveira": 4
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Carlos Amastha": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-24",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-13",
+      "candidates": {
+        "Professora Dorinha": 40,
+        "Laurez Moreira": 23,
+        "Ataídes Oliveira": 6
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -10407,81 +10511,6 @@
       }
     },
     {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-24",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-12",
-      "candidates": {
-        "Professora Dorinha": 35,
-        "Laurez Moreira": 18,
-        "Carlos Amastha": 11,
-        "Amélio Cayres": 8,
-        "Ataídes Oliveira": 4
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Carlos Amastha": "",
-        "Amélio Cayres": "",
-        "Ataídes Oliveira": ""
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-24",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-12",
-      "candidates": {
-        "Professora Dorinha": 39,
-        "Laurez Moreira": 20,
-        "Carlos Amastha": 11,
-        "Ataídes Oliveira": 4
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Carlos Amastha": "",
-        "Ataídes Oliveira": ""
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-24",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-12",
-      "candidates": {
-        "Professora Dorinha": 40,
-        "Laurez Moreira": 23,
-        "Ataídes Oliveira": 6
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Ataídes Oliveira": ""
-      }
-    },
-    {
       "uf": "ES",
       "estado": "Espírito Santo",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
@@ -10519,7 +10548,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-43",
+      "source_url": "#cite_note-:0-45",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -10546,7 +10575,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-43",
+      "source_url": "#cite_note-:0-45",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -12654,7 +12683,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-52",
+      "source_url": "#cite_note-:3-54",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -12681,7 +12710,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-52",
+      "source_url": "#cite_note-:3-54",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -12789,7 +12818,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-56",
+      "source_url": "#cite_note-:1-58",
       "candidates": {
         "Daniel Santos": 32.1,
         "Hana Ghassan": 22.2,
@@ -12801,6 +12830,31 @@
         "Hana Ghassan": "MDB",
         "Mário Couto": "PL",
         "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Amélio Cayres|Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Exata GO",
+      "collection_date": "2026-01-30",
+      "sample_size": 22820,
+      "margin_error": 3.47,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-14",
+      "candidates": {
+        "Professora Dorinha": 22.93,
+        "Laurez Moreira": 9.72,
+        "Amélio Cayres": 6.13,
+        "Ataídes Oliveira": 3.33
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Amélio Cayres": "",
+        "Ataídes Oliveira": ""
       }
     },
     {
@@ -12828,31 +12882,6 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Exata GO",
-      "collection_date": "2026-01-30",
-      "sample_size": 22820,
-      "margin_error": 3.47,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-13",
-      "candidates": {
-        "Professora Dorinha": 22.93,
-        "Laurez Moreira": 9.72,
-        "Amélio Cayres": 6.13,
-        "Ataídes Oliveira": 3.33
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Amélio Cayres": "",
-        "Ataídes Oliveira": ""
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
       "secao": "Primeiro Turno (Governador) › 2026",
       "institute": "Lucro Ativo",
@@ -12860,7 +12889,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Professora Dorinha": 36.31,
         "Laurez Moreira": 5.25,
@@ -13064,7 +13093,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Daniel Santos": 30.5,
         "Hana Ghassan": 20.3,
@@ -13089,7 +13118,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Daniel Santos": 20.7,
         "Hana Ghassan": 19.8,
@@ -13114,7 +13143,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Daniel Santos": 34.1,
         "Hana Ghassan": 19.2,
@@ -13139,7 +13168,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 32,
@@ -13164,7 +13193,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Daniel Santos": 23.2,
         "Hana Ghassan": 21.3,
@@ -13189,7 +13218,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Daniel Santos": 47.8,
         "Hana Ghassan": 19.1,
@@ -13214,7 +13243,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 23.2,
@@ -13810,7 +13839,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-72",
+      "source_url": "#cite_note-:6-74",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -13833,7 +13862,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-72",
+      "source_url": "#cite_note-:6-74",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -14031,7 +14060,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-78",
+      "source_url": "#cite_note-:7-80",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
@@ -14056,7 +14085,7 @@
       "sample_size": 600,
       "margin_error": 4,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-76",
+      "source_url": "#cite_note-:9-78",
       "candidates": {
         "Daniel Santos": 29.4,
         "Hana Ghassan": 19.8,
@@ -14844,7 +14873,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-86",
+      "source_url": "#cite_note-88",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -14867,7 +14896,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-86",
+      "source_url": "#cite_note-88",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -14890,7 +14919,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Professora Dorinha": 29,
         "Eduardo Gomes": 29,
@@ -15197,7 +15226,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-91",
+      "source_url": "#cite_note-93",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -15218,7 +15247,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-91",
+      "source_url": "#cite_note-93",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -15239,7 +15268,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-91",
+      "source_url": "#cite_note-93",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -15260,7 +15289,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-91",
+      "source_url": "#cite_note-93",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -15943,7 +15972,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-100",
+      "source_url": "#cite_note-102",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -15966,7 +15995,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-100",
+      "source_url": "#cite_note-102",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -16081,7 +16110,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-109",
+      "source_url": "#cite_note-:11-111",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -16165,7 +16194,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-119",
+      "source_url": "#cite_note-:13-121",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -16186,7 +16215,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-122",
+      "source_url": "#cite_note-124",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -16207,7 +16236,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-122",
+      "source_url": "#cite_note-124",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -16228,7 +16257,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-127",
+      "source_url": "#cite_note-:14-129",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -16249,7 +16278,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-130",
+      "source_url": "#cite_note-:15-132",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -16456,7 +16485,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-133",
+      "source_url": "#cite_note-:16-135",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -16741,7 +16770,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-136",
+      "source_url": "#cite_note-:17-138",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10

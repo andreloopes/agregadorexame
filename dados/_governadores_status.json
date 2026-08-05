@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-08-04T13:07:15.041Z",
+  "ultima_execucao": "2026-08-05T13:01:56.992Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 657,
-  "pesquisas_usadas": 657,
+  "pesquisas_extraidas_brutas": 658,
+  "pesquisas_usadas": 658,
   "estados_com_agregado": 24,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -292,6 +292,7 @@
     "MA": [
       {
         "candidatos": [
+          "André Luís",
           "Eduardo Braide",
           "Felipe Camarão",
           "Orleans Brandão"
@@ -302,8 +303,7 @@
         "candidatos": [
           "Eduardo Braide",
           "Felipe Camarão",
-          "Orleans Brandão",
-          "Roberto Rocha"
+          "Orleans Brandão"
         ],
         "pesquisas": 1
       }
@@ -1042,7 +1042,7 @@
           "Laurez Moreira",
           "Professora Dorinha"
         ],
-        "pesquisas": 8
+        "pesquisas": 9
       },
       {
         "candidatos": [
@@ -1243,7 +1243,7 @@
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 13,
+      "pesquisas": 14,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
