@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-08-06T13:02:53.534Z",
+  "ultima_execucao": "2026-08-07T11:54:37.940Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 647,
-  "pesquisas_usadas": 647,
+  "pesquisas_extraidas_brutas": 649,
+  "pesquisas_usadas": 649,
   "estados_com_agregado": 24,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -395,7 +395,7 @@
           "Lucien Rezende",
           "Renato Gomes"
         ],
-        "pesquisas": 4
+        "pesquisas": 5
       },
       {
         "candidatos": [
@@ -621,6 +621,17 @@
         "candidatos": [
           "João Campos",
           "Raquel Lyra"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "PI": [
+      {
+        "candidatos": [
+          "Elizeu Aguiar",
+          "Gisvaldo Oliveira",
+          "Joel Rodrigues",
+          "Rafael Fonteles"
         ],
         "pesquisas": 1
       }
@@ -1128,7 +1139,7 @@
     "MS": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "status": "ok",
-      "pesquisas": 14,
+      "pesquisas": 15,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso_do_Sul"
     },
     "MG": {
@@ -1163,8 +1174,8 @@
     },
     "PI": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
-      "status": "sem_pesquisas_validas",
-      "pesquisas": 0,
+      "status": "ok",
+      "pesquisas": 1,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Piau%C3%AD"
     },
     "RJ": {
