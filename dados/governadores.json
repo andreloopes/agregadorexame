@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-08",
+  "atualizado_em": "2026-08-09",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -357,87 +357,103 @@
       "uf": "CE",
       "estado": "Ceará",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-04-28",
-      "pesquisas_no_calculo": 4,
+      "corte": "2026-07-28",
+      "pesquisas_no_calculo": 9,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Ciro Gomes",
           "partido": "PSDB",
-          "media": 45.9,
-          "ic_min": 38.6,
-          "ic_max": 53.3,
-          "pesquisas": 4
+          "media": 43,
+          "ic_min": 40.9,
+          "ic_max": 45.1,
+          "pesquisas": 9
         },
         {
           "nome": "Elmano de Freitas",
           "partido": "PT",
-          "media": 35.4,
-          "ic_min": 31,
-          "ic_max": 39.8,
-          "pesquisas": 4
+          "media": 37.3,
+          "ic_min": 33.5,
+          "ic_max": 41,
+          "pesquisas": 9
         },
         {
           "nome": "Eduardo Girão",
           "partido": "NOVO",
-          "media": 6.6,
+          "media": 5.5,
           "ic_min": 4.3,
-          "ic_max": 8.9,
-          "pesquisas": 4
+          "ic_max": 6.7,
+          "pesquisas": 9
         },
         {
           "nome": "Jarir Pereira",
           "partido": "PSOL",
           "media": 1,
-          "ic_min": 0.6,
-          "ic_max": 1.4,
-          "pesquisas": 4
+          "ic_min": 0.7,
+          "ic_max": 1.2,
+          "pesquisas": 9
         },
         {
           "nome": "Zé Batista",
           "partido": "PSTU",
-          "media": 0.5,
-          "ic_min": 0,
-          "ic_max": 1,
-          "pesquisas": 4
+          "media": 0.4,
+          "ic_min": 0.1,
+          "ic_max": 0.7,
+          "pesquisas": 9
         }
       ],
       "ultimas_pesquisas": [
         {
           "instituto": "Genial/Quaest",
-          "coleta": "2026-04-28",
+          "coleta": "2026-07-28",
           "amostra": 1002,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-Quaest-Abril-17"
+          "fonte_url": "#cite_note-:13-2"
         },
         {
-          "instituto": "Veritá",
-          "coleta": "2026-04-27",
-          "amostra": 1525,
-          "margem": 2.5,
-          "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1"
-        },
-        {
-          "instituto": "Paraná Pesquisas",
-          "coleta": "2026-03-30",
-          "amostra": 1500,
-          "margem": 2.6,
-          "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas"
-        },
-        {
-          "instituto": "Datafolha",
-          "coleta": "2026-03-18",
-          "amostra": 816,
+          "instituto": "Ipsus/IPEC",
+          "coleta": "2026-07-18",
+          "amostra": 800,
           "margem": 3,
           "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
+          "fonte_url": "#cite_note-4"
+        },
+        {
+          "instituto": "Real Time Big Data",
+          "coleta": "2026-07-14",
+          "amostra": 1600,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "#cite_note-:12-6"
+        },
+        {
+          "instituto": "AtlasIntel /Focus",
+          "coleta": "2026-06-14",
+          "amostra": 1223,
+          "margem": 3,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
+        },
+        {
+          "instituto": "Ipsus/IPEC",
+          "coleta": "2026-06-01",
+          "amostra": 800,
+          "margem": 3,
+          "tse": "",
+          "fonte_url": "#cite_note-:8-12"
+        },
+        {
+          "instituto": "Real Time Big Data",
+          "coleta": "2026-05-19",
+          "amostra": 1600,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "#cite_note-:7-15"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-Quaest-Abril-17"
+      "fonte_url": "#cite_note-:13-2"
     },
     "DF": {
       "uf": "DF",
@@ -683,7 +699,7 @@
           "amostra": 2000,
           "margem": 2.19,
           "tse": "",
-          "fonte_url": "#cite_note-1"
+          "fonte_url": "#cite_note-2"
         },
         {
           "instituto": "Real Time Big Data",
@@ -691,7 +707,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:12-6"
+          "fonte_url": "#cite_note-:12-7"
         },
         {
           "instituto": "Real Time Big Data",
@@ -699,7 +715,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:12-6"
+          "fonte_url": "#cite_note-:12-7"
         },
         {
           "instituto": "Paraná Pesquisas",
@@ -715,7 +731,7 @@
           "amostra": 1150,
           "margem": 2.89,
           "tse": "",
-          "fonte_url": "#cite_note-17"
+          "fonte_url": "#cite_note-18"
         },
         {
           "instituto": "Directa",
@@ -723,11 +739,11 @@
           "amostra": 1200,
           "margem": 2.8,
           "tse": "",
-          "fonte_url": "#cite_note--2-19"
+          "fonte_url": "#cite_note--2-20"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-1"
+      "fonte_url": "#cite_note-2"
     },
     "MA": {
       "uf": "MA",

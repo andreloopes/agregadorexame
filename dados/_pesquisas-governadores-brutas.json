@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-08",
+  "atualizado_em": "2026-08-09",
   "pesquisas": [
     {
       "uf": "MS",
@@ -193,13 +193,13 @@
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
       "institute": "Directa",
       "collection_date": "2026-07-31",
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-1",
+      "source_url": "#cite_note-2",
       "candidates": {
         "Daniel Vilela": 45.8,
         "Marconi Perillo": 24.5,
@@ -686,17 +686,44 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-28",
+      "sample_size": 1002,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-2",
+      "candidates": {
+        "Ciro Gomes": 43,
+        "Elmano de Freitas": 33,
+        "Eduardo Girão": 3,
+        "Jarir Pereira": 1,
+        "Zé Batista": 0
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
       "institute": "Genial/Quaest",
       "collection_date": "2026-07-28",
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-2",
+      "source_url": "#cite_note-:14-3",
       "candidates": {
         "Daniel Vilela": 37,
         "Marconi Perillo": 21,
@@ -1836,6 +1863,33 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "Ipsus/IPEC",
+      "collection_date": "2026-07-18",
+      "sample_size": 800,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-4",
+      "candidates": {
+        "Ciro Gomes": 43,
+        "Elmano de Freitas": 31,
+        "Eduardo Girão": 6,
+        "Jarir Pereira": 1,
+        "Zé Batista": 1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -1892,7 +1946,7 @@
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
       "institute": "Veritá",
       "collection_date": "2026-07-16",
       "sample_size": 1525,
@@ -2068,6 +2122,33 @@
         "Expedito Netto": "",
         "Hildon Chaves": "",
         "Samuel Costa": ""
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-14",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:12-6",
+      "candidates": {
+        "Ciro Gomes": 40,
+        "Elmano de Freitas": 44,
+        "Eduardo Girão": 7,
+        "Jarir Pereira": 1,
+        "Zé Batista": 0
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
       }
     },
     {
@@ -2534,13 +2615,13 @@
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-08",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-6",
+      "source_url": "#cite_note-:12-7",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 26,
@@ -2561,13 +2642,13 @@
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-08",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-6",
+      "source_url": "#cite_note-:12-7",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 24,
@@ -2948,7 +3029,7 @@
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-07-05",
       "sample_size": 1300,
@@ -3318,13 +3399,13 @@
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
       "institute": "Lupa",
       "collection_date": "2026-06-30",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-9",
+      "source_url": "#cite_note-:10-10",
       "candidates": {
         "Daniel Vilela": 31,
         "Marconi Perillo": 33,
@@ -3538,6 +3619,31 @@
         "Maria do Carmo": "PL",
         "David Almeida": "Avante",
         "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "DataTrends",
+      "collection_date": "2026-06-25",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-8",
+      "candidates": {
+        "Ciro Gomes": 44,
+        "Elmano de Freitas": 39,
+        "Eduardo Girão": 4,
+        "Jarir Pereira": 1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL"
       }
     },
     {
@@ -3899,13 +4005,13 @@
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
       "institute": "Diagnóstico/Acieg",
       "collection_date": "2026-06-18",
       "sample_size": 1100,
       "margin_error": 4.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-10",
+      "source_url": "#cite_note-:9-11",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 22.7,
@@ -4174,6 +4280,33 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "AtlasIntel /Focus",
+      "collection_date": "2026-06-14",
+      "sample_size": 1223,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Ciro Gomes": 45.8,
+        "Elmano de Freitas": 44.8,
+        "Eduardo Girão": 4.8,
+        "Jarir Pereira": 0.1,
+        "Zé Batista": 1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -4336,13 +4469,13 @@
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
       "institute": "Exata GO",
       "collection_date": "2026-06-13",
       "sample_size": 3600,
       "margin_error": 1.63,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-11",
+      "source_url": "#cite_note-:8-12",
       "candidates": {
         "Daniel Vilela": 28.5,
         "Marconi Perillo": 33.8,
@@ -5135,13 +5268,13 @@
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
       "institute": "Numen Data",
       "collection_date": "2026-06-02",
       "sample_size": 1507,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-13",
+      "source_url": "#cite_note-:7-14",
       "candidates": {
         "Daniel Vilela": 27.8,
         "Marconi Perillo": 17.5,
@@ -5176,6 +5309,33 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "Ipsus/IPEC",
+      "collection_date": "2026-06-01",
+      "sample_size": 800,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-12",
+      "candidates": {
+        "Ciro Gomes": 44,
+        "Elmano de Freitas": 33,
+        "Eduardo Girão": 4,
+        "Jarir Pereira": 1,
+        "Zé Batista": 1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
       }
     },
     {
@@ -5291,7 +5451,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-15",
+      "source_url": "#cite_note-:6-16",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -5316,7 +5476,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -5610,6 +5770,31 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-05-26",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Ciro Gomes": 45,
+        "Elmano de Freitas": 38.8,
+        "Eduardo Girão": 3.4,
+        "Jarir Pereira": 2
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL"
+      }
+    },
+    {
       "uf": "ES",
       "estado": "Espírito Santo",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
@@ -5645,7 +5830,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-19",
+      "source_url": "#cite_note--2-20",
       "candidates": {
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
@@ -5672,7 +5857,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-19",
+      "source_url": "#cite_note--2-20",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
@@ -6159,6 +6344,33 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-05-19",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-15",
+      "candidates": {
+        "Ciro Gomes": 40,
+        "Elmano de Freitas": 43,
+        "Eduardo Girão": 8,
+        "Jarir Pereira": 2,
+        "Zé Batista": 0
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -6273,7 +6485,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--1-25",
+      "source_url": "#cite_note--1-26",
       "candidates": {
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
@@ -6425,7 +6637,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-27",
+      "source_url": "#cite_note-:4-28",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -6452,7 +6664,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-27",
+      "source_url": "#cite_note-:4-28",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -6477,7 +6689,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-27",
+      "source_url": "#cite_note-:4-28",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -6504,7 +6716,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-27",
+      "source_url": "#cite_note-:4-28",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -7043,7 +7255,7 @@
       "sample_size": 3300,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Daniel Vilela": 29.6,
         "Marconi Perillo": 30.2,
@@ -7447,7 +7659,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-32",
+      "source_url": "#cite_note-Genial/Quaest-Abril-33",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -7472,7 +7684,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-32",
+      "source_url": "#cite_note-Genial/Quaest-Abril-33",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -7497,7 +7709,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-32",
+      "source_url": "#cite_note-Genial/Quaest-Abril-33",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 21,
@@ -8681,7 +8893,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-35",
+      "source_url": "#cite_note-:3-36",
       "candidates": {
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
@@ -8708,7 +8920,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-35",
+      "source_url": "#cite_note-:3-36",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
@@ -8735,7 +8947,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-35",
+      "source_url": "#cite_note-:3-36",
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
@@ -10899,7 +11111,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-38",
+      "source_url": "#cite_note-:1-39",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -10926,7 +11138,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-38",
+      "source_url": "#cite_note-:1-39",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -10953,7 +11165,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-38",
+      "source_url": "#cite_note-:1-39",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -12792,7 +13004,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-40",
+      "source_url": "#cite_note-:2-41",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
