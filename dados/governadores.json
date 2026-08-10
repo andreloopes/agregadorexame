@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-09",
+  "atualizado_em": "2026-08-10",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -454,108 +454,6 @@
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
       "fonte_url": "#cite_note-:13-2"
-    },
-    "DF": {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "cenario": "Governador · 1º turno",
-      "corte": "2026-07-19",
-      "pesquisas_no_calculo": 5,
-      "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
-      "candidatos": [
-        {
-          "nome": "Celina Leão",
-          "partido": "PP",
-          "media": 27.4,
-          "ic_min": 23,
-          "ic_max": 31.8,
-          "pesquisas": 5
-        },
-        {
-          "nome": "José Roberto Arruda",
-          "partido": "PSD",
-          "media": 18.9,
-          "ic_min": 17.4,
-          "ic_max": 20.4,
-          "pesquisas": 5
-        },
-        {
-          "nome": "Leandro Grass",
-          "partido": "PT",
-          "media": 11.7,
-          "ic_min": 8.2,
-          "ic_max": 15.3,
-          "pesquisas": 5
-        },
-        {
-          "nome": "Izalci Lucas",
-          "partido": "PL",
-          "media": 5.1,
-          "ic_min": 2.4,
-          "ic_max": 7.8,
-          "pesquisas": 5
-        },
-        {
-          "nome": "Ricardo Cappelli",
-          "partido": "PSB",
-          "media": 4.5,
-          "ic_min": 3.6,
-          "ic_max": 5.4,
-          "pesquisas": 5
-        },
-        {
-          "nome": "Paula Belmonte",
-          "partido": "PSDB",
-          "media": 2.9,
-          "ic_min": 2.1,
-          "ic_max": 3.6,
-          "pesquisas": 5
-        }
-      ],
-      "ultimas_pesquisas": [
-        {
-          "instituto": "IGAPE",
-          "coleta": "2026-07-19",
-          "amostra": 2000,
-          "margem": 2.2,
-          "tse": "",
-          "fonte_url": "#cite_note-6"
-        },
-        {
-          "instituto": "Exata OP",
-          "coleta": "2026-07-03",
-          "amostra": 1500,
-          "margem": 2.5,
-          "tse": "",
-          "fonte_url": "#cite_note-:1-7"
-        },
-        {
-          "instituto": "França",
-          "coleta": "2026-06-23",
-          "amostra": 1607,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-9"
-        },
-        {
-          "instituto": "IGAPE",
-          "coleta": "2026-06-11",
-          "amostra": 2000,
-          "margem": 2.2,
-          "tse": "",
-          "fonte_url": "#cite_note-13"
-        },
-        {
-          "instituto": "Veritá",
-          "coleta": "2026-05-10",
-          "amostra": 1200,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1"
-        }
-      ],
-      "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-6"
     },
     "ES": {
       "uf": "ES",
@@ -1357,7 +1255,7 @@
           "amostra": 2010,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-:14-1"
+          "fonte_url": "#cite_note-:14-3"
         },
         {
           "instituto": "IRG",
@@ -1365,7 +1263,7 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-3"
+          "fonte_url": "#cite_note-5"
         },
         {
           "instituto": "Genial/Quaest",
@@ -1373,7 +1271,7 @@
           "amostra": 1104,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:13-4"
+          "fonte_url": "#cite_note-:13-6"
         },
         {
           "instituto": "Neokemp",
@@ -1381,7 +1279,7 @@
           "amostra": 1008,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-5"
+          "fonte_url": "#cite_note-7"
         },
         {
           "instituto": "Paraná Pesquisas",
@@ -1389,7 +1287,7 @@
           "amostra": 1500,
           "margem": 2.6,
           "tse": "",
-          "fonte_url": "#cite_note-6"
+          "fonte_url": "#cite_note-8"
         },
         {
           "instituto": "Vox Brasil",
@@ -1397,11 +1295,11 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-:12-7"
+          "fonte_url": "#cite_note-:12-9"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:14-1"
+      "fonte_url": "#cite_note-:14-3"
     },
     "PE": {
       "uf": "PE",
@@ -2023,7 +1921,7 @@
           "amostra": 1650,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-QuaestAbril-15"
+          "fonte_url": "#cite_note-QuaestAbril-16"
         },
         {
           "instituto": "Paraná Pesquisas",
@@ -2031,7 +1929,7 @@
           "amostra": 1600,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-17"
+          "fonte_url": "#cite_note-18"
         },
         {
           "instituto": "AltasIntel",
@@ -2039,7 +1937,7 @@
           "amostra": 2200,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:5-18"
+          "fonte_url": "#cite_note-:5-19"
         },
         {
           "instituto": "Real Time Big Data",
@@ -2047,11 +1945,11 @@
           "amostra": 2000,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:4-21"
+          "fonte_url": "#cite_note-:4-22"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-QuaestAbril-15"
+      "fonte_url": "#cite_note-QuaestAbril-16"
     },
     "SE": {
       "uf": "SE",
@@ -2235,7 +2133,7 @@
     }
   },
   "cobertura": {
-    "com_agregado": 24,
+    "com_agregado": 23,
     "total_ufs": 27
   },
   "metodologia": "Cada estado é calculado separadamente. Pesquisas recentes e amostras maiores recebem mais peso; cenários incompatíveis não são misturados."

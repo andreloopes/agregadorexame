@@ -1,9 +1,9 @@
 {
-  "ultima_execucao": "2026-08-09T11:42:19.518Z",
+  "ultima_execucao": "2026-08-10T11:57:26.929Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 657,
-  "pesquisas_usadas": 657,
-  "estados_com_agregado": 24,
+  "pesquisas_extraidas_brutas": 648,
+  "pesquisas_usadas": 648,
+  "estados_com_agregado": 23,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
     "AC": [
@@ -178,13 +178,15 @@
       {
         "candidatos": [
           "Celina Leão",
-          "Izalci Lucas",
           "José Roberto Arruda",
+          "Kiko Caputo",
           "Leandro Grass",
           "Paula Belmonte",
-          "Ricardo Cappelli"
+          "Ricardo Cappelli",
+          "Robson Raimundo",
+          "Samara Mineiro"
         ],
-        "pesquisas": 6
+        "pesquisas": 1
       },
       {
         "candidatos": [
@@ -192,25 +194,6 @@
           "José Roberto Arruda",
           "Leandro Grass",
           "Paula Belmonte",
-          "Ricardo Cappelli"
-        ],
-        "pesquisas": 3
-      },
-      {
-        "candidatos": [
-          "Celina Leão",
-          "Leandro Grass",
-          "Paula Belmonte",
-          "Ricardo Cappelli"
-        ],
-        "pesquisas": 2
-      },
-      {
-        "candidatos": [
-          "Celina Leão",
-          "Izalci Lucas",
-          "José Roberto Arruda",
-          "Leandro Grass",
           "Ricardo Cappelli"
         ],
         "pesquisas": 1
@@ -218,7 +201,6 @@
       {
         "candidatos": [
           "Celina Leão",
-          "Izalci Lucas",
           "Leandro Grass",
           "Paula Belmonte",
           "Ricardo Cappelli"
@@ -571,6 +553,15 @@
       },
       {
         "candidatos": [
+          "Luiz França",
+          "Requião Filho",
+          "Sandro Alex",
+          "Sergio Moro"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
           "Guto Silva",
           "Luiz França",
           "Rafael Greca",
@@ -583,15 +574,6 @@
         "candidatos": [
           "Luiz França",
           "Rafael Greca",
-          "Requião Filho",
-          "Sandro Alex",
-          "Sergio Moro"
-        ],
-        "pesquisas": 2
-      },
-      {
-        "candidatos": [
-          "Luiz França",
           "Requião Filho",
           "Sandro Alex",
           "Sergio Moro"
@@ -1109,7 +1091,7 @@
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "status": "ok",
-      "pesquisas": 13,
+      "pesquisas": 3,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
@@ -1163,7 +1145,7 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 45,
+      "pesquisas": 46,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {

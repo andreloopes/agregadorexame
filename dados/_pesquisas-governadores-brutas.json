@@ -1,6 +1,31 @@
 {
-  "atualizado_em": "2026-08-09",
+  "atualizado_em": "2026-08-10",
   "pesquisas": [
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Índice",
+      "collection_date": "2026-08-06",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Sergio Moro": 35.3,
+        "Requião Filho": 19.5,
+        "Sandro Alex": 26.6,
+        "Luiz França": 0.7
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO"
+      }
+    },
     {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
@@ -145,7 +170,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-1",
+      "source_url": "#cite_note-:14-3",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -242,8 +267,8 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "Celina Leão|José Roberto Arruda|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli|Robson Raimundo|Samara Mineiro",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto - Outubro",
       "institute": "Correio/Opinião",
       "collection_date": "2026-07-30",
       "sample_size": 1109,
@@ -255,14 +280,20 @@
         "José Roberto Arruda": 24,
         "Leandro Grass": 9.8,
         "Ricardo Cappelli": 4.3,
-        "Paula Belmonte": 3.5
+        "Paula Belmonte": 3.5,
+        "Samara Mineiro": 0.9,
+        "Kiko Caputo": 0.8,
+        "Robson Raimundo": 0.5
       },
       "parties": {
         "Celina Leão": "PP",
         "José Roberto Arruda": "PSD",
         "Leandro Grass": "PT",
         "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
+        "Paula Belmonte": "PSDB",
+        "Samara Mineiro": "UP",
+        "Kiko Caputo": "NOVO",
+        "Robson Raimundo": "PSTU"
       }
     },
     {
@@ -748,7 +779,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-5",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -1170,7 +1201,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-4",
+      "source_url": "#cite_note-:13-6",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -1199,7 +1230,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-4",
+      "source_url": "#cite_note-:13-6",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -1226,7 +1257,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-4",
+      "source_url": "#cite_note-:13-6",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -1640,7 +1671,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -1669,7 +1700,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -1754,87 +1785,6 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-19",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Celina Leão": 34.6,
-        "José Roberto Arruda": 28.1,
-        "Leandro Grass": 11.9,
-        "Ricardo Cappelli": 4.5,
-        "Paula Belmonte": 3.6
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-19",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Celina Leão": 45.9,
-        "Leandro Grass": 16.3,
-        "Ricardo Cappelli": 5.7,
-        "Paula Belmonte": 7.2
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "IGAPE",
-      "collection_date": "2026-07-19",
-      "sample_size": 2000,
-      "margin_error": 2.2,
-      "tse_registration": "",
-      "source_url": "#cite_note-6",
-      "candidates": {
-        "Celina Leão": 33.1,
-        "José Roberto Arruda": 18.1,
-        "Leandro Grass": 9.6,
-        "Izalci Lucas": 4.7,
-        "Ricardo Cappelli": 4,
-        "Paula Belmonte": 3.9
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Izalci Lucas": "PL",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
       }
     },
     {
@@ -2925,7 +2875,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -2954,7 +2904,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -3076,35 +3026,6 @@
         "Cadu Xavier": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Exata OP",
-      "collection_date": "2026-07-03",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-7",
-      "candidates": {
-        "Celina Leão": 23.4,
-        "José Roberto Arruda": 17.3,
-        "Leandro Grass": 15.8,
-        "Izalci Lucas": 5.1,
-        "Ricardo Cappelli": 6.4,
-        "Paula Belmonte": 1.9
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Izalci Lucas": "PL",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
       }
     },
     {
@@ -3455,7 +3376,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-7",
+      "source_url": "#cite_note-:12-9",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -3484,7 +3405,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-7",
+      "source_url": "#cite_note-:12-9",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -3511,7 +3432,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-7",
+      "source_url": "#cite_note-:12-9",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -3538,7 +3459,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-7",
+      "source_url": "#cite_note-:12-9",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -3561,7 +3482,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-7",
+      "source_url": "#cite_note-:12-9",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -3721,35 +3642,6 @@
         "Expedito Netto": "",
         "Hildon Chaves": "",
         "Samuel Costa": ""
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "França",
-      "collection_date": "2026-06-23",
-      "sample_size": 1607,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-9",
-      "candidates": {
-        "Celina Leão": 26.4,
-        "José Roberto Arruda": 20.2,
-        "Leandro Grass": 13.7,
-        "Izalci Lucas": 3.6,
-        "Ricardo Cappelli": 3.6,
-        "Paula Belmonte": 2.1
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Izalci Lucas": "PL",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
       }
     },
     {
@@ -4253,33 +4145,6 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Opinião",
-      "collection_date": "2026-06-15",
-      "sample_size": 1085,
-      "margin_error": 3.4,
-      "tse_registration": "",
-      "source_url": "#cite_note-11",
-      "candidates": {
-        "Celina Leão": 27.8,
-        "José Roberto Arruda": 23.5,
-        "Leandro Grass": 9.2,
-        "Izalci Lucas": 4.9,
-        "Ricardo Cappelli": 1.7
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Izalci Lucas": "PL",
-        "Ricardo Cappelli": "PSB"
-      }
-    },
-    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -4529,7 +4394,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-8",
+      "source_url": "#cite_note-:11-10",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -4558,7 +4423,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-8",
+      "source_url": "#cite_note-:11-10",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -4641,35 +4506,6 @@
       "parties": {
         "João Henrique Caldas": "PSDB",
         "Renan Filho": "MDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "IGAPE",
-      "collection_date": "2026-06-11",
-      "sample_size": 2000,
-      "margin_error": 2.2,
-      "tse_registration": "",
-      "source_url": "#cite_note-13",
-      "candidates": {
-        "Celina Leão": 27,
-        "José Roberto Arruda": 22.1,
-        "Leandro Grass": 5.5,
-        "Izalci Lucas": 3.1,
-        "Ricardo Cappelli": 4.2,
-        "Paula Belmonte": 2.8
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Izalci Lucas": "PL",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
       }
     },
     {
@@ -4856,7 +4692,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -4885,7 +4721,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -5033,7 +4869,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-12",
+      "source_url": "#cite_note-:10-14",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -6275,7 +6111,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-13",
+      "source_url": "#cite_note-:9-15",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -6304,7 +6140,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-13",
+      "source_url": "#cite_note-:9-15",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -6808,62 +6644,6 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-05-10",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Celina Leão": 15.3,
-        "José Roberto Arruda": 17.1,
-        "Leandro Grass": 19.4,
-        "Izalci Lucas": 16.2,
-        "Ricardo Cappelli": 4.4,
-        "Paula Belmonte": 2.8
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Izalci Lucas": "PL",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-05-10",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Celina Leão": 18.8,
-        "Leandro Grass": 24.8,
-        "Izalci Lucas": 18.5,
-        "Ricardo Cappelli": 5,
-        "Paula Belmonte": 4.9
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Leandro Grass": "PT",
-        "Izalci Lucas": "PL",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
-      }
-    },
-    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -6874,7 +6654,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -6903,7 +6683,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -7159,7 +6939,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-15",
+      "source_url": "#cite_note-Veritá2-17",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -7372,7 +7152,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -7401,7 +7181,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -7907,7 +7687,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-15",
+      "source_url": "#cite_note-QuaestAbril-16",
       "candidates": {
         "Tarcísio": 38,
         "Haddad": 26,
@@ -7932,7 +7712,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-15",
+      "source_url": "#cite_note-QuaestAbril-16",
       "candidates": {
         "Tarcísio": 40,
         "Haddad": 28,
@@ -8242,7 +8022,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-17",
+      "source_url": "#cite_note-:8-19",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -8271,7 +8051,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-17",
+      "source_url": "#cite_note-:8-19",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -8381,7 +8161,7 @@
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-VoxAbril-16",
+      "source_url": "#cite_note-VoxAbril-17",
       "candidates": {
         "Tarcísio": 48.2,
         "Haddad": 32.3,
@@ -8685,7 +8465,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Tarcísio": 47.8,
         "Haddad": 33.1,
@@ -8735,7 +8515,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -8764,7 +8544,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -8791,7 +8571,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -8818,7 +8598,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -9692,7 +9472,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-19",
+      "source_url": "#cite_note-:7-21",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -9719,7 +9499,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-19",
+      "source_url": "#cite_note-:7-21",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -9746,7 +9526,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-19",
+      "source_url": "#cite_note-:7-21",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -9771,7 +9551,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-19",
+      "source_url": "#cite_note-:7-21",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -9890,7 +9670,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-18",
+      "source_url": "#cite_note-:5-19",
       "candidates": {
         "Tarcísio": 49.1,
         "Haddad": 42.6,
@@ -9915,7 +9695,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-18",
+      "source_url": "#cite_note-:5-19",
       "candidates": {
         "Tarcísio": 48.8,
         "Tebet": 41.8,
@@ -9940,7 +9720,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-18",
+      "source_url": "#cite_note-:5-19",
       "candidates": {
         "Tarcísio": 49.4,
         "França": 32.2,
@@ -9965,7 +9745,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-18",
+      "source_url": "#cite_note-:5-19",
       "candidates": {
         "Tarcísio": 48.4,
         "Alckmin": 41.4,
@@ -10659,7 +10439,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-21",
+      "source_url": "#cite_note-:3-23",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -10686,7 +10466,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-21",
+      "source_url": "#cite_note-:3-23",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -10713,7 +10493,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-21",
+      "source_url": "#cite_note-:3-23",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -10744,35 +10524,6 @@
       "parties": {
         "João Henrique Caldas": "PSDB",
         "Renan Filho": "MDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Izalci Lucas|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-03-19",
-      "sample_size": 1221,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Celina Leão": 19.4,
-        "José Roberto Arruda": 21.2,
-        "Leandro Grass": 18.8,
-        "Izalci Lucas": 19,
-        "Ricardo Cappelli": 4.1,
-        "Paula Belmonte": 4
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Izalci Lucas": "PL",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
       }
     },
     {
@@ -10815,7 +10566,7 @@
       "sample_size": 3025,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-20",
+      "source_url": "#cite_note-Veritá1-21",
       "candidates": {
         "Tarcísio": 41.1,
         "Haddad": 27.7,
@@ -11815,7 +11566,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-21",
+      "source_url": "#cite_note-:4-22",
       "candidates": {
         "Tarcísio": 47,
         "Haddad": 31,
@@ -11840,7 +11591,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-21",
+      "source_url": "#cite_note-:4-22",
       "candidates": {
         "Tarcísio": 44,
         "Alckmin": 33,
@@ -11865,7 +11616,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-21",
+      "source_url": "#cite_note-:4-22",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 21,
@@ -11890,7 +11641,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-21",
+      "source_url": "#cite_note-:4-22",
       "candidates": {
         "Tarcísio": 48,
         "França": 23,
@@ -11915,7 +11666,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-21",
+      "source_url": "#cite_note-:4-22",
       "candidates": {
         "Tarcísio": 43,
         "Derrite": 18,
@@ -11967,7 +11718,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-22",
+      "source_url": "#cite_note-:3-23",
       "candidates": {
         "Tarcísio": 44,
         "Haddad": 31,
@@ -11994,7 +11745,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-22",
+      "source_url": "#cite_note-:3-23",
       "candidates": {
         "Tarcísio": 46,
         "Alckmin": 26,
@@ -12021,7 +11772,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-22",
+      "source_url": "#cite_note-:3-23",
       "candidates": {
         "Tarcísio": 44,
         "França": 5,
@@ -12050,7 +11801,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-22",
+      "source_url": "#cite_note-:3-23",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 19,
@@ -12077,7 +11828,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-22",
+      "source_url": "#cite_note-:1-24",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -12106,7 +11857,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-22",
+      "source_url": "#cite_note-:1-24",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -12135,7 +11886,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-22",
+      "source_url": "#cite_note-:1-24",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -12453,7 +12204,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Tarcísio": 51,
         "Haddad": 27.7,
@@ -12480,7 +12231,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Tarcísio": 48.5,
         "Alckmin": 29.9,
@@ -12507,7 +12258,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Tarcísio": 52.8,
         "França": 18.5,
@@ -12534,7 +12285,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-24",
       "candidates": {
         "França": 24.2,
         "Nunes": 36,
@@ -12561,7 +12312,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-24",
       "candidates": {
         "França": 29.2,
         "Serra": 10.7,
@@ -12873,7 +12624,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-23",
+      "source_url": "#cite_note-:5-25",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -12900,7 +12651,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-23",
+      "source_url": "#cite_note-:5-25",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -12927,7 +12678,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-23",
+      "source_url": "#cite_note-:5-25",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -13742,13 +13493,13 @@
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "cenario": "Celina Leão|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2025",
+      "secao": "Primeiro turno (governador) › 2025 › Janeiro - Julho",
       "institute": "Real Time Big Data",
       "collection_date": "2025-12-08",
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-18",
+      "source_url": "#cite_note-DF01-17",
       "candidates": {
         "Celina Leão": 40,
         "José Roberto Arruda": 21,
@@ -13769,13 +13520,13 @@
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "cenario": "Celina Leão|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2025",
+      "secao": "Primeiro turno (governador) › 2025 › Janeiro - Julho",
       "institute": "Real Time Big Data",
       "collection_date": "2025-12-08",
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-18",
+      "source_url": "#cite_note-DF01-17",
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
@@ -14115,7 +13866,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Tarcísio": 45,
         "Alckmin": 26,
@@ -14144,7 +13895,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Tarcísio": 49,
         "Hilton": 8,
@@ -14173,7 +13924,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Tarcísio": 50,
         "França": 18,
@@ -14202,7 +13953,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Derrite": 25,
         "Hilton": 8,
@@ -14231,7 +13982,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Nunes": 28,
         "Hilton": 8,
@@ -14260,7 +14011,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Hilton": 8,
         "Haddad": 29,
@@ -14289,7 +14040,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Hilton": 8,
         "Haddad": 33,
@@ -14318,7 +14069,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Derrite": 18,
         "Nunes": 18,
@@ -14986,7 +14737,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-25",
+      "source_url": "#cite_note-:2-26",
       "candidates": {
         "Tarcísio": 48.3,
         "Alckmin": 22.7,
@@ -15013,7 +14764,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-25",
+      "source_url": "#cite_note-:2-26",
       "candidates": {
         "Tarcísio": 50.1,
         "Hilton": 8.8,
@@ -15040,7 +14791,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-25",
+      "source_url": "#cite_note-:2-26",
       "candidates": {
         "Tarcísio": 52.7,
         "França": 12.6,
@@ -15069,7 +14820,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-25",
+      "source_url": "#cite_note-:2-26",
       "candidates": {
         "França": 17.6,
         "Nunes": 32.7,
@@ -15100,7 +14851,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-25",
+      "source_url": "#cite_note-:2-26",
       "candidates": {
         "França": 22.4,
         "Hilton": 13.9,
@@ -15129,7 +14880,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-25",
+      "source_url": "#cite_note-:2-26",
       "candidates": {
         "França": 24,
         "Hilton": 14.5,
@@ -15158,7 +14909,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-25",
+      "source_url": "#cite_note-:2-26",
       "candidates": {
         "França": 24.2,
         "Hilton": 14.4,
@@ -15271,7 +15022,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 52,
         "França": 16,
@@ -15298,7 +15049,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 47,
         "Alckmin": 26,
@@ -15325,7 +15076,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "França": 20,
         "Nunes": 34,
@@ -15352,7 +15103,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "França": 27,
         "Hilton": 10,
@@ -15379,7 +15130,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Alckmin": 31,
         "Nunes": 30,
@@ -15483,7 +15234,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-28",
       "candidates": {
         "Tarcísio": 47.3,
         "França": 18.2,
@@ -15510,7 +15261,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-28",
       "candidates": {
         "Tarcísio": 48.6,
         "Alckmin": 34.2,
@@ -15537,7 +15288,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-28",
       "candidates": {
         "Manga": 10.8,
         "Alckmin": 39.4,
@@ -15568,7 +15319,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-28",
       "candidates": {
         "Manga": 8.2,
         "Derrite": 23.2,
@@ -15595,7 +15346,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-28",
+      "source_url": "#cite_note-:0-29",
       "candidates": {
         "Tarcísio": 43.8,
         "Manga": 4.7,
@@ -15626,7 +15377,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-28",
+      "source_url": "#cite_note-:0-29",
       "candidates": {
         "Tarcísio": 47.7,
         "Manga": 4.9,
@@ -15657,7 +15408,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-28",
+      "source_url": "#cite_note-:0-29",
       "candidates": {
         "Tarcísio": 46.1,
         "Manga": 4.9,
@@ -15688,7 +15439,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-28",
+      "source_url": "#cite_note-:0-29",
       "candidates": {
         "Manga": 8.6,
         "França": 14.2,
@@ -15717,7 +15468,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-28",
+      "source_url": "#cite_note-:0-29",
       "candidates": {
         "Manga": 9.9,
         "França": 18,
@@ -15748,7 +15499,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-28",
+      "source_url": "#cite_note-:0-29",
       "candidates": {
         "Manga": 10.4,
         "França": 19.8,
@@ -15777,7 +15528,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-28",
+      "source_url": "#cite_note-:0-29",
       "candidates": {
         "Manga": 10.3,
         "França": 19.8,
@@ -15906,7 +15657,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Tarcísio": 43,
         "Alckmin": 21,
@@ -16260,7 +16011,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Tarcísio": 42.1,
         "Manga": 4.8,
@@ -16291,7 +16042,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Tarcísio": 46.5,
         "Manga": 5.4,
@@ -16322,7 +16073,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Manga": 8.7,
         "França": 16.2,
@@ -16353,7 +16104,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Manga": 11.7,
         "França": 20.6,
@@ -16384,7 +16135,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Manga": 11.6,
         "França": 21.8,
@@ -16415,7 +16166,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Manga": 11.4,
         "França": 21.8,
@@ -16517,7 +16268,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Tarcísio": 37.8,
         "Alckmin": 24.7,
@@ -16544,7 +16295,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Tarcísio": 40.3,
         "França": 12.7,
@@ -16571,7 +16322,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Tarcísio": 48.6,
         "França": 16.6,
@@ -16596,7 +16347,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "França": 17,
         "Nunes": 27,
@@ -16623,7 +16374,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "França": 21.6,
         "Nunes": 35.8,
@@ -16648,7 +16399,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Manga": 9.5,
         "França": 18.8,
@@ -16677,7 +16428,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Manga": 9.8,
         "França": 19.3,
@@ -16706,7 +16457,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Tarcísio": 38,
         "França": 6,
@@ -16777,7 +16528,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Tarcísio": 40.5,
         "França": 12.6,
@@ -16804,7 +16555,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "França": 14.6,
         "Nunes": 27.2,
