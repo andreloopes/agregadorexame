@@ -1,55 +1,63 @@
 {
-  "atualizado_em": "2026-08-10",
+  "atualizado_em": "2026-08-11",
   "estados": {
     "AC": {
       "uf": "AC",
       "estado": "Acre",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-08-02",
-      "pesquisas_no_calculo": 10,
+      "corte": "2026-08-06",
+      "pesquisas_no_calculo": 11,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Alan Rick",
           "partido": "Republicanos",
-          "media": 38,
+          "media": 37.8,
           "ic_min": 36.3,
-          "ic_max": 39.7,
-          "pesquisas": 10
+          "ic_max": 39.3,
+          "pesquisas": 11
         },
         {
           "nome": "Mailza Assis",
           "partido": "PP",
-          "media": 25.7,
-          "ic_min": 21.8,
-          "ic_max": 29.6,
-          "pesquisas": 10
+          "media": 26.2,
+          "ic_min": 22.7,
+          "ic_max": 29.7,
+          "pesquisas": 11
         },
         {
           "nome": "Tião Bocalom",
           "partido": "PSDB",
-          "media": 18.1,
-          "ic_min": 17.3,
-          "ic_max": 18.9,
-          "pesquisas": 10
+          "media": 17.3,
+          "ic_min": 15.9,
+          "ic_max": 18.6,
+          "pesquisas": 11
         },
         {
           "nome": "Thor Dantas",
           "partido": "PSB",
-          "media": 5.2,
-          "ic_min": 3.4,
-          "ic_max": 7.1,
-          "pesquisas": 10
+          "media": 5.5,
+          "ic_min": 3.9,
+          "ic_max": 7.2,
+          "pesquisas": 11
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Travessia Diagnóstico",
+          "coleta": "2026-08-06",
+          "amostra": 800,
+          "margem": 3.5,
+          "tse": "",
+          "fonte_url": "#cite_note-1"
+        },
         {
           "instituto": "AtlasIntel",
           "coleta": "2026-08-02",
           "amostra": 997,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:5-1"
+          "fonte_url": "#cite_note-:5-2"
         },
         {
           "instituto": "Real Time Big Data",
@@ -57,7 +65,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:4-2"
+          "fonte_url": "#cite_note-:4-3"
         },
         {
           "instituto": "Delta/TV Gazeta",
@@ -65,7 +73,7 @@
           "amostra": 1006,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:3-4"
+          "fonte_url": "#cite_note-:3-5"
         },
         {
           "instituto": "Delta/Acre em Dia",
@@ -73,7 +81,7 @@
           "amostra": 800,
           "margem": 3.5,
           "tse": "",
-          "fonte_url": "#cite_note-5"
+          "fonte_url": "#cite_note-6"
         },
         {
           "instituto": "Real Time Big Data",
@@ -81,19 +89,11 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:2-6"
-        },
-        {
-          "instituto": "Delta/TV Gazeta",
-          "coleta": "2026-06-06",
-          "amostra": 1201,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-:1-8"
+          "fonte_url": "#cite_note-:2-7"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:5-1"
+      "fonte_url": "#cite_note-1"
     },
     "AL": {
       "uf": "AL",
@@ -1387,6 +1387,68 @@
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
       "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
     },
+    "PI": {
+      "uf": "PI",
+      "estado": "Piauí",
+      "cenario": "Governador · 1º turno",
+      "corte": "2026-08-02",
+      "pesquisas_no_calculo": 2,
+      "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
+      "candidatos": [
+        {
+          "nome": "Rafael Fonteles",
+          "partido": "PT",
+          "media": 66.1,
+          "ic_min": 52.8,
+          "ic_max": 79.4,
+          "pesquisas": 2
+        },
+        {
+          "nome": "Joel Rodrigues",
+          "partido": "PP",
+          "media": 22.7,
+          "ic_min": 17.5,
+          "ic_max": 27.9,
+          "pesquisas": 2
+        },
+        {
+          "nome": "Elizeu Aguiar",
+          "partido": "NOVO",
+          "media": 0.6,
+          "ic_min": 0.6,
+          "ic_max": 0.7,
+          "pesquisas": 2
+        },
+        {
+          "nome": "Gisvaldo Oliveira",
+          "partido": "PSOL",
+          "media": 0.3,
+          "ic_min": 0,
+          "ic_max": 0.6,
+          "pesquisas": 2
+        }
+      ],
+      "ultimas_pesquisas": [
+        {
+          "instituto": "Datamax",
+          "coleta": "2026-08-02",
+          "amostra": 1602,
+          "margem": 2.45,
+          "tse": "",
+          "fonte_url": "#cite_note-1"
+        },
+        {
+          "instituto": "Vetor3",
+          "coleta": "2026-08-02",
+          "amostra": 1602,
+          "margem": 2.45,
+          "tse": "",
+          "fonte_url": "#cite_note-4"
+        }
+      ],
+      "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
+      "fonte_url": "#cite_note-1"
+    },
     "RJ": {
       "uf": "RJ",
       "estado": "Rio de Janeiro",
@@ -1485,67 +1547,75 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-07-25",
-      "pesquisas_no_calculo": 15,
+      "corte": "2026-08-08",
+      "pesquisas_no_calculo": 16,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Allyson Bezerra",
           "partido": "UNIÃO",
-          "media": 36.1,
-          "ic_min": 33.7,
-          "ic_max": 38.5,
-          "pesquisas": 15
+          "media": 35.8,
+          "ic_min": 33.6,
+          "ic_max": 38,
+          "pesquisas": 16
         },
         {
           "nome": "Álvaro Dias",
           "partido": "PL",
-          "media": 25.3,
-          "ic_min": 22.1,
-          "ic_max": 28.5,
-          "pesquisas": 15
+          "media": 25.1,
+          "ic_min": 22.2,
+          "ic_max": 28,
+          "pesquisas": 16
         },
         {
-          "nome": "Cadu Xavier",
+          "nome": "Cadu de Lula",
           "partido": "PT",
-          "media": 14.3,
-          "ic_min": 12.7,
-          "ic_max": 15.9,
-          "pesquisas": 15
+          "media": 14.7,
+          "ic_min": 13.2,
+          "ic_max": 16.2,
+          "pesquisas": 16
         },
         {
           "nome": "Robério Paulino",
           "partido": "PSOL",
           "media": 1.2,
-          "ic_min": 0.9,
+          "ic_min": 1,
           "ic_max": 1.4,
-          "pesquisas": 15
+          "pesquisas": 16
         },
         {
           "nome": "Rodrigo Bolsonaro",
           "partido": "Agir",
-          "media": 0.8,
-          "ic_min": 0.3,
-          "ic_max": 1.4,
-          "pesquisas": 15
+          "media": 1,
+          "ic_min": 0.5,
+          "ic_max": 1.5,
+          "pesquisas": 16
         },
         {
           "nome": "Dário Barbosa",
           "partido": "PSTU",
-          "media": 0.6,
+          "media": 0.5,
           "ic_min": 0.4,
           "ic_max": 0.7,
-          "pesquisas": 15
+          "pesquisas": 16
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Metadata/Grupo Dial",
+          "coleta": "2026-08-08",
+          "amostra": 1536,
+          "margem": 2.5,
+          "tse": "",
+          "fonte_url": "#cite_note-2"
+        },
         {
           "instituto": "TCM/TSDois",
           "coleta": "2026-07-25",
           "amostra": 1800,
           "margem": 2.3,
           "tse": "",
-          "fonte_url": "#cite_note-3"
+          "fonte_url": "#cite_note-5"
         },
         {
           "instituto": "ITEM/TV Ponta Negra",
@@ -1553,7 +1623,7 @@
           "amostra": 1250,
           "margem": 2.77,
           "tse": "",
-          "fonte_url": "#cite_note-:8-4"
+          "fonte_url": "#cite_note-:8-6"
         },
         {
           "instituto": "DataCensus",
@@ -1561,7 +1631,7 @@
           "amostra": 2000,
           "margem": 2.1,
           "tse": "",
-          "fonte_url": "#cite_note-6"
+          "fonte_url": "#cite_note-8"
         },
         {
           "instituto": "DataVero",
@@ -1569,7 +1639,7 @@
           "amostra": 1500,
           "margem": 2.53,
           "tse": "",
-          "fonte_url": "#cite_note-7"
+          "fonte_url": "#cite_note-9"
         },
         {
           "instituto": "Media/O Potengi",
@@ -1577,19 +1647,11 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-9"
-        },
-        {
-          "instituto": "Seta",
-          "coleta": "2026-07-06",
-          "amostra": 1500,
-          "margem": 2.5,
-          "tse": "",
-          "fonte_url": "#cite_note-10"
+          "fonte_url": "#cite_note-11"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-3"
+      "fonte_url": "#cite_note-2"
     },
     "RS": {
       "uf": "RS",
@@ -2133,7 +2195,7 @@
     }
   },
   "cobertura": {
-    "com_agregado": 23,
+    "com_agregado": 24,
     "total_ufs": 27
   },
   "metodologia": "Cada estado é calculado separadamente. Pesquisas recentes e amostras maiores recebem mais peso; cenários incompatíveis não são misturados."

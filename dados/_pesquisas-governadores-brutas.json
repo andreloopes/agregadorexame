@@ -1,6 +1,60 @@
 {
-  "atualizado_em": "2026-08-10",
+  "atualizado_em": "2026-08-11",
   "pesquisas": [
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Metadata/Grupo Dial",
+      "collection_date": "2026-08-08",
+      "sample_size": 1536,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-2",
+      "candidates": {
+        "Allyson Bezerra": 34.2,
+        "Álvaro Dias": 24,
+        "Cadu de Lula": 17.1,
+        "Robério Paulino": 1.6,
+        "Rodrigo Bolsonaro": 1.8,
+        "Dário Barbosa": 0.3
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Travessia Diagnóstico",
+      "collection_date": "2026-08-06",
+      "sample_size": 800,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Alan Rick": 37,
+        "Mailza Assis": 29,
+        "Tião Bocalom": 13,
+        "Thor Dantas": 7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
     {
       "uf": "PR",
       "estado": "Paraná",
@@ -95,7 +149,7 @@
       "sample_size": 997,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-1",
+      "source_url": "#cite_note-:5-2",
       "candidates": {
         "Alan Rick": 33.1,
         "Mailza Assis": 35.2,
@@ -140,12 +194,37 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
       "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
-      "institute": "Vetor3",
+      "institute": "Datamax",
       "collection_date": "2026-08-02",
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
       "source_url": "#cite_note-1",
+      "candidates": {
+        "Rafael Fonteles": 75.69,
+        "Joel Rodrigues": 18.99,
+        "Elizeu Aguiar": 0.64,
+        "Gisvaldo Oliveira": 0.51
+      },
+      "parties": {
+        "Rafael Fonteles": "PT",
+        "Joel Rodrigues": "PP",
+        "Elizeu Aguiar": "NOVO",
+        "Gisvaldo Oliveira": "PSOL"
+      }
+    },
+    {
+      "uf": "PI",
+      "estado": "Piauí",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
+      "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "Vetor3",
+      "collection_date": "2026-08-02",
+      "sample_size": 1602,
+      "margin_error": 2.45,
+      "tse_registration": "",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Rafael Fonteles": 56.53,
         "Joel Rodrigues": 26.5,
@@ -801,25 +880,25 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "DataCapital",
       "collection_date": "2026-07-28",
       "sample_size": 2050,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-2",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Allyson Bezerra": 40,
         "Álvaro Dias": 26,
-        "Cadu Xavier": 20,
+        "Cadu de Lula": 20,
         "Robério Paulino": 3,
         "Rodrigo Bolsonaro": 1
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir"
       }
@@ -1097,7 +1176,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-2",
+      "source_url": "#cite_note-:4-3",
       "candidates": {
         "Alan Rick": 38,
         "Mailza Assis": 28,
@@ -1379,18 +1458,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TCM/TSDois",
       "collection_date": "2026-07-25",
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-5",
       "candidates": {
         "Allyson Bezerra": 38.8,
         "Álvaro Dias": 24.9,
-        "Cadu Xavier": 13.2,
+        "Cadu de Lula": 13.2,
         "Robério Paulino": 1.4,
         "Rodrigo Bolsonaro": 0.2,
         "Dário Barbosa": 0.3
@@ -1398,7 +1477,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -1535,18 +1614,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "ITEM/TV Ponta Negra",
       "collection_date": "2026-07-22",
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-4",
+      "source_url": "#cite_note-:8-6",
       "candidates": {
         "Allyson Bezerra": 39.2,
         "Álvaro Dias": 28,
-        "Cadu Xavier": 17.1,
+        "Cadu de Lula": 17.1,
         "Robério Paulino": 0.6,
         "Rodrigo Bolsonaro": 0.6,
         "Dário Barbosa": 0.4
@@ -1554,7 +1633,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -1720,25 +1799,25 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-07-21",
       "sample_size": 1245,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-5",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
         "Allyson Bezerra": 25.1,
         "Álvaro Dias": 27.7,
-        "Cadu Xavier": 36.3,
+        "Cadu de Lula": 36.3,
         "Robério Paulino": 0.5,
         "Rodrigo Bolsonaro": 0.1
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir"
       }
@@ -1866,18 +1945,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "DataCensus",
       "collection_date": "2026-07-17",
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Allyson Bezerra": 41.7,
         "Álvaro Dias": 11.8,
-        "Cadu Xavier": 16.3,
+        "Cadu de Lula": 16.3,
         "Robério Paulino": 1.3,
         "Rodrigo Bolsonaro": 3.2,
         "Dário Barbosa": 1.1
@@ -1885,7 +1964,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -1975,7 +2054,7 @@
       "sample_size": 1006,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-4",
+      "source_url": "#cite_note-:3-5",
       "candidates": {
         "Alan Rick": 38.27,
         "Mailza Assis": 19.48,
@@ -2316,18 +2395,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "DataVero",
       "collection_date": "2026-07-11",
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-7",
+      "source_url": "#cite_note-9",
       "candidates": {
         "Allyson Bezerra": 35.27,
         "Álvaro Dias": 33.67,
-        "Cadu Xavier": 10.8,
+        "Cadu de Lula": 10.8,
         "Robério Paulino": 0.93,
         "Rodrigo Bolsonaro": 0.27,
         "Dário Barbosa": 0.67
@@ -2335,7 +2414,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -2466,25 +2545,25 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Exatus",
       "collection_date": "2026-07-10",
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-8",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Allyson Bezerra": 41.78,
         "Álvaro Dias": 26.05,
-        "Cadu Xavier": 13.74,
+        "Cadu de Lula": 13.74,
         "Robério Paulino": 0.26,
         "Dário Barbosa": 0.49
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
       }
@@ -2618,18 +2697,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Media/O Potengi",
       "collection_date": "2026-07-08",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Allyson Bezerra": 27.5,
         "Álvaro Dias": 32.1,
-        "Cadu Xavier": 18.1,
+        "Cadu de Lula": 18.1,
         "Robério Paulino": 1.6,
         "Rodrigo Bolsonaro": 0.3,
         "Dário Barbosa": 0.3
@@ -2637,7 +2716,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -2924,18 +3003,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Seta",
       "collection_date": "2026-07-06",
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Allyson Bezerra": 35.9,
         "Álvaro Dias": 24.7,
-        "Cadu Xavier": 17.7,
+        "Cadu de Lula": 17.7,
         "Robério Paulino": 0.7,
         "Rodrigo Bolsonaro": 0.1,
         "Dário Barbosa": 0.3
@@ -2943,7 +3022,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -3005,25 +3084,25 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TN/Consult",
       "collection_date": "2026-07-05",
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Allyson Bezerra": 34.59,
         "Álvaro Dias": 29,
-        "Cadu Xavier": 11.24,
+        "Cadu de Lula": 11.24,
         "Robério Paulino": 0.47,
         "Dário Barbosa": 0.47
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
       }
@@ -3257,7 +3336,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Alan Rick": 41.25,
         "Mailza Assis": 19.25,
@@ -3698,18 +3777,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IPSsensus",
       "collection_date": "2026-06-22",
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Allyson Bezerra": 27.3,
         "Álvaro Dias": 32.5,
-        "Cadu Xavier": 16.8,
+        "Cadu de Lula": 16.8,
         "Robério Paulino": 2,
         "Rodrigo Bolsonaro": 0.4,
         "Dário Barbosa": 0.3
@@ -3717,7 +3796,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -3999,7 +4078,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-6",
+      "source_url": "#cite_note-:2-7",
       "candidates": {
         "Alan Rick": 39,
         "Mailza Assis": 26,
@@ -4073,18 +4152,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Seta",
       "collection_date": "2026-06-17",
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Allyson Bezerra": 40,
         "Álvaro Dias": 24.2,
-        "Cadu Xavier": 12.9,
+        "Cadu de Lula": 12.9,
         "Robério Paulino": 0.7,
         "Rodrigo Bolsonaro": 0.7,
         "Dário Barbosa": 0.8
@@ -4092,7 +4171,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -4256,18 +4335,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Metadata/Grupo Dial",
       "collection_date": "2026-06-14",
       "sample_size": 1550,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Allyson Bezerra": 34.8,
         "Álvaro Dias": 22.8,
-        "Cadu Xavier": 8.7,
+        "Cadu de Lula": 8.7,
         "Robério Paulino": 0.9,
         "Rodrigo Bolsonaro": 0.6,
         "Dário Barbosa": 0.9
@@ -4275,7 +4354,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -4844,7 +4923,7 @@
       "sample_size": 1201,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-8",
+      "source_url": "#cite_note-:1-9",
       "candidates": {
         "Alan Rick": 39.55,
         "Mailza Assis": 19.4,
@@ -5085,7 +5164,7 @@
       "sample_size": 1000,
       "margin_error": 3.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-9",
+      "source_url": "#cite_note-:0-10",
       "candidates": {
         "Alan Rick": 41.2,
         "Mailza Assis": 24.4,
@@ -5205,18 +5284,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Agorasei/96FM",
       "collection_date": "2026-05-31",
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-15",
+      "source_url": "#cite_note-:6-17",
       "candidates": {
         "Allyson Bezerra": 39.8,
         "Álvaro Dias": 22.1,
-        "Cadu Xavier": 11.4,
+        "Cadu de Lula": 11.4,
         "Robério Paulino": 1.1,
         "Rodrigo Bolsonaro": 0.9,
         "Dário Barbosa": 0.3
@@ -5224,7 +5303,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -5234,23 +5313,23 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Veritá",
       "collection_date": "2026-05-31",
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:72-16",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
         "Allyson Bezerra": 23.7,
         "Álvaro Dias": 35.4,
-        "Cadu Xavier": 24.1
+        "Cadu de Lula": 24.1
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -5353,25 +5432,25 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Exatus/AgoraRN",
       "collection_date": "2026-05-29",
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Allyson Bezerra": 41.01,
         "Álvaro Dias": 22.75,
-        "Cadu Xavier": 12.61,
+        "Cadu de Lula": 12.61,
         "Robério Paulino": 0.85,
         "Dário Barbosa": 0.9
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
       }
@@ -5380,18 +5459,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Seta",
       "collection_date": "2026-05-28",
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Allyson Bezerra": 38,
         "Álvaro Dias": 22.8,
-        "Cadu Xavier": 10.9,
+        "Cadu de Lula": 10.9,
         "Robério Paulino": 1,
         "Rodrigo Bolsonaro": 0.3,
         "Dário Barbosa": 1.1
@@ -5399,7 +5478,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -5480,24 +5559,24 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-05-27",
       "sample_size": 962,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-19",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
         "Allyson Bezerra": 27.6,
         "Álvaro Dias": 27.3,
-        "Cadu Xavier": 37.7,
+        "Cadu de Lula": 37.7,
         "Robério Paulino": 0.1
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL"
       }
     },
@@ -5505,25 +5584,25 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-05-27",
       "sample_size": 962,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-19",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
         "Allyson Bezerra": 27.4,
         "Álvaro Dias": 26.9,
-        "Cadu Xavier": 38.6,
+        "Cadu de Lula": 38.6,
         "Robério Paulino": 0.1,
         "Rodrigo Bolsonaro": 0
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir"
       }
@@ -5532,18 +5611,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Potengi/Media",
       "collection_date": "2026-05-27",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Allyson Bezerra": 27.9,
         "Álvaro Dias": 30.5,
-        "Cadu Xavier": 14.1,
+        "Cadu de Lula": 14.1,
         "Robério Paulino": 1.8,
         "Rodrigo Bolsonaro": 0.25,
         "Dário Barbosa": 0.2
@@ -5551,7 +5630,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -5842,18 +5921,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Data Census",
       "collection_date": "2026-05-23",
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Allyson Bezerra": 38.5,
         "Álvaro Dias": 19.8,
-        "Cadu Xavier": 12.1,
+        "Cadu de Lula": 12.1,
         "Robério Paulino": 0.8,
         "Rodrigo Bolsonaro": 3.1,
         "Dário Barbosa": 0.5
@@ -5861,7 +5940,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -5996,18 +6075,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Item Consultoria e Pesquisa",
       "collection_date": "2026-05-22",
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-22",
+      "source_url": "#cite_note-:5-24",
       "candidates": {
         "Allyson Bezerra": 37,
         "Álvaro Dias": 25.2,
-        "Cadu Xavier": 16.4,
+        "Cadu de Lula": 16.4,
         "Robério Paulino": 1,
         "Rodrigo Bolsonaro": 0.6,
         "Dário Barbosa": 0.6
@@ -6015,7 +6094,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -6025,23 +6104,23 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Affare",
       "collection_date": "2026-05-21",
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Allyson Bezerra": 28.6,
         "Álvaro Dias": 34.5,
-        "Cadu Xavier": 24.4
+        "Cadu de Lula": 24.4
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -6296,7 +6375,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-11",
+      "source_url": "#cite_note-:-1-12",
       "candidates": {
         "Alan Rick": 42,
         "Mailza Assis": 16.12,
@@ -6703,18 +6782,18 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Metadata/Grupo Dial",
       "collection_date": "2026-05-09",
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Allyson Bezerra": 35.5,
         "Álvaro Dias": 22.9,
-        "Cadu Xavier": 6.6,
+        "Cadu de Lula": 6.6,
         "Robério Paulino": 1.4,
         "Rodrigo Bolsonaro": 0.7,
         "Dário Barbosa": 1.1
@@ -6722,7 +6801,7 @@
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
@@ -6755,23 +6834,23 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Veritá",
       "collection_date": "2026-05-08",
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
         "Allyson Bezerra": 26.2,
         "Álvaro Dias": 29.9,
-        "Cadu Xavier": 22.9
+        "Cadu de Lula": 22.9
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -7010,7 +7089,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-2-12",
+      "source_url": "#cite_note-:-2-13",
       "candidates": {
         "Alan Rick": 39.6,
         "Mailza Assis": 16.5,
@@ -7560,7 +7639,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-14",
+      "source_url": "#cite_note-Veritá2-15",
       "candidates": {
         "Alan Rick": 38.1,
         "Mailza Assis": 32.9,
@@ -8206,23 +8285,23 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Data Census",
       "collection_date": "2026-04-20",
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Allyson Bezerra": 40.4,
         "Álvaro Dias": 18.6,
-        "Cadu Xavier": 13.8
+        "Cadu de Lula": 13.8
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -8279,25 +8358,25 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Exatus",
       "collection_date": "2026-04-17",
       "sample_size": 1518,
       "margin_error": 2.51,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Allyson Bezerra": 37.29,
         "Álvaro Dias": 24.91,
-        "Cadu Xavier": 10.74,
+        "Cadu de Lula": 10.74,
         "Robério Paulino": 2.03,
         "Dário Barbosa": 0.68
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
       }
@@ -8643,23 +8722,23 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Affare",
       "collection_date": "2026-04-11",
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Allyson Bezerra": 27.8,
         "Álvaro Dias": 32.6,
-        "Cadu Xavier": 25
+        "Cadu de Lula": 25
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -8926,24 +9005,24 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Veritá",
       "collection_date": "2026-04-04",
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-29",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
         "Allyson Bezerra": 29.6,
         "Álvaro Dias": 27.5,
-        "Cadu Xavier": 26.6,
+        "Cadu de Lula": 26.6,
         "Robério Paulino": 0.9
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT",
+        "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL"
       }
     },
@@ -9965,46 +10044,46 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Metadata/Grupo Dial",
       "collection_date": "2026-03-28",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Allyson Bezerra": 28.8,
         "Álvaro Dias": 37.2,
-        "Cadu Xavier": 10.7
+        "Cadu de Lula": 10.7
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Data Ranking/Fonte83",
       "collection_date": "2026-03-26",
       "sample_size": 1700,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-32",
+      "source_url": "#cite_note-:3-34",
       "candidates": {
         "Allyson Bezerra": 39.2,
         "Álvaro Dias": 20.6,
-        "Cadu Xavier": 9.1
+        "Cadu de Lula": 9.1
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -10114,7 +10193,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-15",
+      "source_url": "#cite_note-Veritá1-16",
       "candidates": {
         "Alan Rick": 41.3,
         "Mailza Assis": 25,
@@ -10316,7 +10395,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-3-16",
+      "source_url": "#cite_note-:-3-17",
       "candidates": {
         "Alan Rick": 40.36,
         "Mailza Assis": 20.78,
@@ -10769,23 +10848,23 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TN/Consult",
       "collection_date": "2026-03-18",
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-33",
+      "source_url": "#cite_note-:2-35",
       "candidates": {
         "Allyson Bezerra": 29.24,
         "Álvaro Dias": 31.18,
-        "Cadu Xavier": 6.35
+        "Cadu de Lula": 6.35
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -13073,71 +13152,71 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "DataTrends",
       "collection_date": "2025-12-16",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Allyson Bezerra": 36,
         "Rogério Marinho": 26,
-        "Cadu Xavier": 10
+        "Cadu de Lula": 10
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Rogério Marinho": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "DataTrends",
       "collection_date": "2025-12-16",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Allyson Bezerra": 39,
         "Álvaro Dias": 15,
-        "Cadu Xavier": 10
+        "Cadu de Lula": 10
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "Republicanos",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "DataTrends",
       "collection_date": "2025-12-16",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Allyson Bezerra": 34,
         "Rogério Marinho": 15,
         "Álvaro Dias": 5,
-        "Cadu Xavier": 9
+        "Cadu de Lula": 9
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Rogério Marinho": "PL",
         "Álvaro Dias": "Republicanos",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -13190,69 +13269,69 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "TCM/TSDois",
       "collection_date": "2025-12-13",
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-36",
+      "source_url": "#cite_note-:0-38",
       "candidates": {
         "Allyson Bezerra": 38.6,
         "Rogério Marinho": 19,
-        "Cadu Xavier": 10.9
+        "Cadu de Lula": 10.9
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Rogério Marinho": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "TCM/TSDois",
       "collection_date": "2025-12-13",
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-36",
+      "source_url": "#cite_note-:0-38",
       "candidates": {
         "Allyson Bezerra": 38.2,
         "Álvaro Dias": 15.1,
-        "Cadu Xavier": 11.1
+        "Cadu de Lula": 11.1
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "Republicanos",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "TCM/TSDois",
       "collection_date": "2025-12-13",
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-36",
+      "source_url": "#cite_note-:0-38",
       "candidates": {
         "Allyson Bezerra": 35.9,
         "Rogério Marinho": 15.6,
-        "Cadu Xavier": 10.2
+        "Cadu de Lula": 10.2
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Rogério Marinho": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -13266,7 +13345,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-18",
+      "source_url": "#cite_note-AC01-19",
       "candidates": {
         "Alan Rick": 40,
         "Tião Bocalom": 24,
@@ -13291,7 +13370,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-18",
+      "source_url": "#cite_note-AC01-19",
       "candidates": {
         "Alan Rick": 51,
         "Mailza Assis": 21,
@@ -13314,7 +13393,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-18",
+      "source_url": "#cite_note-AC01-19",
       "candidates": {
         "Alan Rick": 46,
         "Tião Bocalom": 30,
@@ -13719,46 +13798,46 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "Real Time Big Data",
       "collection_date": "2025-12-02",
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-38",
+      "source_url": "#cite_note-:1-40",
       "candidates": {
         "Allyson Bezerra": 36,
         "Rogério Marinho": 34,
-        "Cadu Xavier": 10
+        "Cadu de Lula": 10
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Rogério Marinho": "PL",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "Real Time Big Data",
       "collection_date": "2025-12-02",
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-38",
+      "source_url": "#cite_note-:1-40",
       "candidates": {
         "Allyson Bezerra": 42,
         "Álvaro Dias": 17,
-        "Cadu Xavier": 11
+        "Cadu de Lula": 11
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "Republicanos",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -15202,25 +15281,25 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu Xavier|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "Paraná Pesquisas",
       "collection_date": "2025-09-10",
       "sample_size": 1505,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-39",
+      "source_url": "#cite_note-:-1-41",
       "candidates": {
         "Allyson Bezerra": 30,
         "Rogério Marinho": 28.2,
         "Álvaro Dias": 16.1,
-        "Cadu Xavier": 8.6
+        "Cadu de Lula": 8.6
       },
       "parties": {
         "Allyson Bezerra": "UNIÃO",
         "Rogério Marinho": "PL",
         "Álvaro Dias": "Republicanos",
-        "Cadu Xavier": "PT"
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -15559,7 +15638,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Alan Rick": 35,
         "Tião Bocalom": 23,
@@ -15584,7 +15663,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Alan Rick": 44,
         "Mailza Assis": 18,
@@ -15607,7 +15686,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Alan Rick": 38,
         "Tião Bocalom": 27,
