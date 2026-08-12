@@ -1,55 +1,63 @@
 {
-  "atualizado_em": "2026-08-11",
+  "atualizado_em": "2026-08-12",
   "estados": {
     "AC": {
       "uf": "AC",
       "estado": "Acre",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-08-06",
-      "pesquisas_no_calculo": 11,
+      "corte": "2026-08-09",
+      "pesquisas_no_calculo": 12,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Alan Rick",
           "partido": "Republicanos",
-          "media": 37.8,
-          "ic_min": 36.3,
-          "ic_max": 39.3,
-          "pesquisas": 11
+          "media": 37.9,
+          "ic_min": 36.6,
+          "ic_max": 39.2,
+          "pesquisas": 12
         },
         {
           "nome": "Mailza Assis",
           "partido": "PP",
-          "media": 26.2,
-          "ic_min": 22.7,
-          "ic_max": 29.7,
-          "pesquisas": 11
+          "media": 26.1,
+          "ic_min": 23.1,
+          "ic_max": 29.2,
+          "pesquisas": 12
         },
         {
           "nome": "Tião Bocalom",
           "partido": "PSDB",
-          "media": 17.3,
-          "ic_min": 15.9,
-          "ic_max": 18.6,
-          "pesquisas": 11
+          "media": 16.7,
+          "ic_min": 15.4,
+          "ic_max": 18.1,
+          "pesquisas": 12
         },
         {
           "nome": "Thor Dantas",
           "partido": "PSB",
-          "media": 5.5,
-          "ic_min": 3.9,
-          "ic_max": 7.2,
-          "pesquisas": 11
+          "media": 5.2,
+          "ic_min": 3.7,
+          "ic_max": 6.7,
+          "pesquisas": 12
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Delta/TV Gazeta",
+          "coleta": "2026-08-09",
+          "amostra": 1006,
+          "margem": 3.1,
+          "tse": "",
+          "fonte_url": "#cite_note-1"
+        },
         {
           "instituto": "Travessia Diagnóstico",
           "coleta": "2026-08-06",
           "amostra": 800,
           "margem": 3.5,
           "tse": "",
-          "fonte_url": "#cite_note-1"
+          "fonte_url": "#cite_note-3"
         },
         {
           "instituto": "AtlasIntel",
@@ -57,7 +65,7 @@
           "amostra": 997,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:5-2"
+          "fonte_url": "#cite_note-:5-4"
         },
         {
           "instituto": "Real Time Big Data",
@@ -65,7 +73,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:4-3"
+          "fonte_url": "#cite_note-:4-5"
         },
         {
           "instituto": "Delta/TV Gazeta",
@@ -73,7 +81,7 @@
           "amostra": 1006,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:3-5"
+          "fonte_url": "#cite_note-:3-7"
         },
         {
           "instituto": "Delta/Acre em Dia",
@@ -81,15 +89,7 @@
           "amostra": 800,
           "margem": 3.5,
           "tse": "",
-          "fonte_url": "#cite_note-6"
-        },
-        {
-          "instituto": "Real Time Big Data",
-          "coleta": "2026-06-17",
-          "amostra": 1600,
-          "margem": 2,
-          "tse": "",
-          "fonte_url": "#cite_note-:2-7"
+          "fonte_url": "#cite_note-8"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
@@ -307,7 +307,7 @@
           "amostra": 1000,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-:6-4"
+          "fonte_url": "#cite_note-:6-7"
         },
         {
           "instituto": "Paraná Pesquisas",
@@ -323,7 +323,7 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-6"
+          "fonte_url": "#cite_note-9"
         },
         {
           "instituto": "Veritá",
@@ -347,11 +347,11 @@
           "amostra": 900,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-QuaestAbril-10"
+          "fonte_url": "#cite_note-QuaestAbril-13"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:6-4"
+      "fonte_url": "#cite_note-:6-7"
     },
     "CE": {
       "uf": "CE",
@@ -720,60 +720,6 @@
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
       "fonte_url": "#cite_note-:5-1"
-    },
-    "MT": {
-      "uf": "MT",
-      "estado": "Mato Grosso",
-      "cenario": "Governador · 1º turno",
-      "corte": "2025-12-16",
-      "pesquisas_no_calculo": 2,
-      "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
-      "candidatos": [
-        {
-          "nome": "Wellington Fagundes",
-          "partido": "PL",
-          "media": 43.4,
-          "ic_min": 42.8,
-          "ic_max": 44,
-          "pesquisas": 2
-        },
-        {
-          "nome": "Otaviano Pivetta",
-          "partido": "Republicanos",
-          "media": 24.3,
-          "ic_min": 17.5,
-          "ic_max": 31.1,
-          "pesquisas": 2
-        },
-        {
-          "nome": "Natasha Slhessarenko",
-          "partido": "PSB",
-          "media": 7.5,
-          "ic_min": 5.9,
-          "ic_max": 9.1,
-          "pesquisas": 2
-        }
-      ],
-      "ultimas_pesquisas": [
-        {
-          "instituto": "Paraná Pesquisas",
-          "coleta": "2025-12-16",
-          "amostra": 1502,
-          "margem": 2.6,
-          "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas"
-        },
-        {
-          "instituto": "Real Time Big Data",
-          "coleta": "2025-11-27",
-          "amostra": 1200,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-:3-18"
-        }
-      ],
-      "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas"
     },
     "MS": {
       "uf": "MS",
@@ -1255,7 +1201,7 @@
           "amostra": 2010,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-:14-3"
+          "fonte_url": "#cite_note-:14-6"
         },
         {
           "instituto": "IRG",
@@ -1263,7 +1209,7 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-5"
+          "fonte_url": "#cite_note-8"
         },
         {
           "instituto": "Genial/Quaest",
@@ -1271,7 +1217,7 @@
           "amostra": 1104,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:13-6"
+          "fonte_url": "#cite_note-:13-9"
         },
         {
           "instituto": "Neokemp",
@@ -1279,7 +1225,7 @@
           "amostra": 1008,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-7"
+          "fonte_url": "#cite_note-10"
         },
         {
           "instituto": "Paraná Pesquisas",
@@ -1287,7 +1233,7 @@
           "amostra": 1500,
           "margem": 2.6,
           "tse": "",
-          "fonte_url": "#cite_note-8"
+          "fonte_url": "#cite_note-11"
         },
         {
           "instituto": "Vox Brasil",
@@ -1295,11 +1241,11 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-:12-9"
+          "fonte_url": "#cite_note-:12-12"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:14-3"
+      "fonte_url": "#cite_note-:14-6"
     },
     "PE": {
       "uf": "PE",
@@ -1664,33 +1610,33 @@
         {
           "nome": "Luciano Zucco",
           "partido": "PL",
-          "media": 35,
-          "ic_min": 27.5,
-          "ic_max": 42.4,
+          "media": 32.1,
+          "ic_min": 27.3,
+          "ic_max": 36.9,
           "pesquisas": 7
         },
         {
           "nome": "Juliana Brizola",
           "partido": "PDT",
-          "media": 28.5,
-          "ic_min": 24.3,
-          "ic_max": 32.7,
+          "media": 26.6,
+          "ic_min": 22.8,
+          "ic_max": 30.4,
           "pesquisas": 7
         },
         {
           "nome": "Gabriel Souza",
           "partido": "MDB",
-          "media": 10.4,
-          "ic_min": 7.2,
-          "ic_max": 13.6,
+          "media": 9.7,
+          "ic_min": 6.6,
+          "ic_max": 12.9,
           "pesquisas": 7
         },
         {
           "nome": "Marcelo Maranata",
           "partido": "PSDB",
-          "media": 3.2,
-          "ic_min": 2.6,
-          "ic_max": 3.9,
+          "media": 3.1,
+          "ic_min": 2.3,
+          "ic_max": 3.8,
           "pesquisas": 7
         }
       ],
@@ -2195,7 +2141,7 @@
     }
   },
   "cobertura": {
-    "com_agregado": 24,
+    "com_agregado": 23,
     "total_ufs": 27
   },
   "metodologia": "Cada estado é calculado separadamente. Pesquisas recentes e amostras maiores recebem mais peso; cenários incompatíveis não são misturados."

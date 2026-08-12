@@ -1,9 +1,9 @@
 {
-  "ultima_execucao": "2026-08-11T11:54:23.378Z",
+  "ultima_execucao": "2026-08-12T11:56:39.473Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 651,
-  "pesquisas_usadas": 651,
-  "estados_com_agregado": 24,
+  "pesquisas_extraidas_brutas": 656,
+  "pesquisas_usadas": 656,
+  "estados_com_agregado": 23,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
     "AC": [
@@ -14,7 +14,7 @@
           "Thor Dantas",
           "Tião Bocalom"
         ],
-        "pesquisas": 15
+        "pesquisas": 16
       },
       {
         "candidatos": [
@@ -98,20 +98,20 @@
       {
         "candidatos": [
           "ACM Neto",
+          "Aroldo Félix",
           "Jerônimo",
-          "João Roma",
-          "Kleber Rosa"
+          "Ronaldo Mansur"
         ],
         "pesquisas": 4
       },
       {
         "candidatos": [
           "ACM Neto",
-          "Aroldo Félix",
           "Jerônimo",
-          "Ronaldo Mansur"
+          "João Roma",
+          "Kleber Rosa"
         ],
-        "pesquisas": 2
+        "pesquisas": 4
       },
       {
         "candidatos": [
@@ -329,6 +329,16 @@
           "Wellington Fagundes"
         ],
         "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Natasha Slhessarenko",
+          "Otaviano Pivetta",
+          "Rafaell Milas",
+          "Sargento Laudicério",
+          "Wellington Fagundes"
+        ],
+        "pesquisas": 1
       },
       {
         "candidatos": [
@@ -553,15 +563,6 @@
       },
       {
         "candidatos": [
-          "Luiz França",
-          "Requião Filho",
-          "Sandro Alex",
-          "Sergio Moro"
-        ],
-        "pesquisas": 3
-      },
-      {
-        "candidatos": [
           "Guto Silva",
           "Luiz França",
           "Rafael Greca",
@@ -574,6 +575,15 @@
         "candidatos": [
           "Luiz França",
           "Rafael Greca",
+          "Requião Filho",
+          "Sandro Alex",
+          "Sergio Moro"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Luiz França",
           "Requião Filho",
           "Sandro Alex",
           "Sergio Moro"
@@ -1055,7 +1065,7 @@
     "AC": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
       "status": "ok",
-      "pesquisas": 19,
+      "pesquisas": 20,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Acre"
     },
     "AL": {
@@ -1079,7 +1089,7 @@
     "BA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "status": "ok",
-      "pesquisas": 27,
+      "pesquisas": 29,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Bahia"
     },
     "CE": {
@@ -1115,7 +1125,7 @@
     "MT": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "status": "ok",
-      "pesquisas": 5,
+      "pesquisas": 6,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso"
     },
     "MS": {
@@ -1145,7 +1155,7 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 46,
+      "pesquisas": 47,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
