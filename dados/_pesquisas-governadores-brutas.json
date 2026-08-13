@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-12",
+  "atualizado_em": "2026-08-13",
   "pesquisas": [
     {
       "uf": "MT",
@@ -56,6 +56,27 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Múltipla",
+      "collection_date": "2026-08-11",
+      "sample_size": 900,
+      "margin_error": 3.3,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Raquel Lyra": 45,
+        "João Campos": 41
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -106,6 +127,31 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "institute": "IPPI",
+      "collection_date": "2026-08-10",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Eduardo Braide": 44,
+        "Orleans Brandão": 25.9,
+        "Felipe Camarão": 5.1,
+        "André Luís": 1.1
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "André Luís": "MISSÃO"
+      }
+    },
+    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -136,12 +182,41 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Seta",
+      "collection_date": "2026-08-09",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-2",
+      "candidates": {
+        "Allyson Bezerra": 39.5,
+        "Álvaro Dias": 23.7,
+        "Cadu de Lula": 19.6,
+        "Robério Paulino": 0.4,
+        "Rodrigo Bolsonaro": 1.7,
+        "Dário Barbosa": 0.9
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
       "institute": "Metadata/Grupo Dial",
       "collection_date": "2026-08-08",
       "sample_size": 1536,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-2",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Allyson Bezerra": 34.2,
         "Álvaro Dias": 24,
@@ -239,6 +314,33 @@
       }
     },
     {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Agorasei",
+      "collection_date": "2026-08-05",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Allyson Bezerra": 26.2,
+        "Álvaro Dias": 16.3,
+        "Cadu de Lula": 11.7,
+        "Robério Paulino": 0.3,
+        "Dário Barbosa": 0.1
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -278,7 +380,7 @@
       "sample_size": 997,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-4",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
         "Alan Rick": 33.1,
         "Mailza Assis": 35.2,
@@ -538,7 +640,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-3",
+      "source_url": "#cite_note-:17-5",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 42,
@@ -584,13 +686,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-1",
+      "source_url": "#cite_note-:5-3",
       "candidates": {
         "Eduardo Braide": 56.2,
         "Orleans Brandão": 16.4,
@@ -609,13 +711,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-1",
+      "source_url": "#cite_note-:5-3",
       "candidates": {
         "Eduardo Braide": 60.7,
         "Orleans Brandão": 17,
@@ -634,13 +736,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-1",
+      "source_url": "#cite_note-:5-3",
       "candidates": {
         "Eduardo Braide": 64.8,
         "Orleans Brandão": 17.2,
@@ -829,7 +931,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Raquel Lyra": 37.2,
         "João Campos": 44.6,
@@ -935,7 +1037,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-2",
+      "source_url": "#cite_note-:13-5",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 33,
@@ -1016,7 +1118,7 @@
       "sample_size": 2050,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Allyson Bezerra": 40,
         "Álvaro Dias": 26,
@@ -1259,7 +1361,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-7",
+      "source_url": "#cite_note-:16-9",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37,
@@ -1282,7 +1384,7 @@
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-10",
+      "source_url": "#cite_note-:14-12",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 40,
@@ -1594,7 +1696,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Allyson Bezerra": 38.8,
         "Álvaro Dias": 24.9,
@@ -1750,7 +1852,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-6",
+      "source_url": "#cite_note-:8-8",
       "candidates": {
         "Allyson Bezerra": 39.2,
         "Álvaro Dias": 28,
@@ -1983,7 +2085,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-11",
+      "source_url": "#cite_note-:13-13",
       "candidates": {
         "Raquel Lyra": 48.2,
         "João Campos": 36.5,
@@ -2031,7 +2133,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
@@ -2081,7 +2183,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-8",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Allyson Bezerra": 41.7,
         "Álvaro Dias": 11.8,
@@ -2129,13 +2231,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
       "institute": "INOP",
       "collection_date": "2026-07-16",
       "sample_size": 2610,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
@@ -2293,7 +2395,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-6",
+      "source_url": "#cite_note-:12-9",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
@@ -2508,7 +2610,7 @@
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Raquel Lyra": 42.4,
         "João Campos": 40.4,
@@ -2531,7 +2633,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Allyson Bezerra": 35.27,
         "Álvaro Dias": 33.67,
@@ -2681,7 +2783,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Allyson Bezerra": 41.78,
         "Álvaro Dias": 26.05,
@@ -2833,7 +2935,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Allyson Bezerra": 27.5,
         "Álvaro Dias": 32.1,
@@ -2977,13 +3079,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-07",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-6",
+      "source_url": "#cite_note-:4-8",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
@@ -3139,7 +3241,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Allyson Bezerra": 35.9,
         "Álvaro Dias": 24.7,
@@ -3220,7 +3322,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Allyson Bezerra": 34.59,
         "Álvaro Dias": 29,
@@ -3761,7 +3863,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-8",
+      "source_url": "#cite_note-:11-11",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 39,
@@ -3813,7 +3915,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data2-16",
+      "source_url": "#cite_note-Numen_Data2-18",
       "candidates": {
         "Raquel Lyra": 51.17,
         "João Campos": 41.75,
@@ -3913,7 +4015,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Allyson Bezerra": 27.3,
         "Álvaro Dias": 32.5,
@@ -4288,7 +4390,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Allyson Bezerra": 40,
         "Álvaro Dias": 24.2,
@@ -4317,7 +4419,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Raquel Lyra": 38,
         "João Campos": 43,
@@ -4471,7 +4573,7 @@
       "sample_size": 1550,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Allyson Bezerra": 34.8,
         "Álvaro Dias": 22.8,
@@ -4806,7 +4908,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-20",
+      "source_url": "#cite_note-:10-22",
       "candidates": {
         "Raquel Lyra": 40,
         "João Campos": 45,
@@ -4831,7 +4933,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-B-21",
+      "source_url": "#cite_note-:9-B-23",
       "candidates": {
         "Raquel Lyra": 41.1,
         "João Campos": 44.2,
@@ -5293,7 +5395,7 @@
       "sample_size": 1000,
       "margin_error": 3.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-12",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
       "candidates": {
         "Alan Rick": 41.2,
         "Mailza Assis": 24.4,
@@ -5366,7 +5468,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-12",
+      "source_url": "#cite_note-:8-15",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
@@ -5420,7 +5522,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-17",
+      "source_url": "#cite_note-:6-19",
       "candidates": {
         "Allyson Bezerra": 39.8,
         "Álvaro Dias": 22.1,
@@ -5568,7 +5670,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Allyson Bezerra": 41.01,
         "Álvaro Dias": 22.75,
@@ -5595,7 +5697,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Allyson Bezerra": 38,
         "Álvaro Dias": 22.8,
@@ -5747,7 +5849,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Allyson Bezerra": 27.9,
         "Álvaro Dias": 30.5,
@@ -6057,7 +6159,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Allyson Bezerra": 38.5,
         "Álvaro Dias": 19.8,
@@ -6211,7 +6313,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-24",
+      "source_url": "#cite_note-:5-26",
       "candidates": {
         "Allyson Bezerra": 37,
         "Álvaro Dias": 25.2,
@@ -6240,7 +6342,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Allyson Bezerra": 28.6,
         "Álvaro Dias": 34.5,
@@ -6375,7 +6477,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 39,
@@ -6398,7 +6500,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-15",
+      "source_url": "#cite_note-:7-18",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
@@ -6504,7 +6606,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-14",
+      "source_url": "#cite_note-:-1-13",
       "candidates": {
         "Alan Rick": 42,
         "Mailza Assis": 16.12,
@@ -6918,7 +7020,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Allyson Bezerra": 35.5,
         "Álvaro Dias": 22.9,
@@ -7174,7 +7276,7 @@
       "sample_size": 4000,
       "margin_error": 1.6,
       "tse_registration": "",
-      "source_url": "#cite_note-DataTrends1-25",
+      "source_url": "#cite_note-DataTrends1-27",
       "candidates": {
         "Raquel Lyra": 36,
         "João Campos": 42,
@@ -7218,7 +7320,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-2-15",
+      "source_url": "#cite_note-:-2-14",
       "candidates": {
         "Alan Rick": 39.6,
         "Mailza Assis": 16.5,
@@ -7441,7 +7543,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-17",
+      "source_url": "#cite_note-Quaest-Abril-20",
       "candidates": {
         "Ciro Gomes": 41,
         "Elmano de Freitas": 32,
@@ -7468,7 +7570,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-17",
+      "source_url": "#cite_note-Quaest-Abril-20",
       "candidates": {
         "Ciro Gomes": 33,
         "Camilo Santana": 40,
@@ -7495,7 +7597,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-17",
+      "source_url": "#cite_note-Quaest-Abril-20",
       "candidates": {
         "Elmano de Freitas": 39,
         "Roberto Cláudio": 16,
@@ -7522,7 +7624,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-17",
+      "source_url": "#cite_note-Quaest-Abril-20",
       "candidates": {
         "Camilo Santana": 49,
         "Roberto Cláudio": 12,
@@ -7768,7 +7870,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-17",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
         "Alan Rick": 38.1,
         "Mailza Assis": 32.9,
@@ -7895,7 +7997,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-16",
+      "source_url": "#cite_note-QuaestAbril-17",
       "candidates": {
         "Tarcísio": 38,
         "Haddad": 26,
@@ -7920,7 +8022,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-16",
+      "source_url": "#cite_note-QuaestAbril-17",
       "candidates": {
         "Tarcísio": 40,
         "Haddad": 28,
@@ -8124,7 +8226,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-28",
+      "source_url": "#cite_note-:8-30",
       "candidates": {
         "Raquel Lyra": 34,
         "João Campos": 42,
@@ -8369,7 +8471,7 @@
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-VoxAbril-17",
+      "source_url": "#cite_note-VoxAbril-18",
       "candidates": {
         "Tarcísio": 48.2,
         "Haddad": 32.3,
@@ -8421,7 +8523,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Allyson Bezerra": 40.4,
         "Álvaro Dias": 18.6,
@@ -8469,7 +8571,7 @@
       "sample_size": 1100,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data1-29",
+      "source_url": "#cite_note-Numen_Data1-31",
       "candidates": {
         "Raquel Lyra": 45.1,
         "João Campos": 37.1,
@@ -8494,7 +8596,7 @@
       "sample_size": 1518,
       "margin_error": 2.51,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Allyson Bezerra": 37.29,
         "Álvaro Dias": 24.91,
@@ -8673,7 +8775,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Tarcísio": 47.8,
         "Haddad": 33.1,
@@ -8858,7 +8960,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Allyson Bezerra": 27.8,
         "Álvaro Dias": 32.6,
@@ -8991,7 +9093,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-31",
+      "source_url": "#cite_note-:6-33",
       "candidates": {
         "Raquel Lyra": 33,
         "João Campos": 50,
@@ -9016,7 +9118,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Simplex1-32",
+      "source_url": "#cite_note-Simplex1-34",
       "candidates": {
         "Raquel Lyra": 42.3,
         "João Campos": 42.6,
@@ -9347,7 +9449,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-19",
+      "source_url": "#cite_note-:6-22",
       "candidates": {
         "Ciro Gomes": 30,
         "Elmano de Freitas": 21,
@@ -9878,7 +9980,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-19",
+      "source_url": "#cite_note-:5-20",
       "candidates": {
         "Tarcísio": 49.1,
         "Haddad": 42.6,
@@ -9903,7 +10005,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-19",
+      "source_url": "#cite_note-:5-20",
       "candidates": {
         "Tarcísio": 48.8,
         "Tebet": 41.8,
@@ -9928,7 +10030,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-19",
+      "source_url": "#cite_note-:5-20",
       "candidates": {
         "Tarcísio": 49.4,
         "França": 32.2,
@@ -9953,7 +10055,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-19",
+      "source_url": "#cite_note-:5-20",
       "candidates": {
         "Tarcísio": 48.4,
         "Alckmin": 41.4,
@@ -9978,7 +10080,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-22",
+      "source_url": "#cite_note-:1-25",
       "candidates": {
         "Ciro Gomes": 39,
         "Elmano de Freitas": 42,
@@ -10003,7 +10105,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-22",
+      "source_url": "#cite_note-:1-25",
       "candidates": {
         "Elmano de Freitas": 45,
         "Roberto Cláudio": 27,
@@ -10180,7 +10282,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Allyson Bezerra": 28.8,
         "Álvaro Dias": 37.2,
@@ -10203,7 +10305,7 @@
       "sample_size": 1700,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-34",
+      "source_url": "#cite_note-:3-36",
       "candidates": {
         "Allyson Bezerra": 39.2,
         "Álvaro Dias": 20.6,
@@ -10322,7 +10424,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-18",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
         "Alan Rick": 41.3,
         "Mailza Assis": 25,
@@ -10524,7 +10626,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-3-19",
+      "source_url": "#cite_note-:-3-18",
       "candidates": {
         "Alan Rick": 40.36,
         "Mailza Assis": 20.78,
@@ -10774,7 +10876,7 @@
       "sample_size": 3025,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-21",
+      "source_url": "#cite_note-Veritá1-22",
       "candidates": {
         "Tarcísio": 41.1,
         "Haddad": 27.7,
@@ -10849,8 +10951,8 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
-        "Ciro Gomes": 32,
-        "Elmano de Freitas": 47,
+        "Ciro Gomes": 47,
+        "Elmano de Freitas": 32,
         "Eduardo Girão": 5,
         "Jarir Pereira": 2,
         "Zé Batista": 2
@@ -10984,7 +11086,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-35",
+      "source_url": "#cite_note-:2-37",
       "candidates": {
         "Allyson Bezerra": 29.24,
         "Álvaro Dias": 31.18,
@@ -11774,7 +11876,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-22",
+      "source_url": "#cite_note-:4-23",
       "candidates": {
         "Tarcísio": 47,
         "Haddad": 31,
@@ -11799,7 +11901,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-22",
+      "source_url": "#cite_note-:4-23",
       "candidates": {
         "Tarcísio": 44,
         "Alckmin": 33,
@@ -11824,7 +11926,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-22",
+      "source_url": "#cite_note-:4-23",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 21,
@@ -11849,7 +11951,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-22",
+      "source_url": "#cite_note-:4-23",
       "candidates": {
         "Tarcísio": 48,
         "França": 23,
@@ -11874,7 +11976,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-22",
+      "source_url": "#cite_note-:4-23",
       "candidates": {
         "Tarcísio": 43,
         "Derrite": 18,
@@ -11926,7 +12028,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-23",
+      "source_url": "#cite_note-:3-24",
       "candidates": {
         "Tarcísio": 44,
         "Haddad": 31,
@@ -11953,7 +12055,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-23",
+      "source_url": "#cite_note-:3-24",
       "candidates": {
         "Tarcísio": 46,
         "Alckmin": 26,
@@ -11980,7 +12082,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-23",
+      "source_url": "#cite_note-:3-24",
       "candidates": {
         "Tarcísio": 44,
         "França": 5,
@@ -12009,7 +12111,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-23",
+      "source_url": "#cite_note-:3-24",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 19,
@@ -12202,7 +12304,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-35",
+      "source_url": "#cite_note-:-1-37",
       "candidates": {
         "Raquel Lyra": 35,
         "João Campos": 48,
@@ -12273,7 +12375,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-37",
+      "source_url": "#cite_note-:3-39",
       "candidates": {
         "Raquel Lyra": 31,
         "João Campos": 51,
@@ -12298,7 +12400,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Raquel Lyra": 29,
         "João Campos": 42,
@@ -12412,7 +12514,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Tarcísio": 51,
         "Haddad": 27.7,
@@ -12439,7 +12541,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Tarcísio": 48.5,
         "Alckmin": 29.9,
@@ -12466,7 +12568,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Tarcísio": 52.8,
         "França": 18.5,
@@ -12493,7 +12595,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "França": 24.2,
         "Nunes": 36,
@@ -12520,7 +12622,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "França": 29.2,
         "Serra": 10.7,
@@ -12988,7 +13090,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-40",
+      "source_url": "#cite_note-:2-42",
       "candidates": {
         "Raquel Lyra": 27,
         "João Campos": 56,
@@ -13288,7 +13390,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Allyson Bezerra": 36,
         "Rogério Marinho": 26,
@@ -13311,7 +13413,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Allyson Bezerra": 39,
         "Álvaro Dias": 15,
@@ -13334,7 +13436,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Allyson Bezerra": 34,
         "Rogério Marinho": 15,
@@ -13405,7 +13507,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-38",
+      "source_url": "#cite_note-:0-40",
       "candidates": {
         "Allyson Bezerra": 38.6,
         "Rogério Marinho": 19,
@@ -13428,7 +13530,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-38",
+      "source_url": "#cite_note-:0-40",
       "candidates": {
         "Allyson Bezerra": 38.2,
         "Álvaro Dias": 15.1,
@@ -13451,7 +13553,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-38",
+      "source_url": "#cite_note-:0-40",
       "candidates": {
         "Allyson Bezerra": 35.9,
         "Rogério Marinho": 15.6,
@@ -13474,7 +13576,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-21",
+      "source_url": "#cite_note-AC01-19",
       "candidates": {
         "Alan Rick": 40,
         "Tião Bocalom": 24,
@@ -13499,7 +13601,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-21",
+      "source_url": "#cite_note-AC01-19",
       "candidates": {
         "Alan Rick": 51,
         "Mailza Assis": 21,
@@ -13522,7 +13624,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-21",
+      "source_url": "#cite_note-AC01-19",
       "candidates": {
         "Alan Rick": 46,
         "Tião Bocalom": 30,
@@ -13934,7 +14036,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-40",
+      "source_url": "#cite_note-:1-42",
       "candidates": {
         "Allyson Bezerra": 36,
         "Rogério Marinho": 34,
@@ -13957,7 +14059,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-40",
+      "source_url": "#cite_note-:1-42",
       "candidates": {
         "Allyson Bezerra": 42,
         "Álvaro Dias": 17,
@@ -14074,7 +14176,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Tarcísio": 45,
         "Alckmin": 26,
@@ -14103,7 +14205,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Tarcísio": 49,
         "Hilton": 8,
@@ -14132,7 +14234,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Tarcísio": 50,
         "França": 18,
@@ -14161,7 +14263,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Derrite": 25,
         "Hilton": 8,
@@ -14190,7 +14292,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Nunes": 28,
         "Hilton": 8,
@@ -14219,7 +14321,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Hilton": 8,
         "Haddad": 29,
@@ -14248,7 +14350,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Hilton": 8,
         "Haddad": 33,
@@ -14277,7 +14379,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Derrite": 18,
         "Nunes": 18,
@@ -14945,7 +15047,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-26",
+      "source_url": "#cite_note-:2-27",
       "candidates": {
         "Tarcísio": 48.3,
         "Alckmin": 22.7,
@@ -14972,7 +15074,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-26",
+      "source_url": "#cite_note-:2-27",
       "candidates": {
         "Tarcísio": 50.1,
         "Hilton": 8.8,
@@ -14999,7 +15101,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-26",
+      "source_url": "#cite_note-:2-27",
       "candidates": {
         "Tarcísio": 52.7,
         "França": 12.6,
@@ -15028,7 +15130,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-26",
+      "source_url": "#cite_note-:2-27",
       "candidates": {
         "França": 17.6,
         "Nunes": 32.7,
@@ -15059,7 +15161,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-26",
+      "source_url": "#cite_note-:2-27",
       "candidates": {
         "França": 22.4,
         "Hilton": 13.9,
@@ -15088,7 +15190,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-26",
+      "source_url": "#cite_note-:2-27",
       "candidates": {
         "França": 24,
         "Hilton": 14.5,
@@ -15117,7 +15219,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-26",
+      "source_url": "#cite_note-:2-27",
       "candidates": {
         "França": 24.2,
         "Hilton": 14.4,
@@ -15230,7 +15332,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Tarcísio": 52,
         "França": 16,
@@ -15257,7 +15359,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Tarcísio": 47,
         "Alckmin": 26,
@@ -15284,7 +15386,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "França": 20,
         "Nunes": 34,
@@ -15311,7 +15413,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "França": 27,
         "Hilton": 10,
@@ -15338,7 +15440,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Alckmin": 31,
         "Nunes": 30,
@@ -15417,7 +15519,7 @@
       "sample_size": 1505,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-41",
+      "source_url": "#cite_note-:-1-43",
       "candidates": {
         "Allyson Bezerra": 30,
         "Rogério Marinho": 28.2,
@@ -15442,7 +15544,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-28",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Tarcísio": 47.3,
         "França": 18.2,
@@ -15469,7 +15571,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-28",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Tarcísio": 48.6,
         "Alckmin": 34.2,
@@ -15496,7 +15598,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-28",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Manga": 10.8,
         "Alckmin": 39.4,
@@ -15527,7 +15629,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-28",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Manga": 8.2,
         "Derrite": 23.2,
@@ -15554,7 +15656,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-29",
+      "source_url": "#cite_note-:0-30",
       "candidates": {
         "Tarcísio": 43.8,
         "Manga": 4.7,
@@ -15585,7 +15687,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-29",
+      "source_url": "#cite_note-:0-30",
       "candidates": {
         "Tarcísio": 47.7,
         "Manga": 4.9,
@@ -15616,7 +15718,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-29",
+      "source_url": "#cite_note-:0-30",
       "candidates": {
         "Tarcísio": 46.1,
         "Manga": 4.9,
@@ -15647,7 +15749,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-29",
+      "source_url": "#cite_note-:0-30",
       "candidates": {
         "Manga": 8.6,
         "França": 14.2,
@@ -15676,7 +15778,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-29",
+      "source_url": "#cite_note-:0-30",
       "candidates": {
         "Manga": 9.9,
         "França": 18,
@@ -15707,7 +15809,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-29",
+      "source_url": "#cite_note-:0-30",
       "candidates": {
         "Manga": 10.4,
         "França": 19.8,
@@ -15736,7 +15838,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-29",
+      "source_url": "#cite_note-:0-30",
       "candidates": {
         "Manga": 10.3,
         "França": 19.8,
@@ -15767,7 +15869,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Alan Rick": 35,
         "Tião Bocalom": 23,
@@ -15792,7 +15894,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Alan Rick": 44,
         "Mailza Assis": 18,
@@ -15815,7 +15917,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Alan Rick": 38,
         "Tião Bocalom": 27,
@@ -15865,7 +15967,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Tarcísio": 43,
         "Alckmin": 21,
@@ -16219,7 +16321,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Tarcísio": 42.1,
         "Manga": 4.8,
@@ -16250,7 +16352,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Tarcísio": 46.5,
         "Manga": 5.4,
@@ -16281,7 +16383,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Manga": 8.7,
         "França": 16.2,
@@ -16312,7 +16414,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Manga": 11.7,
         "França": 20.6,
@@ -16343,7 +16445,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Manga": 11.6,
         "França": 21.8,
@@ -16374,7 +16476,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Manga": 11.4,
         "França": 21.8,
@@ -16476,7 +16578,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Tarcísio": 37.8,
         "Alckmin": 24.7,
@@ -16503,7 +16605,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Tarcísio": 40.3,
         "França": 12.7,
@@ -16530,7 +16632,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Tarcísio": 48.6,
         "França": 16.6,
@@ -16555,7 +16657,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "França": 17,
         "Nunes": 27,
@@ -16582,7 +16684,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "França": 21.6,
         "Nunes": 35.8,
@@ -16607,7 +16709,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Manga": 9.5,
         "França": 18.8,
@@ -16636,7 +16738,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Manga": 9.8,
         "França": 19.3,
@@ -16665,7 +16767,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Tarcísio": 38,
         "França": 6,
@@ -16736,7 +16838,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Tarcísio": 40.5,
         "França": 12.6,
@@ -16763,7 +16865,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "França": 14.6,
         "Nunes": 27.2,
