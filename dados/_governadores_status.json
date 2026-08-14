@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-08-13T11:57:24.176Z",
+  "ultima_execucao": "2026-08-14T11:54:36.173Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 660,
-  "pesquisas_usadas": 660,
+  "pesquisas_extraidas_brutas": 667,
+  "pesquisas_usadas": 667,
   "estados_com_agregado": 23,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -145,6 +145,15 @@
       },
       {
         "candidatos": [
+          "Ciro Gomes",
+          "Delegado Huggo",
+          "Elmano de Freitas",
+          "Zé Batista"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
           "Camilo Santana",
           "Ciro Gomes",
           "Eduardo Girão",
@@ -157,16 +166,6 @@
         "candidatos": [
           "Eduardo Girão",
           "Elmano de Freitas",
-          "Jarir Pereira",
-          "Roberto Cláudio",
-          "Zé Batista"
-        ],
-        "pesquisas": 1
-      },
-      {
-        "candidatos": [
-          "Camilo Santana",
-          "Eduardo Girão",
           "Jarir Pereira",
           "Roberto Cláudio",
           "Zé Batista"
@@ -318,7 +317,7 @@
           "Felipe Camarão",
           "Orleans Brandão"
         ],
-        "pesquisas": 1
+        "pesquisas": 2
       }
     ],
     "MT": [
@@ -376,7 +375,7 @@
           "Lucien Rezende",
           "Renato Gomes"
         ],
-        "pesquisas": 7
+        "pesquisas": 8
       },
       {
         "candidatos": [
@@ -574,8 +573,8 @@
       {
         "candidatos": [
           "Luiz França",
-          "Rafael Greca",
           "Requião Filho",
+          "Samuel de Mattos",
           "Sandro Alex",
           "Sergio Moro"
         ],
@@ -584,6 +583,7 @@
       {
         "candidatos": [
           "Luiz França",
+          "Rafael Greca",
           "Requião Filho",
           "Sandro Alex",
           "Sergio Moro"
@@ -694,7 +694,7 @@
           "Rodrigo Bolsonaro",
           "Álvaro Dias"
         ],
-        "pesquisas": 17
+        "pesquisas": 19
       },
       {
         "candidatos": [
@@ -1095,7 +1095,7 @@
     "CE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "status": "ok",
-      "pesquisas": 24,
+      "pesquisas": 26,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Cear%C3%A1"
     },
     "DF": {
@@ -1119,7 +1119,7 @@
     "MA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "status": "ok",
-      "pesquisas": 6,
+      "pesquisas": 7,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Maranh%C3%A3o"
     },
     "MT": {
@@ -1131,7 +1131,7 @@
     "MS": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "status": "ok",
-      "pesquisas": 15,
+      "pesquisas": 16,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso_do_Sul"
     },
     "MG": {
@@ -1155,7 +1155,7 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 47,
+      "pesquisas": 48,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
@@ -1179,7 +1179,7 @@
     "RN": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "status": "ok",
-      "pesquisas": 44,
+      "pesquisas": 46,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
     },
     "RS": {
