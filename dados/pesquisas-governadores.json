@@ -1,6 +1,64 @@
 {
-  "atualizado_em": "2026-08-15",
+  "atualizado_em": "2026-08-16",
   "pesquisas": [
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Difusora/Item",
+      "collection_date": "2026-08-14",
+      "sample_size": 1250,
+      "margin_error": 2.77,
+      "tse_registration": "",
+      "source_url": "#cite_note-2",
+      "candidates": {
+        "Allyson Bezerra": 39.2,
+        "Álvaro Dias": 26.4,
+        "Cadu de Lula": 17.8,
+        "Robério Paulino": 1,
+        "Rodrigo Bolsonaro": 0.6,
+        "Dário Barbosa": 0.4
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataVero",
+      "collection_date": "2026-08-12",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-4",
+      "candidates": {
+        "Allyson Bezerra": 37.31,
+        "Álvaro Dias": 26.48,
+        "Cadu de Lula": 14.56,
+        "Robério Paulino": 0.59,
+        "Rodrigo Bolsonaro": 1.59,
+        "Dário Barbosa": 0.06
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
     {
       "uf": "CE",
       "estado": "Ceará",
@@ -24,6 +82,31 @@
         "Elmano de Freitas": "PT",
         "Delegado Huggo": "MISSÃO",
         "Zé Batista": "PSTU"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Goiás Pesquisas/Mais Goiás",
+      "collection_date": "2026-08-12",
+      "sample_size": 1150,
+      "margin_error": 2.89,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Daniel Vilela": 37.2,
+        "Marconi Perillo": 18.8,
+        "Wilder Morais": 18.9,
+        "Luis Cesar Bueno": 9
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -61,7 +144,7 @@
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
       "institute": "IRG",
       "collection_date": "2026-08-12",
@@ -74,43 +157,43 @@
         "Requião Filho": 21,
         "Sandro Alex": 24.8,
         "Luiz França": 0.7,
-        "Samuel de Mattos": 0.3
+        "Samuel de Mattos": 0.3,
+        "Adriano Teixeira": 0.4,
+        "Tayná Miessa": 0.2,
+        "Alexandre Salomão": 0.1
       },
       "parties": {
         "Sergio Moro": "PL",
         "Requião Filho": "PDT",
         "Sandro Alex": "PSD",
         "Luiz França": "MISSÃO",
-        "Samuel de Mattos": "PSTU"
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
-      "institute": "DataVero",
+      "institute": "IFP",
       "collection_date": "2026-08-12",
-      "sample_size": 1500,
-      "margin_error": 2.53,
+      "sample_size": 2400,
+      "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-2",
+      "source_url": "#cite_note-:6-1",
       "candidates": {
-        "Allyson Bezerra": 37.31,
-        "Álvaro Dias": 26.48,
-        "Cadu de Lula": 14.56,
-        "Robério Paulino": 0.59,
-        "Rodrigo Bolsonaro": 1.59,
-        "Dário Barbosa": 0.06
+        "Fábio Mitidieri": 38.94,
+        "Valmir de Francisquinho": 28.76,
+        "Ricardo Marques": 4.28
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Rodrigo Bolsonaro": "Agir",
-        "Dário Barbosa": "PSTU"
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -142,27 +225,60 @@
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
       "institute": "Neokemp Pesquisas/OCP",
       "collection_date": "2026-08-11",
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-2",
       "candidates": {
         "Sergio Moro": 45.7,
         "Requião Filho": 23.2,
         "Sandro Alex": 18.2,
         "Luiz França": 2,
-        "Samuel de Mattos": 0.2
+        "Samuel de Mattos": 0.2,
+        "Adriano Teixeira": 0.5,
+        "Tayná Miessa": 1.2,
+        "Alexandre Salomão": 0.1
       },
       "parties": {
         "Sergio Moro": "PL",
         "Requião Filho": "PDT",
         "Sandro Alex": "PSD",
         "Luiz França": "MISSÃO",
-        "Samuel de Mattos": "PSTU"
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "institute": "Véritas",
+      "collection_date": "2026-08-11",
+      "sample_size": 1000,
+      "margin_error": 2.09,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Eduardo Braide": 39.1,
+        "Orleans Brandão": 47.5,
+        "Felipe Camarão": 4.3,
+        "Roberto Rocha": 3.3,
+        "André Luís": 1.6
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
       }
     },
     {
@@ -224,7 +340,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Allyson Bezerra": 30.18,
         "Álvaro Dias": 27.65,
@@ -240,6 +356,33 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "institute": "IPPI",
+      "collection_date": "2026-08-10",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Eduardo Braide": 44,
+        "Orleans Brandão": 25.9,
+        "Felipe Camarão": 5.1,
+        "Roberto Rocha": 5,
+        "André Luís": 1.1
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
       }
     },
     {
@@ -293,31 +436,6 @@
       }
     },
     {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "IPPI",
-      "collection_date": "2026-08-10",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-1",
-      "candidates": {
-        "Eduardo Braide": 44,
-        "Orleans Brandão": 25.9,
-        "Felipe Camarão": 5.1,
-        "André Luís": 1.1
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "André Luís": "MISSÃO"
-      }
-    },
-    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -328,7 +446,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Allyson Bezerra": 39.5,
         "Álvaro Dias": 23.7,
@@ -382,7 +500,7 @@
       "sample_size": 1536,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-8",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Allyson Bezerra": 34.2,
         "Álvaro Dias": 24,
@@ -404,25 +522,29 @@
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro",
+      "cenario": "Adriano Teixeira|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
       "institute": "Índice",
       "collection_date": "2026-08-06",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 19.5,
         "Sandro Alex": 26.6,
-        "Samuel de Mattos": 0.7
+        "Samuel de Mattos": 0.7,
+        "Adriano Teixeira": 0.3,
+        "Tayná Miessa": 0.2
       },
       "parties": {
         "Sergio Moro": "PL",
         "Requião Filho": "PDT",
         "Sandro Alex": "PSD",
-        "Samuel de Mattos": "PSTU"
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP"
       }
     },
     {
@@ -448,6 +570,33 @@
         "Mailza Assis": "PP",
         "Tião Bocalom": "PSDB",
         "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Agorasei",
+      "collection_date": "2026-08-05",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Allyson Bezerra": 26.2,
+        "Álvaro Dias": 16.3,
+        "Cadu de Lula": 11.7,
+        "Robério Paulino": 0.3,
+        "Dário Barbosa": 0.1
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Dário Barbosa": "PSTU"
       }
     },
     {
@@ -477,33 +626,6 @@
         "Renato Gomes": "DC",
         "Jefferson Bezerra": "Agir",
         "Lucien Rezende": "PSOL"
-      }
-    },
-    {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Agorasei",
-      "collection_date": "2026-08-05",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-7",
-      "candidates": {
-        "Allyson Bezerra": 26.2,
-        "Álvaro Dias": 16.3,
-        "Cadu de Lula": 11.7,
-        "Robério Paulino": 0.3,
-        "Dário Barbosa": 0.1
-      },
-      "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Dário Barbosa": "PSTU"
       }
     },
     {
@@ -646,7 +768,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-8",
+      "source_url": "#cite_note-:14-5",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -675,7 +797,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-1",
+      "source_url": "#cite_note-:5-2",
       "candidates": {
         "Fábio Mitidieri": 43,
         "Valmir de Francisquinho": 40,
@@ -700,7 +822,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-2",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Daniel Vilela": 45.8,
         "Marconi Perillo": 24.5,
@@ -877,6 +999,83 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-5",
+      "candidates": {
+        "Eduardo Braide": 56.2,
+        "Orleans Brandão": 16.4,
+        "Felipe Camarão": 8.2,
+        "Roberto Rocha": 0.9,
+        "André Luís": 4.2
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-5",
+      "candidates": {
+        "Eduardo Braide": 60.7,
+        "Orleans Brandão": 17,
+        "Felipe Camarão": 8.5,
+        "Roberto Rocha": 0.9,
+        "André Luís": 5
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-5",
+      "candidates": {
+        "Eduardo Braide": 64.8,
+        "Orleans Brandão": 17.2,
+        "Felipe Camarão": 9.4
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT"
+      }
+    },
+    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -897,79 +1096,6 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-07-29",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-3",
-      "candidates": {
-        "Eduardo Braide": 56.2,
-        "Orleans Brandão": 16.4,
-        "Felipe Camarão": 8.2,
-        "André Luís": 4.2
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "André Luís": "MISSÃO"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-07-29",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-3",
-      "candidates": {
-        "Eduardo Braide": 60.7,
-        "Orleans Brandão": 17,
-        "Felipe Camarão": 8.5,
-        "André Luís": 5
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "André Luís": "MISSÃO"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-07-29",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-3",
-      "candidates": {
-        "Eduardo Braide": 64.8,
-        "Orleans Brandão": 17.2,
-        "Felipe Camarão": 9.4
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT"
       }
     },
     {
@@ -1168,6 +1294,33 @@
       }
     },
     {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataCapital",
+      "collection_date": "2026-07-28",
+      "sample_size": 2050,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-12",
+      "candidates": {
+        "Allyson Bezerra": 40,
+        "Álvaro Dias": 26,
+        "Cadu de Lula": 20,
+        "Robério Paulino": 3,
+        "Rodrigo Bolsonaro": 1
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -1195,6 +1348,31 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-28",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:14-5",
+      "candidates": {
+        "Daniel Vilela": 37,
+        "Marconi Perillo": 21,
+        "Wilder Morais": 11,
+        "Luis Cesar Bueno": 3
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -1205,7 +1383,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -1221,58 +1399,6 @@
         "Rafael Greca": "MDB",
         "Tony Garcia": "DC",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "DataCapital",
-      "collection_date": "2026-07-28",
-      "sample_size": 2050,
-      "margin_error": 2.2,
-      "tse_registration": "",
-      "source_url": "#cite_note-10",
-      "candidates": {
-        "Allyson Bezerra": 40,
-        "Álvaro Dias": 26,
-        "Cadu de Lula": 20,
-        "Robério Paulino": 3,
-        "Rodrigo Bolsonaro": 1
-      },
-      "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Rodrigo Bolsonaro": "Agir"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-28",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:14-3",
-      "candidates": {
-        "Daniel Vilela": 37,
-        "Marconi Perillo": 21,
-        "Wilder Morais": 11,
-        "Luis Cesar Bueno": 3
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -1563,6 +1689,35 @@
       }
     },
     {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "TCM/TSDois",
+      "collection_date": "2026-07-25",
+      "sample_size": 1800,
+      "margin_error": 2.3,
+      "tse_registration": "",
+      "source_url": "#cite_note-13",
+      "candidates": {
+        "Allyson Bezerra": 38.8,
+        "Álvaro Dias": 24.9,
+        "Cadu de Lula": 13.2,
+        "Robério Paulino": 1.4,
+        "Rodrigo Bolsonaro": 0.2,
+        "Dário Barbosa": 0.3
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -1573,7 +1728,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-11",
+      "source_url": "#cite_note-:13-8",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -1602,7 +1757,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-11",
+      "source_url": "#cite_note-:13-8",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -1629,7 +1784,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-11",
+      "source_url": "#cite_note-:13-8",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -1641,35 +1796,6 @@
         "Requião Filho": "PDT",
         "Sandro Alex": "PSD",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "TCM/TSDois",
-      "collection_date": "2026-07-25",
-      "sample_size": 1800,
-      "margin_error": 2.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-11",
-      "candidates": {
-        "Allyson Bezerra": 38.8,
-        "Álvaro Dias": 24.9,
-        "Cadu de Lula": 13.2,
-        "Robério Paulino": 1.4,
-        "Rodrigo Bolsonaro": 0.2,
-        "Dário Barbosa": 0.3
-      },
-      "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Rodrigo Bolsonaro": "Agir",
-        "Dário Barbosa": "PSTU"
       }
     },
     {
@@ -1891,7 +2017,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Fábio Mitidieri": 45.4,
         "Valmir de Francisquinho": 32.2,
@@ -2018,7 +2144,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-12",
+      "source_url": "#cite_note-:8-14",
       "candidates": {
         "Allyson Bezerra": 39.2,
         "Álvaro Dias": 28,
@@ -2034,62 +2160,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "Neokemp",
-      "collection_date": "2026-07-21",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-12",
-      "candidates": {
-        "Sergio Moro": 40.7,
-        "Requião Filho": 18.6,
-        "Sandro Alex": 10.6,
-        "Rafael Greca": 9.6,
-        "Tony Garcia": 1.9,
-        "Luiz França": 3.1
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Rafael Greca": "MDB",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "Neokemp",
-      "collection_date": "2026-07-21",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-12",
-      "candidates": {
-        "Sergio Moro": 46.7,
-        "Requião Filho": 22,
-        "Sandro Alex": 12.5,
-        "Tony Garcia": 2.6,
-        "Luiz França": 4
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
       }
     },
     {
@@ -2120,6 +2190,62 @@
       }
     },
     {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Neokemp",
+      "collection_date": "2026-07-21",
+      "sample_size": 1008,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Sergio Moro": 40.7,
+        "Requião Filho": 18.6,
+        "Sandro Alex": 10.6,
+        "Rafael Greca": 9.6,
+        "Tony Garcia": 1.9,
+        "Luiz França": 3.1
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Rafael Greca": "MDB",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Neokemp",
+      "collection_date": "2026-07-21",
+      "sample_size": 1008,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Sergio Moro": 46.7,
+        "Requião Filho": 22,
+        "Sandro Alex": 12.5,
+        "Tony Garcia": 2.6,
+        "Luiz França": 4
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -2130,7 +2256,7 @@
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-A-6",
+      "source_url": "#cite_note-:5-A-8",
       "candidates": {
         "Eduardo Braide": 42.5,
         "Orleans Brandão": 48.7,
@@ -2349,7 +2475,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Fábio Mitidieri": 46.2,
         "Valmir de Francisquinho": 34,
@@ -2372,7 +2498,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Allyson Bezerra": 41.7,
         "Álvaro Dias": 11.8,
@@ -2388,31 +2514,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "INOP",
-      "collection_date": "2026-07-16",
-      "sample_size": 2610,
-      "margin_error": 3.02,
-      "tse_registration": "",
-      "source_url": "#cite_note-8",
-      "candidates": {
-        "Eduardo Braide": 43.52,
-        "Orleans Brandão": 45.06,
-        "Felipe Camarão": 3.41,
-        "André Luís": 0.35
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "André Luís": "MISSÃO"
       }
     },
     {
@@ -2438,6 +2539,31 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "institute": "INOP",
+      "collection_date": "2026-07-16",
+      "sample_size": 2610,
+      "margin_error": 3.02,
+      "tse_registration": "",
+      "source_url": "#cite_note-10",
+      "candidates": {
+        "Eduardo Braide": 43.52,
+        "Orleans Brandão": 45.06,
+        "Felipe Camarão": 3.41,
+        "André Luís": 0.35
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "André Luís": "MISSÃO"
       }
     },
     {
@@ -2611,7 +2737,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Fábio Mitidieri": 39.33,
         "Valmir de Francisquinho": 27.8,
@@ -2778,7 +2904,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Allyson Bezerra": 35.27,
         "Álvaro Dias": 33.67,
@@ -2876,7 +3002,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Allyson Bezerra": 41.78,
         "Álvaro Dias": 26.05,
@@ -3049,7 +3175,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Allyson Bezerra": 27.5,
         "Álvaro Dias": 32.1,
@@ -3068,31 +3194,6 @@
       }
     },
     {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "INOR",
-      "collection_date": "2026-07-08",
-      "sample_size": 1070,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-7",
-      "candidates": {
-        "Fábio Mitidieri": 32.9,
-        "Valmir de Francisquinho": 38.69,
-        "Ricardo Marques": 8.97,
-        "Emanuel Cacho": 0.56
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -3103,7 +3204,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-7",
+      "source_url": "#cite_note-:12-9",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 26,
@@ -3130,7 +3231,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-7",
+      "source_url": "#cite_note-:12-9",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 24,
@@ -3144,6 +3245,31 @@
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT",
         "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "INOR",
+      "collection_date": "2026-07-08",
+      "sample_size": 1070,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-8",
+      "candidates": {
+        "Fábio Mitidieri": 32.9,
+        "Valmir de Francisquinho": 38.69,
+        "Ricardo Marques": 8.97,
+        "Emanuel Cacho": 0.56
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -3171,24 +3297,26 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-07",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-10",
+      "source_url": "#cite_note-:4-12",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
         "Felipe Camarão": 9,
+        "Roberto Rocha": 9,
         "André Luís": 1
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
         "André Luís": "MISSÃO"
       }
     },
@@ -3364,6 +3492,35 @@
       }
     },
     {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Seta",
+      "collection_date": "2026-07-06",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-20",
+      "candidates": {
+        "Allyson Bezerra": 35.9,
+        "Álvaro Dias": 24.7,
+        "Cadu de Lula": 17.7,
+        "Robério Paulino": 0.7,
+        "Rodrigo Bolsonaro": 0.1,
+        "Dário Barbosa": 0.3
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -3374,7 +3531,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -3403,7 +3560,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -3423,35 +3580,6 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Seta",
-      "collection_date": "2026-07-06",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-18",
-      "candidates": {
-        "Allyson Bezerra": 35.9,
-        "Álvaro Dias": 24.7,
-        "Cadu de Lula": 17.7,
-        "Robério Paulino": 0.7,
-        "Rodrigo Bolsonaro": 0.1,
-        "Dário Barbosa": 0.3
-      },
-      "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Rodrigo Bolsonaro": "Agir",
-        "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TN/Consult",
@@ -3459,7 +3587,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Allyson Bezerra": 34.59,
         "Álvaro Dias": 29,
@@ -3594,7 +3722,7 @@
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-9",
+      "source_url": "#cite_note-:4-10",
       "candidates": {
         "Fábio Mitidieri": 40.67,
         "Valmir de Francisquinho": 29.22,
@@ -3746,6 +3874,56 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "institute": "Lupa",
+      "collection_date": "2026-06-30",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:10-12",
+      "candidates": {
+        "Daniel Vilela": 31,
+        "Marconi Perillo": 33,
+        "Wilder Morais": 15,
+        "Luis Cesar Bueno": 1
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Positiva Pesquisas",
+      "collection_date": "2026-06-30",
+      "sample_size": 1200,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-12",
+      "candidates": {
+        "Fábio Mitidieri": 33.1,
+        "Valmir de Francisquinho": 39.25,
+        "Ricardo Marques": 0.89,
+        "Emanuel Cacho": 1.98
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -3794,56 +3972,6 @@
       }
     },
     {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Positiva Pesquisas",
-      "collection_date": "2026-06-30",
-      "sample_size": 1200,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-11",
-      "candidates": {
-        "Fábio Mitidieri": 33.1,
-        "Valmir de Francisquinho": 39.25,
-        "Ricardo Marques": 0.89,
-        "Emanuel Cacho": 1.98
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Lupa",
-      "collection_date": "2026-06-30",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:10-10",
-      "candidates": {
-        "Daniel Vilela": 31,
-        "Marconi Perillo": 33,
-        "Wilder Morais": 15,
-        "Luis Cesar Bueno": 1
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
@@ -3875,7 +4003,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-11",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -3904,7 +4032,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-11",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -3931,7 +4059,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-11",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -3958,7 +4086,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-11",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -3981,7 +4109,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-11",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -4183,7 +4311,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Allyson Bezerra": 27.3,
         "Álvaro Dias": 32.5,
@@ -4294,6 +4422,31 @@
       }
     },
     {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "CTAS/Inove Notícias",
+      "collection_date": "2026-06-20",
+      "sample_size": 1224,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-14",
+      "candidates": {
+        "Fábio Mitidieri": 41.2,
+        "Valmir de Francisquinho": 26.7,
+        "Ricardo Marques": 6.2,
+        "Emanuel Cacho": 1.2
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -4316,31 +4469,6 @@
         "Hana Ghassan": "MDB",
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "CTAS/Inove Notícias",
-      "collection_date": "2026-06-20",
-      "sample_size": 1224,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-13",
-      "candidates": {
-        "Fábio Mitidieri": 41.2,
-        "Valmir de Francisquinho": 26.7,
-        "Ricardo Marques": 6.2,
-        "Emanuel Cacho": 1.2
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -4392,31 +4520,6 @@
       }
     },
     {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "INOR",
-      "collection_date": "2026-06-18",
-      "sample_size": 1070,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-14",
-      "candidates": {
-        "Fábio Mitidieri": 34.95,
-        "Valmir de Francisquinho": 41.5,
-        "Ricardo Marques": 8.5,
-        "Emanuel Cacho": 0.37
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -4427,7 +4530,7 @@
       "sample_size": 1100,
       "margin_error": 4.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-11",
+      "source_url": "#cite_note-:9-13",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 22.7,
@@ -4439,6 +4542,31 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "INOR",
+      "collection_date": "2026-06-18",
+      "sample_size": 1070,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-15",
+      "candidates": {
+        "Fábio Mitidieri": 34.95,
+        "Valmir de Francisquinho": 41.5,
+        "Ricardo Marques": 8.5,
+        "Emanuel Cacho": 0.37
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -4498,7 +4626,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Allyson Bezerra": 40,
         "Álvaro Dias": 24.2,
@@ -4644,6 +4772,35 @@
       }
     },
     {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Metadata/Grupo Dial",
+      "collection_date": "2026-06-14",
+      "sample_size": 1550,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-24",
+      "candidates": {
+        "Allyson Bezerra": 34.8,
+        "Álvaro Dias": 22.8,
+        "Cadu de Lula": 8.7,
+        "Robério Paulino": 0.9,
+        "Rodrigo Bolsonaro": 0.6,
+        "Dário Barbosa": 0.9
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -4668,35 +4825,6 @@
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL",
         "Zé Batista": "PSTU"
-      }
-    },
-    {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Metadata/Grupo Dial",
-      "collection_date": "2026-06-14",
-      "sample_size": 1550,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-22",
-      "candidates": {
-        "Allyson Bezerra": 34.8,
-        "Álvaro Dias": 22.8,
-        "Cadu de Lula": 8.7,
-        "Robério Paulino": 0.9,
-        "Rodrigo Bolsonaro": 0.6,
-        "Dário Barbosa": 0.9
-      },
-      "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Rodrigo Bolsonaro": "Agir",
-        "Dário Barbosa": "PSTU"
       }
     },
     {
@@ -4781,6 +4909,31 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "institute": "Exata GO",
+      "collection_date": "2026-06-13",
+      "sample_size": 3600,
+      "margin_error": 1.63,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-14",
+      "candidates": {
+        "Daniel Vilela": 28.5,
+        "Marconi Perillo": 33.8,
+        "Wilder Morais": 8.8,
+        "Luis Cesar Bueno": 0.9
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -4820,7 +4973,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-15",
+      "source_url": "#cite_note-:11-12",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -4849,7 +5002,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-15",
+      "source_url": "#cite_note-:11-12",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -4876,7 +5029,7 @@
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-16",
+      "source_url": "#cite_note-:3-17",
       "candidates": {
         "Fábio Mitidieri": 38.7,
         "Valmir de Francisquinho": 42.8,
@@ -4888,31 +5041,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Exata GO",
-      "collection_date": "2026-06-13",
-      "sample_size": 3600,
-      "margin_error": 1.63,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-12",
-      "candidates": {
-        "Daniel Vilela": 28.5,
-        "Marconi Perillo": 33.8,
-        "Wilder Morais": 8.8,
-        "Luis Cesar Bueno": 0.9
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -5145,7 +5273,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -5174,7 +5302,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -5318,7 +5446,7 @@
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Fábio Mitidieri": 40.8,
         "Valmir de Francisquinho": 30.3,
@@ -5343,7 +5471,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-19",
+      "source_url": "#cite_note-:10-16",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -5574,6 +5702,54 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "institute": "Numen Data",
+      "collection_date": "2026-06-02",
+      "sample_size": 1507,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-16",
+      "candidates": {
+        "Daniel Vilela": 27.8,
+        "Marconi Perillo": 17.5,
+        "Wilder Morais": 23.1
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "W1",
+      "collection_date": "2026-06-02",
+      "sample_size": 1000,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:2-21",
+      "candidates": {
+        "Fábio Mitidieri": 44.7,
+        "Valmir de Francisquinho": 38.7,
+        "Ricardo Marques": 5.7,
+        "Emanuel Cacho": 0.4
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -5596,54 +5772,6 @@
         "Mailza Assis": "PP",
         "Tião Bocalom": "PSDB",
         "Thor Dantas": "PSB"
-      }
-    },
-    {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "W1",
-      "collection_date": "2026-06-02",
-      "sample_size": 1000,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-20",
-      "candidates": {
-        "Fábio Mitidieri": 44.7,
-        "Valmir de Francisquinho": 38.7,
-        "Ricardo Marques": 5.7,
-        "Emanuel Cacho": 0.4
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Numen Data",
-      "collection_date": "2026-06-02",
-      "sample_size": 1507,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-14",
-      "candidates": {
-        "Daniel Vilela": 27.8,
-        "Marconi Perillo": 17.5,
-        "Wilder Morais": 23.1
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL"
       }
     },
     {
@@ -5684,7 +5812,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-23",
+      "source_url": "#cite_note-:6-25",
       "candidates": {
         "Allyson Bezerra": 39.8,
         "Álvaro Dias": 22.1,
@@ -5786,7 +5914,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Allyson Bezerra": 41.01,
         "Álvaro Dias": 22.75,
@@ -5813,7 +5941,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-16",
+      "source_url": "#cite_note-:6-18",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -5838,7 +5966,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -5886,7 +6014,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Allyson Bezerra": 38,
         "Álvaro Dias": 22.8,
@@ -5967,7 +6095,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Allyson Bezerra": 27.9,
         "Álvaro Dias": 30.5,
@@ -6082,29 +6210,6 @@
       }
     },
     {
-      "uf": "BA",
-      "estado": "Bahia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
-      "cenario": "ACM Neto|Jerônimo|Ronaldo Mansur",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-05-26",
-      "sample_size": 2020,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "ACM Neto": 58,
-        "Jerônimo": 37.9,
-        "Ronaldo Mansur": 2.2
-      },
-      "parties": {
-        "ACM Neto": "UNIÃO",
-        "Jerônimo": "PT",
-        "Ronaldo Mansur": "PSOL"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -6115,7 +6220,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-20",
+      "source_url": "#cite_note--2-22",
       "candidates": {
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
@@ -6142,7 +6247,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-20",
+      "source_url": "#cite_note--2-22",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
@@ -6156,6 +6261,29 @@
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT",
         "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
+      "uf": "BA",
+      "estado": "Bahia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
+      "cenario": "ACM Neto|Jerônimo|Ronaldo Mansur",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-05-26",
+      "sample_size": 2020,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "ACM Neto": 58,
+        "Jerônimo": 37.9,
+        "Ronaldo Mansur": 2.2
+      },
+      "parties": {
+        "ACM Neto": "UNIÃO",
+        "Jerônimo": "PT",
+        "Ronaldo Mansur": "PSOL"
       }
     },
     {
@@ -6271,7 +6399,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-22",
+      "source_url": "#cite_note-:1-23",
       "candidates": {
         "Fábio Mitidieri": 41,
         "Valmir de Francisquinho": 38,
@@ -6348,7 +6476,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Allyson Bezerra": 38.5,
         "Álvaro Dias": 19.8,
@@ -6377,7 +6505,7 @@
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-24",
+      "source_url": "#cite_note-:0-25",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 39.72,
@@ -6429,7 +6557,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-30",
+      "source_url": "#cite_note-:5-32",
       "candidates": {
         "Allyson Bezerra": 37,
         "Álvaro Dias": 25.2,
@@ -6531,7 +6659,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Allyson Bezerra": 28.6,
         "Álvaro Dias": 34.5,
@@ -6554,7 +6682,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-20",
+      "source_url": "#cite_note-:9-17",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -6583,7 +6711,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-20",
+      "source_url": "#cite_note-:9-17",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -6785,6 +6913,33 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Directa",
+      "collection_date": "2026-05-16",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note--1-28",
+      "candidates": {
+        "Daniel Vilela": 44.3,
+        "Marconi Perillo": 23.1,
+        "Wilder Morais": 10.9,
+        "Adriana Accorsi": 8.7,
+        "Telêmaco Brandão": 0.6
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Adriana Accorsi": "PT",
+        "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -6807,33 +6962,6 @@
         "Mailza Assis": "PP",
         "Tião Bocalom": "PSDB",
         "Thor Dantas": "PSB"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Directa",
-      "collection_date": "2026-05-16",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note--1-26",
-      "candidates": {
-        "Daniel Vilela": 44.3,
-        "Marconi Perillo": 23.1,
-        "Wilder Morais": 10.9,
-        "Adriana Accorsi": 8.7,
-        "Telêmaco Brandão": 0.6
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
       }
     },
     {
@@ -6939,29 +7067,6 @@
       }
     },
     {
-      "uf": "BA",
-      "estado": "Bahia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
-      "cenario": "ACM Neto|Jerônimo|Ronaldo Mansur",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Agosto",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-05-12",
-      "sample_size": 1510,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "ACM Neto": 47.8,
-        "Jerônimo": 38.7,
-        "Ronaldo Mansur": 1.7
-      },
-      "parties": {
-        "ACM Neto": "UNIÃO",
-        "Jerônimo": "PT",
-        "Ronaldo Mansur": "PSOL"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -6972,7 +7077,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-28",
+      "source_url": "#cite_note-:4-30",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -6999,7 +7104,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-28",
+      "source_url": "#cite_note-:4-30",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -7024,7 +7129,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-28",
+      "source_url": "#cite_note-:4-30",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -7051,7 +7156,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-28",
+      "source_url": "#cite_note-:4-30",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -7063,6 +7168,29 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
+      "uf": "BA",
+      "estado": "Bahia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
+      "cenario": "ACM Neto|Jerônimo|Ronaldo Mansur",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Agosto",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-05-12",
+      "sample_size": 1510,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
+      "candidates": {
+        "ACM Neto": 47.8,
+        "Jerônimo": 38.7,
+        "Ronaldo Mansur": 1.7
+      },
+      "parties": {
+        "ACM Neto": "UNIÃO",
+        "Jerônimo": "PT",
+        "Ronaldo Mansur": "PSOL"
       }
     },
     {
@@ -7107,7 +7235,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -7136,7 +7264,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -7209,7 +7337,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Allyson Bezerra": 35.5,
         "Álvaro Dias": 22.9,
@@ -7382,7 +7510,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-22",
+      "source_url": "#cite_note-Veritá2-19",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -7499,6 +7627,31 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Exata GO",
+      "collection_date": "2026-04-30",
+      "sample_size": 3300,
+      "margin_error": 1.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-34",
+      "candidates": {
+        "Daniel Vilela": 29.6,
+        "Marconi Perillo": 30.2,
+        "Adriana Accorsi": 8.7,
+        "Luis Cesar Bueno": 1.9
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Adriana Accorsi": "PT",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -7572,31 +7725,6 @@
       }
     },
     {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Exata GO",
-      "collection_date": "2026-04-30",
-      "sample_size": 3300,
-      "margin_error": 1.7,
-      "tse_registration": "",
-      "source_url": "#cite_note-32",
-      "candidates": {
-        "Daniel Vilela": 29.6,
-        "Marconi Perillo": 30.2,
-        "Adriana Accorsi": 8.7,
-        "Luis Cesar Bueno": 1.9
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Adriana Accorsi": "PT",
-        "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -7628,7 +7756,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -7657,7 +7785,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -7815,7 +7943,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-33",
+      "source_url": "#cite_note-Genial/Quaest-Abril-35",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -7840,7 +7968,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-33",
+      "source_url": "#cite_note-Genial/Quaest-Abril-35",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -7865,7 +7993,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-33",
+      "source_url": "#cite_note-Genial/Quaest-Abril-35",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 21,
@@ -8105,6 +8233,29 @@
       }
     },
     {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "JR Comunicações, Serviços a Pesquisas",
+      "collection_date": "2026-04-27",
+      "sample_size": 1312,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-SE04-27",
+      "candidates": {
+        "Fábio Mitidieri": 37.27,
+        "Valmir de Francisquinho": 44.59,
+        "Ricardo Marques": 5.41
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -8152,29 +8303,6 @@
         "Mailza Assis": "PP",
         "Tião Bocalom": "PSDB",
         "Thor Dantas": "PSB"
-      }
-    },
-    {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "JR Comunicações, Serviços a Pesquisas",
-      "collection_date": "2026-04-27",
-      "sample_size": 1312,
-      "margin_error": 2.7,
-      "tse_registration": "",
-      "source_url": "#cite_note-SE04-26",
-      "candidates": {
-        "Fábio Mitidieri": 37.27,
-        "Valmir de Francisquinho": 44.59,
-        "Ricardo Marques": 5.41
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL"
       }
     },
     {
@@ -8469,7 +8597,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-24",
+      "source_url": "#cite_note-:8-21",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -8498,7 +8626,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-24",
+      "source_url": "#cite_note-:8-21",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -8712,7 +8840,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Allyson Bezerra": 40.4,
         "Álvaro Dias": 18.6,
@@ -8735,7 +8863,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-27",
+      "source_url": "#cite_note-SE05-28",
       "candidates": {
         "Fábio Mitidieri": 35.3,
         "Valmir de Francisquinho": 39.9,
@@ -8785,7 +8913,7 @@
       "sample_size": 1518,
       "margin_error": 2.51,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Allyson Bezerra": 37.29,
         "Álvaro Dias": 24.91,
@@ -9014,7 +9142,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -9043,7 +9171,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -9070,7 +9198,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -9097,7 +9225,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -9149,7 +9277,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Allyson Bezerra": 27.8,
         "Álvaro Dias": 32.6,
@@ -9159,6 +9287,85 @@
         "Allyson Bezerra": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Gerp",
+      "collection_date": "2026-04-10",
+      "sample_size": 1206,
+      "margin_error": 2.88,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-38",
+      "candidates": {
+        "Daniel Vilela": 42,
+        "Marconi Perillo": 18,
+        "Wilder Morais": 15,
+        "Adriana Accorsi": 11,
+        "Telêmaco Brandão": 1
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Adriana Accorsi": "PT",
+        "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Gerp",
+      "collection_date": "2026-04-10",
+      "sample_size": 1206,
+      "margin_error": 2.88,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-38",
+      "candidates": {
+        "Daniel Vilela": 43,
+        "Marconi Perillo": 21,
+        "Wilder Morais": 16,
+        "Luis Cesar Bueno": 5,
+        "Telêmaco Brandão": 1
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT",
+        "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Gerp",
+      "collection_date": "2026-04-10",
+      "sample_size": 1206,
+      "margin_error": 2.88,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-38",
+      "candidates": {
+        "Daniel Vilela": 45,
+        "Marconi Perillo": 21,
+        "Wilder Morais": 15,
+        "Telêmaco Brandão": 1
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Telêmaco Brandão": "NOVO"
       }
     },
     {
@@ -9190,85 +9397,6 @@
         "Renato Gomes": "DC",
         "Jefferson Bezerra": "Agir",
         "Lucien Rezende": "PSOL"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Gerp",
-      "collection_date": "2026-04-10",
-      "sample_size": 1206,
-      "margin_error": 2.88,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-36",
-      "candidates": {
-        "Daniel Vilela": 42,
-        "Marconi Perillo": 18,
-        "Wilder Morais": 15,
-        "Adriana Accorsi": 11,
-        "Telêmaco Brandão": 1
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Gerp",
-      "collection_date": "2026-04-10",
-      "sample_size": 1206,
-      "margin_error": 2.88,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-36",
-      "candidates": {
-        "Daniel Vilela": 43,
-        "Marconi Perillo": 21,
-        "Wilder Morais": 16,
-        "Luis Cesar Bueno": 5,
-        "Telêmaco Brandão": 1
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Gerp",
-      "collection_date": "2026-04-10",
-      "sample_size": 1206,
-      "margin_error": 2.88,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-36",
-      "candidates": {
-        "Daniel Vilela": 45,
-        "Marconi Perillo": 21,
-        "Wilder Morais": 15,
-        "Telêmaco Brandão": 1
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Telêmaco Brandão": "NOVO"
       }
     },
     {
@@ -9430,7 +9558,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-29",
+      "source_url": "#cite_note-Veritá1-30",
       "candidates": {
         "Fábio Mitidieri": 44.2,
         "Valmir de Francisquinho": 34.5,
@@ -9792,7 +9920,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
+      "source_url": "#cite_note-:7-23",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -9819,7 +9947,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
+      "source_url": "#cite_note-:7-23",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -9846,7 +9974,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
+      "source_url": "#cite_note-:7-23",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -9871,7 +9999,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
+      "source_url": "#cite_note-:7-23",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -10259,6 +10387,29 @@
       }
     },
     {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Metadata/Grupo Dial",
+      "collection_date": "2026-03-28",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-41",
+      "candidates": {
+        "Allyson Bezerra": 28.8,
+        "Álvaro Dias": 37.2,
+        "Cadu de Lula": 10.7
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -10306,29 +10457,6 @@
         "Roberto Cláudio": "UNIÃO",
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL"
-      }
-    },
-    {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Metadata/Grupo Dial",
-      "collection_date": "2026-03-28",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-39",
-      "candidates": {
-        "Allyson Bezerra": 28.8,
-        "Álvaro Dias": 37.2,
-        "Cadu de Lula": 10.7
-      },
-      "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT"
       }
     },
     {
@@ -10494,7 +10622,7 @@
       "sample_size": 1700,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-42",
       "candidates": {
         "Allyson Bezerra": 39.2,
         "Álvaro Dias": 20.6,
@@ -10938,7 +11066,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -10965,7 +11093,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -10992,7 +11120,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -11080,6 +11208,29 @@
       }
     },
     {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "TN/Consult",
+      "collection_date": "2026-03-18",
+      "sample_size": 1700,
+      "margin_error": 2.37,
+      "tse_registration": "",
+      "source_url": "#cite_note-:2-43",
+      "candidates": {
+        "Allyson Bezerra": 29.24,
+        "Álvaro Dias": 31.18,
+        "Cadu de Lula": 6.35
+      },
+      "parties": {
+        "Allyson Bezerra": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -11134,29 +11285,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "TN/Consult",
-      "collection_date": "2026-03-18",
-      "sample_size": 1700,
-      "margin_error": 2.37,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-41",
-      "candidates": {
-        "Allyson Bezerra": 29.24,
-        "Álvaro Dias": 31.18,
-        "Cadu de Lula": 6.35
-      },
-      "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT"
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -11167,7 +11295,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-31",
+      "source_url": "#cite_note-SE02-32",
       "candidates": {
         "Fábio Mitidieri": 42.88,
         "Valmir de Francisquinho": 35.03
@@ -11188,7 +11316,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-31",
+      "source_url": "#cite_note-SE02-32",
       "candidates": {
         "Fábio Mitidieri": 44.51,
         "Ricardo Marques": 21.63
@@ -11209,7 +11337,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-31",
+      "source_url": "#cite_note-SE02-32",
       "candidates": {
         "Fábio Mitidieri": 51.64,
         "Emanuel Cacho": 10.3
@@ -11361,7 +11489,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-39",
+      "source_url": "#cite_note-:1-41",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -11388,7 +11516,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-39",
+      "source_url": "#cite_note-:1-41",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -11415,7 +11543,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-39",
+      "source_url": "#cite_note-:1-41",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -12327,7 +12455,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-26",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -12356,7 +12484,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-26",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -12385,7 +12513,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-26",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -13123,7 +13251,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-30",
+      "source_url": "#cite_note-:5-27",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -13150,7 +13278,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-30",
+      "source_url": "#cite_note-:5-27",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -13177,7 +13305,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-30",
+      "source_url": "#cite_note-:5-27",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -13254,7 +13382,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-41",
+      "source_url": "#cite_note-:2-43",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
@@ -13531,7 +13659,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Allyson Bezerra": 36,
         "Rogério Marinho": 26,
@@ -13554,7 +13682,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Allyson Bezerra": 39,
         "Álvaro Dias": 15,
@@ -13577,7 +13705,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Allyson Bezerra": 34,
         "Rogério Marinho": 15,
@@ -13696,7 +13824,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-44",
+      "source_url": "#cite_note-:0-46",
       "candidates": {
         "Allyson Bezerra": 38.6,
         "Rogério Marinho": 19,
@@ -13719,7 +13847,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-44",
+      "source_url": "#cite_note-:0-46",
       "candidates": {
         "Allyson Bezerra": 38.2,
         "Álvaro Dias": 15.1,
@@ -13742,7 +13870,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-44",
+      "source_url": "#cite_note-:0-46",
       "candidates": {
         "Allyson Bezerra": 35.9,
         "Rogério Marinho": 15.6,
@@ -14225,7 +14353,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-46",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Allyson Bezerra": 36,
         "Rogério Marinho": 34,
@@ -14248,7 +14376,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-46",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Allyson Bezerra": 42,
         "Álvaro Dias": 17,
@@ -14689,7 +14817,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-32",
+      "source_url": "#cite_note-SE01-33",
       "candidates": {
         "Fábio Mitidieri": 46,
         "Valmir de Francisquinho": 33
@@ -14710,7 +14838,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-32",
+      "source_url": "#cite_note-SE01-33",
       "candidates": {
         "Fábio Mitidieri": 49,
         "Thiago de Joaldo": 26
@@ -14731,7 +14859,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-32",
+      "source_url": "#cite_note-SE01-33",
       "candidates": {
         "Fábio Mitidieri": 48,
         "Emília Corrêa": 32
@@ -14752,7 +14880,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-32",
+      "source_url": "#cite_note-SE01-33",
       "candidates": {
         "Fábio Mitidieri": 50,
         "Eduardo Amorim": 28
@@ -15708,7 +15836,7 @@
       "sample_size": 1505,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-47",
+      "source_url": "#cite_note-:-1-49",
       "candidates": {
         "Allyson Bezerra": 30,
         "Rogério Marinho": 28.2,

@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-08-15T11:32:03.070Z",
+  "ultima_execucao": "2026-08-16T11:32:04.128Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 667,
-  "pesquisas_usadas": 667,
+  "pesquisas_extraidas_brutas": 671,
+  "pesquisas_usadas": 671,
   "estados_com_agregado": 23,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -270,7 +270,7 @@
           "Marconi Perillo",
           "Wilder Morais"
         ],
-        "pesquisas": 8
+        "pesquisas": 9
       },
       {
         "candidatos": [
@@ -307,7 +307,8 @@
           "André Luís",
           "Eduardo Braide",
           "Felipe Camarão",
-          "Orleans Brandão"
+          "Orleans Brandão",
+          "Roberto Rocha"
         ],
         "pesquisas": 5
       },
@@ -318,6 +319,15 @@
           "Orleans Brandão"
         ],
         "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "André Luís",
+          "Eduardo Braide",
+          "Felipe Camarão",
+          "Orleans Brandão"
+        ],
+        "pesquisas": 1
       }
     ],
     "MT": [
@@ -572,11 +582,14 @@
       },
       {
         "candidatos": [
+          "Adriano Teixeira",
+          "Alexandre Salomão",
           "Luiz França",
           "Requião Filho",
           "Samuel de Mattos",
           "Sandro Alex",
-          "Sergio Moro"
+          "Sergio Moro",
+          "Tayná Miessa"
         ],
         "pesquisas": 2
       },
@@ -694,7 +707,7 @@
           "Rodrigo Bolsonaro",
           "Álvaro Dias"
         ],
-        "pesquisas": 19
+        "pesquisas": 20
       },
       {
         "candidatos": [
@@ -989,7 +1002,7 @@
           "Ricardo Marques",
           "Valmir de Francisquinho"
         ],
-        "pesquisas": 3
+        "pesquisas": 4
       },
       {
         "candidatos": [
@@ -1113,13 +1126,13 @@
     "GO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "status": "ok",
-      "pesquisas": 36,
+      "pesquisas": 37,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
     },
     "MA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "status": "ok",
-      "pesquisas": 7,
+      "pesquisas": 8,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Maranh%C3%A3o"
     },
     "MT": {
@@ -1179,7 +1192,7 @@
     "RN": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "status": "ok",
-      "pesquisas": 46,
+      "pesquisas": 47,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
     },
     "RS": {
@@ -1215,7 +1228,7 @@
     "SE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "status": "ok",
-      "pesquisas": 24,
+      "pesquisas": 25,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
     },
     "TO": {
