@@ -1,11 +1,40 @@
 {
-  "atualizado_em": "2026-08-16",
+  "atualizado_em": "2026-08-17",
   "pesquisas": [
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Doxa",
+      "collection_date": "2026-08-15",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:31-2",
+      "candidates": {
+        "Hana Ghassan": 35.1,
+        "Daniel Santos": 30.2,
+        "Araceli Lemos": 1.4,
+        "Gal Leite": 0.8,
+        "Robertinho": 0.7,
+        "José Moita": 0.4
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Gal Leite": "UP",
+        "Robertinho": "PRTB",
+        "José Moita": "Democrata"
+      }
+    },
     {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Difusora/Item",
       "collection_date": "2026-08-14",
@@ -14,7 +43,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-2",
       "candidates": {
-        "Allyson Bezerra": 39.2,
+        "Allyson": 39.2,
         "Álvaro Dias": 26.4,
         "Cadu de Lula": 17.8,
         "Robério Paulino": 1,
@@ -22,7 +51,7 @@
         "Dário Barbosa": 0.4
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -34,7 +63,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "DataVero",
       "collection_date": "2026-08-12",
@@ -43,7 +72,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-4",
       "candidates": {
-        "Allyson Bezerra": 37.31,
+        "Allyson": 37.31,
         "Álvaro Dias": 26.48,
         "Cadu de Lula": 14.56,
         "Robério Paulino": 0.59,
@@ -51,7 +80,7 @@
         "Dário Barbosa": 0.06
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -177,23 +206,25 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IFP",
       "collection_date": "2026-08-12",
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-1",
+      "source_url": "#cite_note-1",
       "candidates": {
         "Fábio Mitidieri": 38.94,
         "Valmir de Francisquinho": 28.76,
-        "Ricardo Marques": 4.28
+        "Ricardo Marques": 4.28,
+        "Emanuel Cacho": 0.62
       },
       "parties": {
         "Fábio Mitidieri": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL"
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -333,7 +364,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TN/Consult",
       "collection_date": "2026-08-10",
@@ -342,7 +373,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-6",
       "candidates": {
-        "Allyson Bezerra": 30.18,
+        "Allyson": 30.18,
         "Álvaro Dias": 27.65,
         "Cadu de Lula": 13.06,
         "Robério Paulino": 0.41,
@@ -350,7 +381,7 @@
         "Dário Barbosa": 0.12
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -439,7 +470,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Seta",
       "collection_date": "2026-08-09",
@@ -448,7 +479,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-8",
       "candidates": {
-        "Allyson Bezerra": 39.5,
+        "Allyson": 39.5,
         "Álvaro Dias": 23.7,
         "Cadu de Lula": 19.6,
         "Robério Paulino": 0.4,
@@ -456,7 +487,7 @@
         "Dário Barbosa": 0.9
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -493,7 +524,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Metadata/Grupo Dial",
       "collection_date": "2026-08-08",
@@ -502,7 +533,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-10",
       "candidates": {
-        "Allyson Bezerra": 34.2,
+        "Allyson": 34.2,
         "Álvaro Dias": 24,
         "Cadu de Lula": 17.1,
         "Robério Paulino": 1.6,
@@ -510,7 +541,7 @@
         "Dário Barbosa": 0.3
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -576,7 +607,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Agorasei",
       "collection_date": "2026-08-05",
@@ -585,14 +616,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-9",
       "candidates": {
-        "Allyson Bezerra": 26.2,
+        "Allyson": 26.2,
         "Álvaro Dias": 16.3,
         "Cadu de Lula": 11.7,
         "Robério Paulino": 0.3,
         "Dário Barbosa": 0.1
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -639,7 +670,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:30-4",
+      "source_url": "#cite_note-:30-7",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 31,
@@ -797,7 +828,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-2",
+      "source_url": "#cite_note-:5-3",
       "candidates": {
         "Fábio Mitidieri": 43,
         "Valmir de Francisquinho": 40,
@@ -1297,7 +1328,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "DataCapital",
       "collection_date": "2026-07-28",
@@ -1306,14 +1337,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-12",
       "candidates": {
-        "Allyson Bezerra": 40,
+        "Allyson": 40,
         "Álvaro Dias": 26,
         "Cadu de Lula": 20,
         "Robério Paulino": 3,
         "Rodrigo Bolsonaro": 1
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -1689,10 +1720,66 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:29-9",
+      "candidates": {
+        "Daniel Santos": 20,
+        "Hana Ghassan": 24,
+        "Mário Couto": 11,
+        "Araceli Lemos": 2,
+        "Cleber Rabelo": 2,
+        "Raquel Brício": 2
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:29-9",
+      "candidates": {
+        "Daniel Santos": 23,
+        "Hana Ghassan": 25,
+        "Araceli Lemos": 5,
+        "Cleber Rabelo": 4,
+        "Raquel Brício": 2
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TCM/TSDois",
       "collection_date": "2026-07-25",
@@ -1701,7 +1788,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-13",
       "candidates": {
-        "Allyson Bezerra": 38.8,
+        "Allyson": 38.8,
         "Álvaro Dias": 24.9,
         "Cadu de Lula": 13.2,
         "Robério Paulino": 1.4,
@@ -1709,7 +1796,7 @@
         "Dário Barbosa": 0.3
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -1870,62 +1957,6 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:29-6",
-      "candidates": {
-        "Daniel Santos": 20,
-        "Hana Ghassan": 24,
-        "Mário Couto": 11,
-        "Araceli Lemos": 2,
-        "Cleber Rabelo": 2,
-        "Raquel Brício": 2
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:29-6",
-      "candidates": {
-        "Daniel Santos": 23,
-        "Hana Ghassan": 25,
-        "Araceli Lemos": 5,
-        "Cleber Rabelo": 4,
-        "Raquel Brício": 2
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
-      }
-    },
-    {
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
@@ -2017,7 +2048,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-5",
       "candidates": {
         "Fábio Mitidieri": 45.4,
         "Valmir de Francisquinho": 32.2,
@@ -2137,7 +2168,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "ITEM/TV Ponta Negra",
       "collection_date": "2026-07-22",
@@ -2146,7 +2177,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-:8-14",
       "candidates": {
-        "Allyson Bezerra": 39.2,
+        "Allyson": 39.2,
         "Álvaro Dias": 28,
         "Cadu de Lula": 17.1,
         "Robério Paulino": 0.6,
@@ -2154,7 +2185,7 @@
         "Dário Barbosa": 0.4
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -2166,7 +2197,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-07-21",
@@ -2175,14 +2206,14 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
-        "Allyson Bezerra": 25.1,
+        "Allyson": 25.1,
         "Álvaro Dias": 27.7,
         "Cadu de Lula": 36.3,
         "Robério Paulino": 0.5,
         "Rodrigo Bolsonaro": 0.1
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -2475,7 +2506,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Fábio Mitidieri": 46.2,
         "Valmir de Francisquinho": 34,
@@ -2491,7 +2522,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "DataCensus",
       "collection_date": "2026-07-17",
@@ -2500,7 +2531,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-16",
       "candidates": {
-        "Allyson Bezerra": 41.7,
+        "Allyson": 41.7,
         "Álvaro Dias": 11.8,
         "Cadu de Lula": 16.3,
         "Robério Paulino": 1.3,
@@ -2508,7 +2539,7 @@
         "Dário Barbosa": 1.1
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -2737,7 +2768,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-7",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Fábio Mitidieri": 39.33,
         "Valmir de Francisquinho": 27.8,
@@ -2897,7 +2928,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "DataVero",
       "collection_date": "2026-07-11",
@@ -2906,7 +2937,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-17",
       "candidates": {
-        "Allyson Bezerra": 35.27,
+        "Allyson": 35.27,
         "Álvaro Dias": 33.67,
         "Cadu de Lula": 10.8,
         "Robério Paulino": 0.93,
@@ -2914,7 +2945,7 @@
         "Dário Barbosa": 0.67
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -2992,33 +3023,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Exatus",
-      "collection_date": "2026-07-10",
-      "sample_size": 1500,
-      "margin_error": 2.53,
-      "tse_registration": "",
-      "source_url": "#cite_note-18",
-      "candidates": {
-        "Allyson Bezerra": 41.78,
-        "Álvaro Dias": 26.05,
-        "Cadu de Lula": 13.74,
-        "Robério Paulino": 0.26,
-        "Dário Barbosa": 0.49
-      },
-      "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Dário Barbosa": "PSTU"
-      }
-    },
-    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -3029,7 +3033,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-9",
+      "source_url": "#cite_note-:28-12",
       "candidates": {
         "Daniel Santos": 34.4,
         "Hana Ghassan": 22.5,
@@ -3054,7 +3058,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-9",
+      "source_url": "#cite_note-:28-12",
       "candidates": {
         "Daniel Santos": 37.1,
         "Hana Ghassan": 24.7,
@@ -3077,7 +3081,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-9",
+      "source_url": "#cite_note-:28-12",
       "candidates": {
         "Daniel Santos": 36.3,
         "Hana Ghassan": 25.6,
@@ -3087,6 +3091,33 @@
         "Daniel Santos": "PODE",
         "Hana Ghassan": "MDB",
         "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Exatus",
+      "collection_date": "2026-07-10",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-18",
+      "candidates": {
+        "Allyson": 41.78,
+        "Álvaro Dias": 26.05,
+        "Cadu de Lula": 13.74,
+        "Robério Paulino": 0.26,
+        "Dário Barbosa": 0.49
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Dário Barbosa": "PSTU"
       }
     },
     {
@@ -3168,7 +3199,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Media/O Potengi",
       "collection_date": "2026-07-08",
@@ -3177,7 +3208,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-19",
       "candidates": {
-        "Allyson Bezerra": 27.5,
+        "Allyson": 27.5,
         "Álvaro Dias": 32.1,
         "Cadu de Lula": 18.1,
         "Robério Paulino": 1.6,
@@ -3185,7 +3216,7 @@
         "Dário Barbosa": 0.3
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -3258,7 +3289,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-8",
+      "source_url": "#cite_note-9",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 38.69,
@@ -3294,33 +3325,6 @@
       }
     },
     {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-07",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-12",
-      "candidates": {
-        "Eduardo Braide": 44,
-        "Orleans Brandão": 31,
-        "Felipe Camarão": 9,
-        "Roberto Rocha": 9,
-        "André Luís": 1
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
-      }
-    },
-    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -3331,7 +3335,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-10",
+      "source_url": "#cite_note-:27-13",
       "candidates": {
         "Daniel Santos": 37.2,
         "Hana Ghassan": 31.6,
@@ -3356,7 +3360,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-10",
+      "source_url": "#cite_note-:27-13",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 29.2,
@@ -3370,6 +3374,33 @@
         "Mário Couto": "DC",
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-07",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-12",
+      "candidates": {
+        "Eduardo Braide": 44,
+        "Orleans Brandão": 31,
+        "Felipe Camarão": 9,
+        "Roberto Rocha": 9,
+        "André Luís": 1
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
       }
     },
     {
@@ -3495,7 +3526,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Seta",
       "collection_date": "2026-07-06",
@@ -3504,7 +3535,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-20",
       "candidates": {
-        "Allyson Bezerra": 35.9,
+        "Allyson": 35.9,
         "Álvaro Dias": 24.7,
         "Cadu de Lula": 17.7,
         "Robério Paulino": 0.7,
@@ -3512,7 +3543,7 @@
         "Dário Barbosa": 0.3
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -3580,7 +3611,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TN/Consult",
       "collection_date": "2026-07-05",
@@ -3589,14 +3620,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-21",
       "candidates": {
-        "Allyson Bezerra": 34.59,
+        "Allyson": 34.59,
         "Álvaro Dias": 29,
         "Cadu de Lula": 11.24,
         "Robério Paulino": 0.47,
         "Dário Barbosa": 0.47
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -3722,7 +3753,7 @@
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-10",
+      "source_url": "#cite_note-:4-11",
       "candidates": {
         "Fábio Mitidieri": 40.67,
         "Valmir de Francisquinho": 29.22,
@@ -3909,7 +3940,7 @@
       "sample_size": 1200,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Fábio Mitidieri": 33.1,
         "Valmir de Francisquinho": 39.25,
@@ -4170,6 +4201,33 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Simetria",
+      "collection_date": "2026-06-25",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:26-16",
+      "candidates": {
+        "Daniel Santos": 32,
+        "Hana Ghassan": 29,
+        "Mário Couto": 9,
+        "Araceli Lemos": 2,
+        "Cleber Rabelo": 3
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -4192,33 +4250,6 @@
         "Elmano de Freitas": "PT",
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Simetria",
-      "collection_date": "2026-06-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:26-13",
-      "candidates": {
-        "Daniel Santos": 32,
-        "Hana Ghassan": 29,
-        "Mário Couto": 9,
-        "Araceli Lemos": 2,
-        "Cleber Rabelo": 3
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -4304,7 +4335,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IPSsensus",
       "collection_date": "2026-06-22",
@@ -4313,7 +4344,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-22",
       "candidates": {
-        "Allyson Bezerra": 27.3,
+        "Allyson": 27.3,
         "Álvaro Dias": 32.5,
         "Cadu de Lula": 16.8,
         "Robério Paulino": 2,
@@ -4321,7 +4352,7 @@
         "Dário Barbosa": 0.3
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -4422,31 +4453,6 @@
       }
     },
     {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "CTAS/Inove Notícias",
-      "collection_date": "2026-06-20",
-      "sample_size": 1224,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-14",
-      "candidates": {
-        "Fábio Mitidieri": 41.2,
-        "Valmir de Francisquinho": 26.7,
-        "Ricardo Marques": 6.2,
-        "Emanuel Cacho": 1.2
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -4457,7 +4463,7 @@
       "sample_size": 780,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Daniel Santos": 22.4,
         "Hana Ghassan": 25.6,
@@ -4469,6 +4475,31 @@
         "Hana Ghassan": "MDB",
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "CTAS/Inove Notícias",
+      "collection_date": "2026-06-20",
+      "sample_size": 1224,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-15",
+      "candidates": {
+        "Fábio Mitidieri": 41.2,
+        "Valmir de Francisquinho": 26.7,
+        "Ricardo Marques": 6.2,
+        "Emanuel Cacho": 1.2
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -4555,7 +4586,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Fábio Mitidieri": 34.95,
         "Valmir de Francisquinho": 41.5,
@@ -4619,7 +4650,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Seta",
       "collection_date": "2026-06-17",
@@ -4628,7 +4659,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-23",
       "candidates": {
-        "Allyson Bezerra": 40,
+        "Allyson": 40,
         "Álvaro Dias": 24.2,
         "Cadu de Lula": 12.9,
         "Robério Paulino": 0.7,
@@ -4636,7 +4667,7 @@
         "Dário Barbosa": 0.8
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -4772,10 +4803,68 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Doxa",
+      "collection_date": "2026-06-14",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:25-21",
+      "candidates": {
+        "Daniel Santos": 24.8,
+        "Hana Ghassan": 30.4,
+        "Mário Couto": 4.3,
+        "Araceli Lemos": 1.1,
+        "Cleber Rabelo": 1.4,
+        "Raquel Brício": 0.6
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Doxa",
+      "collection_date": "2026-06-14",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:25-21",
+      "candidates": {
+        "Daniel Santos": 24.5,
+        "Hana Ghassan": 29.1,
+        "Mário Couto": 3.6,
+        "Araceli Lemos": 1.2,
+        "Cleber Rabelo": 1,
+        "Raquel Brício": 0.5
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Metadata/Grupo Dial",
       "collection_date": "2026-06-14",
@@ -4784,7 +4873,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-24",
       "candidates": {
-        "Allyson Bezerra": 34.8,
+        "Allyson": 34.8,
         "Álvaro Dias": 22.8,
         "Cadu de Lula": 8.7,
         "Robério Paulino": 0.9,
@@ -4792,7 +4881,7 @@
         "Dário Barbosa": 0.9
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -4848,64 +4937,6 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Doxa",
-      "collection_date": "2026-06-14",
-      "sample_size": 2000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:25-18",
-      "candidates": {
-        "Daniel Santos": 24.8,
-        "Hana Ghassan": 30.4,
-        "Mário Couto": 4.3,
-        "Araceli Lemos": 1.1,
-        "Cleber Rabelo": 1.4,
-        "Raquel Brício": 0.6
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Doxa",
-      "collection_date": "2026-06-14",
-      "sample_size": 2000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:25-18",
-      "candidates": {
-        "Daniel Santos": 24.5,
-        "Hana Ghassan": 29.1,
-        "Mário Couto": 3.6,
-        "Araceli Lemos": 1.2,
-        "Cleber Rabelo": 1,
-        "Raquel Brício": 0.5
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
       }
     },
     {
@@ -5029,7 +5060,7 @@
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-17",
+      "source_url": "#cite_note-:3-18",
       "candidates": {
         "Fábio Mitidieri": 38.7,
         "Valmir de Francisquinho": 42.8,
@@ -5446,7 +5477,7 @@
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Fábio Mitidieri": 40.8,
         "Valmir de Francisquinho": 30.3,
@@ -5735,7 +5766,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-21",
+      "source_url": "#cite_note-:2-22",
       "candidates": {
         "Fábio Mitidieri": 44.7,
         "Valmir de Francisquinho": 38.7,
@@ -5802,58 +5833,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Agorasei/96FM",
-      "collection_date": "2026-05-31",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-25",
-      "candidates": {
-        "Allyson Bezerra": 39.8,
-        "Álvaro Dias": 22.1,
-        "Cadu de Lula": 11.4,
-        "Robério Paulino": 1.1,
-        "Rodrigo Bolsonaro": 0.9,
-        "Dário Barbosa": 0.3
-      },
-      "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Rodrigo Bolsonaro": "Agir",
-        "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-05-31",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Allyson Bezerra": 23.7,
-        "Álvaro Dias": 35.4,
-        "Cadu de Lula": 24.1
-      },
-      "parties": {
-        "Allyson Bezerra": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT"
-      }
-    },
-    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -5864,7 +5843,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-22",
+      "source_url": "#cite_note-Veritá3-25",
       "candidates": {
         "Daniel Santos": 52.5,
         "Hana Ghassan": 32,
@@ -5878,6 +5857,58 @@
         "Mário Couto": "DC",
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Agorasei/96FM",
+      "collection_date": "2026-05-31",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-25",
+      "candidates": {
+        "Allyson": 39.8,
+        "Álvaro Dias": 22.1,
+        "Cadu de Lula": 11.4,
+        "Robério Paulino": 1.1,
+        "Rodrigo Bolsonaro": 0.9,
+        "Dário Barbosa": 0.3
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-05-31",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Allyson": 23.7,
+        "Álvaro Dias": 35.4,
+        "Cadu de Lula": 24.1
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -5907,7 +5938,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Exatus/AgoraRN",
       "collection_date": "2026-05-29",
@@ -5916,14 +5947,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-27",
       "candidates": {
-        "Allyson Bezerra": 41.01,
+        "Allyson": 41.01,
         "Álvaro Dias": 22.75,
         "Cadu de Lula": 12.61,
         "Robério Paulino": 0.85,
         "Dário Barbosa": 0.9
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -6007,7 +6038,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Seta",
       "collection_date": "2026-05-28",
@@ -6016,7 +6047,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-28",
       "candidates": {
-        "Allyson Bezerra": 38,
+        "Allyson": 38,
         "Álvaro Dias": 22.8,
         "Cadu de Lula": 10.9,
         "Robério Paulino": 1,
@@ -6024,7 +6055,7 @@
         "Dário Barbosa": 1.1
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -6036,7 +6067,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Robério Paulino|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Robério Paulino|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-05-27",
@@ -6045,13 +6076,13 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
-        "Allyson Bezerra": 27.6,
+        "Allyson": 27.6,
         "Álvaro Dias": 27.3,
         "Cadu de Lula": 37.7,
         "Robério Paulino": 0.1
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL"
@@ -6061,7 +6092,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-05-27",
@@ -6070,14 +6101,14 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
-        "Allyson Bezerra": 27.4,
+        "Allyson": 27.4,
         "Álvaro Dias": 26.9,
         "Cadu de Lula": 38.6,
         "Robério Paulino": 0.1,
         "Rodrigo Bolsonaro": 0
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -6088,7 +6119,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Potengi/Media",
       "collection_date": "2026-05-27",
@@ -6097,7 +6128,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-30",
       "candidates": {
-        "Allyson Bezerra": 27.9,
+        "Allyson": 27.9,
         "Álvaro Dias": 30.5,
         "Cadu de Lula": 14.1,
         "Robério Paulino": 1.8,
@@ -6105,7 +6136,7 @@
         "Dário Barbosa": 0.2
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -6399,7 +6430,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-23",
+      "source_url": "#cite_note-:1-24",
       "candidates": {
         "Fábio Mitidieri": 41,
         "Valmir de Francisquinho": 38,
@@ -6424,7 +6455,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-24",
+      "source_url": "#cite_note-:24-27",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -6451,7 +6482,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-24",
+      "source_url": "#cite_note-:24-27",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -6469,7 +6500,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Data Census",
       "collection_date": "2026-05-23",
@@ -6478,7 +6509,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-31",
       "candidates": {
-        "Allyson Bezerra": 38.5,
+        "Allyson": 38.5,
         "Álvaro Dias": 19.8,
         "Cadu de Lula": 12.1,
         "Robério Paulino": 0.8,
@@ -6486,7 +6517,7 @@
         "Dário Barbosa": 0.5
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -6505,7 +6536,7 @@
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-25",
+      "source_url": "#cite_note-:0-26",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 39.72,
@@ -6550,7 +6581,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Item Consultoria e Pesquisa",
       "collection_date": "2026-05-22",
@@ -6559,7 +6590,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-:5-32",
       "candidates": {
-        "Allyson Bezerra": 37,
+        "Allyson": 37,
         "Álvaro Dias": 25.2,
         "Cadu de Lula": 16.4,
         "Robério Paulino": 1,
@@ -6567,7 +6598,7 @@
         "Dário Barbosa": 0.6
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -6652,7 +6683,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Affare",
       "collection_date": "2026-05-21",
@@ -6661,12 +6692,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-33",
       "candidates": {
-        "Allyson Bezerra": 28.6,
+        "Allyson": 28.6,
         "Álvaro Dias": 34.5,
         "Cadu de Lula": 24.4
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
       }
@@ -6975,7 +7006,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -7002,7 +7033,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -7330,7 +7361,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Metadata/Grupo Dial",
       "collection_date": "2026-05-09",
@@ -7339,7 +7370,7 @@
       "tse_registration": "",
       "source_url": "#cite_note-34",
       "candidates": {
-        "Allyson Bezerra": 35.5,
+        "Allyson": 35.5,
         "Álvaro Dias": 22.9,
         "Cadu de Lula": 6.6,
         "Robério Paulino": 1.4,
@@ -7347,7 +7378,7 @@
         "Dário Barbosa": 1.1
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -7359,7 +7390,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Veritá",
       "collection_date": "2026-05-08",
@@ -7368,12 +7399,12 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
-        "Allyson Bezerra": 26.2,
+        "Allyson": 26.2,
         "Álvaro Dias": 29.9,
         "Cadu de Lula": 22.9
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
       }
@@ -7483,7 +7514,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-29",
+      "source_url": "#cite_note-:23-32",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -7627,6 +7658,33 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-04-30",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá2-34",
+      "candidates": {
+        "Daniel Santos": 29.1,
+        "Hana Ghassan": 26.6,
+        "Mário Couto": 1,
+        "Araceli Lemos": 4,
+        "Cleber Rabelo": 0.7
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -7698,33 +7756,6 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-04-30",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-31",
-      "candidates": {
-        "Daniel Santos": 29.1,
-        "Hana Ghassan": 26.6,
-        "Mário Couto": 1,
-        "Araceli Lemos": 4,
-        "Cleber Rabelo": 0.7
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -7743,6 +7774,29 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Ampla",
+      "collection_date": "2026-04-29",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:22-36",
+      "candidates": {
+        "Daniel Santos": 35.2,
+        "Hana Ghassan": 26,
+        "Araceli Lemos": 3.4
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL"
       }
     },
     {
@@ -7799,29 +7853,6 @@
         "Sandro Alex": "PSD",
         "Tony Garcia": "DC",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Ampla",
-      "collection_date": "2026-04-29",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:22-33",
-      "candidates": {
-        "Daniel Santos": 35.2,
-        "Hana Ghassan": 26,
-        "Araceli Lemos": 3.4
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL"
       }
     },
     {
@@ -8243,7 +8274,7 @@
       "sample_size": 1312,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-SE04-27",
+      "source_url": "#cite_note-SE04-28",
       "candidates": {
         "Fábio Mitidieri": 37.27,
         "Valmir de Francisquinho": 44.59,
@@ -8587,6 +8618,58 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:20-38",
+      "candidates": {
+        "Daniel Santos": 22,
+        "Hana Ghassan": 19,
+        "Mário Couto": 11,
+        "Araceli Lemos": 2,
+        "Cleber Rabelo": 3
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:20-38",
+      "candidates": {
+        "Daniel Santos": 24,
+        "Hana Ghassan": 22,
+        "Araceli Lemos": 3,
+        "Cleber Rabelo": 5
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -8638,58 +8721,6 @@
         "Requião Filho": "PDT",
         "Sandro Alex": "PSD",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:20-35",
-      "candidates": {
-        "Daniel Santos": 22,
-        "Hana Ghassan": 19,
-        "Mário Couto": 11,
-        "Araceli Lemos": 2,
-        "Cleber Rabelo": 3
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:20-35",
-      "candidates": {
-        "Daniel Santos": 24,
-        "Hana Ghassan": 22,
-        "Araceli Lemos": 3,
-        "Cleber Rabelo": 5
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -8833,7 +8864,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Data Census",
       "collection_date": "2026-04-20",
@@ -8842,12 +8873,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-36",
       "candidates": {
-        "Allyson Bezerra": 40.4,
+        "Allyson": 40.4,
         "Álvaro Dias": 18.6,
         "Cadu de Lula": 13.8
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
       }
@@ -8863,7 +8894,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-28",
+      "source_url": "#cite_note-SE05-29",
       "candidates": {
         "Fábio Mitidieri": 35.3,
         "Valmir de Francisquinho": 39.9,
@@ -8906,7 +8937,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Exatus",
       "collection_date": "2026-04-17",
@@ -8915,14 +8946,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-38",
       "candidates": {
-        "Allyson Bezerra": 37.29,
+        "Allyson": 37.29,
         "Álvaro Dias": 24.91,
         "Cadu de Lula": 10.74,
         "Robério Paulino": 2.03,
         "Dário Barbosa": 0.68
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
@@ -9040,7 +9071,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-38",
+      "source_url": "#cite_note-:19-41",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -9067,7 +9098,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-38",
+      "source_url": "#cite_note-:19-41",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -9270,7 +9301,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Affare",
       "collection_date": "2026-04-11",
@@ -9279,12 +9310,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-40",
       "candidates": {
-        "Allyson Bezerra": 27.8,
+        "Allyson": 27.8,
         "Álvaro Dias": 32.6,
         "Cadu de Lula": 25
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
       }
@@ -9526,7 +9557,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Robério Paulino|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Robério Paulino|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Veritá",
       "collection_date": "2026-04-04",
@@ -9535,13 +9566,13 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
-        "Allyson Bezerra": 29.6,
+        "Allyson": 29.6,
         "Álvaro Dias": 27.5,
         "Cadu de Lula": 26.6,
         "Robério Paulino": 0.9
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL"
@@ -9558,7 +9589,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-30",
+      "source_url": "#cite_note-Veritá1-31",
       "candidates": {
         "Fábio Mitidieri": 44.2,
         "Valmir de Francisquinho": 34.5,
@@ -9753,6 +9784,52 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 1525,
+      "margin_error": null,
+      "tse_registration": "",
+      "source_url": "#cite_note-46",
+      "candidates": {
+        "Daniel Santos": 43.4,
+        "Hana Ghassan": 25.5,
+        "Mário Couto": 17.4
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 1525,
+      "margin_error": null,
+      "tse_registration": "",
+      "source_url": "#cite_note-46",
+      "candidates": {
+        "Daniel Santos": 31.8,
+        "Hana Ghassan": 18.7,
+        "Mário Couto": 12.7
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL"
       }
     },
     {
@@ -10038,52 +10115,6 @@
         "João Campos": "PSB",
         "Eduardo Moura": "NOVO",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 1525,
-      "margin_error": null,
-      "tse_registration": "",
-      "source_url": "#cite_note-43",
-      "candidates": {
-        "Daniel Santos": 43.4,
-        "Hana Ghassan": 25.5,
-        "Mário Couto": 17.4
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 1525,
-      "margin_error": null,
-      "tse_registration": "",
-      "source_url": "#cite_note-43",
-      "candidates": {
-        "Daniel Santos": 31.8,
-        "Hana Ghassan": 18.7,
-        "Mário Couto": 12.7
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL"
       }
     },
     {
@@ -10390,7 +10421,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Metadata/Grupo Dial",
       "collection_date": "2026-03-28",
@@ -10399,12 +10430,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-41",
       "candidates": {
-        "Allyson Bezerra": 28.8,
+        "Allyson": 28.8,
         "Álvaro Dias": 37.2,
         "Cadu de Lula": 10.7
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
       }
@@ -10615,7 +10646,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Data Ranking/Fonte83",
       "collection_date": "2026-03-26",
@@ -10624,12 +10655,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-:3-42",
       "candidates": {
-        "Allyson Bezerra": 39.2,
+        "Allyson": 39.2,
         "Álvaro Dias": 20.6,
         "Cadu de Lula": 9.1
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
       }
@@ -10933,31 +10964,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-03-21",
-      "sample_size": 1006,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-3-18",
-      "candidates": {
-        "Alan Rick": 40.36,
-        "Mailza Assis": 20.78,
-        "Tião Bocalom": 15.6,
-        "Thor Dantas": 2.68
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -10968,7 +10974,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-46",
+      "source_url": "#cite_note-:0-49",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -10995,7 +11001,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-46",
+      "source_url": "#cite_note-:0-49",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -11053,6 +11059,31 @@
         "Daniel Santos": "PODE",
         "Hana Ghassan": "MDB",
         "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-03-21",
+      "sample_size": 1006,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-3-18",
+      "candidates": {
+        "Alan Rick": 40.36,
+        "Mailza Assis": 20.78,
+        "Tião Bocalom": 15.6,
+        "Thor Dantas": 2.68
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -11211,7 +11242,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TN/Consult",
       "collection_date": "2026-03-18",
@@ -11220,12 +11251,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-:2-43",
       "candidates": {
-        "Allyson Bezerra": 29.24,
+        "Allyson": 29.24,
         "Álvaro Dias": 31.18,
         "Cadu de Lula": 6.35
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
       }
@@ -11295,7 +11326,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-32",
+      "source_url": "#cite_note-SE02-33",
       "candidates": {
         "Fábio Mitidieri": 42.88,
         "Valmir de Francisquinho": 35.03
@@ -11316,7 +11347,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-32",
+      "source_url": "#cite_note-SE02-33",
       "candidates": {
         "Fábio Mitidieri": 44.51,
         "Ricardo Marques": 21.63
@@ -11337,7 +11368,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-32",
+      "source_url": "#cite_note-SE02-33",
       "candidates": {
         "Fábio Mitidieri": 51.64,
         "Emanuel Cacho": 10.3
@@ -13022,7 +13053,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-58",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -13049,7 +13080,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-58",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -13157,7 +13188,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-59",
+      "source_url": "#cite_note-:1-62",
       "candidates": {
         "Daniel Santos": 32.1,
         "Hana Ghassan": 22.2,
@@ -13432,7 +13463,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Daniel Santos": 30.5,
         "Hana Ghassan": 20.3,
@@ -13457,7 +13488,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Daniel Santos": 20.7,
         "Hana Ghassan": 19.8,
@@ -13482,7 +13513,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Daniel Santos": 34.1,
         "Hana Ghassan": 19.2,
@@ -13507,7 +13538,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 32,
@@ -13532,7 +13563,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Daniel Santos": 23.2,
         "Hana Ghassan": 21.3,
@@ -13557,7 +13588,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Daniel Santos": 47.8,
         "Hana Ghassan": 19.1,
@@ -13582,7 +13613,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 23.2,
@@ -13652,7 +13683,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho",
+      "cenario": "Allyson|Cadu de Lula|Rogério Marinho",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "DataTrends",
       "collection_date": "2025-12-16",
@@ -13661,12 +13692,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-45",
       "candidates": {
-        "Allyson Bezerra": 36,
+        "Allyson": 36,
         "Rogério Marinho": 26,
         "Cadu de Lula": 10
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Rogério Marinho": "PL",
         "Cadu de Lula": "PT"
       }
@@ -13675,7 +13706,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "DataTrends",
       "collection_date": "2025-12-16",
@@ -13684,12 +13715,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-45",
       "candidates": {
-        "Allyson Bezerra": 39,
+        "Allyson": 39,
         "Álvaro Dias": 15,
         "Cadu de Lula": 10
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "Republicanos",
         "Cadu de Lula": "PT"
       }
@@ -13698,7 +13729,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "DataTrends",
       "collection_date": "2025-12-16",
@@ -13707,13 +13738,13 @@
       "tse_registration": "",
       "source_url": "#cite_note-45",
       "candidates": {
-        "Allyson Bezerra": 34,
+        "Allyson": 34,
         "Rogério Marinho": 15,
         "Álvaro Dias": 5,
         "Cadu de Lula": 9
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Rogério Marinho": "PL",
         "Álvaro Dias": "Republicanos",
         "Cadu de Lula": "PT"
@@ -13817,7 +13848,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho",
+      "cenario": "Allyson|Cadu de Lula|Rogério Marinho",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "TCM/TSDois",
       "collection_date": "2025-12-13",
@@ -13826,12 +13857,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-:0-46",
       "candidates": {
-        "Allyson Bezerra": 38.6,
+        "Allyson": 38.6,
         "Rogério Marinho": 19,
         "Cadu de Lula": 10.9
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Rogério Marinho": "PL",
         "Cadu de Lula": "PT"
       }
@@ -13840,7 +13871,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "TCM/TSDois",
       "collection_date": "2025-12-13",
@@ -13849,12 +13880,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-:0-46",
       "candidates": {
-        "Allyson Bezerra": 38.2,
+        "Allyson": 38.2,
         "Álvaro Dias": 15.1,
         "Cadu de Lula": 11.1
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "Republicanos",
         "Cadu de Lula": "PT"
       }
@@ -13863,7 +13894,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho",
+      "cenario": "Allyson|Cadu de Lula|Rogério Marinho",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "TCM/TSDois",
       "collection_date": "2025-12-13",
@@ -13872,12 +13903,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-:0-46",
       "candidates": {
-        "Allyson Bezerra": 35.9,
+        "Allyson": 35.9,
         "Rogério Marinho": 15.6,
         "Cadu de Lula": 10.2
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Rogério Marinho": "PL",
         "Cadu de Lula": "PT"
       }
@@ -14178,7 +14209,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-75",
+      "source_url": "#cite_note-:6-78",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -14201,7 +14232,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-75",
+      "source_url": "#cite_note-:6-78",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -14346,7 +14377,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho",
+      "cenario": "Allyson|Cadu de Lula|Rogério Marinho",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "Real Time Big Data",
       "collection_date": "2025-12-02",
@@ -14355,12 +14386,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-:1-48",
       "candidates": {
-        "Allyson Bezerra": 36,
+        "Allyson": 36,
         "Rogério Marinho": 34,
         "Cadu de Lula": 10
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Rogério Marinho": "PL",
         "Cadu de Lula": "PT"
       }
@@ -14369,7 +14400,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "Real Time Big Data",
       "collection_date": "2025-12-02",
@@ -14378,12 +14409,12 @@
       "tse_registration": "",
       "source_url": "#cite_note-:1-48",
       "candidates": {
-        "Allyson Bezerra": 42,
+        "Allyson": 42,
         "Álvaro Dias": 17,
         "Cadu de Lula": 11
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Álvaro Dias": "Republicanos",
         "Cadu de Lula": "PT"
       }
@@ -14399,7 +14430,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-81",
+      "source_url": "#cite_note-:7-84",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
@@ -14424,7 +14455,7 @@
       "sample_size": 600,
       "margin_error": 4,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-79",
+      "source_url": "#cite_note-:9-82",
       "candidates": {
         "Daniel Santos": 29.4,
         "Hana Ghassan": 19.8,
@@ -14817,7 +14848,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-33",
+      "source_url": "#cite_note-SE01-34",
       "candidates": {
         "Fábio Mitidieri": 46,
         "Valmir de Francisquinho": 33
@@ -14838,7 +14869,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-33",
+      "source_url": "#cite_note-SE01-34",
       "candidates": {
         "Fábio Mitidieri": 49,
         "Thiago de Joaldo": 26
@@ -14859,7 +14890,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-33",
+      "source_url": "#cite_note-SE01-34",
       "candidates": {
         "Fábio Mitidieri": 48,
         "Emília Corrêa": 32
@@ -14880,7 +14911,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-33",
+      "source_url": "#cite_note-SE01-34",
       "candidates": {
         "Fábio Mitidieri": 50,
         "Eduardo Amorim": 28
@@ -15212,7 +15243,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-89",
+      "source_url": "#cite_note-92",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -15235,7 +15266,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-89",
+      "source_url": "#cite_note-92",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -15565,7 +15596,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-94",
+      "source_url": "#cite_note-97",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -15586,7 +15617,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-94",
+      "source_url": "#cite_note-97",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -15607,7 +15638,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-94",
+      "source_url": "#cite_note-97",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -15628,7 +15659,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-94",
+      "source_url": "#cite_note-97",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -15829,7 +15860,7 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson Bezerra|Cadu de Lula|Rogério Marinho|Álvaro Dias",
+      "cenario": "Allyson|Cadu de Lula|Rogério Marinho|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "Paraná Pesquisas",
       "collection_date": "2025-09-10",
@@ -15838,13 +15869,13 @@
       "tse_registration": "",
       "source_url": "#cite_note-:-1-49",
       "candidates": {
-        "Allyson Bezerra": 30,
+        "Allyson": 30,
         "Rogério Marinho": 28.2,
         "Álvaro Dias": 16.1,
         "Cadu de Lula": 8.6
       },
       "parties": {
-        "Allyson Bezerra": "UNIÃO",
+        "Allyson": "UNIÃO",
         "Rogério Marinho": "PL",
         "Álvaro Dias": "Republicanos",
         "Cadu de Lula": "PT"
@@ -16311,7 +16342,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-103",
+      "source_url": "#cite_note-106",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -16334,7 +16365,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-103",
+      "source_url": "#cite_note-106",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -16449,7 +16480,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-112",
+      "source_url": "#cite_note-:11-115",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -16533,7 +16564,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-122",
+      "source_url": "#cite_note-:13-125",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -16554,7 +16585,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-125",
+      "source_url": "#cite_note-128",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -16575,7 +16606,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-125",
+      "source_url": "#cite_note-128",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -16596,7 +16627,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-130",
+      "source_url": "#cite_note-:14-133",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -16617,7 +16648,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-133",
+      "source_url": "#cite_note-:15-136",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -16824,7 +16855,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-136",
+      "source_url": "#cite_note-:16-139",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -17109,7 +17140,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-139",
+      "source_url": "#cite_note-:17-142",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10
