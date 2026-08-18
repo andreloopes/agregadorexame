@@ -1,6 +1,72 @@
 {
-  "atualizado_em": "2026-08-17",
+  "atualizado_em": "2026-08-18",
   "pesquisas": [
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-08-16",
+      "sample_size": 1520,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:16-1",
+      "candidates": {
+        "Sergio Moro": 46.1,
+        "Requião Filho": 23.4,
+        "Sandro Alex": 16.5,
+        "Luiz França": 0.6,
+        "Samuel de Mattos": 0.1,
+        "Adriano Teixeira": 0,
+        "Tayná Miessa": 0.6,
+        "Alexandre Salomão": 0.4
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Celina Leão|José Roberto Arruda|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli|Robson Raimundo|Samara Mineiro",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Igape",
+      "collection_date": "2026-08-15",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-1",
+      "candidates": {
+        "Celina Leão": 33.4,
+        "José Roberto Arruda": 23.7,
+        "Leandro Grass": 9.4,
+        "Ricardo Cappelli": 3.5,
+        "Paula Belmonte": 4.3,
+        "Samara Mineiro": 0.6,
+        "Kiko Caputo": 2.8,
+        "Robson Raimundo": 1.4
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "José Roberto Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Samara Mineiro": "UP",
+        "Kiko Caputo": "NOVO",
+        "Robson Raimundo": "PSTU"
+      }
+    },
     {
       "uf": "PA",
       "estado": "Pará",
@@ -31,6 +97,77 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-15",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:18-1",
+      "candidates": {
+        "Raquel Lyra": 43,
+        "João Campos": 43,
+        "Ivan Moraes": 2
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataTrends",
+      "collection_date": "2026-08-14",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:19-3",
+      "candidates": {
+        "Raquel Lyra": 44,
+        "João Campos": 35,
+        "Ivan Moraes": 1
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "DMP",
+      "collection_date": "2026-08-14",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-2",
+      "candidates": {
+        "Omar Aziz": 33.7,
+        "Maria do Carmo": 20.6,
+        "David Almeida": 16.3,
+        "Roberto Cidade": 18.8
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -57,6 +194,39 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "IRG",
+      "collection_date": "2026-08-12",
+      "sample_size": 1350,
+      "margin_error": 2.67,
+      "tse_registration": "",
+      "source_url": "#cite_note-:15-2",
+      "candidates": {
+        "Sergio Moro": 40.2,
+        "Requião Filho": 21,
+        "Sandro Alex": 24.8,
+        "Luiz França": 0.7,
+        "Samuel de Mattos": 0.3,
+        "Adriano Teixeira": 0.4,
+        "Tayná Miessa": 0.2,
+        "Alexandre Salomão": 0.1
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
       }
     },
     {
@@ -170,39 +340,6 @@
       }
     },
     {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "IRG",
-      "collection_date": "2026-08-12",
-      "sample_size": 1350,
-      "margin_error": 2.67,
-      "tse_registration": "",
-      "source_url": "#cite_note-:15-1",
-      "candidates": {
-        "Sergio Moro": 40.2,
-        "Requião Filho": 21,
-        "Sandro Alex": 24.8,
-        "Luiz França": 0.7,
-        "Samuel de Mattos": 0.3,
-        "Adriano Teixeira": 0.4,
-        "Tayná Miessa": 0.2,
-        "Alexandre Salomão": 0.1
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Luiz França": "MISSÃO",
-        "Samuel de Mattos": "PSTU",
-        "Adriano Teixeira": "PCO",
-        "Tayná Miessa": "UP",
-        "Alexandre Salomão": "MOBILIZA"
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -228,6 +365,60 @@
       }
     },
     {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Neokemp Pesquisas/OCP",
+      "collection_date": "2026-08-11",
+      "sample_size": 1008,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Sergio Moro": 45.7,
+        "Requião Filho": 23.2,
+        "Sandro Alex": 18.2,
+        "Luiz França": 2,
+        "Samuel de Mattos": 0.2,
+        "Adriano Teixeira": 0.5,
+        "Tayná Miessa": 1.2,
+        "Alexandre Salomão": 0.1
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Múltipla",
+      "collection_date": "2026-08-11",
+      "sample_size": 900,
+      "margin_error": 3.3,
+      "tse_registration": "",
+      "source_url": "#cite_note-4",
+      "candidates": {
+        "Raquel Lyra": 45,
+        "João Campos": 41
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -250,39 +441,6 @@
         "Elmano de Freitas": "PT",
         "Delegado Huggo": "MISSÃO",
         "Zé Batista": "PSTU"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Neokemp Pesquisas/OCP",
-      "collection_date": "2026-08-11",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-2",
-      "candidates": {
-        "Sergio Moro": 45.7,
-        "Requião Filho": 23.2,
-        "Sandro Alex": 18.2,
-        "Luiz França": 2,
-        "Samuel de Mattos": 0.2,
-        "Adriano Teixeira": 0.5,
-        "Tayná Miessa": 1.2,
-        "Alexandre Salomão": 0.1
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Luiz França": "MISSÃO",
-        "Samuel de Mattos": "PSTU",
-        "Adriano Teixeira": "PCO",
-        "Tayná Miessa": "UP",
-        "Alexandre Salomão": "MOBILIZA"
       }
     },
     {
@@ -340,27 +498,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Múltipla",
-      "collection_date": "2026-08-11",
-      "sample_size": 900,
-      "margin_error": 3.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-1",
-      "candidates": {
-        "Raquel Lyra": 45,
-        "João Campos": 41
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
-      }
-    },
-    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -414,6 +551,33 @@
         "Felipe Camarão": "PT",
         "Roberto Rocha": "PRTB",
         "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "Percent",
+      "collection_date": "2026-08-10",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Wellington Fagundes": 32,
+        "Otaviano Pivetta": 21,
+        "Natasha Slhessarenko": 11,
+        "Sargento Laudicério": 2.1,
+        "Rafaell Milas": 1.1
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Natasha Slhessarenko": "PSD",
+        "Sargento Laudicério": "Agir",
+        "Rafaell Milas": "MISSÃO"
       }
     },
     {
@@ -560,7 +724,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-5",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 19.5,
@@ -799,7 +963,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-5",
+      "source_url": "#cite_note-:14-6",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -893,6 +1057,39 @@
       }
     },
     {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Celina Leão|José Roberto Arruda|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli|Robson Raimundo|Samara Mineiro",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Correio/Opinião",
+      "collection_date": "2026-07-30",
+      "sample_size": 1109,
+      "margin_error": 3.3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:2-3",
+      "candidates": {
+        "Celina Leão": 32.4,
+        "José Roberto Arruda": 24,
+        "Leandro Grass": 9.8,
+        "Ricardo Cappelli": 4.3,
+        "Paula Belmonte": 3.5,
+        "Samara Mineiro": 0.9,
+        "Kiko Caputo": 0.8,
+        "Robson Raimundo": 0.5
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "José Roberto Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Samara Mineiro": "UP",
+        "Kiko Caputo": "NOVO",
+        "Robson Raimundo": "PSTU"
+      }
+    },
+    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -926,7 +1123,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-5",
+      "source_url": "#cite_note-:17-8",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 42,
@@ -936,39 +1133,6 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|José Roberto Arruda|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli|Robson Raimundo|Samara Mineiro",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Correio/Opinião",
-      "collection_date": "2026-07-30",
-      "sample_size": 1109,
-      "margin_error": 3.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-1",
-      "candidates": {
-        "Celina Leão": 32.4,
-        "José Roberto Arruda": 24,
-        "Leandro Grass": 9.8,
-        "Ricardo Cappelli": 4.3,
-        "Paula Belmonte": 3.5,
-        "Samara Mineiro": 0.9,
-        "Kiko Caputo": 0.8,
-        "Robson Raimundo": 0.5
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Samara Mineiro": "UP",
-        "Kiko Caputo": "NOVO",
-        "Robson Raimundo": "PSTU"
       }
     },
     {
@@ -998,6 +1162,29 @@
         "Wilson Witzel": "Democrata",
         "William Siri": "PSOL",
         "Anthony Garotinho": "Republicanos"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Badra",
+      "collection_date": "2026-07-29",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-10",
+      "candidates": {
+        "Raquel Lyra": 37.2,
+        "João Campos": 44.6,
+        "Ivan Moraes": 0.6
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -1104,29 +1291,6 @@
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Badra",
-      "collection_date": "2026-07-29",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-7",
-      "candidates": {
-        "Raquel Lyra": 37.2,
-        "João Campos": 44.6,
-        "Ivan Moraes": 0.6
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -1325,6 +1489,60 @@
       }
     },
     {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "IRG",
+      "collection_date": "2026-07-28",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-8",
+      "candidates": {
+        "Sergio Moro": 37.4,
+        "Requião Filho": 19.1,
+        "Sandro Alex": 16.5,
+        "Rafael Greca": 11.1,
+        "Tony Garcia": 0.4,
+        "Luiz França": 0.3
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Rafael Greca": "MDB",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-28",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:12-4",
+      "candidates": {
+        "Omar Aziz": 27.4,
+        "Maria do Carmo": 27.3,
+        "David Almeida": 13.3,
+        "Roberto Cidade": 15.5
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -1401,60 +1619,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "IRG",
-      "collection_date": "2026-07-28",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-7",
-      "candidates": {
-        "Sergio Moro": 37.4,
-        "Requião Filho": 19.1,
-        "Sandro Alex": 16.5,
-        "Rafael Greca": 11.1,
-        "Tony Garcia": 0.4,
-        "Luiz França": 0.3
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Rafael Greca": "MDB",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-07-28",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:12-2",
-      "candidates": {
-        "Omar Aziz": 27.4,
-        "Maria do Carmo": 27.3,
-        "David Almeida": 13.3,
-        "Roberto Cidade": 15.5
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -1545,7 +1709,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-9",
+      "source_url": "#cite_note-:16-12",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37,
@@ -1568,7 +1732,7 @@
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-12",
+      "source_url": "#cite_note-:14-15",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 40,
@@ -1720,6 +1884,87 @@
       }
     },
     {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-9",
+      "candidates": {
+        "Sergio Moro": 39,
+        "Requião Filho": 18,
+        "Sandro Alex": 7,
+        "Rafael Greca": 12,
+        "Tony Garcia": 1,
+        "Luiz França": 1
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Rafael Greca": "MDB",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-9",
+      "candidates": {
+        "Sergio Moro": 39,
+        "Requião Filho": 19,
+        "Sandro Alex": 8,
+        "Rafael Greca": 12,
+        "Luiz França": 1
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Rafael Greca": "MDB",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-9",
+      "candidates": {
+        "Sergio Moro": 40,
+        "Requião Filho": 24,
+        "Sandro Alex": 9,
+        "Luiz França": 2
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -1776,6 +2021,29 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Folha /IPESPE",
+      "collection_date": "2026-07-25",
+      "sample_size": 1000,
+      "margin_error": 3.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
+      "candidates": {
+        "Raquel Lyra": 46,
+        "João Campos": 44,
+        "Ivan Moraes": 1
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -1802,110 +2070,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:13-8",
-      "candidates": {
-        "Sergio Moro": 39,
-        "Requião Filho": 18,
-        "Sandro Alex": 7,
-        "Rafael Greca": 12,
-        "Tony Garcia": 1,
-        "Luiz França": 1
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Rafael Greca": "MDB",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:13-8",
-      "candidates": {
-        "Sergio Moro": 39,
-        "Requião Filho": 19,
-        "Sandro Alex": 8,
-        "Rafael Greca": 12,
-        "Luiz França": 1
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Rafael Greca": "MDB",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:13-8",
-      "candidates": {
-        "Sergio Moro": 40,
-        "Requião Filho": 24,
-        "Sandro Alex": 9,
-        "Luiz França": 2
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Folha /IPESPE",
-      "collection_date": "2026-07-25",
-      "sample_size": 1000,
-      "margin_error": 3.2,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
-      "candidates": {
-        "Raquel Lyra": 46,
-        "João Campos": 44,
-        "Ivan Moraes": 1
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -2109,6 +2273,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "Projeta",
+      "collection_date": "2026-07-23",
+      "sample_size": 3000,
+      "margin_error": 1.79,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-5",
+      "candidates": {
+        "Omar Aziz": 27,
+        "Maria do Carmo": 16.8,
+        "David Almeida": 17,
+        "Roberto Cidade": 23.4
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -2137,31 +2326,6 @@
         "Renato Gomes": "DC",
         "Jefferson Bezerra": "Agir",
         "Lucien Rezende": "PSOL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
-      "institute": "Projeta",
-      "collection_date": "2026-07-23",
-      "sample_size": 3000,
-      "margin_error": 1.79,
-      "tse_registration": "",
-      "source_url": "#cite_note-:11-3",
-      "candidates": {
-        "Omar Aziz": 27,
-        "Maria do Carmo": 16.8,
-        "David Almeida": 17,
-        "Roberto Cidade": 23.4
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -2194,33 +2358,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson|Cadu de Lula|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-07-21",
-      "sample_size": 1245,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Allyson": 25.1,
-        "Álvaro Dias": 27.7,
-        "Cadu de Lula": 36.3,
-        "Robério Paulino": 0.5,
-        "Rodrigo Bolsonaro": 0.1
-      },
-      "parties": {
-        "Allyson": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Rodrigo Bolsonaro": "Agir"
-      }
-    },
-    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -2231,7 +2368,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -2260,7 +2397,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -2274,6 +2411,33 @@
         "Sandro Alex": "PSD",
         "Tony Garcia": "DC",
         "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-07-21",
+      "sample_size": 1245,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Allyson": 25.1,
+        "Álvaro Dias": 27.7,
+        "Cadu de Lula": 36.3,
+        "Robério Paulino": 0.5,
+        "Rodrigo Bolsonaro": 0.1
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir"
       }
     },
     {
@@ -2410,7 +2574,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-13",
+      "source_url": "#cite_note-:13-16",
       "candidates": {
         "Raquel Lyra": 48.2,
         "João Campos": 36.5,
@@ -2925,6 +3089,29 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Conecta",
+      "collection_date": "2026-07-11",
+      "sample_size": 2100,
+      "margin_error": 2.14,
+      "tse_registration": "",
+      "source_url": "#cite_note-17",
+      "candidates": {
+        "Raquel Lyra": 42.4,
+        "João Campos": 40.4,
+        "Ivan Moraes": 0.4
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -2951,29 +3138,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Conecta",
-      "collection_date": "2026-07-11",
-      "sample_size": 2100,
-      "margin_error": 2.14,
-      "tse_registration": "",
-      "source_url": "#cite_note-14",
-      "candidates": {
-        "Raquel Lyra": 42.4,
-        "João Campos": 40.4,
-        "Ivan Moraes": 0.4
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -3094,6 +3258,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "Action",
+      "collection_date": "2026-07-10",
+      "sample_size": 2685,
+      "margin_error": 1.9,
+      "tse_registration": "",
+      "source_url": "#cite_note-:10-6",
+      "candidates": {
+        "Omar Aziz": 30,
+        "Maria do Carmo": 21,
+        "David Almeida": 18,
+        "Roberto Cidade": 21
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -3118,31 +3307,6 @@
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
-      "institute": "Action",
-      "collection_date": "2026-07-10",
-      "sample_size": 2685,
-      "margin_error": 1.9,
-      "tse_registration": "",
-      "source_url": "#cite_note-:10-4",
-      "candidates": {
-        "Omar Aziz": 30,
-        "Maria do Carmo": 21,
-        "David Almeida": 18,
-        "Roberto Cidade": 21
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -3523,6 +3687,62 @@
       }
     },
     {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-07-06",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-11",
+      "candidates": {
+        "Sergio Moro": 39.9,
+        "Requião Filho": 21.1,
+        "Sandro Alex": 10.4,
+        "Rafael Greca": 14.5,
+        "Tony Garcia": 1.5,
+        "Luiz França": 1.7
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Rafael Greca": "MDB",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-07-06",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-11",
+      "candidates": {
+        "Sergio Moro": 45.1,
+        "Requião Filho": 24.7,
+        "Sandro Alex": 13.1,
+        "Tony Garcia": 1.9,
+        "Luiz França": 2.3
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -3552,59 +3772,28 @@
       }
     },
     {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-06",
-      "sample_size": 1500,
-      "margin_error": 2.6,
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-05",
+      "sample_size": 1200,
+      "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-:7-7",
       "candidates": {
-        "Sergio Moro": 39.9,
-        "Requião Filho": 21.1,
-        "Sandro Alex": 10.4,
-        "Rafael Greca": 14.5,
-        "Tony Garcia": 1.5,
-        "Luiz França": 1.7
+        "Omar Aziz": 27.2,
+        "Maria do Carmo": 30.4,
+        "David Almeida": 13.5,
+        "Roberto Cidade": 12.7
       },
       "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Rafael Greca": "MDB",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-06",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-10",
-      "candidates": {
-        "Sergio Moro": 45.1,
-        "Requião Filho": 24.7,
-        "Sandro Alex": 13.1,
-        "Tony Garcia": 1.9,
-        "Luiz França": 2.3
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -3659,31 +3848,6 @@
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT",
         "Telêmaco Brandão": "NOVO"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-07-05",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-5",
-      "candidates": {
-        "Omar Aziz": 27.2,
-        "Maria do Carmo": 30.4,
-        "David Almeida": 13.5,
-        "Roberto Cidade": 12.7
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -3743,6 +3907,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "DMP",
+      "collection_date": "2026-07-02",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-9",
+      "candidates": {
+        "Omar Aziz": 33.9,
+        "Maria do Carmo": 18.3,
+        "David Almeida": 19.8,
+        "Roberto Cidade": 19.2
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -3796,31 +3985,6 @@
         "William Siri": "PSOL",
         "Bombeiro Rafa Luz": "MISSÃO",
         "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
-      "institute": "DMP",
-      "collection_date": "2026-07-02",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-7",
-      "candidates": {
-        "Omar Aziz": 33.9,
-        "Maria do Carmo": 18.3,
-        "David Almeida": 19.8,
-        "Roberto Cidade": 19.2
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -4034,7 +4198,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-12",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -4063,7 +4227,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-12",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -4090,7 +4254,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-12",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -4117,7 +4281,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-12",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -4140,7 +4304,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-12",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -4186,7 +4350,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-9",
+      "source_url": "#cite_note-:5-11",
       "candidates": {
         "Omar Aziz": 33,
         "Maria do Carmo": 19,
@@ -4263,7 +4427,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data2-18",
+      "source_url": "#cite_note-Numen_Data2-21",
       "candidates": {
         "Raquel Lyra": 51.17,
         "João Campos": 41.75,
@@ -4478,6 +4642,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "Direito ao Ponto",
+      "collection_date": "2026-06-20",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-13",
+      "candidates": {
+        "Omar Aziz": 28,
+        "Maria do Carmo": 20,
+        "David Almeida": 21,
+        "Roberto Cidade": 19
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -4523,31 +4712,6 @@
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL",
         "Olímpio Rocha": "PSOL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
-      "institute": "Direito ao Ponto",
-      "collection_date": "2026-06-20",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-11",
-      "candidates": {
-        "Omar Aziz": 28,
-        "Maria do Carmo": 20,
-        "David Almeida": 21,
-        "Roberto Cidade": 19
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -4767,7 +4931,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Raquel Lyra": 38,
         "João Campos": 43,
@@ -4861,6 +5025,29 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Folha /IPESPE",
+      "collection_date": "2026-06-14",
+      "sample_size": 1000,
+      "margin_error": 3.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
+      "candidates": {
+        "Raquel Lyra": 44,
+        "João Campos": 42,
+        "Ivan Moraes": 2
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -4917,26 +5104,59 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Folha /IPESPE",
-      "collection_date": "2026-06-14",
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "IRG Pesquisa",
+      "collection_date": "2026-06-13",
       "sample_size": 1000,
-      "margin_error": 3.2,
+      "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
+      "source_url": "#cite_note-:11-13",
       "candidates": {
-        "Raquel Lyra": 44,
-        "João Campos": 42,
-        "Ivan Moraes": 2
+        "Sergio Moro": 38.2,
+        "Requião Filho": 18.6,
+        "Sandro Alex": 14.4,
+        "Rafael Greca": 11.7,
+        "Tony Garcia": 0.9,
+        "Luiz França": 0.9
       },
       "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Rafael Greca": "MDB",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "IRG Pesquisa",
+      "collection_date": "2026-06-13",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-13",
+      "candidates": {
+        "Sergio Moro": 39.1,
+        "Requião Filho": 20.8,
+        "Sandro Alex": 27.5,
+        "Tony Garcia": 1,
+        "Luiz França": 1.2
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
       }
     },
     {
@@ -4991,62 +5211,6 @@
         "Renato Gomes": "DC",
         "Jefferson Bezerra": "Agir",
         "Lucien Rezende": "PSOL"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "IRG Pesquisa",
-      "collection_date": "2026-06-13",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:11-12",
-      "candidates": {
-        "Sergio Moro": 38.2,
-        "Requião Filho": 18.6,
-        "Sandro Alex": 14.4,
-        "Rafael Greca": 11.7,
-        "Tony Garcia": 0.9,
-        "Luiz França": 0.9
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Rafael Greca": "MDB",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "IRG Pesquisa",
-      "collection_date": "2026-06-13",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:11-12",
-      "candidates": {
-        "Sergio Moro": 39.1,
-        "Requião Filho": 20.8,
-        "Sandro Alex": 27.5,
-        "Tony Garcia": 1,
-        "Luiz França": 1.2
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
       }
     },
     {
@@ -5190,6 +5354,79 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-06-10",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:10-25",
+      "candidates": {
+        "Raquel Lyra": 40,
+        "João Campos": 45,
+        "Eduardo Moura": 0,
+        "Ivan Moraes": 3
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Eduardo Moura": "NOVO",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Badra",
+      "collection_date": "2026-06-10",
+      "sample_size": 1500,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-B-26",
+      "candidates": {
+        "Raquel Lyra": 41.1,
+        "João Campos": 44.2,
+        "Ivan Moraes": 0.8
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "Imediato/Iveritas",
+      "collection_date": "2026-06-10",
+      "sample_size": 1792,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-14",
+      "candidates": {
+        "Omar Aziz": 26.45,
+        "Maria do Carmo": 21.82,
+        "David Almeida": 19.81,
+        "Roberto Cidade": 16.07
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -5221,79 +5458,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-06-10",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:10-22",
-      "candidates": {
-        "Raquel Lyra": 40,
-        "João Campos": 45,
-        "Eduardo Moura": 0,
-        "Ivan Moraes": 3
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Badra",
-      "collection_date": "2026-06-10",
-      "sample_size": 1500,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-B-23",
-      "candidates": {
-        "Raquel Lyra": 41.1,
-        "João Campos": 44.2,
-        "Ivan Moraes": 0.8
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
-      "institute": "Imediato/Iveritas",
-      "collection_date": "2026-06-10",
-      "sample_size": 1792,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-12",
-      "candidates": {
-        "Omar Aziz": 26.45,
-        "Maria do Carmo": 21.82,
-        "David Almeida": 19.81,
-        "Roberto Cidade": 16.07
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
-      }
-    },
-    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -5304,7 +5468,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -5333,7 +5497,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -5502,7 +5666,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-16",
+      "source_url": "#cite_note-:10-17",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -5587,7 +5751,7 @@
       "sample_size": 1507,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-14",
+      "source_url": "#cite_note-:2-16",
       "candidates": {
         "Omar Aziz": 25.3,
         "Maria do Carmo": 18.8,
@@ -5612,7 +5776,7 @@
       "sample_size": 2996,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-15",
+      "source_url": "#cite_note-:1-17",
       "candidates": {
         "Omar Aziz": 25.1,
         "Maria do Carmo": 16.2,
@@ -6064,6 +6228,54 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-05-27",
+      "sample_size": 1022,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Raquel Lyra": 48,
+        "João Campos": 43,
+        "Ivan Moraes": 2
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Pontual",
+      "collection_date": "2026-05-27",
+      "sample_size": 3003,
+      "margin_error": 1.79,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-18",
+      "candidates": {
+        "Maria do Carmo": 20.1,
+        "Omar Aziz": 29.1,
+        "David Almeida": 20,
+        "Roberto Cidade": 22.1
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -6145,29 +6357,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Datafolha",
-      "collection_date": "2026-05-27",
-      "sample_size": 1022,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Raquel Lyra": 48,
-        "João Campos": 43,
-        "Ivan Moraes": 2
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
-      }
-    },
-    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -6196,17 +6385,17 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Pontual",
-      "collection_date": "2026-05-27",
-      "sample_size": 3003,
-      "margin_error": 1.79,
+      "institute": "Veritá",
+      "collection_date": "2026-05-26",
+      "sample_size": 1200,
+      "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-16",
+      "source_url": "#cite_note-:0-20",
       "candidates": {
-        "Maria do Carmo": 20.1,
-        "Omar Aziz": 29.1,
-        "David Almeida": 20,
-        "Roberto Cidade": 22.1
+        "Maria do Carmo": 41.4,
+        "Omar Aziz": 32.6,
+        "David Almeida": 12.2,
+        "Roberto Cidade": 11.4
       },
       "parties": {
         "Maria do Carmo": "PL",
@@ -6338,31 +6527,6 @@
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL",
         "Olímpio Rocha": "PSOL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Veritá",
-      "collection_date": "2026-05-26",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:0-18",
-      "candidates": {
-        "Maria do Carmo": 41.4,
-        "Omar Aziz": 32.6,
-        "David Almeida": 12.2,
-        "Roberto Cidade": 11.4
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -6578,6 +6742,79 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Ipen/G6",
+      "collection_date": "2026-05-22",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-22",
+      "candidates": {
+        "Maria do Carmo": 17.1,
+        "Omar Aziz": 34.6,
+        "David Almeida": 19.3
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Ipen/G6",
+      "collection_date": "2026-05-22",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-22",
+      "candidates": {
+        "Maria do Carmo": 15.6,
+        "Omar Aziz": 29.8,
+        "David Almeida": 16,
+        "Roberto Cidade": 14.9
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Comunidados",
+      "collection_date": "2026-05-22",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM06-25",
+      "candidates": {
+        "Maria do Carmo": 21,
+        "Omar Aziz": 32,
+        "David Almeida": 17,
+        "Roberto Cidade": 15
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -6604,79 +6841,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Ipen/G6",
-      "collection_date": "2026-05-22",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-20",
-      "candidates": {
-        "Maria do Carmo": 17.1,
-        "Omar Aziz": 34.6,
-        "David Almeida": 19.3
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Ipen/G6",
-      "collection_date": "2026-05-22",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-20",
-      "candidates": {
-        "Maria do Carmo": 15.6,
-        "Omar Aziz": 29.8,
-        "David Almeida": 16,
-        "Roberto Cidade": 14.9
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Comunidados",
-      "collection_date": "2026-05-22",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM06-23",
-      "candidates": {
-        "Maria do Carmo": 21,
-        "Omar Aziz": 32,
-        "David Almeida": 17,
-        "Roberto Cidade": 15
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -6713,7 +6877,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-17",
+      "source_url": "#cite_note-:9-18",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -6742,7 +6906,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-17",
+      "source_url": "#cite_note-:9-18",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -6769,7 +6933,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 39,
@@ -6875,7 +7039,7 @@
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-Action-27",
+      "source_url": "#cite_note-Action-29",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 31,
@@ -7058,7 +7222,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-24",
+      "source_url": "#cite_note-AM05-26",
       "candidates": {
         "Maria do Carmo": 38.4,
         "Omar Aziz": 27.5,
@@ -7083,7 +7247,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-24",
+      "source_url": "#cite_note-AM05-26",
       "candidates": {
         "Maria do Carmo": 45,
         "Omar Aziz": 30.1,
@@ -7266,7 +7430,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -7295,7 +7459,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -7322,7 +7486,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Maria do Carmo": 22,
         "Omar Aziz": 35,
@@ -7541,7 +7705,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-19",
+      "source_url": "#cite_note-Veritá2-20",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -7568,7 +7732,7 @@
       "sample_size": 4000,
       "margin_error": 1.6,
       "tse_registration": "",
-      "source_url": "#cite_note-DataTrends1-27",
+      "source_url": "#cite_note-DataTrends1-30",
       "candidates": {
         "Raquel Lyra": 36,
         "João Campos": 42,
@@ -7685,6 +7849,27 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-04-30",
+      "sample_size": 2010,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Raquel Lyra": 49.6,
+        "João Campos": 39.8
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -7707,27 +7892,6 @@
         "Marconi Perillo": "PSDB",
         "Adriana Accorsi": "PT",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-04-30",
-      "sample_size": 2010,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Raquel Lyra": 49.6,
-        "João Campos": 39.8
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
       }
     },
     {
@@ -7777,29 +7941,6 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Ampla",
-      "collection_date": "2026-04-29",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:22-36",
-      "candidates": {
-        "Daniel Santos": 35.2,
-        "Hana Ghassan": 26,
-        "Araceli Lemos": 3.4
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL"
-      }
-    },
-    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -7810,7 +7951,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -7839,7 +7980,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -7853,6 +7994,54 @@
         "Sandro Alex": "PSD",
         "Tony Garcia": "DC",
         "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Ampla",
+      "collection_date": "2026-04-29",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:22-36",
+      "candidates": {
+        "Daniel Santos": 35.2,
+        "Hana Ghassan": 26,
+        "Araceli Lemos": 3.4
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Veritá",
+      "collection_date": "2026-04-28",
+      "sample_size": 1202,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá2-31",
+      "candidates": {
+        "Maria do Carmo": 41,
+        "Omar Aziz": 34.5,
+        "David Almeida": 12.7,
+        "Roberto Cidade": 11.8
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -8057,31 +8246,6 @@
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL",
         "Olímpio Rocha": "PSOL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Veritá",
-      "collection_date": "2026-04-28",
-      "sample_size": 1202,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-29",
-      "candidates": {
-        "Maria do Carmo": 41,
-        "Omar Aziz": 34.5,
-        "David Almeida": 12.7,
-        "Roberto Cidade": 11.8
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -8416,7 +8580,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-30",
+      "source_url": "#cite_note-:8-33",
       "candidates": {
         "Raquel Lyra": 34,
         "João Campos": 42,
@@ -8618,6 +8782,60 @@
       }
     },
     {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-22",
+      "candidates": {
+        "Sergio Moro": 35,
+        "Requião Filho": 18,
+        "Sandro Alex": 5,
+        "Rafael Greca": 15,
+        "Tony Garcia": 1,
+        "Luiz França": 1
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Rafael Greca": "MDB",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-22",
+      "candidates": {
+        "Sergio Moro": 42,
+        "Requião Filho": 24,
+        "Sandro Alex": 6,
+        "Luiz França": 2
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -8667,60 +8885,6 @@
         "Hana Ghassan": "MDB",
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-21",
-      "candidates": {
-        "Sergio Moro": 35,
-        "Requião Filho": 18,
-        "Sandro Alex": 5,
-        "Rafael Greca": 15,
-        "Tony Garcia": 1,
-        "Luiz França": 1
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Rafael Greca": "MDB",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-21",
-      "candidates": {
-        "Sergio Moro": 42,
-        "Requião Filho": 24,
-        "Sandro Alex": 6,
-        "Luiz França": 2
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Luiz França": "MISSÃO"
       }
     },
     {
@@ -8919,7 +9083,7 @@
       "sample_size": 1100,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data1-31",
+      "source_url": "#cite_note-Numen_Data1-34",
       "candidates": {
         "Raquel Lyra": 45.1,
         "João Campos": 37.1,
@@ -9173,7 +9337,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -9202,7 +9366,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -9229,7 +9393,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -9256,7 +9420,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -9441,7 +9605,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-33",
+      "source_url": "#cite_note-:6-36",
       "candidates": {
         "Raquel Lyra": 33,
         "João Campos": 50,
@@ -9466,7 +9630,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Simplex1-34",
+      "source_url": "#cite_note-Simplex1-37",
       "candidates": {
         "Raquel Lyra": 42.3,
         "João Campos": 42.6,
@@ -9787,6 +9951,112 @@
       }
     },
     {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1254,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-24",
+      "candidates": {
+        "Sergio Moro": 51.5,
+        "Requião Filho": 28.4,
+        "Rafael Greca": 8.4,
+        "Guto Silva": 5.6,
+        "Luiz França": 2.9
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Rafael Greca": "MDB",
+        "Guto Silva": "PSD",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Alexandre Curi|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1254,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-24",
+      "candidates": {
+        "Sergio Moro": 52.8,
+        "Requião Filho": 27,
+        "Rafael Greca": 3.7,
+        "Alexandre Curi": 9.8,
+        "Luiz França": 3.3
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Rafael Greca": "MDB",
+        "Alexandre Curi": "Republicanos",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1254,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-24",
+      "candidates": {
+        "Sergio Moro": 52.6,
+        "Requião Filho": 28.8,
+        "Rafael Greca": 7,
+        "Luiz França": 2.7
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Rafael Greca": "MDB",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1254,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-24",
+      "candidates": {
+        "Sergio Moro": 52.1,
+        "Requião Filho": 30.6,
+        "Rafael Greca": 6.8,
+        "Guto Silva": 6.1,
+        "Luiz França": 2.4
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Rafael Greca": "MDB",
+        "Guto Silva": "PSD",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -9830,6 +10100,31 @@
         "Daniel Santos": "PODE",
         "Hana Ghassan": "MDB",
         "Mário Couto": "PL"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 2010,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Raquel Lyra": 41.4,
+        "João Campos": 41.4,
+        "Eduardo Moura": 2.9,
+        "Ivan Moraes": 4
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Eduardo Moura": "NOVO",
+        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -9984,137 +10279,6 @@
         "Fábio Trad": "PT",
         "João Henrique Catan": "NOVO",
         "Lucien Rezende": "PSOL"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1254,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-23",
-      "candidates": {
-        "Sergio Moro": 51.5,
-        "Requião Filho": 28.4,
-        "Rafael Greca": 8.4,
-        "Guto Silva": 5.6,
-        "Luiz França": 2.9
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Rafael Greca": "MDB",
-        "Guto Silva": "PSD",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Alexandre Curi|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1254,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-23",
-      "candidates": {
-        "Sergio Moro": 52.8,
-        "Requião Filho": 27,
-        "Rafael Greca": 3.7,
-        "Alexandre Curi": 9.8,
-        "Luiz França": 3.3
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Rafael Greca": "MDB",
-        "Alexandre Curi": "Republicanos",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1254,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-23",
-      "candidates": {
-        "Sergio Moro": 52.6,
-        "Requião Filho": 28.8,
-        "Rafael Greca": 7,
-        "Luiz França": 2.7
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Rafael Greca": "MDB",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1254,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-23",
-      "candidates": {
-        "Sergio Moro": 52.1,
-        "Requião Filho": 30.6,
-        "Rafael Greca": 6.8,
-        "Guto Silva": 6.1,
-        "Luiz França": 2.4
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Rafael Greca": "MDB",
-        "Guto Silva": "PSD",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 2010,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Raquel Lyra": 41.4,
-        "João Campos": 41.4,
-        "Eduardo Moura": 2.9,
-        "Ivan Moraes": 4
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -10762,6 +10926,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Tadeu de Souza",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Veritá",
+      "collection_date": "2026-03-24",
+      "sample_size": 1138,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM03-32",
+      "candidates": {
+        "Maria do Carmo": 40.8,
+        "Omar Aziz": 33.8,
+        "David Almeida": 23,
+        "Tadeu de Souza": 2.4
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Tadeu de Souza": "PP"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -10909,31 +11098,6 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Tadeu de Souza",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Veritá",
-      "collection_date": "2026-03-24",
-      "sample_size": 1138,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM03-30",
-      "candidates": {
-        "Maria do Carmo": 40.8,
-        "Omar Aziz": 33.8,
-        "David Almeida": 23,
-        "Tadeu de Souza": 2.4
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Tadeu de Souza": "PP"
       }
     },
     {
@@ -11097,7 +11261,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -11124,7 +11288,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -11151,7 +11315,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -11236,6 +11400,54 @@
         "Haddad": "PT",
         "d'Avila": "NOVO",
         "Kataguiri": "MISSÃO"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-18",
+      "sample_size": 1500,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM04-33",
+      "candidates": {
+        "Maria do Carmo": 27,
+        "Omar Aziz": 39,
+        "David Almeida": 22
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Tadeu de Souza",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-18",
+      "sample_size": 1500,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM04-33",
+      "candidates": {
+        "Maria do Carmo": 26,
+        "Omar Aziz": 37,
+        "David Almeida": 19,
+        "Tadeu de Souza": 8
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Tadeu de Souza": "PP"
       }
     },
     {
@@ -11462,54 +11674,6 @@
       }
     },
     {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-18",
-      "sample_size": 1500,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM04-31",
-      "candidates": {
-        "Maria do Carmo": 27,
-        "Omar Aziz": 39,
-        "David Almeida": 22
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Tadeu de Souza",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-18",
-      "sample_size": 1500,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM04-31",
-      "candidates": {
-        "Maria do Carmo": 26,
-        "Omar Aziz": 37,
-        "David Almeida": 19,
-        "Tadeu de Souza": 8
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Tadeu de Souza": "PP"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -11678,7 +11842,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-32",
+      "source_url": "#cite_note-AM02-34",
       "candidates": {
         "Maria do Carmo": 41.8,
         "Omar Aziz": 40.4,
@@ -11703,7 +11867,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-32",
+      "source_url": "#cite_note-AM02-34",
       "candidates": {
         "Maria do Carmo": 42.2,
         "Omar Aziz": 40.6,
@@ -11726,7 +11890,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-32",
+      "source_url": "#cite_note-AM02-34",
       "candidates": {
         "Maria do Carmo": 42.8,
         "Omar Aziz": 40.5,
@@ -11989,6 +12153,29 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Quaest",
+      "collection_date": "2026-03-11",
+      "sample_size": 1500,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM01-35",
+      "candidates": {
+        "Maria do Carmo": 21,
+        "Omar Aziz": 33,
+        "David Almeida": 23
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -12011,29 +12198,6 @@
         "Jerônimo": "PT",
         "José Carlos Aleluia": "NOVO",
         "Ronaldo Mansur": "PSOL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Quaest",
-      "collection_date": "2026-03-11",
-      "sample_size": 1500,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM01-33",
-      "candidates": {
-        "Maria do Carmo": 21,
-        "Omar Aziz": 33,
-        "David Almeida": 23
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -12486,7 +12650,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-27",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -12515,7 +12679,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-27",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -12544,7 +12708,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-27",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -12652,7 +12816,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-37",
+      "source_url": "#cite_note-:-1-40",
       "candidates": {
         "Raquel Lyra": 35,
         "João Campos": 48,
@@ -12723,7 +12887,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-39",
+      "source_url": "#cite_note-:3-42",
       "candidates": {
         "Raquel Lyra": 31,
         "João Campos": 51,
@@ -12748,7 +12912,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Raquel Lyra": 29,
         "João Campos": 42,
@@ -13282,7 +13446,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-27",
+      "source_url": "#cite_note-:5-28",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -13309,7 +13473,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-27",
+      "source_url": "#cite_note-:5-28",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -13336,7 +13500,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-27",
+      "source_url": "#cite_note-:5-28",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -13438,7 +13602,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-42",
+      "source_url": "#cite_note-:2-45",
       "candidates": {
         "Raquel Lyra": 27,
         "João Campos": 56,
@@ -14115,7 +14279,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-17",
+      "source_url": "#cite_note-DF01-19",
       "candidates": {
         "Celina Leão": 40,
         "José Roberto Arruda": 21,
@@ -14142,7 +14306,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-17",
+      "source_url": "#cite_note-DF01-19",
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
@@ -14781,7 +14945,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-22",
       "candidates": {
         "Wellington Fagundes": 43,
         "Otaviano Pivetta": 17
@@ -14802,7 +14966,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-22",
       "candidates": {
         "Wellington Fagundes": 44,
         "Otaviano Pivetta": 18,
@@ -14825,7 +14989,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-22",
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 15,

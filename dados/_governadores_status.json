@@ -1,9 +1,9 @@
 {
-  "ultima_execucao": "2026-08-17T11:37:18.066Z",
+  "ultima_execucao": "2026-08-18T11:37:07.784Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 672,
-  "pesquisas_usadas": 672,
-  "estados_com_agregado": 23,
+  "pesquisas_extraidas_brutas": 678,
+  "pesquisas_usadas": 678,
+  "estados_com_agregado": 25,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
     "AC": [
@@ -57,7 +57,7 @@
           "Omar Aziz",
           "Roberto Cidade"
         ],
-        "pesquisas": 18
+        "pesquisas": 19
       },
       {
         "candidatos": [
@@ -185,7 +185,7 @@
           "Robson Raimundo",
           "Samara Mineiro"
         ],
-        "pesquisas": 1
+        "pesquisas": 2
       },
       {
         "candidatos": [
@@ -335,6 +335,8 @@
         "candidatos": [
           "Natasha Slhessarenko",
           "Otaviano Pivetta",
+          "Rafaell Milas",
+          "Sargento Laudicério",
           "Wellington Fagundes"
         ],
         "pesquisas": 2
@@ -343,11 +345,9 @@
         "candidatos": [
           "Natasha Slhessarenko",
           "Otaviano Pivetta",
-          "Rafaell Milas",
-          "Sargento Laudicério",
           "Wellington Fagundes"
         ],
-        "pesquisas": 1
+        "pesquisas": 2
       },
       {
         "candidatos": [
@@ -572,16 +572,6 @@
       },
       {
         "candidatos": [
-          "Guto Silva",
-          "Luiz França",
-          "Rafael Greca",
-          "Requião Filho",
-          "Sergio Moro"
-        ],
-        "pesquisas": 3
-      },
-      {
-        "candidatos": [
           "Adriano Teixeira",
           "Alexandre Salomão",
           "Luiz França",
@@ -591,7 +581,17 @@
           "Sergio Moro",
           "Tayná Miessa"
         ],
-        "pesquisas": 2
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "Guto Silva",
+          "Luiz França",
+          "Rafael Greca",
+          "Requião Filho",
+          "Sergio Moro"
+        ],
+        "pesquisas": 3
       },
       {
         "candidatos": [
@@ -611,7 +611,7 @@
           "João Campos",
           "Raquel Lyra"
         ],
-        "pesquisas": 16
+        "pesquisas": 18
       },
       {
         "candidatos": [
@@ -1096,7 +1096,7 @@
     "AM": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "status": "ok",
-      "pesquisas": 27,
+      "pesquisas": 28,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
     },
     "BA": {
@@ -1114,7 +1114,7 @@
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "status": "ok",
-      "pesquisas": 3,
+      "pesquisas": 4,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
@@ -1138,7 +1138,7 @@
     "MT": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "status": "ok",
-      "pesquisas": 6,
+      "pesquisas": 7,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso"
     },
     "MS": {
@@ -1168,13 +1168,13 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 48,
+      "pesquisas": 49,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "status": "ok",
-      "pesquisas": 30,
+      "pesquisas": 32,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
     },
     "PI": {

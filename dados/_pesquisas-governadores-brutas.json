@@ -1,6 +1,72 @@
 {
-  "atualizado_em": "2026-08-17",
+  "atualizado_em": "2026-08-18",
   "pesquisas": [
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-08-16",
+      "sample_size": 1520,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:16-1",
+      "candidates": {
+        "Sergio Moro": 46.1,
+        "Requião Filho": 23.4,
+        "Sandro Alex": 16.5,
+        "Luiz França": 0.6,
+        "Samuel de Mattos": 0.1,
+        "Adriano Teixeira": 0,
+        "Tayná Miessa": 0.6,
+        "Alexandre Salomão": 0.4
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Celina Leão|José Roberto Arruda|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli|Robson Raimundo|Samara Mineiro",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Igape",
+      "collection_date": "2026-08-15",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-1",
+      "candidates": {
+        "Celina Leão": 33.4,
+        "José Roberto Arruda": 23.7,
+        "Leandro Grass": 9.4,
+        "Ricardo Cappelli": 3.5,
+        "Paula Belmonte": 4.3,
+        "Samara Mineiro": 0.6,
+        "Kiko Caputo": 2.8,
+        "Robson Raimundo": 1.4
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "José Roberto Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Samara Mineiro": "UP",
+        "Kiko Caputo": "NOVO",
+        "Robson Raimundo": "PSTU"
+      }
+    },
     {
       "uf": "PA",
       "estado": "Pará",
@@ -28,6 +94,77 @@
         "Gal Leite": "UP",
         "Robertinho": "PRTB",
         "José Moita": "Democrata"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-15",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:18-1",
+      "candidates": {
+        "Raquel Lyra": 43,
+        "João Campos": 43,
+        "Ivan Moraes": 2
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Agosto",
+      "institute": "DMP",
+      "collection_date": "2026-08-14",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-2",
+      "candidates": {
+        "Omar Aziz": 33.7,
+        "Maria do Carmo": 20.6,
+        "David Almeida": 16.3,
+        "Roberto Cidade": 18.8
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataTrends",
+      "collection_date": "2026-08-14",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:19-3",
+      "candidates": {
+        "Raquel Lyra": 44,
+        "João Campos": 35,
+        "Ivan Moraes": 1
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -151,7 +288,7 @@
       "sample_size": 1350,
       "margin_error": 2.67,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-1",
+      "source_url": "#cite_note-:15-2",
       "candidates": {
         "Sergio Moro": 40.2,
         "Requião Filho": 21,
@@ -317,7 +454,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-2",
+      "source_url": "#cite_note-3",
       "candidates": {
         "Sergio Moro": 45.7,
         "Requião Filho": 23.2,
@@ -350,7 +487,7 @@
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-1",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Raquel Lyra": 45,
         "João Campos": 41
@@ -435,6 +572,33 @@
         "Felipe Camarão": "PT",
         "Roberto Rocha": "PRTB",
         "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "Percent",
+      "collection_date": "2026-08-10",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Wellington Fagundes": 32,
+        "Otaviano Pivetta": 21,
+        "Natasha Slhessarenko": 11,
+        "Sargento Laudicério": 2.1,
+        "Rafaell Milas": 1.1
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Natasha Slhessarenko": "PSD",
+        "Sargento Laudicério": "Agir",
+        "Rafaell Milas": "MISSÃO"
       }
     },
     {
@@ -585,7 +749,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-5",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 19.5,
@@ -799,7 +963,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-5",
+      "source_url": "#cite_note-:14-6",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -903,7 +1067,7 @@
       "sample_size": 1109,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-1",
+      "source_url": "#cite_note-:2-3",
       "candidates": {
         "Celina Leão": 32.4,
         "José Roberto Arruda": 24,
@@ -959,7 +1123,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-5",
+      "source_url": "#cite_note-:17-8",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 42,
@@ -1254,7 +1418,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-7",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Raquel Lyra": 37.2,
         "João Campos": 44.6,
@@ -1335,7 +1499,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-2",
+      "source_url": "#cite_note-:12-4",
       "candidates": {
         "Omar Aziz": 27.4,
         "Maria do Carmo": 27.3,
@@ -1412,7 +1576,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-7",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -1684,7 +1848,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-9",
+      "source_url": "#cite_note-:16-12",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37,
@@ -1707,7 +1871,7 @@
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-12",
+      "source_url": "#cite_note-:14-15",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 40,
@@ -1834,7 +1998,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-8",
+      "source_url": "#cite_note-:13-9",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -1863,7 +2027,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-8",
+      "source_url": "#cite_note-:13-9",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -1890,7 +2054,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-8",
+      "source_url": "#cite_note-:13-9",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -2119,7 +2283,7 @@
       "sample_size": 3000,
       "margin_error": 1.79,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-3",
+      "source_url": "#cite_note-:11-5",
       "candidates": {
         "Omar Aziz": 27,
         "Maria do Carmo": 16.8,
@@ -2327,7 +2491,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -2356,7 +2520,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -2431,7 +2595,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-13",
+      "source_url": "#cite_note-:13-16",
       "candidates": {
         "Raquel Lyra": 48.2,
         "João Campos": 36.5,
@@ -2956,7 +3120,7 @@
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Raquel Lyra": 42.4,
         "João Campos": 40.4,
@@ -3033,7 +3197,7 @@
       "sample_size": 2685,
       "margin_error": 1.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-4",
+      "source_url": "#cite_note-:10-6",
       "candidates": {
         "Omar Aziz": 30,
         "Maria do Carmo": 21,
@@ -3533,7 +3697,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -3562,7 +3726,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -3618,7 +3782,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-5",
+      "source_url": "#cite_note-:7-7",
       "candidates": {
         "Omar Aziz": 27.2,
         "Maria do Carmo": 30.4,
@@ -3753,7 +3917,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-7",
+      "source_url": "#cite_note-:6-9",
       "candidates": {
         "Omar Aziz": 33.9,
         "Maria do Carmo": 18.3,
@@ -4034,7 +4198,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-12",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -4063,7 +4227,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-12",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -4090,7 +4254,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-12",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -4117,7 +4281,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-12",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -4140,7 +4304,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-12",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -4186,7 +4350,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-9",
+      "source_url": "#cite_note-:5-11",
       "candidates": {
         "Omar Aziz": 33,
         "Maria do Carmo": 19,
@@ -4263,7 +4427,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data2-18",
+      "source_url": "#cite_note-Numen_Data2-21",
       "candidates": {
         "Raquel Lyra": 51.17,
         "João Campos": 41.75,
@@ -4463,7 +4627,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Omar Aziz": 28,
         "Maria do Carmo": 20,
@@ -4767,7 +4931,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Raquel Lyra": 38,
         "João Campos": 43,
@@ -5052,7 +5216,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-12",
+      "source_url": "#cite_note-:11-13",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -5081,7 +5245,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-12",
+      "source_url": "#cite_note-:11-13",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -5200,7 +5364,7 @@
       "sample_size": 1792,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-12",
+      "source_url": "#cite_note-:3-14",
       "candidates": {
         "Omar Aziz": 26.45,
         "Maria do Carmo": 21.82,
@@ -5256,7 +5420,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-22",
+      "source_url": "#cite_note-:10-25",
       "candidates": {
         "Raquel Lyra": 40,
         "João Campos": 45,
@@ -5281,7 +5445,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-B-23",
+      "source_url": "#cite_note-:9-B-26",
       "candidates": {
         "Raquel Lyra": 41.1,
         "João Campos": 44.2,
@@ -5350,7 +5514,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -5379,7 +5543,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -5527,7 +5691,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-16",
+      "source_url": "#cite_note-:10-17",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -5587,7 +5751,7 @@
       "sample_size": 1507,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-14",
+      "source_url": "#cite_note-:2-16",
       "candidates": {
         "Omar Aziz": 25.3,
         "Maria do Carmo": 18.8,
@@ -5612,7 +5776,7 @@
       "sample_size": 2996,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-15",
+      "source_url": "#cite_note-:1-17",
       "candidates": {
         "Omar Aziz": 25.1,
         "Maria do Carmo": 16.2,
@@ -6074,7 +6238,7 @@
       "sample_size": 3003,
       "margin_error": 1.79,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-16",
+      "source_url": "#cite_note-:8-18",
       "candidates": {
         "Maria do Carmo": 20.1,
         "Omar Aziz": 29.1,
@@ -6226,7 +6390,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-18",
+      "source_url": "#cite_note-:0-20",
       "candidates": {
         "Maria do Carmo": 41.4,
         "Omar Aziz": 32.6,
@@ -6588,7 +6752,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Maria do Carmo": 17.1,
         "Omar Aziz": 34.6,
@@ -6611,7 +6775,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Maria do Carmo": 15.6,
         "Omar Aziz": 29.8,
@@ -6636,7 +6800,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-AM06-23",
+      "source_url": "#cite_note-AM06-25",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 32,
@@ -6769,7 +6933,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-17",
+      "source_url": "#cite_note-:9-18",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -6798,7 +6962,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-17",
+      "source_url": "#cite_note-:9-18",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -6825,7 +6989,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 39,
@@ -6875,7 +7039,7 @@
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-Action-27",
+      "source_url": "#cite_note-Action-29",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 31,
@@ -7006,7 +7170,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-24",
+      "source_url": "#cite_note-AM05-26",
       "candidates": {
         "Maria do Carmo": 38.4,
         "Omar Aziz": 27.5,
@@ -7031,7 +7195,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-24",
+      "source_url": "#cite_note-AM05-26",
       "candidates": {
         "Maria do Carmo": 45,
         "Omar Aziz": 30.1,
@@ -7287,7 +7451,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Maria do Carmo": 22,
         "Omar Aziz": 35,
@@ -7312,7 +7476,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -7341,7 +7505,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -7597,7 +7761,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-19",
+      "source_url": "#cite_note-Veritá2-20",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -7624,7 +7788,7 @@
       "sample_size": 4000,
       "margin_error": 1.6,
       "tse_registration": "",
-      "source_url": "#cite_note-DataTrends1-27",
+      "source_url": "#cite_note-DataTrends1-30",
       "candidates": {
         "Raquel Lyra": 36,
         "João Campos": 42,
@@ -7810,7 +7974,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -7839,7 +8003,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -7866,7 +8030,7 @@
       "sample_size": 1202,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-29",
+      "source_url": "#cite_note-Veritá2-31",
       "candidates": {
         "Maria do Carmo": 41,
         "Omar Aziz": 34.5,
@@ -8574,7 +8738,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-30",
+      "source_url": "#cite_note-:8-33",
       "candidates": {
         "Raquel Lyra": 34,
         "João Campos": 42,
@@ -8680,7 +8844,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-21",
+      "source_url": "#cite_note-:8-22",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -8709,7 +8873,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-21",
+      "source_url": "#cite_note-:8-22",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -8919,7 +9083,7 @@
       "sample_size": 1100,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data1-31",
+      "source_url": "#cite_note-Numen_Data1-34",
       "candidates": {
         "Raquel Lyra": 45.1,
         "João Campos": 37.1,
@@ -9173,7 +9337,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -9202,7 +9366,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -9229,7 +9393,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -9256,7 +9420,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -9441,7 +9605,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-33",
+      "source_url": "#cite_note-:6-36",
       "candidates": {
         "Raquel Lyra": 33,
         "João Campos": 50,
@@ -9466,7 +9630,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Simplex1-34",
+      "source_url": "#cite_note-Simplex1-37",
       "candidates": {
         "Raquel Lyra": 42.3,
         "João Campos": 42.6,
@@ -10130,7 +10294,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-23",
+      "source_url": "#cite_note-:7-24",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -10157,7 +10321,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-23",
+      "source_url": "#cite_note-:7-24",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -10184,7 +10348,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-23",
+      "source_url": "#cite_note-:7-24",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -10209,7 +10373,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-23",
+      "source_url": "#cite_note-:7-24",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -10797,7 +10961,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM03-30",
+      "source_url": "#cite_note-AM03-32",
       "candidates": {
         "Maria do Carmo": 40.8,
         "Omar Aziz": 33.8,
@@ -11097,7 +11261,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -11124,7 +11288,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -11151,7 +11315,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -11249,7 +11413,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-AM04-31",
+      "source_url": "#cite_note-AM04-33",
       "candidates": {
         "Maria do Carmo": 27,
         "Omar Aziz": 39,
@@ -11272,7 +11436,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-AM04-31",
+      "source_url": "#cite_note-AM04-33",
       "candidates": {
         "Maria do Carmo": 26,
         "Omar Aziz": 37,
@@ -11678,7 +11842,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-32",
+      "source_url": "#cite_note-AM02-34",
       "candidates": {
         "Maria do Carmo": 41.8,
         "Omar Aziz": 40.4,
@@ -11703,7 +11867,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-32",
+      "source_url": "#cite_note-AM02-34",
       "candidates": {
         "Maria do Carmo": 42.2,
         "Omar Aziz": 40.6,
@@ -11726,7 +11890,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-32",
+      "source_url": "#cite_note-AM02-34",
       "candidates": {
         "Maria do Carmo": 42.8,
         "Omar Aziz": 40.5,
@@ -11999,7 +12163,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM01-33",
+      "source_url": "#cite_note-AM01-35",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 33,
@@ -12486,7 +12650,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-27",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -12515,7 +12679,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-27",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -12544,7 +12708,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-26",
+      "source_url": "#cite_note-:1-27",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -12652,7 +12816,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-37",
+      "source_url": "#cite_note-:-1-40",
       "candidates": {
         "Raquel Lyra": 35,
         "João Campos": 48,
@@ -12723,7 +12887,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-39",
+      "source_url": "#cite_note-:3-42",
       "candidates": {
         "Raquel Lyra": 31,
         "João Campos": 51,
@@ -12748,7 +12912,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Raquel Lyra": 29,
         "João Campos": 42,
@@ -13282,7 +13446,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-27",
+      "source_url": "#cite_note-:5-28",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -13309,7 +13473,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-27",
+      "source_url": "#cite_note-:5-28",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -13336,7 +13500,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-27",
+      "source_url": "#cite_note-:5-28",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -13438,7 +13602,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-42",
+      "source_url": "#cite_note-:2-45",
       "candidates": {
         "Raquel Lyra": 27,
         "João Campos": 56,
@@ -14157,7 +14321,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-17",
+      "source_url": "#cite_note-DF01-19",
       "candidates": {
         "Celina Leão": 40,
         "José Roberto Arruda": 21,
@@ -14184,7 +14348,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-17",
+      "source_url": "#cite_note-DF01-19",
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
@@ -14781,7 +14945,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-22",
       "candidates": {
         "Wellington Fagundes": 43,
         "Otaviano Pivetta": 17
@@ -14802,7 +14966,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-22",
       "candidates": {
         "Wellington Fagundes": 44,
         "Otaviano Pivetta": 18,
@@ -14825,7 +14989,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-22",
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 15,
