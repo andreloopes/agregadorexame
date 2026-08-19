@@ -1,6 +1,116 @@
 {
-  "atualizado_em": "2026-08-18",
+  "atualizado_em": "2026-08-19",
   "pesquisas": [
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Celina Leão|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-18",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-1",
+      "candidates": {
+        "Celina Leão": 34,
+        "José Roberto Arruda": 32,
+        "Leandro Grass": 18,
+        "Ricardo Cappelli": 5,
+        "Paula Belmonte": 6
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "José Roberto Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Celina Leão|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-18",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-1",
+      "candidates": {
+        "Celina Leão": 45,
+        "Leandro Grass": 20,
+        "Ricardo Cappelli": 10,
+        "Paula Belmonte": 6
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-08-17",
+      "sample_size": 1240,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:15-1",
+      "candidates": {
+        "Daniel Vilela": 45.8,
+        "Marconi Perillo": 24.9,
+        "Wilder Morais": 13.2,
+        "Luis Cesar Bueno": 2.3
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-17",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:17-1",
+      "candidates": {
+        "Sergio Moro": 37,
+        "Requião Filho": 20,
+        "Sandro Alex": 22,
+        "Luiz França": 2,
+        "Samuel de Mattos": 1,
+        "Adriano Teixeira": 1,
+        "Tayná Miessa": 1,
+        "Alexandre Salomão": 1
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
     {
       "uf": "PR",
       "estado": "Paraná",
@@ -12,7 +122,7 @@
       "sample_size": 1520,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-1",
+      "source_url": "#cite_note-:16-3",
       "candidates": {
         "Sergio Moro": 46.1,
         "Requião Filho": 23.4,
@@ -45,7 +155,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-1",
+      "source_url": "#cite_note-:3-4",
       "candidates": {
         "Celina Leão": 33.4,
         "José Roberto Arruda": 23.7,
@@ -197,6 +307,56 @@
       }
     },
     {
+      "uf": "PI",
+      "estado": "Piauí",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
+      "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "GP1",
+      "collection_date": "2026-08-13",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Rafael Fonteles": 50.6,
+        "Joel Rodrigues": 16.3,
+        "Elizeu Aguiar": 0.7,
+        "Gisvaldo Oliveira": 0.2
+      },
+      "parties": {
+        "Rafael Fonteles": "PT",
+        "Joel Rodrigues": "PP",
+        "Elizeu Aguiar": "NOVO",
+        "Gisvaldo Oliveira": "PSOL"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Goiás Pesquisas/Mais Goiás",
+      "collection_date": "2026-08-12",
+      "sample_size": 1150,
+      "margin_error": 2.89,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Daniel Vilela": 37.2,
+        "Marconi Perillo": 18.8,
+        "Wilder Morais": 18.9,
+        "Luis Cesar Bueno": 9
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -207,7 +367,7 @@
       "sample_size": 1350,
       "margin_error": 2.67,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-2",
+      "source_url": "#cite_note-:15-4",
       "candidates": {
         "Sergio Moro": 40.2,
         "Requião Filho": 21,
@@ -284,31 +444,6 @@
       }
     },
     {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Goiás Pesquisas/Mais Goiás",
-      "collection_date": "2026-08-12",
-      "sample_size": 1150,
-      "margin_error": 2.89,
-      "tse_registration": "",
-      "source_url": "#cite_note-1",
-      "candidates": {
-        "Daniel Vilela": 37.2,
-        "Marconi Perillo": 18.8,
-        "Wilder Morais": 18.9,
-        "Luis Cesar Bueno": 9
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -365,6 +500,31 @@
       }
     },
     {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "ECM Sergipe",
+      "collection_date": "2026-08-12",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Fábio Mitidieri": 37,
+        "Valmir de Francisquinho": 23.8,
+        "Ricardo Marques": 7.6,
+        "Emanuel Cacho": 1
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -375,7 +535,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-5",
       "candidates": {
         "Sergio Moro": 45.7,
         "Requião Filho": 23.2,
@@ -474,7 +634,7 @@
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Maurício Coelho|Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-11",
@@ -487,14 +647,16 @@
         "Otaviano Pivetta": 26,
         "Natasha Slhessarenko": 13,
         "Sargento Laudicério": 1,
-        "Rafaell Milas": 3
+        "Rafaell Milas": 3,
+        "Maurício Coelho": 0
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
         "Natasha Slhessarenko": "PSD",
         "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO"
+        "Rafaell Milas": "MISSÃO",
+        "Maurício Coelho": "MOBILIZA"
       }
     },
     {
@@ -557,27 +719,29 @@
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Maurício Coelho|Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "Percent",
       "collection_date": "2026-08-10",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-2",
       "candidates": {
         "Wellington Fagundes": 32,
         "Otaviano Pivetta": 21,
         "Natasha Slhessarenko": 11,
         "Sargento Laudicério": 2.1,
-        "Rafaell Milas": 1.1
+        "Rafaell Milas": 1.1,
+        "Maurício Coelho": 0.8
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
         "Natasha Slhessarenko": "PSD",
         "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO"
+        "Rafaell Milas": "MISSÃO",
+        "Maurício Coelho": "MOBILIZA"
       }
     },
     {
@@ -724,7 +888,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 19.5,
@@ -853,6 +1017,56 @@
       }
     },
     {
+      "uf": "PI",
+      "estado": "Piauí",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
+      "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "Datamax",
+      "collection_date": "2026-08-02",
+      "sample_size": 1602,
+      "margin_error": 2.45,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Rafael Fonteles": 75.69,
+        "Joel Rodrigues": 18.99,
+        "Elizeu Aguiar": 0.64,
+        "Gisvaldo Oliveira": 0.51
+      },
+      "parties": {
+        "Rafael Fonteles": "PT",
+        "Joel Rodrigues": "PP",
+        "Elizeu Aguiar": "NOVO",
+        "Gisvaldo Oliveira": "PSOL"
+      }
+    },
+    {
+      "uf": "PI",
+      "estado": "Piauí",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
+      "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "Vetor3",
+      "collection_date": "2026-08-02",
+      "sample_size": 1602,
+      "margin_error": 2.45,
+      "tse_registration": "",
+      "source_url": "#cite_note-6",
+      "candidates": {
+        "Rafael Fonteles": 56.53,
+        "Joel Rodrigues": 26.5,
+        "Elizeu Aguiar": 0.58,
+        "Gisvaldo Oliveira": 0.09
+      },
+      "parties": {
+        "Rafael Fonteles": "PT",
+        "Joel Rodrigues": "PP",
+        "Elizeu Aguiar": "NOVO",
+        "Gisvaldo Oliveira": "PSOL"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -903,56 +1117,6 @@
       }
     },
     {
-      "uf": "PI",
-      "estado": "Piauí",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
-      "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
-      "institute": "Datamax",
-      "collection_date": "2026-08-02",
-      "sample_size": 1602,
-      "margin_error": 2.45,
-      "tse_registration": "",
-      "source_url": "#cite_note-1",
-      "candidates": {
-        "Rafael Fonteles": 75.69,
-        "Joel Rodrigues": 18.99,
-        "Elizeu Aguiar": 0.64,
-        "Gisvaldo Oliveira": 0.51
-      },
-      "parties": {
-        "Rafael Fonteles": "PT",
-        "Joel Rodrigues": "PP",
-        "Elizeu Aguiar": "NOVO",
-        "Gisvaldo Oliveira": "PSOL"
-      }
-    },
-    {
-      "uf": "PI",
-      "estado": "Piauí",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
-      "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
-      "institute": "Vetor3",
-      "collection_date": "2026-08-02",
-      "sample_size": 1602,
-      "margin_error": 2.45,
-      "tse_registration": "",
-      "source_url": "#cite_note-4",
-      "candidates": {
-        "Rafael Fonteles": 56.53,
-        "Joel Rodrigues": 26.5,
-        "Elizeu Aguiar": 0.58,
-        "Gisvaldo Oliveira": 0.09
-      },
-      "parties": {
-        "Rafael Fonteles": "PT",
-        "Joel Rodrigues": "PP",
-        "Elizeu Aguiar": "NOVO",
-        "Gisvaldo Oliveira": "PSOL"
-      }
-    },
-    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -963,7 +1127,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-6",
+      "source_url": "#cite_note-:14-8",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -992,7 +1156,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-3",
+      "source_url": "#cite_note-:5-5",
       "candidates": {
         "Fábio Mitidieri": 43,
         "Valmir de Francisquinho": 40,
@@ -1017,7 +1181,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Daniel Vilela": 45.8,
         "Marconi Perillo": 24.5,
@@ -1067,7 +1231,7 @@
       "sample_size": 1109,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-3",
+      "source_url": "#cite_note-:2-6",
       "candidates": {
         "Celina Leão": 32.4,
         "José Roberto Arruda": 24,
@@ -1214,6 +1378,31 @@
         "Renato Gomes": "DC",
         "Jefferson Bezerra": "Agir",
         "Lucien Rezende": "PSOL"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "INOR",
+      "collection_date": "2026-07-29",
+      "sample_size": 1070,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-7",
+      "candidates": {
+        "Fábio Mitidieri": 37.94,
+        "Valmir de Francisquinho": 46.07,
+        "Ricardo Marques": 7.01,
+        "Emanuel Cacho": 0.28
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -1489,6 +1678,31 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-28",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:14-7",
+      "candidates": {
+        "Daniel Vilela": 37,
+        "Marconi Perillo": 21,
+        "Wilder Morais": 11,
+        "Luis Cesar Bueno": 3
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -1499,7 +1713,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-8",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -1594,31 +1808,6 @@
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL",
         "Zé Batista": "PSTU"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-28",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:14-5",
-      "candidates": {
-        "Daniel Vilela": 37,
-        "Marconi Perillo": 21,
-        "Wilder Morais": 11,
-        "Luis Cesar Bueno": 3
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -1894,7 +2083,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-9",
+      "source_url": "#cite_note-:13-11",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -1923,7 +2112,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-9",
+      "source_url": "#cite_note-:13-11",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -1950,7 +2139,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-9",
+      "source_url": "#cite_note-:13-11",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -2212,7 +2401,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-9",
       "candidates": {
         "Fábio Mitidieri": 45.4,
         "Valmir de Francisquinho": 32.2,
@@ -2368,7 +2557,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -2397,7 +2586,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -2590,7 +2779,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Falpe",
       "collection_date": "2026-07-20",
@@ -2599,11 +2788,11 @@
       "tse_registration": "",
       "source_url": "#cite_note-:8-1",
       "candidates": {
-        "João Henrique Caldas": 40,
+        "JHC": 40,
         "Renan Filho": 40
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -2670,7 +2859,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-7",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Fábio Mitidieri": 46.2,
         "Valmir de Francisquinho": 34,
@@ -2932,7 +3121,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-8",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Fábio Mitidieri": 39.33,
         "Valmir de Francisquinho": 27.8,
@@ -3169,7 +3358,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Ranking",
       "collection_date": "2026-07-11",
@@ -3178,11 +3367,11 @@
       "tse_registration": "",
       "source_url": "#cite_note-:7-3",
       "candidates": {
-        "João Henrique Caldas": 47,
+        "JHC": 47,
         "Renan Filho": 38
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -3360,6 +3549,60 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-08",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:12-11",
+      "candidates": {
+        "Daniel Vilela": 43,
+        "Marconi Perillo": 26,
+        "Wilder Morais": 16,
+        "Luis Cesar Bueno": 5,
+        "Telêmaco Brandão": 2
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT",
+        "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-08",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:12-11",
+      "candidates": {
+        "Daniel Vilela": 43,
+        "Marconi Perillo": 24,
+        "Wilder Morais": 16,
+        "Luis Cesar Bueno": 4,
+        "Telêmaco Brandão": 2
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT",
+        "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -3389,60 +3632,6 @@
       }
     },
     {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-08",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:12-9",
-      "candidates": {
-        "Daniel Vilela": 43,
-        "Marconi Perillo": 26,
-        "Wilder Morais": 16,
-        "Luis Cesar Bueno": 5,
-        "Telêmaco Brandão": 2
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-08",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:12-9",
-      "candidates": {
-        "Daniel Vilela": 43,
-        "Marconi Perillo": 24,
-        "Wilder Morais": 16,
-        "Luis Cesar Bueno": 4,
-        "Telêmaco Brandão": 2
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -3453,7 +3642,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 38.69,
@@ -3471,7 +3660,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Vox Brasil",
       "collection_date": "2026-07-08",
@@ -3480,11 +3669,11 @@
       "tse_registration": "",
       "source_url": "#cite_note-5",
       "candidates": {
-        "João Henrique Caldas": 43.5,
+        "JHC": 43.5,
         "Renan Filho": 49.3
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -3697,7 +3886,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -3726,7 +3915,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -3769,6 +3958,33 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-07-05",
+      "sample_size": 1300,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
+      "candidates": {
+        "Daniel Vilela": 44.4,
+        "Marconi Perillo": 25.4,
+        "Wilder Morais": 11.5,
+        "Luis Cesar Bueno": 3.3,
+        "Telêmaco Brandão": 1.1
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT",
+        "Telêmaco Brandão": "NOVO"
       }
     },
     {
@@ -3821,33 +4037,6 @@
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-05",
-      "sample_size": 1300,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Daniel Vilela": 44.4,
-        "Marconi Perillo": 25.4,
-        "Wilder Morais": 11.5,
-        "Luis Cesar Bueno": 3.3,
-        "Telêmaco Brandão": 1.1
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
       }
     },
     {
@@ -3942,7 +4131,7 @@
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-11",
+      "source_url": "#cite_note-:4-15",
       "candidates": {
         "Fábio Mitidieri": 40.67,
         "Valmir de Francisquinho": 29.22,
@@ -4051,7 +4240,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-07-01",
@@ -4060,11 +4249,11 @@
       "tse_registration": "",
       "source_url": "#cite_note-6",
       "candidates": {
-        "João Henrique Caldas": 45.9,
+        "JHC": 45.9,
         "Renan Filho": 41
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -4079,7 +4268,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-12",
+      "source_url": "#cite_note-:10-14",
       "candidates": {
         "Daniel Vilela": 31,
         "Marconi Perillo": 33,
@@ -4104,7 +4293,7 @@
       "sample_size": 1200,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Fábio Mitidieri": 33.1,
         "Valmir de Francisquinho": 39.25,
@@ -4170,7 +4359,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-06-30",
@@ -4179,11 +4368,11 @@
       "tse_registration": "",
       "source_url": "#cite_note-:6-7",
       "candidates": {
-        "João Henrique Caldas": 46,
+        "JHC": 46,
         "Renan Filho": 46
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -4198,7 +4387,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-12",
+      "source_url": "#cite_note-:12-14",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -4227,7 +4416,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-12",
+      "source_url": "#cite_note-:12-14",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -4254,7 +4443,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-12",
+      "source_url": "#cite_note-:12-14",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -4281,7 +4470,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-12",
+      "source_url": "#cite_note-:12-14",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -4304,7 +4493,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-12",
+      "source_url": "#cite_note-:12-14",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -4599,7 +4788,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TDL",
       "collection_date": "2026-06-22",
@@ -4608,11 +4797,11 @@
       "tse_registration": "",
       "source_url": "#cite_note-:4-9",
       "candidates": {
-        "João Henrique Caldas": 52,
+        "JHC": 52,
         "Renan Filho": 37
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -4677,7 +4866,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Fábio Mitidieri": 41.2,
         "Valmir de Francisquinho": 26.7,
@@ -4725,7 +4914,7 @@
       "sample_size": 1100,
       "margin_error": 4.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-13",
+      "source_url": "#cite_note-:9-15",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 22.7,
@@ -4750,7 +4939,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Fábio Mitidieri": 34.95,
         "Valmir de Francisquinho": 41.5,
@@ -5104,6 +5293,31 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "institute": "Exata GO",
+      "collection_date": "2026-06-13",
+      "sample_size": 3600,
+      "margin_error": 1.63,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-16",
+      "candidates": {
+        "Daniel Vilela": 28.5,
+        "Marconi Perillo": 33.8,
+        "Wilder Morais": 8.8,
+        "Luis Cesar Bueno": 0.9
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -5114,7 +5328,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-13",
+      "source_url": "#cite_note-:11-15",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -5143,7 +5357,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-13",
+      "source_url": "#cite_note-:11-15",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -5157,31 +5371,6 @@
         "Sandro Alex": "PSD",
         "Tony Garcia": "DC",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Exata GO",
-      "collection_date": "2026-06-13",
-      "sample_size": 3600,
-      "margin_error": 1.63,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-14",
-      "candidates": {
-        "Daniel Vilela": 28.5,
-        "Marconi Perillo": 33.8,
-        "Wilder Morais": 8.8,
-        "Luis Cesar Bueno": 0.9
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -5224,7 +5413,7 @@
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-18",
+      "source_url": "#cite_note-:3-22",
       "candidates": {
         "Fábio Mitidieri": 38.7,
         "Valmir de Francisquinho": 42.8,
@@ -5336,7 +5525,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Vox Brasil",
       "collection_date": "2026-06-11",
@@ -5345,11 +5534,11 @@
       "tse_registration": "",
       "source_url": "#cite_note-:5-8",
       "candidates": {
-        "João Henrique Caldas": 45.1,
+        "JHC": 45.1,
         "Renan Filho": 48.6
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -5468,7 +5657,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -5497,7 +5686,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -5641,7 +5830,7 @@
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Fábio Mitidieri": 40.8,
         "Valmir de Francisquinho": 30.3,
@@ -5666,7 +5855,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-17",
+      "source_url": "#cite_note-:10-19",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -5907,7 +6096,7 @@
       "sample_size": 1507,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-16",
+      "source_url": "#cite_note-:7-18",
       "candidates": {
         "Daniel Vilela": 27.8,
         "Marconi Perillo": 17.5,
@@ -5930,7 +6119,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-22",
+      "source_url": "#cite_note-:2-26",
       "candidates": {
         "Fábio Mitidieri": 44.7,
         "Valmir de Francisquinho": 38.7,
@@ -6099,33 +6288,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Exatus/AgoraRN",
-      "collection_date": "2026-05-29",
-      "sample_size": 1500,
-      "margin_error": 2.53,
-      "tse_registration": "",
-      "source_url": "#cite_note-27",
-      "candidates": {
-        "Allyson": 41.01,
-        "Álvaro Dias": 22.75,
-        "Cadu de Lula": 12.61,
-        "Robério Paulino": 0.85,
-        "Dário Barbosa": 0.9
-      },
-      "parties": {
-        "Allyson": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Dário Barbosa": "PSTU"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -6136,7 +6298,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-18",
+      "source_url": "#cite_note-:6-20",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -6161,7 +6323,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -6175,6 +6337,33 @@
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT",
         "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Exatus/AgoraRN",
+      "collection_date": "2026-05-29",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-27",
+      "candidates": {
+        "Allyson": 41.01,
+        "Álvaro Dias": 22.75,
+        "Cadu de Lula": 12.61,
+        "Robério Paulino": 0.85,
+        "Dário Barbosa": 0.9
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Dário Barbosa": "PSTU"
       }
     },
     {
@@ -6380,6 +6569,60 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Directa",
+      "collection_date": "2026-05-26",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note--2-24",
+      "candidates": {
+        "Daniel Vilela": 35.2,
+        "Marconi Perillo": 19.4,
+        "Wilder Morais": 10.6,
+        "Adriana Accorsi": 11.2,
+        "Telêmaco Brandão": 0.3
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Adriana Accorsi": "PT",
+        "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Directa",
+      "collection_date": "2026-05-26",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note--2-24",
+      "candidates": {
+        "Daniel Vilela": 36.1,
+        "Marconi Perillo": 20.2,
+        "Wilder Morais": 11.5,
+        "Luis Cesar Bueno": 5.4,
+        "Telêmaco Brandão": 0.3
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT",
+        "Telêmaco Brandão": "NOVO"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -6427,60 +6670,6 @@
         "Elmano de Freitas": "PT",
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Directa",
-      "collection_date": "2026-05-26",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note--2-22",
-      "candidates": {
-        "Daniel Vilela": 35.2,
-        "Marconi Perillo": 19.4,
-        "Wilder Morais": 10.6,
-        "Adriana Accorsi": 11.2,
-        "Telêmaco Brandão": 0.3
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Directa",
-      "collection_date": "2026-05-26",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note--2-22",
-      "candidates": {
-        "Daniel Vilela": 36.1,
-        "Marconi Perillo": 20.2,
-        "Wilder Morais": 11.5,
-        "Luis Cesar Bueno": 5.4,
-        "Telêmaco Brandão": 0.3
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
       }
     },
     {
@@ -6594,7 +6783,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-24",
+      "source_url": "#cite_note-:1-28",
       "candidates": {
         "Fábio Mitidieri": 41,
         "Valmir de Francisquinho": 38,
@@ -6700,7 +6889,7 @@
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-26",
+      "source_url": "#cite_note-:0-30",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 39.72,
@@ -6877,7 +7066,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-18",
+      "source_url": "#cite_note-:9-20",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -6906,7 +7095,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-18",
+      "source_url": "#cite_note-:9-20",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -7118,7 +7307,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--1-28",
+      "source_url": "#cite_note--1-30",
       "candidates": {
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
@@ -7272,7 +7461,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-30",
+      "source_url": "#cite_note-:4-32",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -7299,7 +7488,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-30",
+      "source_url": "#cite_note-:4-32",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -7324,7 +7513,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-30",
+      "source_url": "#cite_note-:4-32",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -7351,7 +7540,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-30",
+      "source_url": "#cite_note-:4-32",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -7430,7 +7619,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -7459,7 +7648,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -7504,7 +7693,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Falpe",
       "collection_date": "2026-05-10",
@@ -7513,11 +7702,11 @@
       "tse_registration": "",
       "source_url": "#cite_note-11",
       "candidates": {
-        "João Henrique Caldas": 37,
+        "JHC": 37,
         "Renan Filho": 41.75
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -7705,7 +7894,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-20",
+      "source_url": "#cite_note-Veritá2-22",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -7804,7 +7993,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TDL",
       "collection_date": "2026-05-02",
@@ -7813,12 +8002,37 @@
       "tse_registration": "",
       "source_url": "#cite_note-12",
       "candidates": {
-        "João Henrique Caldas": 51,
+        "JHC": 51,
         "Renan Filho": 35
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Exata GO",
+      "collection_date": "2026-04-30",
+      "sample_size": 3300,
+      "margin_error": 1.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-36",
+      "candidates": {
+        "Daniel Vilela": 29.6,
+        "Marconi Perillo": 30.2,
+        "Adriana Accorsi": 8.7,
+        "Luis Cesar Bueno": 1.9
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Adriana Accorsi": "PT",
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -7867,31 +8081,6 @@
       "parties": {
         "Raquel Lyra": "PSD",
         "João Campos": "PSB"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Exata GO",
-      "collection_date": "2026-04-30",
-      "sample_size": 3300,
-      "margin_error": 1.7,
-      "tse_registration": "",
-      "source_url": "#cite_note-34",
-      "candidates": {
-        "Daniel Vilela": 29.6,
-        "Marconi Perillo": 30.2,
-        "Adriana Accorsi": 8.7,
-        "Luis Cesar Bueno": 1.9
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Adriana Accorsi": "PT",
-        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -7951,7 +8140,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -7980,7 +8169,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -8017,6 +8206,79 @@
         "Daniel Santos": "PODE",
         "Hana Ghassan": "MDB",
         "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Genial/Quaest-Abril-37",
+      "candidates": {
+        "Daniel Vilela": 33,
+        "Marconi Perillo": 21,
+        "Wilder Morais": 9,
+        "Adriana Accorsi": 10
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Adriana Accorsi": "PT"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Genial/Quaest-Abril-37",
+      "candidates": {
+        "Daniel Vilela": 33,
+        "Marconi Perillo": 21,
+        "Wilder Morais": 11,
+        "Luis Cesar Bueno": 5
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Genial/Quaest-Abril-37",
+      "candidates": {
+        "Daniel Vilela": 34,
+        "Marconi Perillo": 21,
+        "Wilder Morais": 10
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL"
       }
     },
     {
@@ -8150,79 +8412,6 @@
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL",
         "Zé Batista": "PSTU"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-35",
-      "candidates": {
-        "Daniel Vilela": 33,
-        "Marconi Perillo": 21,
-        "Wilder Morais": 9,
-        "Adriana Accorsi": 10
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-35",
-      "candidates": {
-        "Daniel Vilela": 33,
-        "Marconi Perillo": 21,
-        "Wilder Morais": 11,
-        "Luis Cesar Bueno": 5
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Daniel Vilela|Marconi Perillo|Wilder Morais",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-35",
-      "candidates": {
-        "Daniel Vilela": 34,
-        "Marconi Perillo": 21,
-        "Wilder Morais": 10
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL"
       }
     },
     {
@@ -8438,7 +8627,7 @@
       "sample_size": 1312,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-SE04-28",
+      "source_url": "#cite_note-SE04-32",
       "candidates": {
         "Fábio Mitidieri": 37.27,
         "Valmir de Francisquinho": 44.59,
@@ -8504,7 +8693,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Veritá",
       "collection_date": "2026-04-27",
@@ -8513,11 +8702,11 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
-        "João Henrique Caldas": 68.9,
+        "JHC": 68.9,
         "Renan Filho": 31.1
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -8532,7 +8721,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-17",
+      "source_url": "#cite_note-QuaestAbril-18",
       "candidates": {
         "Tarcísio": 38,
         "Haddad": 26,
@@ -8557,7 +8746,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-17",
+      "source_url": "#cite_note-QuaestAbril-18",
       "candidates": {
         "Tarcísio": 40,
         "Haddad": 28,
@@ -8792,7 +8981,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-22",
+      "source_url": "#cite_note-:8-24",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -8821,7 +9010,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-22",
+      "source_url": "#cite_note-:8-24",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -8983,7 +9172,7 @@
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-VoxAbril-18",
+      "source_url": "#cite_note-VoxAbril-19",
       "candidates": {
         "Tarcísio": 48.2,
         "Haddad": 32.3,
@@ -9058,7 +9247,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-29",
+      "source_url": "#cite_note-SE05-33",
       "candidates": {
         "Fábio Mitidieri": 35.3,
         "Valmir de Francisquinho": 39.9,
@@ -9287,7 +9476,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Tarcísio": 47.8,
         "Haddad": 33.1,
@@ -9337,7 +9526,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -9366,7 +9555,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -9393,7 +9582,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -9420,7 +9609,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -9495,7 +9684,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-38",
+      "source_url": "#cite_note-:3-40",
       "candidates": {
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
@@ -9522,7 +9711,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-38",
+      "source_url": "#cite_note-:3-40",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
@@ -9549,7 +9738,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-38",
+      "source_url": "#cite_note-:3-40",
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
@@ -9753,7 +9942,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-31",
+      "source_url": "#cite_note-Veritá1-35",
       "candidates": {
         "Fábio Mitidieri": 44.2,
         "Valmir de Francisquinho": 34.5,
@@ -9961,7 +10150,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-24",
+      "source_url": "#cite_note-:7-26",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -9988,7 +10177,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-24",
+      "source_url": "#cite_note-:7-26",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -10015,7 +10204,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-24",
+      "source_url": "#cite_note-:7-26",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -10040,7 +10229,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-24",
+      "source_url": "#cite_note-:7-26",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -10492,7 +10681,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-20",
+      "source_url": "#cite_note-:5-21",
       "candidates": {
         "Tarcísio": 49.1,
         "Haddad": 42.6,
@@ -10517,7 +10706,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-20",
+      "source_url": "#cite_note-:5-21",
       "candidates": {
         "Tarcísio": 48.8,
         "Tebet": 41.8,
@@ -10542,7 +10731,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-20",
+      "source_url": "#cite_note-:5-21",
       "candidates": {
         "Tarcísio": 49.4,
         "França": 32.2,
@@ -10567,7 +10756,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-20",
+      "source_url": "#cite_note-:5-21",
       "candidates": {
         "Tarcísio": 48.4,
         "Alckmin": 41.4,
@@ -11261,7 +11450,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-26",
+      "source_url": "#cite_note-:3-28",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -11288,7 +11477,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-26",
+      "source_url": "#cite_note-:3-28",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -11315,7 +11504,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-26",
+      "source_url": "#cite_note-:3-28",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -11331,7 +11520,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Veritá",
       "collection_date": "2026-03-19",
@@ -11340,11 +11529,11 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
-        "João Henrique Caldas": 39.8,
+        "JHC": 39.8,
         "Renan Filho": 20.2
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -11388,7 +11577,7 @@
       "sample_size": 3025,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-22",
+      "source_url": "#cite_note-Veritá1-23",
       "candidates": {
         "Tarcísio": 41.1,
         "Haddad": 27.7,
@@ -11538,7 +11727,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-33",
+      "source_url": "#cite_note-SE02-37",
       "candidates": {
         "Fábio Mitidieri": 42.88,
         "Valmir de Francisquinho": 35.03
@@ -11559,7 +11748,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-33",
+      "source_url": "#cite_note-SE02-37",
       "candidates": {
         "Fábio Mitidieri": 44.51,
         "Ricardo Marques": 21.63
@@ -11580,7 +11769,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-33",
+      "source_url": "#cite_note-SE02-37",
       "candidates": {
         "Fábio Mitidieri": 51.64,
         "Emanuel Cacho": 10.3
@@ -11684,7 +11873,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-41",
+      "source_url": "#cite_note-:1-43",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -11711,7 +11900,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-41",
+      "source_url": "#cite_note-:1-43",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -11738,7 +11927,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-41",
+      "source_url": "#cite_note-:1-43",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -12388,7 +12577,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
+      "source_url": "#cite_note-:4-24",
       "candidates": {
         "Tarcísio": 47,
         "Haddad": 31,
@@ -12413,7 +12602,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
+      "source_url": "#cite_note-:4-24",
       "candidates": {
         "Tarcísio": 44,
         "Alckmin": 33,
@@ -12438,7 +12627,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
+      "source_url": "#cite_note-:4-24",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 21,
@@ -12463,7 +12652,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
+      "source_url": "#cite_note-:4-24",
       "candidates": {
         "Tarcísio": 48,
         "França": 23,
@@ -12488,7 +12677,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
+      "source_url": "#cite_note-:4-24",
       "candidates": {
         "Tarcísio": 43,
         "Derrite": 18,
@@ -12540,7 +12729,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-24",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Tarcísio": 44,
         "Haddad": 31,
@@ -12567,7 +12756,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-24",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Tarcísio": 46,
         "Alckmin": 26,
@@ -12594,7 +12783,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-24",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Tarcísio": 44,
         "França": 5,
@@ -12623,7 +12812,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-24",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 19,
@@ -12650,7 +12839,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -12679,7 +12868,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -12708,7 +12897,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -13026,7 +13215,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Tarcísio": 51,
         "Haddad": 27.7,
@@ -13053,7 +13242,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Tarcísio": 48.5,
         "Alckmin": 29.9,
@@ -13080,7 +13269,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Tarcísio": 52.8,
         "França": 18.5,
@@ -13107,7 +13296,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "França": 24.2,
         "Nunes": 36,
@@ -13134,7 +13323,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "França": 29.2,
         "Serra": 10.7,
@@ -13446,7 +13635,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-28",
+      "source_url": "#cite_note-:5-30",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -13473,7 +13662,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-28",
+      "source_url": "#cite_note-:5-30",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -13500,7 +13689,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-28",
+      "source_url": "#cite_note-:5-30",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -13577,7 +13766,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-43",
+      "source_url": "#cite_note-:2-45",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
@@ -14279,7 +14468,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-19",
+      "source_url": "#cite_note-DF01-22",
       "candidates": {
         "Celina Leão": 40,
         "José Roberto Arruda": 21,
@@ -14306,7 +14495,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-19",
+      "source_url": "#cite_note-DF01-22",
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
@@ -14324,7 +14513,7 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "João Henrique Caldas|Renan Filho",
+      "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2025",
       "institute": "Paraná Pesquisas",
       "collection_date": "2025-12-08",
@@ -14333,11 +14522,11 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
       "candidates": {
-        "João Henrique Caldas": 47.6,
+        "JHC": 47.6,
         "Renan Filho": 40.9
       },
       "parties": {
-        "João Henrique Caldas": "PSDB",
+        "JHC": "PSDB",
         "Renan Filho": "MDB"
       }
     },
@@ -14688,7 +14877,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 45,
         "Alckmin": 26,
@@ -14717,7 +14906,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 49,
         "Hilton": 8,
@@ -14746,7 +14935,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 50,
         "França": 18,
@@ -14775,7 +14964,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Derrite": 25,
         "Hilton": 8,
@@ -14804,7 +14993,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Nunes": 28,
         "Hilton": 8,
@@ -14833,7 +15022,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Hilton": 8,
         "Haddad": 29,
@@ -14862,7 +15051,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Hilton": 8,
         "Haddad": 33,
@@ -14891,7 +15080,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Derrite": 18,
         "Nunes": 18,
@@ -14945,7 +15134,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-22",
+      "source_url": "#cite_note-:3-20",
       "candidates": {
         "Wellington Fagundes": 43,
         "Otaviano Pivetta": 17
@@ -14966,7 +15155,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-22",
+      "source_url": "#cite_note-:3-20",
       "candidates": {
         "Wellington Fagundes": 44,
         "Otaviano Pivetta": 18,
@@ -14989,7 +15178,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-22",
+      "source_url": "#cite_note-:3-20",
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 15,
@@ -15012,7 +15201,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-34",
+      "source_url": "#cite_note-SE01-38",
       "candidates": {
         "Fábio Mitidieri": 46,
         "Valmir de Francisquinho": 33
@@ -15033,7 +15222,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-34",
+      "source_url": "#cite_note-SE01-38",
       "candidates": {
         "Fábio Mitidieri": 49,
         "Thiago de Joaldo": 26
@@ -15054,7 +15243,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-34",
+      "source_url": "#cite_note-SE01-38",
       "candidates": {
         "Fábio Mitidieri": 48,
         "Emília Corrêa": 32
@@ -15075,7 +15264,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-34",
+      "source_url": "#cite_note-SE01-38",
       "candidates": {
         "Fábio Mitidieri": 50,
         "Eduardo Amorim": 28
@@ -15559,7 +15748,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-28",
       "candidates": {
         "Tarcísio": 48.3,
         "Alckmin": 22.7,
@@ -15586,7 +15775,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-28",
       "candidates": {
         "Tarcísio": 50.1,
         "Hilton": 8.8,
@@ -15613,7 +15802,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-28",
       "candidates": {
         "Tarcísio": 52.7,
         "França": 12.6,
@@ -15642,7 +15831,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-28",
       "candidates": {
         "França": 17.6,
         "Nunes": 32.7,
@@ -15673,7 +15862,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-28",
       "candidates": {
         "França": 22.4,
         "Hilton": 13.9,
@@ -15702,7 +15891,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-28",
       "candidates": {
         "França": 24,
         "Hilton": 14.5,
@@ -15731,7 +15920,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-28",
       "candidates": {
         "França": 24.2,
         "Hilton": 14.4,
@@ -15844,7 +16033,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Tarcísio": 52,
         "França": 16,
@@ -15871,7 +16060,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Tarcísio": 47,
         "Alckmin": 26,
@@ -15898,7 +16087,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "França": 20,
         "Nunes": 34,
@@ -15925,7 +16114,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "França": 27,
         "Hilton": 10,
@@ -15952,7 +16141,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Alckmin": 31,
         "Nunes": 30,
@@ -16056,7 +16245,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-30",
       "candidates": {
         "Tarcísio": 47.3,
         "França": 18.2,
@@ -16083,7 +16272,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-30",
       "candidates": {
         "Tarcísio": 48.6,
         "Alckmin": 34.2,
@@ -16110,7 +16299,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-30",
       "candidates": {
         "Manga": 10.8,
         "Alckmin": 39.4,
@@ -16141,7 +16330,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-30",
       "candidates": {
         "Manga": 8.2,
         "Derrite": 23.2,
@@ -16168,7 +16357,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-31",
       "candidates": {
         "Tarcísio": 43.8,
         "Manga": 4.7,
@@ -16199,7 +16388,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-31",
       "candidates": {
         "Tarcísio": 47.7,
         "Manga": 4.9,
@@ -16230,7 +16419,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-31",
       "candidates": {
         "Tarcísio": 46.1,
         "Manga": 4.9,
@@ -16261,7 +16450,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-31",
       "candidates": {
         "Manga": 8.6,
         "França": 14.2,
@@ -16290,7 +16479,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-31",
       "candidates": {
         "Manga": 9.9,
         "França": 18,
@@ -16321,7 +16510,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-31",
       "candidates": {
         "Manga": 10.4,
         "França": 19.8,
@@ -16350,7 +16539,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-30",
+      "source_url": "#cite_note-:0-31",
       "candidates": {
         "Manga": 10.3,
         "França": 19.8,
@@ -16479,7 +16668,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Tarcísio": 43,
         "Alckmin": 21,
@@ -16833,7 +17022,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Tarcísio": 42.1,
         "Manga": 4.8,
@@ -16864,7 +17053,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Tarcísio": 46.5,
         "Manga": 5.4,
@@ -16895,7 +17084,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Manga": 8.7,
         "França": 16.2,
@@ -16926,7 +17115,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Manga": 11.7,
         "França": 20.6,
@@ -16957,7 +17146,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Manga": 11.6,
         "França": 21.8,
@@ -16988,7 +17177,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Manga": 11.4,
         "França": 21.8,
@@ -17090,7 +17279,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Tarcísio": 37.8,
         "Alckmin": 24.7,
@@ -17117,7 +17306,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Tarcísio": 40.3,
         "França": 12.7,
@@ -17144,7 +17333,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Tarcísio": 48.6,
         "França": 16.6,
@@ -17169,7 +17358,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "França": 17,
         "Nunes": 27,
@@ -17196,7 +17385,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "França": 21.6,
         "Nunes": 35.8,
@@ -17221,7 +17410,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Manga": 9.5,
         "França": 18.8,
@@ -17250,7 +17439,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Manga": 9.8,
         "França": 19.3,
@@ -17279,7 +17468,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Tarcísio": 38,
         "França": 6,
@@ -17350,7 +17539,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Tarcísio": 40.5,
         "França": 12.6,
@@ -17377,7 +17566,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-36",
       "candidates": {
         "França": 14.6,
         "Nunes": 27.2,

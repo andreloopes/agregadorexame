@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-08-18T11:37:07.784Z",
+  "ultima_execucao": "2026-08-19T11:36:38.003Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 678,
-  "pesquisas_usadas": 678,
+  "pesquisas_extraidas_brutas": 685,
+  "pesquisas_usadas": 685,
   "estados_com_agregado": 25,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -36,7 +36,7 @@
     "AL": [
       {
         "candidatos": [
-          "João Henrique Caldas",
+          "JHC",
           "Renan Filho"
         ],
         "pesquisas": 12
@@ -178,6 +178,25 @@
         "candidatos": [
           "Celina Leão",
           "José Roberto Arruda",
+          "Leandro Grass",
+          "Paula Belmonte",
+          "Ricardo Cappelli"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Celina Leão",
+          "Leandro Grass",
+          "Paula Belmonte",
+          "Ricardo Cappelli"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Celina Leão",
+          "José Roberto Arruda",
           "Kiko Caputo",
           "Leandro Grass",
           "Paula Belmonte",
@@ -186,25 +205,6 @@
           "Samara Mineiro"
         ],
         "pesquisas": 2
-      },
-      {
-        "candidatos": [
-          "Celina Leão",
-          "José Roberto Arruda",
-          "Leandro Grass",
-          "Paula Belmonte",
-          "Ricardo Cappelli"
-        ],
-        "pesquisas": 1
-      },
-      {
-        "candidatos": [
-          "Celina Leão",
-          "Leandro Grass",
-          "Paula Belmonte",
-          "Ricardo Cappelli"
-        ],
-        "pesquisas": 1
       }
     ],
     "ES": [
@@ -258,7 +258,6 @@
           "Daniel Vilela",
           "Luis Cesar Bueno",
           "Marconi Perillo",
-          "Telêmaco Brandão",
           "Wilder Morais"
         ],
         "pesquisas": 10
@@ -268,9 +267,10 @@
           "Daniel Vilela",
           "Luis Cesar Bueno",
           "Marconi Perillo",
+          "Telêmaco Brandão",
           "Wilder Morais"
         ],
-        "pesquisas": 9
+        "pesquisas": 10
       },
       {
         "candidatos": [
@@ -333,6 +333,7 @@
     "MT": [
       {
         "candidatos": [
+          "Maurício Coelho",
           "Natasha Slhessarenko",
           "Otaviano Pivetta",
           "Rafaell Milas",
@@ -581,7 +582,7 @@
           "Sergio Moro",
           "Tayná Miessa"
         ],
-        "pesquisas": 3
+        "pesquisas": 4
       },
       {
         "candidatos": [
@@ -638,7 +639,7 @@
           "Joel Rodrigues",
           "Rafael Fonteles"
         ],
-        "pesquisas": 2
+        "pesquisas": 3
       }
     ],
     "RJ": [
@@ -994,7 +995,7 @@
           "Ricardo Marques",
           "Valmir de Francisquinho"
         ],
-        "pesquisas": 15
+        "pesquisas": 17
       },
       {
         "candidatos": [
@@ -1114,7 +1115,7 @@
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "status": "ok",
-      "pesquisas": 4,
+      "pesquisas": 6,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
@@ -1126,7 +1127,7 @@
     "GO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "status": "ok",
-      "pesquisas": 37,
+      "pesquisas": 38,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
     },
     "MA": {
@@ -1168,7 +1169,7 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 49,
+      "pesquisas": 50,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
@@ -1180,7 +1181,7 @@
     "PI": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
       "status": "ok",
-      "pesquisas": 2,
+      "pesquisas": 3,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Piau%C3%AD"
     },
     "RJ": {
@@ -1228,7 +1229,7 @@
     "SE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "status": "ok",
-      "pesquisas": 25,
+      "pesquisas": 27,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
     },
     "TO": {
