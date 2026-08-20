@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-08-19T11:36:38.003Z",
+  "ultima_execucao": "2026-08-20T11:38:48.975Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 685,
-  "pesquisas_usadas": 685,
+  "pesquisas_extraidas_brutas": 675,
+  "pesquisas_usadas": 675,
   "estados_com_agregado": 25,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -255,25 +255,6 @@
     "GO": [
       {
         "candidatos": [
-          "Daniel Vilela",
-          "Luis Cesar Bueno",
-          "Marconi Perillo",
-          "Wilder Morais"
-        ],
-        "pesquisas": 10
-      },
-      {
-        "candidatos": [
-          "Daniel Vilela",
-          "Luis Cesar Bueno",
-          "Marconi Perillo",
-          "Telêmaco Brandão",
-          "Wilder Morais"
-        ],
-        "pesquisas": 10
-      },
-      {
-        "candidatos": [
           "Adriana Accorsi",
           "Daniel Vilela",
           "Marconi Perillo",
@@ -281,6 +262,25 @@
           "Wilder Morais"
         ],
         "pesquisas": 7
+      },
+      {
+        "candidatos": [
+          "Daniel Vilela",
+          "Luis Cesar Bueno",
+          "Marconi Perillo",
+          "Telêmaco Brandão",
+          "Wilder Morais"
+        ],
+        "pesquisas": 6
+      },
+      {
+        "candidatos": [
+          "Daniel Vilela",
+          "Luis Cesar Bueno",
+          "Marconi Perillo",
+          "Wilder Morais"
+        ],
+        "pesquisas": 5
       },
       {
         "candidatos": [
@@ -1127,7 +1127,7 @@
     "GO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "status": "ok",
-      "pesquisas": 38,
+      "pesquisas": 28,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
     },
     "MA": {

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-19",
+  "atualizado_em": "2026-08-20",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -640,40 +640,40 @@
       "estado": "Goiás",
       "cenario": "Governador · 1º turno",
       "corte": "2026-08-17",
-      "pesquisas_no_calculo": 9,
+      "pesquisas_no_calculo": 4,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Daniel Vilela",
           "partido": "MDB",
-          "media": 36.9,
-          "ic_min": 33.4,
-          "ic_max": 40.5,
-          "pesquisas": 9
+          "media": 40.4,
+          "ic_min": 35.2,
+          "ic_max": 45.5,
+          "pesquisas": 4
         },
         {
           "nome": "Marconi Perillo",
           "partido": "PSDB",
-          "media": 22.7,
-          "ic_min": 18.8,
-          "ic_max": 26.6,
-          "pesquisas": 9
+          "media": 21.4,
+          "ic_min": 18.2,
+          "ic_max": 24.6,
+          "pesquisas": 4
         },
         {
           "nome": "Wilder Morais",
           "partido": "PL",
-          "media": 15.9,
-          "ic_min": 12.5,
-          "ic_max": 19.3,
-          "pesquisas": 9
+          "media": 16.4,
+          "ic_min": 12.8,
+          "ic_max": 20.1,
+          "pesquisas": 4
         },
         {
           "nome": "Luis Cesar Bueno",
           "partido": "PT",
-          "media": 4.8,
+          "media": 6,
           "ic_min": 2.5,
-          "ic_max": 7.1,
-          "pesquisas": 9
+          "ic_max": 9.4,
+          "pesquisas": 4
         }
       ],
       "ultimas_pesquisas": [
@@ -694,36 +694,20 @@
           "fonte_url": "#cite_note-3"
         },
         {
+          "instituto": "Papo Aberto/DataRD",
+          "coleta": "2026-05-29",
+          "amostra": 1509,
+          "margem": 2.52,
+          "tse": "",
+          "fonte_url": "#cite_note-:6-20"
+        },
+        {
           "instituto": "Genial/Quaest",
-          "coleta": "2026-07-28",
+          "coleta": "2026-04-28",
           "amostra": 1104,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:14-7"
-        },
-        {
-          "instituto": "Veritá",
-          "coleta": "2026-07-16",
-          "amostra": 1525,
-          "margem": 2.5,
-          "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1"
-        },
-        {
-          "instituto": "Lupa",
-          "coleta": "2026-06-30",
-          "amostra": 1000,
-          "margem": 3.1,
-          "tse": "",
-          "fonte_url": "#cite_note-:10-14"
-        },
-        {
-          "instituto": "Diagnóstico/Acieg",
-          "coleta": "2026-06-18",
-          "amostra": 1100,
-          "margem": 4.84,
-          "tse": "",
-          "fonte_url": "#cite_note-:9-15"
+          "fonte_url": "#cite_note-Genial/Quaest-Abril-37"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
