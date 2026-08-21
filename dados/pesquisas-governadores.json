@@ -1,6 +1,87 @@
 {
-  "atualizado_em": "2026-08-20",
+  "atualizado_em": "2026-08-21",
   "pesquisas": [
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "IPSensus",
+      "collection_date": "2026-08-20",
+      "sample_size": 2480,
+      "margin_error": 2.55,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Eduardo Braide": 37.84,
+        "Orleans Brandão": 41.01,
+        "Felipe Camarão": 4.19,
+        "Roberto Rocha": 4.86,
+        "André Luís": 1.42
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-19",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:16-1",
+      "candidates": {
+        "Ciro Gomes": 44,
+        "Elmano de Freitas": 44,
+        "Vera Lúcia": 1,
+        "Delegado Huggo": 1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Vera Lúcia": "NOVO",
+        "Delegado Huggo": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-08-19",
+      "sample_size": 1197,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:32-1",
+      "candidates": {
+        "Hana Ghassan": 48.6,
+        "Daniel Santos": 40.5,
+        "Araceli Lemos": 1.4,
+        "Gal Leite": 0,
+        "Robertinho": 0.3,
+        "José Moita": 0.1
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Gal Leite": "UP",
+        "Robertinho": "PRTB",
+        "José Moita": "Democrata"
+      }
+    },
     {
       "uf": "DF",
       "estado": "Distrito Federal",
@@ -145,6 +226,35 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Doxa",
+      "collection_date": "2026-08-15",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:31-5",
+      "candidates": {
+        "Hana Ghassan": 35.1,
+        "Daniel Santos": 30.2,
+        "Araceli Lemos": 1.4,
+        "Gal Leite": 0.8,
+        "Robertinho": 0.7,
+        "José Moita": 0.4
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Gal Leite": "UP",
+        "Robertinho": "PRTB",
+        "José Moita": "Democrata"
+      }
+    },
+    {
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
@@ -178,32 +288,28 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Doxa",
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Exata GO",
       "collection_date": "2026-08-15",
-      "sample_size": 2000,
-      "margin_error": 3.1,
+      "sample_size": 3200,
+      "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:31-2",
+      "source_url": "#cite_note-:16-3",
       "candidates": {
-        "Hana Ghassan": 35.1,
-        "Daniel Santos": 30.2,
-        "Araceli Lemos": 1.4,
-        "Gal Leite": 0.8,
-        "Robertinho": 0.7,
-        "José Moita": 0.4
+        "Daniel Vilela": 27.75,
+        "Marconi Perillo": 36.78,
+        "Wilder Morais": 11.66,
+        "Luis Cesar Bueno": 4.34
       },
       "parties": {
-        "Hana Ghassan": "MDB",
-        "Daniel Santos": "PODE",
-        "Araceli Lemos": "PSOL",
-        "Gal Leite": "UP",
-        "Robertinho": "PRTB",
-        "José Moita": "Democrata"
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -227,6 +333,29 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Lucro Ativo",
+      "collection_date": "2026-08-15",
+      "sample_size": 1500,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-1",
+      "candidates": {
+        "Professora Dorinha": 39.27,
+        "Laurez Moreira": 8.2,
+        "Ataídes Oliveira": 2.8
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
       }
     },
     {
@@ -332,6 +461,31 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Datafolha",
+      "collection_date": "2026-08-12",
+      "sample_size": 1022,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:15-3",
+      "candidates": {
+        "Ciro Gomes": 52,
+        "Elmano de Freitas": 33,
+        "Delegado Huggo": 1,
+        "Zé Batista": 0
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Delegado Huggo": "MISSÃO",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -342,7 +496,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Daniel Vilela": 37.2,
         "Marconi Perillo": 18.8,
@@ -419,28 +573,28 @@
       }
     },
     {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Zé Batista",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Datafolha",
+      "uf": "PI",
+      "estado": "Piauí",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
+      "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "Amostragem",
       "collection_date": "2026-08-12",
-      "sample_size": 1022,
-      "margin_error": 3,
+      "sample_size": 1137,
+      "margin_error": 2.85,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-1",
+      "source_url": "#cite_note-3",
       "candidates": {
-        "Ciro Gomes": 52,
-        "Elmano de Freitas": 33,
-        "Delegado Huggo": 1,
-        "Zé Batista": 0
+        "Rafael Fonteles": 73.84,
+        "Joel Rodrigues": 19.21,
+        "Elizeu Aguiar": 0.99,
+        "Gisvaldo Oliveira": 0.99
       },
       "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Delegado Huggo": "MISSÃO",
-        "Zé Batista": "PSTU"
+        "Rafael Fonteles": "PT",
+        "Joel Rodrigues": "PP",
+        "Elizeu Aguiar": "NOVO",
+        "Gisvaldo Oliveira": "PSOL"
       }
     },
     {
@@ -525,6 +679,58 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "Véritas",
+      "collection_date": "2026-08-11",
+      "sample_size": 1000,
+      "margin_error": 2.09,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Eduardo Braide": 39.1,
+        "Orleans Brandão": 47.5,
+        "Felipe Camarão": 4.3,
+        "Roberto Rocha": 3.3,
+        "André Luís": 1.6
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "AtlasIntel /Focus",
+      "collection_date": "2026-08-11",
+      "sample_size": 1774,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Ciro Gomes": 49.3,
+        "Elmano de Freitas": 44.6,
+        "Delegado Huggo": 2.8,
+        "Zé Batista": 0
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Delegado Huggo": "MISSÃO",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -579,62 +785,10 @@
       }
     },
     {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Zé Batista",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "AtlasIntel /Focus",
-      "collection_date": "2026-08-11",
-      "sample_size": 1774,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Ciro Gomes": 49.3,
-        "Elmano de Freitas": 44.6,
-        "Delegado Huggo": 2.8,
-        "Zé Batista": 0
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Delegado Huggo": "MISSÃO",
-        "Zé Batista": "PSTU"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "Véritas",
-      "collection_date": "2026-08-11",
-      "sample_size": 1000,
-      "margin_error": 2.09,
-      "tse_registration": "",
-      "source_url": "#cite_note-1",
-      "candidates": {
-        "Eduardo Braide": 39.1,
-        "Orleans Brandão": 47.5,
-        "Felipe Camarão": 4.3,
-        "Roberto Rocha": 3.3,
-        "André Luís": 1.6
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
-      }
-    },
-    {
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Maurício Coelho|Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-11",
@@ -647,16 +801,41 @@
         "Otaviano Pivetta": 26,
         "Natasha Slhessarenko": 13,
         "Sargento Laudicério": 1,
-        "Rafaell Milas": 3,
-        "Maurício Coelho": 0
+        "Rafaell Milas": 3
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
         "Natasha Slhessarenko": "PSD",
         "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO",
-        "Maurício Coelho": "MOBILIZA"
+        "Rafaell Milas": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "IPPI",
+      "collection_date": "2026-08-10",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:0-5",
+      "candidates": {
+        "Eduardo Braide": 44,
+        "Orleans Brandão": 25.9,
+        "Felipe Camarão": 5.1,
+        "Roberto Rocha": 5,
+        "André Luís": 1.1
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
       }
     },
     {
@@ -689,59 +868,30 @@
       }
     },
     {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "IPPI",
-      "collection_date": "2026-08-10",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-3",
-      "candidates": {
-        "Eduardo Braide": 44,
-        "Orleans Brandão": 25.9,
-        "Felipe Camarão": 5.1,
-        "Roberto Rocha": 5,
-        "André Luís": 1.1
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
-      }
-    },
-    {
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Maurício Coelho|Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "Percent",
       "collection_date": "2026-08-10",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-2",
+      "source_url": "#cite_note-3",
       "candidates": {
         "Wellington Fagundes": 32,
         "Otaviano Pivetta": 21,
         "Natasha Slhessarenko": 11,
         "Sargento Laudicério": 2.1,
-        "Rafaell Milas": 1.1,
-        "Maurício Coelho": 0.8
+        "Rafaell Milas": 1.1
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
         "Natasha Slhessarenko": "PSD",
         "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO",
-        "Maurício Coelho": "MOBILIZA"
+        "Rafaell Milas": "MISSÃO"
       }
     },
     {
@@ -998,7 +1148,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:30-7",
+      "source_url": "#cite_note-:30-10",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 31,
@@ -1027,7 +1177,7 @@
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Rafael Fonteles": 75.69,
         "Joel Rodrigues": 18.99,
@@ -1052,7 +1202,7 @@
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Rafael Fonteles": 56.53,
         "Joel Rodrigues": 26.5,
@@ -1181,9 +1331,9 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-1",
+      "source_url": "#cite_note-3",
       "candidates": {
-        "Professora Dorinha": 36.7,
+        "Professora Dorinha": 36.3,
         "Laurez Moreira": 8.3,
         "Ataídes Oliveira": 9.3
       },
@@ -1302,6 +1452,83 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Eduardo Braide": 56.2,
+        "Orleans Brandão": 16.4,
+        "Felipe Camarão": 8.2,
+        "Roberto Rocha": 0.9,
+        "André Luís": 4.2
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Eduardo Braide": 60.7,
+        "Orleans Brandão": 17,
+        "Felipe Camarão": 8.5,
+        "Roberto Rocha": 0.9,
+        "André Luís": 5
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Eduardo Braide": 64.8,
+        "Orleans Brandão": 17.2,
+        "Felipe Camarão": 9.4
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT"
+      }
+    },
+    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -1376,83 +1603,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-07-29",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-5",
-      "candidates": {
-        "Eduardo Braide": 56.2,
-        "Orleans Brandão": 16.4,
-        "Felipe Camarão": 8.2,
-        "Roberto Rocha": 0.9,
-        "André Luís": 4.2
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-07-29",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-5",
-      "candidates": {
-        "Eduardo Braide": 60.7,
-        "Orleans Brandão": 17,
-        "Felipe Camarão": 8.5,
-        "Roberto Rocha": 0.9,
-        "André Luís": 5
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-07-29",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-5",
-      "candidates": {
-        "Eduardo Braide": 64.8,
-        "Orleans Brandão": 17.2,
-        "Felipe Camarão": 9.4
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT"
       }
     },
     {
@@ -1651,6 +1801,33 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-28",
+      "sample_size": 1002,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-9",
+      "candidates": {
+        "Ciro Gomes": 43,
+        "Elmano de Freitas": 33,
+        "Eduardo Girão": 3,
+        "Jarir Pereira": 1,
+        "Zé Batista": 0
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -1729,33 +1906,6 @@
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-28",
-      "sample_size": 1002,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:13-7",
-      "candidates": {
-        "Ciro Gomes": 43,
-        "Elmano de Freitas": 33,
-        "Eduardo Girão": 3,
-        "Jarir Pereira": 1,
-        "Zé Batista": 0
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
       }
     },
     {
@@ -2021,6 +2171,62 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:29-12",
+      "candidates": {
+        "Daniel Santos": 20,
+        "Hana Ghassan": 24,
+        "Mário Couto": 11,
+        "Araceli Lemos": 2,
+        "Cleber Rabelo": 2,
+        "Raquel Brício": 2
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:29-12",
+      "candidates": {
+        "Daniel Santos": 23,
+        "Hana Ghassan": 25,
+        "Araceli Lemos": 5,
+        "Cleber Rabelo": 4,
+        "Raquel Brício": 2
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -2099,62 +2305,6 @@
         "Requião Filho": "PDT",
         "Sandro Alex": "PSD",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:29-9",
-      "candidates": {
-        "Daniel Santos": 20,
-        "Hana Ghassan": 24,
-        "Mário Couto": 11,
-        "Araceli Lemos": 2,
-        "Cleber Rabelo": 2,
-        "Raquel Brício": 2
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:29-9",
-      "candidates": {
-        "Daniel Santos": 23,
-        "Hana Ghassan": 25,
-        "Araceli Lemos": 5,
-        "Cleber Rabelo": 4,
-        "Raquel Brício": 2
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
       }
     },
     {
@@ -2339,6 +2489,29 @@
       }
     },
     {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-07-24",
+      "sample_size": 1300,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-4",
+      "candidates": {
+        "Professora Dorinha": 34.4,
+        "Laurez Moreira": 10.1,
+        "Ataídes Oliveira": 5.8
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -2361,29 +2534,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-24",
-      "sample_size": 1300,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-2",
-      "candidates": {
-        "Professora Dorinha": 34.4,
-        "Laurez Moreira": 10.1,
-        "Ataídes Oliveira": 5.8
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Ataídes Oliveira": ""
       }
     },
     {
@@ -2495,6 +2645,29 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "Véritas",
+      "collection_date": "2026-07-21",
+      "sample_size": 1000,
+      "margin_error": 2.09,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-A-10",
+      "candidates": {
+        "Eduardo Braide": 42.5,
+        "Orleans Brandão": 48.7,
+        "Felipe Camarão": 2.9
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -2575,29 +2748,6 @@
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "Véritas",
-      "collection_date": "2026-07-21",
-      "sample_size": 1000,
-      "margin_error": 2.09,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-A-8",
-      "candidates": {
-        "Eduardo Braide": 42.5,
-        "Orleans Brandão": 48.7,
-        "Felipe Camarão": 2.9
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT"
       }
     },
     {
@@ -2780,7 +2930,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
@@ -2853,13 +3003,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "INOP",
       "collection_date": "2026-07-16",
       "sample_size": 2610,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
@@ -2884,7 +3034,7 @@
       "sample_size": 1250,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Professora Dorinha": 32,
         "Laurez Moreira": 15,
@@ -3017,7 +3167,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-13",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
@@ -3309,7 +3459,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-12",
+      "source_url": "#cite_note-:28-15",
       "candidates": {
         "Daniel Santos": 34.4,
         "Hana Ghassan": 22.5,
@@ -3334,7 +3484,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-12",
+      "source_url": "#cite_note-:28-15",
       "candidates": {
         "Daniel Santos": 37.1,
         "Hana Ghassan": 24.7,
@@ -3357,7 +3507,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-12",
+      "source_url": "#cite_note-:28-15",
       "candidates": {
         "Daniel Santos": 36.3,
         "Hana Ghassan": 25.6,
@@ -3547,6 +3697,33 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-07",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-14",
+      "candidates": {
+        "Eduardo Braide": 44,
+        "Orleans Brandão": 31,
+        "Felipe Camarão": 9,
+        "Roberto Rocha": 9,
+        "André Luís": 1
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -3557,7 +3734,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-13",
+      "source_url": "#cite_note-:27-16",
       "candidates": {
         "Daniel Santos": 37.2,
         "Hana Ghassan": 31.6,
@@ -3582,7 +3759,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-13",
+      "source_url": "#cite_note-:27-16",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 29.2,
@@ -3596,33 +3773,6 @@
         "Mário Couto": "DC",
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-07",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-12",
-      "candidates": {
-        "Eduardo Braide": 44,
-        "Orleans Brandão": 31,
-        "Felipe Camarão": 9,
-        "Roberto Rocha": 9,
-        "André Luís": 1
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
       }
     },
     {
@@ -4371,6 +4521,31 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "DataTrends",
+      "collection_date": "2026-06-25",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-15",
+      "candidates": {
+        "Ciro Gomes": 44,
+        "Elmano de Freitas": 39,
+        "Eduardo Girão": 4,
+        "Jarir Pereira": 1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -4381,7 +4556,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-16",
+      "source_url": "#cite_note-:26-19",
       "candidates": {
         "Daniel Santos": 32,
         "Hana Ghassan": 29,
@@ -4395,31 +4570,6 @@
         "Mário Couto": "DC",
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
-      "institute": "DataTrends",
-      "collection_date": "2026-06-25",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-:11-13",
-      "candidates": {
-        "Ciro Gomes": 44,
-        "Elmano de Freitas": 39,
-        "Eduardo Girão": 4,
-        "Jarir Pereira": 1
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
       }
     },
     {
@@ -4502,6 +4652,29 @@
       }
     },
     {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-06-22",
+      "sample_size": 1340,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-8",
+      "candidates": {
+        "Professora Dorinha": 35.9,
+        "Laurez Moreira": 8.8,
+        "Ataídes Oliveira": 6.9
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -4528,29 +4701,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-06-22",
-      "sample_size": 1340,
-      "margin_error": 2.7,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-6",
-      "candidates": {
-        "Professora Dorinha": 35.9,
-        "Laurez Moreira": 8.8,
-        "Ataídes Oliveira": 6.9
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Ataídes Oliveira": ""
       }
     },
     {
@@ -4633,7 +4783,7 @@
       "sample_size": 780,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Daniel Santos": 22.4,
         "Hana Ghassan": 25.6,
@@ -4721,31 +4871,6 @@
       }
     },
     {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "INOR",
-      "collection_date": "2026-06-18",
-      "sample_size": 1070,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-20",
-      "candidates": {
-        "Fábio Mitidieri": 34.95,
-        "Valmir de Francisquinho": 41.5,
-        "Ricardo Marques": 8.5,
-        "Emanuel Cacho": 0.37
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -4756,7 +4881,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-7",
+      "source_url": "#cite_note-:4-9",
       "candidates": {
         "Professora Dorinha": 33,
         "Laurez Moreira": 17,
@@ -4779,7 +4904,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-7",
+      "source_url": "#cite_note-:4-9",
       "candidates": {
         "Professora Dorinha": 35,
         "Laurez Moreira": 22,
@@ -4789,6 +4914,31 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "INOR",
+      "collection_date": "2026-06-18",
+      "sample_size": 1070,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-20",
+      "candidates": {
+        "Fábio Mitidieri": 34.95,
+        "Valmir de Francisquinho": 41.5,
+        "Ricardo Marques": 8.5,
+        "Emanuel Cacho": 0.37
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -4948,6 +5098,33 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "AtlasIntel /Focus",
+      "collection_date": "2026-06-14",
+      "sample_size": 1223,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Ciro Gomes": 45.8,
+        "Elmano de Freitas": 44.8,
+        "Eduardo Girão": 4.8,
+        "Jarir Pereira": 0.1,
+        "Zé Batista": 1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -4958,7 +5135,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-21",
+      "source_url": "#cite_note-:25-24",
       "candidates": {
         "Daniel Santos": 24.8,
         "Hana Ghassan": 30.4,
@@ -4987,7 +5164,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-21",
+      "source_url": "#cite_note-:25-24",
       "candidates": {
         "Daniel Santos": 24.5,
         "Hana Ghassan": 29.1,
@@ -5055,33 +5232,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
-      "institute": "AtlasIntel /Focus",
-      "collection_date": "2026-06-14",
-      "sample_size": 1223,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Ciro Gomes": 45.8,
-        "Elmano de Freitas": 44.8,
-        "Eduardo Girão": 4.8,
-        "Jarir Pereira": 0.1,
-        "Zé Batista": 1
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
       }
     },
     {
@@ -5470,6 +5620,29 @@
       }
     },
     {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Vox Tocantins",
+      "collection_date": "2026-06-09",
+      "sample_size": 1314,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-12",
+      "candidates": {
+        "Professora Dorinha": 31.1,
+        "Laurez Moreira": 11.8,
+        "Ataídes Oliveira": 3.3
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -5490,29 +5663,6 @@
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT",
         "Ronaldo Mansur": "PSOL"
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Vox Tocantins",
-      "collection_date": "2026-06-09",
-      "sample_size": 1314,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-10",
-      "candidates": {
-        "Professora Dorinha": 31.1,
-        "Laurez Moreira": 11.8,
-        "Ataídes Oliveira": 3.3
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Ataídes Oliveira": ""
       }
     },
     {
@@ -5913,7 +6063,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-17",
+      "source_url": "#cite_note-:8-19",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
@@ -5940,7 +6090,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-25",
+      "source_url": "#cite_note-Veritá3-28",
       "candidates": {
         "Daniel Santos": 52.5,
         "Hana Ghassan": 32,
@@ -6042,7 +6192,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-20",
+      "source_url": "#cite_note-:6-21",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -6067,7 +6217,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -6313,6 +6463,31 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-05-26",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Ciro Gomes": 45,
+        "Elmano de Freitas": 38.8,
+        "Eduardo Girão": 3.4,
+        "Jarir Pereira": 2
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -6323,7 +6498,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-24",
+      "source_url": "#cite_note--2-25",
       "candidates": {
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
@@ -6350,7 +6525,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-24",
+      "source_url": "#cite_note--2-25",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
@@ -6389,31 +6564,6 @@
         "Omar Aziz": "PSD",
         "David Almeida": "Avante",
         "Roberto Cidade": "UNIÃO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-05-26",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Ciro Gomes": 45,
-        "Elmano de Freitas": 38.8,
-        "Eduardo Girão": 3.4,
-        "Jarir Pereira": 2
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
       }
     },
     {
@@ -6552,7 +6702,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-27",
+      "source_url": "#cite_note-:24-30",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -6579,7 +6729,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-27",
+      "source_url": "#cite_note-:24-30",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -6945,7 +7095,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-20",
+      "source_url": "#cite_note-:7-22",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
@@ -7051,7 +7201,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--1-30",
+      "source_url": "#cite_note--1-31",
       "candidates": {
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
@@ -7103,7 +7253,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -7130,7 +7280,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -7205,7 +7355,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-33",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -7232,7 +7382,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-33",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -7257,7 +7407,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-33",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -7284,7 +7434,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-33",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -7611,7 +7761,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-32",
+      "source_url": "#cite_note-:23-35",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -7755,31 +7905,6 @@
       }
     },
     {
-      "uf": "GO",
-      "estado": "Goiás",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Exata GO",
-      "collection_date": "2026-04-30",
-      "sample_size": 3300,
-      "margin_error": 1.7,
-      "tse_registration": "",
-      "source_url": "#cite_note-36",
-      "candidates": {
-        "Daniel Vilela": 29.6,
-        "Marconi Perillo": 30.2,
-        "Adriana Accorsi": 8.7,
-        "Luis Cesar Bueno": 1.9
-      },
-      "parties": {
-        "Daniel Vilela": "MDB",
-        "Marconi Perillo": "PSDB",
-        "Adriana Accorsi": "PT",
-        "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -7790,7 +7915,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-34",
+      "source_url": "#cite_note-Veritá2-37",
       "candidates": {
         "Daniel Santos": 29.1,
         "Hana Ghassan": 26.6,
@@ -7804,6 +7929,31 @@
         "Mário Couto": "DC",
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Exata GO",
+      "collection_date": "2026-04-30",
+      "sample_size": 3300,
+      "margin_error": 1.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-37",
+      "candidates": {
+        "Daniel Vilela": 29.6,
+        "Marconi Perillo": 30.2,
+        "Adriana Accorsi": 8.7,
+        "Luis Cesar Bueno": 1.9
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Adriana Accorsi": "PT",
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -7874,6 +8024,29 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Ampla",
+      "collection_date": "2026-04-29",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:22-39",
+      "candidates": {
+        "Daniel Santos": 35.2,
+        "Hana Ghassan": 26,
+        "Araceli Lemos": 3.4
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -7930,26 +8103,111 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Ampla",
-      "collection_date": "2026-04-29",
-      "sample_size": 1500,
-      "margin_error": 2.6,
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1002,
+      "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-36",
+      "source_url": "#cite_note-Quaest-Abril-24",
       "candidates": {
-        "Daniel Santos": 35.2,
-        "Hana Ghassan": 26,
-        "Araceli Lemos": 3.4
+        "Ciro Gomes": 41,
+        "Elmano de Freitas": 32,
+        "Eduardo Girão": 4,
+        "Jarir Pereira": 1,
+        "Zé Batista": 0
       },
       "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL"
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1002,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Quaest-Abril-24",
+      "candidates": {
+        "Ciro Gomes": 33,
+        "Camilo Santana": 40,
+        "Eduardo Girão": 5,
+        "Jarir Pereira": 1,
+        "Zé Batista": 1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Camilo Santana": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Eduardo Girão|Elmano de Freitas|Jarir Pereira|Roberto Cláudio|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1002,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Quaest-Abril-24",
+      "candidates": {
+        "Elmano de Freitas": 39,
+        "Roberto Cláudio": 16,
+        "Eduardo Girão": 8,
+        "Jarir Pereira": 2,
+        "Zé Batista": 1
+      },
+      "parties": {
+        "Elmano de Freitas": "PT",
+        "Roberto Cláudio": "UNIÃO",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Camilo Santana|Eduardo Girão|Jarir Pereira|Roberto Cláudio|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1002,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Quaest-Abril-24",
+      "candidates": {
+        "Camilo Santana": 49,
+        "Roberto Cláudio": 12,
+        "Eduardo Girão": 9,
+        "Jarir Pereira": 1,
+        "Zé Batista": 1
+      },
+      "parties": {
+        "Camilo Santana": "PT",
+        "Roberto Cláudio": "UNIÃO",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
       }
     },
     {
@@ -7963,7 +8221,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-37",
+      "source_url": "#cite_note-Genial/Quaest-Abril-38",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -7988,7 +8246,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-37",
+      "source_url": "#cite_note-Genial/Quaest-Abril-38",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -8013,7 +8271,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-37",
+      "source_url": "#cite_note-Genial/Quaest-Abril-38",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 21,
@@ -8048,114 +8306,6 @@
         "Omar Aziz": "PSD",
         "David Almeida": "Avante",
         "Roberto Cidade": "UNIÃO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1002,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-22",
-      "candidates": {
-        "Ciro Gomes": 41,
-        "Elmano de Freitas": 32,
-        "Eduardo Girão": 4,
-        "Jarir Pereira": 1,
-        "Zé Batista": 0
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão|Jarir Pereira|Zé Batista",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1002,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-22",
-      "candidates": {
-        "Ciro Gomes": 33,
-        "Camilo Santana": 40,
-        "Eduardo Girão": 5,
-        "Jarir Pereira": 1,
-        "Zé Batista": 1
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Camilo Santana": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Eduardo Girão|Elmano de Freitas|Jarir Pereira|Roberto Cláudio|Zé Batista",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1002,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-22",
-      "candidates": {
-        "Elmano de Freitas": 39,
-        "Roberto Cláudio": 16,
-        "Eduardo Girão": 8,
-        "Jarir Pereira": 2,
-        "Zé Batista": 1
-      },
-      "parties": {
-        "Elmano de Freitas": "PT",
-        "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Camilo Santana|Eduardo Girão|Jarir Pereira|Roberto Cláudio|Zé Batista",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1002,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-22",
-      "candidates": {
-        "Camilo Santana": 49,
-        "Roberto Cláudio": 12,
-        "Eduardo Girão": 9,
-        "Jarir Pereira": 1,
-        "Zé Batista": 1
-      },
-      "parties": {
-        "Camilo Santana": "PT",
-        "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
       }
     },
     {
@@ -8715,6 +8865,58 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:20-41",
+      "candidates": {
+        "Daniel Santos": 22,
+        "Hana Ghassan": 19,
+        "Mário Couto": 11,
+        "Araceli Lemos": 2,
+        "Cleber Rabelo": 3
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:20-41",
+      "candidates": {
+        "Daniel Santos": 24,
+        "Hana Ghassan": 22,
+        "Araceli Lemos": 3,
+        "Cleber Rabelo": 5
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -8766,58 +8968,6 @@
         "Requião Filho": "PDT",
         "Sandro Alex": "PSD",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:20-38",
-      "candidates": {
-        "Daniel Santos": 22,
-        "Hana Ghassan": 19,
-        "Mário Couto": 11,
-        "Araceli Lemos": 2,
-        "Cleber Rabelo": 3
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:20-38",
-      "candidates": {
-        "Daniel Santos": 24,
-        "Hana Ghassan": 22,
-        "Araceli Lemos": 3,
-        "Cleber Rabelo": 5
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -9168,7 +9318,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-41",
+      "source_url": "#cite_note-:19-44",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -9195,7 +9345,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-41",
+      "source_url": "#cite_note-:19-44",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -9380,7 +9530,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Professora Dorinha": 12.38,
         "Laurez Moreira": 6,
@@ -9428,7 +9578,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-41",
       "candidates": {
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
@@ -9455,7 +9605,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-41",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
@@ -9482,7 +9632,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-41",
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
@@ -9884,183 +10034,6 @@
       }
     },
     {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1254,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
-      "candidates": {
-        "Sergio Moro": 51.5,
-        "Requião Filho": 28.4,
-        "Rafael Greca": 8.4,
-        "Guto Silva": 5.6,
-        "Luiz França": 2.9
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Rafael Greca": "MDB",
-        "Guto Silva": "PSD",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Alexandre Curi|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1254,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
-      "candidates": {
-        "Sergio Moro": 52.8,
-        "Requião Filho": 27,
-        "Rafael Greca": 3.7,
-        "Alexandre Curi": 9.8,
-        "Luiz França": 3.3
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Rafael Greca": "MDB",
-        "Alexandre Curi": "Republicanos",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1254,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
-      "candidates": {
-        "Sergio Moro": 52.6,
-        "Requião Filho": 28.8,
-        "Rafael Greca": 7,
-        "Luiz França": 2.7
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Rafael Greca": "MDB",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1254,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
-      "candidates": {
-        "Sergio Moro": 52.1,
-        "Requião Filho": 30.6,
-        "Rafael Greca": 6.8,
-        "Guto Silva": 6.1,
-        "Luiz França": 2.4
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Rafael Greca": "MDB",
-        "Guto Silva": "PSD",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 1525,
-      "margin_error": null,
-      "tse_registration": "",
-      "source_url": "#cite_note-46",
-      "candidates": {
-        "Daniel Santos": 43.4,
-        "Hana Ghassan": 25.5,
-        "Mário Couto": 17.4
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 1525,
-      "margin_error": null,
-      "tse_registration": "",
-      "source_url": "#cite_note-46",
-      "candidates": {
-        "Daniel Santos": 31.8,
-        "Hana Ghassan": 18.7,
-        "Mário Couto": 12.7
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 2010,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Raquel Lyra": 41.4,
-        "João Campos": 41.4,
-        "Eduardo Moura": 2.9,
-        "Ivan Moraes": 4
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
-      }
-    },
-    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -10071,7 +10044,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-24",
+      "source_url": "#cite_note-:6-26",
       "candidates": {
         "Ciro Gomes": 30,
         "Elmano de Freitas": 21,
@@ -10187,6 +10160,183 @@
         "Camilo Santana": "PT",
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 1525,
+      "margin_error": null,
+      "tse_registration": "",
+      "source_url": "#cite_note-49",
+      "candidates": {
+        "Daniel Santos": 43.4,
+        "Hana Ghassan": 25.5,
+        "Mário Couto": 17.4
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 1525,
+      "margin_error": null,
+      "tse_registration": "",
+      "source_url": "#cite_note-49",
+      "candidates": {
+        "Daniel Santos": 31.8,
+        "Hana Ghassan": 18.7,
+        "Mário Couto": 12.7
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1254,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-26",
+      "candidates": {
+        "Sergio Moro": 51.5,
+        "Requião Filho": 28.4,
+        "Rafael Greca": 8.4,
+        "Guto Silva": 5.6,
+        "Luiz França": 2.9
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Rafael Greca": "MDB",
+        "Guto Silva": "PSD",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Alexandre Curi|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1254,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-26",
+      "candidates": {
+        "Sergio Moro": 52.8,
+        "Requião Filho": 27,
+        "Rafael Greca": 3.7,
+        "Alexandre Curi": 9.8,
+        "Luiz França": 3.3
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Rafael Greca": "MDB",
+        "Alexandre Curi": "Republicanos",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1254,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-26",
+      "candidates": {
+        "Sergio Moro": 52.6,
+        "Requião Filho": 28.8,
+        "Rafael Greca": 7,
+        "Luiz França": 2.7
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Rafael Greca": "MDB",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Guto Silva|Luiz França|Rafael Greca|Requião Filho|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1254,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-26",
+      "candidates": {
+        "Sergio Moro": 52.1,
+        "Requião Filho": 30.6,
+        "Rafael Greca": 6.8,
+        "Guto Silva": 6.1,
+        "Luiz França": 2.4
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Rafael Greca": "MDB",
+        "Guto Silva": "PSD",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 2010,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Raquel Lyra": 41.4,
+        "João Campos": 41.4,
+        "Eduardo Moura": 2.9,
+        "Ivan Moraes": 4
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Eduardo Moura": "NOVO",
+        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -10515,29 +10665,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Metadata/Grupo Dial",
-      "collection_date": "2026-03-28",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-41",
-      "candidates": {
-        "Allyson": 28.8,
-        "Álvaro Dias": 37.2,
-        "Cadu de Lula": 10.7
-      },
-      "parties": {
-        "Allyson": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT"
-      }
-    },
-    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -10548,7 +10675,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Ciro Gomes": 39,
         "Elmano de Freitas": 42,
@@ -10573,7 +10700,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Elmano de Freitas": 45,
         "Roberto Cláudio": 27,
@@ -10585,6 +10712,29 @@
         "Roberto Cláudio": "UNIÃO",
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Metadata/Grupo Dial",
+      "collection_date": "2026-03-28",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-41",
+      "candidates": {
+        "Allyson": 28.8,
+        "Álvaro Dias": 37.2,
+        "Cadu de Lula": 10.7
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -10859,31 +11009,6 @@
       }
     },
     {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Tadeu de Souza",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Veritá",
-      "collection_date": "2026-03-24",
-      "sample_size": 1138,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM03-32",
-      "candidates": {
-        "Maria do Carmo": 40.8,
-        "Omar Aziz": 33.8,
-        "David Almeida": 23,
-        "Tadeu de Souza": 2.4
-      },
-      "parties": {
-        "Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Tadeu de Souza": "PP"
-      }
-    },
-    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -10906,6 +11031,106 @@
         "Elmano de Freitas": "PT",
         "Eduardo Girão": "NOVO",
         "Jarir Pereira": "PSOL"
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-24",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-15",
+      "candidates": {
+        "Professora Dorinha": 35,
+        "Laurez Moreira": 18,
+        "Carlos Amastha": 11,
+        "Amélio Cayres": 8,
+        "Ataídes Oliveira": 4
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Carlos Amastha": "",
+        "Amélio Cayres": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-24",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-15",
+      "candidates": {
+        "Professora Dorinha": 39,
+        "Laurez Moreira": 20,
+        "Carlos Amastha": 11,
+        "Ataídes Oliveira": 4
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Carlos Amastha": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-24",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-15",
+      "candidates": {
+        "Professora Dorinha": 40,
+        "Laurez Moreira": 23,
+        "Ataídes Oliveira": 6
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Tadeu de Souza",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "institute": "Veritá",
+      "collection_date": "2026-03-24",
+      "sample_size": 1138,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM03-32",
+      "candidates": {
+        "Maria do Carmo": 40.8,
+        "Omar Aziz": 33.8,
+        "David Almeida": 23,
+        "Tadeu de Souza": 2.4
+      },
+      "parties": {
+        "Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Tadeu de Souza": "PP"
       }
     },
     {
@@ -10959,81 +11184,6 @@
       }
     },
     {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-24",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-13",
-      "candidates": {
-        "Professora Dorinha": 35,
-        "Laurez Moreira": 18,
-        "Carlos Amastha": 11,
-        "Amélio Cayres": 8,
-        "Ataídes Oliveira": 4
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Carlos Amastha": "",
-        "Amélio Cayres": "",
-        "Ataídes Oliveira": ""
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-24",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-13",
-      "candidates": {
-        "Professora Dorinha": 39,
-        "Laurez Moreira": 20,
-        "Carlos Amastha": 11,
-        "Ataídes Oliveira": 4
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Carlos Amastha": "",
-        "Ataídes Oliveira": ""
-      }
-    },
-    {
-      "uf": "TO",
-      "estado": "Tocantins",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-24",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-13",
-      "candidates": {
-        "Professora Dorinha": 40,
-        "Laurez Moreira": 23,
-        "Ataídes Oliveira": 6
-      },
-      "parties": {
-        "Professora Dorinha": "",
-        "Laurez Moreira": "",
-        "Ataídes Oliveira": ""
-      }
-    },
-    {
       "uf": "ES",
       "estado": "Espírito Santo",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
@@ -11071,7 +11221,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-49",
+      "source_url": "#cite_note-:0-52",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -11098,7 +11248,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-49",
+      "source_url": "#cite_note-:0-52",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -11336,6 +11486,60 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
+      "institute": "Datafolha",
+      "collection_date": "2026-03-18",
+      "sample_size": 816,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Ciro Gomes": 47,
+        "Elmano de Freitas": 32,
+        "Eduardo Girão": 5,
+        "Jarir Pereira": 2,
+        "Zé Batista": 2
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Jarir Pereira|Roberto Cláudio|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
+      "institute": "Datafolha",
+      "collection_date": "2026-03-18",
+      "sample_size": 816,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Ciro Gomes": 42,
+        "Roberto Cláudio": 20,
+        "Eduardo Girão": 14,
+        "Jarir Pereira": 4,
+        "Zé Batista": 2
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Roberto Cláudio": "UNIÃO",
+        "Eduardo Girão": "NOVO",
+        "Jarir Pereira": "PSOL",
+        "Zé Batista": "PSTU"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -11404,60 +11608,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Datafolha",
-      "collection_date": "2026-03-18",
-      "sample_size": 816,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Ciro Gomes": 47,
-        "Elmano de Freitas": 32,
-        "Eduardo Girão": 5,
-        "Jarir Pereira": 2,
-        "Zé Batista": 2
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Jarir Pereira|Roberto Cláudio|Zé Batista",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Datafolha",
-      "collection_date": "2026-03-18",
-      "sample_size": 816,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Ciro Gomes": 42,
-        "Roberto Cláudio": 20,
-        "Eduardo Girão": 14,
-        "Jarir Pereira": 4,
-        "Zé Batista": 2
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
       }
     },
     {
@@ -11617,7 +11767,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-44",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -11644,7 +11794,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-44",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -11671,7 +11821,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-44",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -13150,7 +13300,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-58",
+      "source_url": "#cite_note-:3-61",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -13177,7 +13327,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-58",
+      "source_url": "#cite_note-:3-61",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -13285,7 +13435,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-62",
+      "source_url": "#cite_note-:1-65",
       "candidates": {
         "Daniel Santos": 32.1,
         "Hana Ghassan": 22.2,
@@ -13310,7 +13460,7 @@
       "sample_size": 22820,
       "margin_error": 3.47,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-14",
+      "source_url": "#cite_note-:1-16",
       "candidates": {
         "Professora Dorinha": 22.93,
         "Laurez Moreira": 9.72,
@@ -13356,7 +13506,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Professora Dorinha": 36.31,
         "Laurez Moreira": 5.25,
@@ -13510,7 +13660,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-45",
+      "source_url": "#cite_note-:2-46",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
@@ -13560,7 +13710,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 30.5,
         "Hana Ghassan": 20.3,
@@ -13585,7 +13735,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 20.7,
         "Hana Ghassan": 19.8,
@@ -13610,7 +13760,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 34.1,
         "Hana Ghassan": 19.2,
@@ -13635,7 +13785,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 32,
@@ -13660,7 +13810,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 23.2,
         "Hana Ghassan": 21.3,
@@ -13685,7 +13835,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 47.8,
         "Hana Ghassan": 19.1,
@@ -13710,7 +13860,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 23.2,
@@ -14306,7 +14456,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-78",
+      "source_url": "#cite_note-:6-81",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -14329,7 +14479,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-78",
+      "source_url": "#cite_note-:6-81",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -14527,7 +14677,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-84",
+      "source_url": "#cite_note-:7-87",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
@@ -14552,7 +14702,7 @@
       "sample_size": 600,
       "margin_error": 4,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-82",
+      "source_url": "#cite_note-:9-85",
       "candidates": {
         "Daniel Santos": 29.4,
         "Hana Ghassan": 19.8,
@@ -14878,7 +15028,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Wellington Fagundes": 43,
         "Otaviano Pivetta": 17
@@ -14899,7 +15049,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Wellington Fagundes": 44,
         "Otaviano Pivetta": 18,
@@ -14922,7 +15072,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 15,
@@ -15340,7 +15490,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-92",
+      "source_url": "#cite_note-95",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -15363,7 +15513,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-92",
+      "source_url": "#cite_note-95",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -15386,7 +15536,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Professora Dorinha": 29,
         "Eduardo Gomes": 29,
@@ -15693,7 +15843,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-97",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -15714,7 +15864,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-97",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -15735,7 +15885,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-97",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -15756,7 +15906,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-97",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -16439,7 +16589,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-106",
+      "source_url": "#cite_note-109",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -16462,7 +16612,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-106",
+      "source_url": "#cite_note-109",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -16577,7 +16727,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-115",
+      "source_url": "#cite_note-:11-118",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -16661,7 +16811,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-125",
+      "source_url": "#cite_note-:13-128",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -16682,7 +16832,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-128",
+      "source_url": "#cite_note-131",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -16703,7 +16853,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-128",
+      "source_url": "#cite_note-131",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -16724,7 +16874,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-133",
+      "source_url": "#cite_note-:14-136",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -16745,7 +16895,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-136",
+      "source_url": "#cite_note-:15-139",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -16952,7 +17102,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-139",
+      "source_url": "#cite_note-:16-142",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -17237,7 +17387,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-142",
+      "source_url": "#cite_note-:17-145",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10

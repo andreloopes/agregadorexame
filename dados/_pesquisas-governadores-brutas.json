@@ -1,6 +1,87 @@
 {
-  "atualizado_em": "2026-08-20",
+  "atualizado_em": "2026-08-21",
   "pesquisas": [
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "IPSensus",
+      "collection_date": "2026-08-20",
+      "sample_size": 2480,
+      "margin_error": 2.55,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Eduardo Braide": 37.84,
+        "Orleans Brandão": 41.01,
+        "Felipe Camarão": 4.19,
+        "Roberto Rocha": 4.86,
+        "André Luís": 1.42
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia|Zé Batista",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-19",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:16-1",
+      "candidates": {
+        "Ciro Gomes": 44,
+        "Elmano de Freitas": 44,
+        "Vera Lúcia": 1,
+        "Delegado Huggo": 1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Vera Lúcia": "NOVO",
+        "Delegado Huggo": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho|Well Macêdo",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-08-19",
+      "sample_size": 1197,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:32-1",
+      "candidates": {
+        "Hana Ghassan": 48.6,
+        "Daniel Santos": 40.5,
+        "Araceli Lemos": 1.4,
+        "Gal Leite": 0,
+        "Robertinho": 0.3,
+        "José Moita": 0.1
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Gal Leite": "UP",
+        "Robertinho": "PRTB",
+        "José Moita": "Democrata"
+      }
+    },
     {
       "uf": "DF",
       "estado": "Distrito Federal",
@@ -178,6 +259,31 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Exata GO",
+      "collection_date": "2026-08-15",
+      "sample_size": 3200,
+      "margin_error": 1.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-:16-3",
+      "candidates": {
+        "Daniel Vilela": 27.75,
+        "Marconi Perillo": 36.78,
+        "Wilder Morais": 11.66,
+        "Luis Cesar Bueno": 4.34
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -188,7 +294,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:31-2",
+      "source_url": "#cite_note-:31-5",
       "candidates": {
         "Hana Ghassan": 35.1,
         "Daniel Santos": 30.2,
@@ -227,6 +333,29 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Lucro Ativo",
+      "collection_date": "2026-08-15",
+      "sample_size": 1500,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-1",
+      "candidates": {
+        "Professora Dorinha": 39.27,
+        "Laurez Moreira": 8.2,
+        "Ataídes Oliveira": 2.8
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
       }
     },
     {
@@ -342,7 +471,7 @@
       "sample_size": 1022,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-1",
+      "source_url": "#cite_note-:15-3",
       "candidates": {
         "Ciro Gomes": 52,
         "Elmano de Freitas": 33,
@@ -367,7 +496,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-4",
       "candidates": {
         "Daniel Vilela": 37.2,
         "Marconi Perillo": 18.8,
@@ -443,6 +572,31 @@
         "Adriano Teixeira": "PCO",
         "Tayná Miessa": "UP",
         "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "PI",
+      "estado": "Piauí",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
+      "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "Amostragem",
+      "collection_date": "2026-08-12",
+      "sample_size": 1137,
+      "margin_error": 2.85,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Rafael Fonteles": 73.84,
+        "Joel Rodrigues": 19.21,
+        "Elizeu Aguiar": 0.99,
+        "Gisvaldo Oliveira": 0.99
+      },
+      "parties": {
+        "Rafael Fonteles": "PT",
+        "Joel Rodrigues": "PP",
+        "Elizeu Aguiar": "NOVO",
+        "Gisvaldo Oliveira": "PSOL"
       }
     },
     {
@@ -554,13 +708,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Véritas",
       "collection_date": "2026-08-11",
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-1",
+      "source_url": "#cite_note-3",
       "candidates": {
         "Eduardo Braide": 39.1,
         "Orleans Brandão": 47.5,
@@ -580,7 +734,7 @@
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Maurício Coelho|Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-11",
@@ -593,16 +747,14 @@
         "Otaviano Pivetta": 26,
         "Natasha Slhessarenko": 13,
         "Sargento Laudicério": 1,
-        "Rafaell Milas": 3,
-        "Maurício Coelho": 0
+        "Rafaell Milas": 3
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
         "Natasha Slhessarenko": "PSD",
         "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO",
-        "Maurício Coelho": "MOBILIZA"
+        "Rafaell Milas": "MISSÃO"
       }
     },
     {
@@ -714,13 +866,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "IPPI",
       "collection_date": "2026-08-10",
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-:0-5",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25.9,
@@ -740,29 +892,27 @@
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Maurício Coelho|Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "Percent",
       "collection_date": "2026-08-10",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-2",
+      "source_url": "#cite_note-3",
       "candidates": {
         "Wellington Fagundes": 32,
         "Otaviano Pivetta": 21,
         "Natasha Slhessarenko": 11,
         "Sargento Laudicério": 2.1,
-        "Rafaell Milas": 1.1,
-        "Maurício Coelho": 0.8
+        "Rafaell Milas": 1.1
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
         "Natasha Slhessarenko": "PSD",
         "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO",
-        "Maurício Coelho": "MOBILIZA"
+        "Rafaell Milas": "MISSÃO"
       }
     },
     {
@@ -998,7 +1148,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:30-7",
+      "source_url": "#cite_note-:30-10",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 31,
@@ -1077,7 +1227,7 @@
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-3",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Rafael Fonteles": 75.69,
         "Joel Rodrigues": 18.99,
@@ -1102,7 +1252,7 @@
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Rafael Fonteles": 56.53,
         "Joel Rodrigues": 26.5,
@@ -1181,9 +1331,9 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-1",
+      "source_url": "#cite_note-3",
       "candidates": {
-        "Professora Dorinha": 36.7,
+        "Professora Dorinha": 36.3,
         "Laurez Moreira": 8.3,
         "Ataídes Oliveira": 9.3
       },
@@ -1306,13 +1456,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-5",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
         "Eduardo Braide": 56.2,
         "Orleans Brandão": 16.4,
@@ -1333,13 +1483,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-5",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
         "Eduardo Braide": 60.7,
         "Orleans Brandão": 17,
@@ -1360,13 +1510,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-5",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
         "Eduardo Braide": 64.8,
         "Orleans Brandão": 17.2,
@@ -1686,7 +1836,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-7",
+      "source_url": "#cite_note-:13-9",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 33,
@@ -2079,7 +2229,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-9",
+      "source_url": "#cite_note-:29-12",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -2108,7 +2258,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-9",
+      "source_url": "#cite_note-:29-12",
       "candidates": {
         "Daniel Santos": 23,
         "Hana Ghassan": 25,
@@ -2397,7 +2547,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-2",
+      "source_url": "#cite_note-:7-4",
       "candidates": {
         "Professora Dorinha": 34.4,
         "Laurez Moreira": 10.1,
@@ -2599,13 +2749,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Véritas",
       "collection_date": "2026-07-21",
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-A-8",
+      "source_url": "#cite_note-:5-A-10",
       "candidates": {
         "Eduardo Braide": 42.5,
         "Orleans Brandão": 48.7,
@@ -2780,7 +2930,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
@@ -2853,13 +3003,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "INOP",
       "collection_date": "2026-07-16",
       "sample_size": 2610,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
@@ -2884,7 +3034,7 @@
       "sample_size": 1250,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-4",
+      "source_url": "#cite_note-6",
       "candidates": {
         "Professora Dorinha": 32,
         "Laurez Moreira": 15,
@@ -3017,7 +3167,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-13",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
@@ -3334,7 +3484,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-12",
+      "source_url": "#cite_note-:28-15",
       "candidates": {
         "Daniel Santos": 34.4,
         "Hana Ghassan": 22.5,
@@ -3359,7 +3509,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-12",
+      "source_url": "#cite_note-:28-15",
       "candidates": {
         "Daniel Santos": 37.1,
         "Hana Ghassan": 24.7,
@@ -3382,7 +3532,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-12",
+      "source_url": "#cite_note-:28-15",
       "candidates": {
         "Daniel Santos": 36.3,
         "Hana Ghassan": 25.6,
@@ -3647,13 +3797,13 @@
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho - Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-07",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-12",
+      "source_url": "#cite_note-:4-14",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
@@ -3680,7 +3830,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-13",
+      "source_url": "#cite_note-:27-16",
       "candidates": {
         "Daniel Santos": 37.2,
         "Hana Ghassan": 31.6,
@@ -3705,7 +3855,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-13",
+      "source_url": "#cite_note-:27-16",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 29.2,
@@ -4381,7 +4531,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-13",
+      "source_url": "#cite_note-:11-15",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 39,
@@ -4406,7 +4556,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-16",
+      "source_url": "#cite_note-:26-19",
       "candidates": {
         "Daniel Santos": 32,
         "Hana Ghassan": 29,
@@ -4610,7 +4760,7 @@
       "sample_size": 1340,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-6",
+      "source_url": "#cite_note-:6-8",
       "candidates": {
         "Professora Dorinha": 35.9,
         "Laurez Moreira": 8.8,
@@ -4658,7 +4808,7 @@
       "sample_size": 780,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Daniel Santos": 22.4,
         "Hana Ghassan": 25.6,
@@ -4756,7 +4906,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-7",
+      "source_url": "#cite_note-:4-9",
       "candidates": {
         "Professora Dorinha": 33,
         "Laurez Moreira": 17,
@@ -4779,7 +4929,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-7",
+      "source_url": "#cite_note-:4-9",
       "candidates": {
         "Professora Dorinha": 35,
         "Laurez Moreira": 22,
@@ -4985,7 +5135,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-21",
+      "source_url": "#cite_note-:25-24",
       "candidates": {
         "Daniel Santos": 24.8,
         "Hana Ghassan": 30.4,
@@ -5014,7 +5164,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-21",
+      "source_url": "#cite_note-:25-24",
       "candidates": {
         "Daniel Santos": 24.5,
         "Hana Ghassan": 29.1,
@@ -5526,7 +5676,7 @@
       "sample_size": 1314,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-10",
+      "source_url": "#cite_note-:5-12",
       "candidates": {
         "Professora Dorinha": 31.1,
         "Laurez Moreira": 11.8,
@@ -5913,7 +6063,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-17",
+      "source_url": "#cite_note-:8-19",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
@@ -5940,7 +6090,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-25",
+      "source_url": "#cite_note-Veritá3-28",
       "candidates": {
         "Daniel Santos": 52.5,
         "Hana Ghassan": 32,
@@ -6042,7 +6192,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-20",
+      "source_url": "#cite_note-:6-21",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -6067,7 +6217,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -6421,7 +6571,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-24",
+      "source_url": "#cite_note--2-25",
       "candidates": {
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
@@ -6448,7 +6598,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-24",
+      "source_url": "#cite_note--2-25",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
@@ -6552,7 +6702,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-27",
+      "source_url": "#cite_note-:24-30",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -6579,7 +6729,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-27",
+      "source_url": "#cite_note-:24-30",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -6945,7 +7095,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-20",
+      "source_url": "#cite_note-:7-22",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
@@ -7076,7 +7226,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--1-30",
+      "source_url": "#cite_note--1-31",
       "candidates": {
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
@@ -7153,7 +7303,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -7180,7 +7330,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -7228,7 +7378,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-33",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -7255,7 +7405,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-33",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -7280,7 +7430,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-33",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -7307,7 +7457,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-33",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -7611,7 +7761,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-32",
+      "source_url": "#cite_note-:23-35",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -7790,7 +7940,7 @@
       "sample_size": 3300,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Daniel Vilela": 29.6,
         "Marconi Perillo": 30.2,
@@ -7815,7 +7965,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-34",
+      "source_url": "#cite_note-Veritá2-37",
       "candidates": {
         "Daniel Santos": 29.1,
         "Hana Ghassan": 26.6,
@@ -7884,7 +8034,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-36",
+      "source_url": "#cite_note-:22-39",
       "candidates": {
         "Daniel Santos": 35.2,
         "Hana Ghassan": 26,
@@ -7988,7 +8138,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-22",
+      "source_url": "#cite_note-Quaest-Abril-24",
       "candidates": {
         "Ciro Gomes": 41,
         "Elmano de Freitas": 32,
@@ -8015,7 +8165,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-22",
+      "source_url": "#cite_note-Quaest-Abril-24",
       "candidates": {
         "Ciro Gomes": 33,
         "Camilo Santana": 40,
@@ -8042,7 +8192,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-22",
+      "source_url": "#cite_note-Quaest-Abril-24",
       "candidates": {
         "Elmano de Freitas": 39,
         "Roberto Cláudio": 16,
@@ -8069,7 +8219,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-22",
+      "source_url": "#cite_note-Quaest-Abril-24",
       "candidates": {
         "Camilo Santana": 49,
         "Roberto Cláudio": 12,
@@ -8194,7 +8344,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-37",
+      "source_url": "#cite_note-Genial/Quaest-Abril-38",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -8219,7 +8369,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-37",
+      "source_url": "#cite_note-Genial/Quaest-Abril-38",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -8244,7 +8394,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-37",
+      "source_url": "#cite_note-Genial/Quaest-Abril-38",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 21,
@@ -8725,7 +8875,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-38",
+      "source_url": "#cite_note-:20-41",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 19,
@@ -8752,7 +8902,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-38",
+      "source_url": "#cite_note-:20-41",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 22,
@@ -9168,7 +9318,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-41",
+      "source_url": "#cite_note-:19-44",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -9195,7 +9345,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-41",
+      "source_url": "#cite_note-:19-44",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -9380,7 +9530,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Professora Dorinha": 12.38,
         "Laurez Moreira": 6,
@@ -9428,7 +9578,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-41",
       "candidates": {
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
@@ -9455,7 +9605,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-41",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
@@ -9482,7 +9632,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-41",
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
@@ -9894,7 +10044,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-24",
+      "source_url": "#cite_note-:6-26",
       "candidates": {
         "Ciro Gomes": 30,
         "Elmano de Freitas": 21,
@@ -10160,7 +10310,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Daniel Santos": 43.4,
         "Hana Ghassan": 25.5,
@@ -10183,7 +10333,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 18.7,
@@ -10525,7 +10675,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Ciro Gomes": 39,
         "Elmano de Freitas": 42,
@@ -10550,7 +10700,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-27",
+      "source_url": "#cite_note-:1-29",
       "candidates": {
         "Elmano de Freitas": 45,
         "Roberto Cláudio": 27,
@@ -10996,7 +11146,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-13",
+      "source_url": "#cite_note-:3-15",
       "candidates": {
         "Professora Dorinha": 35,
         "Laurez Moreira": 18,
@@ -11023,7 +11173,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-13",
+      "source_url": "#cite_note-:3-15",
       "candidates": {
         "Professora Dorinha": 39,
         "Laurez Moreira": 20,
@@ -11048,7 +11198,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-13",
+      "source_url": "#cite_note-:3-15",
       "candidates": {
         "Professora Dorinha": 40,
         "Laurez Moreira": 23,
@@ -11096,7 +11246,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-49",
+      "source_url": "#cite_note-:0-52",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -11123,7 +11273,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-49",
+      "source_url": "#cite_note-:0-52",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -11617,7 +11767,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-44",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -11644,7 +11794,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-44",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -11671,7 +11821,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-44",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -13150,7 +13300,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-58",
+      "source_url": "#cite_note-:3-61",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -13177,7 +13327,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-58",
+      "source_url": "#cite_note-:3-61",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -13285,7 +13435,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-62",
+      "source_url": "#cite_note-:1-65",
       "candidates": {
         "Daniel Santos": 32.1,
         "Hana Ghassan": 22.2,
@@ -13331,7 +13481,7 @@
       "sample_size": 22820,
       "margin_error": 3.47,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-14",
+      "source_url": "#cite_note-:1-16",
       "candidates": {
         "Professora Dorinha": 22.93,
         "Laurez Moreira": 9.72,
@@ -13356,7 +13506,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Professora Dorinha": 36.31,
         "Laurez Moreira": 5.25,
@@ -13510,7 +13660,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-45",
+      "source_url": "#cite_note-:2-46",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
@@ -13560,7 +13710,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 30.5,
         "Hana Ghassan": 20.3,
@@ -13585,7 +13735,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 20.7,
         "Hana Ghassan": 19.8,
@@ -13610,7 +13760,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 34.1,
         "Hana Ghassan": 19.2,
@@ -13635,7 +13785,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 32,
@@ -13660,7 +13810,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 23.2,
         "Hana Ghassan": 21.3,
@@ -13685,7 +13835,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 47.8,
         "Hana Ghassan": 19.1,
@@ -13710,7 +13860,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 23.2,
@@ -14306,7 +14456,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-78",
+      "source_url": "#cite_note-:6-81",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -14329,7 +14479,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-78",
+      "source_url": "#cite_note-:6-81",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -14527,7 +14677,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-84",
+      "source_url": "#cite_note-:7-87",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
@@ -14552,7 +14702,7 @@
       "sample_size": 600,
       "margin_error": 4,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-82",
+      "source_url": "#cite_note-:9-85",
       "candidates": {
         "Daniel Santos": 29.4,
         "Hana Ghassan": 19.8,
@@ -14878,7 +15028,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Wellington Fagundes": 43,
         "Otaviano Pivetta": 17
@@ -14899,7 +15049,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Wellington Fagundes": 44,
         "Otaviano Pivetta": 18,
@@ -14922,7 +15072,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
+      "source_url": "#cite_note-:3-25",
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 15,
@@ -15340,7 +15490,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-92",
+      "source_url": "#cite_note-95",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -15363,7 +15513,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-92",
+      "source_url": "#cite_note-95",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -15386,7 +15536,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Professora Dorinha": 29,
         "Eduardo Gomes": 29,
@@ -15693,7 +15843,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-97",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -15714,7 +15864,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-97",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -15735,7 +15885,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-97",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -15756,7 +15906,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-97",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -16439,7 +16589,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-106",
+      "source_url": "#cite_note-109",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -16462,7 +16612,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-106",
+      "source_url": "#cite_note-109",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -16577,7 +16727,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-115",
+      "source_url": "#cite_note-:11-118",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -16661,7 +16811,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-125",
+      "source_url": "#cite_note-:13-128",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -16682,7 +16832,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-128",
+      "source_url": "#cite_note-131",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -16703,7 +16853,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-128",
+      "source_url": "#cite_note-131",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -16724,7 +16874,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-133",
+      "source_url": "#cite_note-:14-136",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -16745,7 +16895,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-136",
+      "source_url": "#cite_note-:15-139",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -16952,7 +17102,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-139",
+      "source_url": "#cite_note-:16-142",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -17237,7 +17387,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-142",
+      "source_url": "#cite_note-:17-145",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10
