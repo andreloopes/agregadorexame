@@ -1,9 +1,9 @@
 {
-  "ultima_execucao": "2026-08-21T11:37:44.312Z",
+  "ultima_execucao": "2026-08-22T11:32:55.040Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 681,
-  "pesquisas_usadas": 681,
-  "estados_com_agregado": 25,
+  "pesquisas_extraidas_brutas": 683,
+  "pesquisas_usadas": 683,
+  "estados_com_agregado": 24,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
     "AC": [
@@ -163,47 +163,13 @@
       },
       {
         "candidatos": [
-          "Camilo Santana",
           "Ciro Gomes",
-          "Eduardo Girão",
-          "Jarir Pereira",
+          "Delegado Huggo",
+          "Elmano de Freitas",
+          "Vera Lúcia",
           "Zé Batista"
         ],
         "pesquisas": 1
-      }
-    ],
-    "DF": [
-      {
-        "candidatos": [
-          "Celina Leão",
-          "José Roberto Arruda",
-          "Leandro Grass",
-          "Paula Belmonte",
-          "Ricardo Cappelli"
-        ],
-        "pesquisas": 2
-      },
-      {
-        "candidatos": [
-          "Celina Leão",
-          "Leandro Grass",
-          "Paula Belmonte",
-          "Ricardo Cappelli"
-        ],
-        "pesquisas": 2
-      },
-      {
-        "candidatos": [
-          "Celina Leão",
-          "José Roberto Arruda",
-          "Kiko Caputo",
-          "Leandro Grass",
-          "Paula Belmonte",
-          "Ricardo Cappelli",
-          "Robson Raimundo",
-          "Samara Mineiro"
-        ],
-        "pesquisas": 2
       }
     ],
     "ES": [
@@ -338,7 +304,7 @@
           "Sargento Laudicério",
           "Wellington Fagundes"
         ],
-        "pesquisas": 2
+        "pesquisas": 3
       },
       {
         "candidatos": [
@@ -580,7 +546,7 @@
           "Sergio Moro",
           "Tayná Miessa"
         ],
-        "pesquisas": 4
+        "pesquisas": 5
       },
       {
         "candidatos": [
@@ -610,7 +576,7 @@
           "João Campos",
           "Raquel Lyra"
         ],
-        "pesquisas": 18
+        "pesquisas": 19
       },
       {
         "candidatos": [
@@ -689,8 +655,12 @@
         "candidatos": [
           "André Marinho",
           "Anthony Garotinho",
+          "Coronel Busnello",
+          "Cyro Garcia",
           "Douglas Ruas",
           "Eduardo Paes",
+          "Juliete Pantoja",
+          "Luan Monteiro",
           "William Siri"
         ],
         "pesquisas": 1
@@ -753,7 +723,7 @@
           "Luciano Zucco",
           "Marcelo Maranata"
         ],
-        "pesquisas": 8
+        "pesquisas": 9
       },
       {
         "candidatos": [
@@ -801,7 +771,7 @@
           "Marcos Rogério",
           "Samuel Costa"
         ],
-        "pesquisas": 6
+        "pesquisas": 7
       },
       {
         "candidatos": [
@@ -1107,13 +1077,13 @@
     "CE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "status": "ok",
-      "pesquisas": 27,
+      "pesquisas": 28,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Cear%C3%A1"
     },
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "status": "ok",
-      "pesquisas": 6,
+      "status": "sem_pesquisas_validas",
+      "pesquisas": 0,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
@@ -1137,7 +1107,7 @@
     "MT": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "status": "ok",
-      "pesquisas": 7,
+      "pesquisas": 8,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso"
     },
     "MS": {
@@ -1149,7 +1119,7 @@
     "MG": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
       "status": "ok",
-      "pesquisas": 41,
+      "pesquisas": 42,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Minas_Gerais"
     },
     "PA": {
@@ -1167,13 +1137,13 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 50,
+      "pesquisas": 51,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "status": "ok",
-      "pesquisas": 32,
+      "pesquisas": 33,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
     },
     "PI": {
@@ -1185,7 +1155,7 @@
     "RJ": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
       "status": "ok",
-      "pesquisas": 26,
+      "pesquisas": 27,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_de_Janeiro"
     },
     "RN": {
@@ -1197,13 +1167,13 @@
     "RS": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
       "status": "ok",
-      "pesquisas": 26,
+      "pesquisas": 27,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Sul"
     },
     "RO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "status": "ok",
-      "pesquisas": 14,
+      "pesquisas": 15,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Rond%C3%B4nia"
     },
     "RR": {

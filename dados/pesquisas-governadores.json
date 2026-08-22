@@ -1,6 +1,64 @@
 {
-  "atualizado_em": "2026-08-21",
+  "atualizado_em": "2026-08-22",
   "pesquisas": [
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-08-21",
+      "sample_size": 1204,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Raquel Lyra": 47,
+        "João Campos": 40,
+        "Ivan Moraes": 1
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Datafolha",
+      "collection_date": "2026-08-21",
+      "sample_size": 1204,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-1",
+      "candidates": {
+        "Eduardo Paes": 41,
+        "Douglas Ruas": 19,
+        "Anthony Garotinho": 9,
+        "André Marinho": 2,
+        "Coronel Busnello": 2,
+        "William Siri": 2,
+        "Cyro Garcia": 2,
+        "Juliete Pantoja": 2,
+        "Luan Monteiro": 1
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "Anthony Garotinho": "Republicanos",
+        "André Marinho": "NOVO",
+        "Coronel Busnello": "MISSÃO",
+        "William Siri": "PSOL",
+        "Cyro Garcia": "PSTU",
+        "Juliete Pantoja": "UP",
+        "Luan Monteiro": "PCO"
+      }
+    },
     {
       "uf": "MA",
       "estado": "Maranhão",
@@ -26,6 +84,89 @@
         "Felipe Camarão": "PT",
         "Roberto Rocha": "PRTB",
         "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "MT Dados",
+      "collection_date": "2026-08-20",
+      "sample_size": 3080,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-1",
+      "candidates": {
+        "Wellington Fagundes": 27,
+        "Otaviano Pivetta": 27,
+        "Natasha Slhessarenko": 12,
+        "Sargento Laudicério": 2,
+        "Rafaell Milas": 2
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Natasha Slhessarenko": "PSD",
+        "Sargento Laudicério": "Agir",
+        "Rafaell Milas": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Flávio Roscoe|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Datafolha",
+      "collection_date": "2026-08-20",
+      "sample_size": 1204,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-1",
+      "candidates": {
+        "Cleitinho": 32,
+        "Alexandre Kalil": 12,
+        "Patrus Ananias": 12,
+        "Mateus Simões": 4,
+        "Gabriel Azevedo": 4,
+        "Flávio Roscoe": 4,
+        "Ben Mendes": 1
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Patrus Ananias": "PT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Flávio Roscoe": "PL",
+        "Ben Mendes": "MISSÃO"
+      }
+    },
+    {
+      "uf": "RS",
+      "estado": "Rio Grande do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
+      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-08-20",
+      "sample_size": 1504,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-1",
+      "candidates": {
+        "Luciano Zucco": 34.4,
+        "Juliana Brizola": 31.4,
+        "Gabriel Souza": 11.3,
+        "Marcelo Maranata": 4.1
+      },
+      "parties": {
+        "Luciano Zucco": "PL",
+        "Juliana Brizola": "PDT",
+        "Gabriel Souza": "MDB",
+        "Marcelo Maranata": "PSDB"
       }
     },
     {
@@ -83,55 +224,57 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia|Zé Batista",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Real Time Big Data",
+      "institute": "Ipsus/Ipec",
       "collection_date": "2026-08-18",
-      "sample_size": 1600,
-      "margin_error": 2,
+      "sample_size": 800,
+      "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-1",
+      "source_url": "#cite_note-:17-3",
       "candidates": {
-        "Celina Leão": 34,
-        "José Roberto Arruda": 32,
-        "Leandro Grass": 18,
-        "Ricardo Cappelli": 5,
-        "Paula Belmonte": 6
+        "Ciro Gomes": 43,
+        "Elmano de Freitas": 35,
+        "Vera Lúcia": 2,
+        "Delegado Huggo": 3,
+        "Zé Batista": 1
       },
       "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Vera Lúcia": "NOVO",
+        "Delegado Huggo": "MISSÃO",
+        "Zé Batista": "PSTU"
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Real Time Big Data",
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Phoenix",
       "collection_date": "2026-08-18",
-      "sample_size": 1600,
-      "margin_error": 2,
+      "sample_size": 961,
+      "margin_error": 3.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-1",
+      "source_url": "#cite_note-1",
       "candidates": {
-        "Celina Leão": 45,
-        "Leandro Grass": 20,
-        "Ricardo Cappelli": 10,
-        "Paula Belmonte": 6
+        "Marcos Rogério": 28.2,
+        "Adaílton Fúria": 19.35,
+        "Expedito Netto": 6.66,
+        "Hildon Chaves": 16.65,
+        "Samuel Costa": 2.29
       },
       "parties": {
-        "Celina Leão": "PP",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
       }
     },
     {
@@ -198,12 +341,45 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Ranking",
+      "collection_date": "2026-08-16",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:0-3",
+      "candidates": {
+        "Sergio Moro": 37.33,
+        "Requião Filho": 20.56,
+        "Sandro Alex": 29.83,
+        "Luiz França": 0.75,
+        "Samuel de Mattos": 0.42,
+        "Adriano Teixeira": 0.08,
+        "Tayná Miessa": 0.17,
+        "Alexandre Salomão": 0.08
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-08-16",
       "sample_size": 1520,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-3",
+      "source_url": "#cite_note-:16-5",
       "candidates": {
         "Sergio Moro": 46.1,
         "Requião Filho": 23.4,
@@ -223,6 +399,29 @@
         "Adriano Teixeira": "PCO",
         "Tayná Miessa": "UP",
         "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-15",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:18-3",
+      "candidates": {
+        "Raquel Lyra": 43,
+        "João Campos": 43,
+        "Ivan Moraes": 2
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -255,39 +454,6 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|José Roberto Arruda|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli|Robson Raimundo|Samara Mineiro",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Igape",
-      "collection_date": "2026-08-15",
-      "sample_size": 2000,
-      "margin_error": 2.2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-4",
-      "candidates": {
-        "Celina Leão": 33.4,
-        "José Roberto Arruda": 23.7,
-        "Leandro Grass": 9.4,
-        "Ricardo Cappelli": 3.5,
-        "Paula Belmonte": 4.3,
-        "Samara Mineiro": 0.6,
-        "Kiko Caputo": 2.8,
-        "Robson Raimundo": 1.4
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Samara Mineiro": "UP",
-        "Kiko Caputo": "NOVO",
-        "Robson Raimundo": "PSTU"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -310,29 +476,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-15",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:18-1",
-      "candidates": {
-        "Raquel Lyra": 43,
-        "João Campos": 43,
-        "Ivan Moraes": 2
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -369,7 +512,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-3",
+      "source_url": "#cite_note-:19-5",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 35,
@@ -471,7 +614,7 @@
       "sample_size": 1022,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-3",
+      "source_url": "#cite_note-:15-5",
       "candidates": {
         "Ciro Gomes": 52,
         "Elmano de Freitas": 33,
@@ -521,7 +664,7 @@
       "sample_size": 1350,
       "margin_error": 2.67,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-4",
+      "source_url": "#cite_note-:15-6",
       "candidates": {
         "Sergio Moro": 40.2,
         "Requião Filho": 21,
@@ -679,6 +822,27 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Múltipla",
+      "collection_date": "2026-08-11",
+      "sample_size": 900,
+      "margin_error": 3.3,
+      "tse_registration": "",
+      "source_url": "#cite_note-6",
+      "candidates": {
+        "Raquel Lyra": 45,
+        "João Campos": 41
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -703,6 +867,33 @@
         "Felipe Camarão": "PT",
         "Roberto Rocha": "PRTB",
         "André Luís": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-11",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-3",
+      "candidates": {
+        "Wellington Fagundes": 34,
+        "Otaviano Pivetta": 26,
+        "Natasha Slhessarenko": 13,
+        "Sargento Laudicério": 1,
+        "Rafaell Milas": 3
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Natasha Slhessarenko": "PSD",
+        "Sargento Laudicério": "Agir",
+        "Rafaell Milas": "MISSÃO"
       }
     },
     {
@@ -741,7 +932,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-5",
+      "source_url": "#cite_note-7",
       "candidates": {
         "Sergio Moro": 45.7,
         "Requião Filho": 23.2,
@@ -761,54 +952,6 @@
         "Adriano Teixeira": "PCO",
         "Tayná Miessa": "UP",
         "Alexandre Salomão": "MOBILIZA"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Múltipla",
-      "collection_date": "2026-08-11",
-      "sample_size": 900,
-      "margin_error": 3.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-4",
-      "candidates": {
-        "Raquel Lyra": 45,
-        "João Campos": 41
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
-      }
-    },
-    {
-      "uf": "MT",
-      "estado": "Mato Grosso",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-11",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-1",
-      "candidates": {
-        "Wellington Fagundes": 34,
-        "Otaviano Pivetta": 26,
-        "Natasha Slhessarenko": 13,
-        "Sargento Laudicério": 1,
-        "Rafaell Milas": 3
-      },
-      "parties": {
-        "Wellington Fagundes": "PL",
-        "Otaviano Pivetta": "Republicanos",
-        "Natasha Slhessarenko": "PSD",
-        "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO"
       }
     },
     {
@@ -839,6 +982,33 @@
       }
     },
     {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "Percent",
+      "collection_date": "2026-08-10",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-4",
+      "candidates": {
+        "Wellington Fagundes": 32,
+        "Otaviano Pivetta": 21,
+        "Natasha Slhessarenko": 11,
+        "Sargento Laudicério": 2.1,
+        "Rafaell Milas": 1.1
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Natasha Slhessarenko": "PSD",
+        "Sargento Laudicério": "Agir",
+        "Rafaell Milas": "MISSÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -865,33 +1035,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "MT",
-      "estado": "Mato Grosso",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
-      "institute": "Percent",
-      "collection_date": "2026-08-10",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-3",
-      "candidates": {
-        "Wellington Fagundes": 32,
-        "Otaviano Pivetta": 21,
-        "Natasha Slhessarenko": 11,
-        "Sargento Laudicério": 2.1,
-        "Rafaell Milas": 1.1
-      },
-      "parties": {
-        "Wellington Fagundes": "PL",
-        "Otaviano Pivetta": "Republicanos",
-        "Natasha Slhessarenko": "PSD",
-        "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO"
       }
     },
     {
@@ -1038,7 +1181,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-7",
+      "source_url": "#cite_note-9",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 19.5,
@@ -1277,7 +1420,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-8",
+      "source_url": "#cite_note-:14-10",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -1344,39 +1487,6 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|José Roberto Arruda|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli|Robson Raimundo|Samara Mineiro",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Correio/Opinião",
-      "collection_date": "2026-07-30",
-      "sample_size": 1109,
-      "margin_error": 3.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-6",
-      "candidates": {
-        "Celina Leão": 32.4,
-        "José Roberto Arruda": 24,
-        "Leandro Grass": 9.8,
-        "Ricardo Cappelli": 4.3,
-        "Paula Belmonte": 3.5,
-        "Samara Mineiro": 0.9,
-        "Kiko Caputo": 0.8,
-        "Robson Raimundo": 0.5
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Samara Mineiro": "UP",
-        "Kiko Caputo": "NOVO",
-        "Robson Raimundo": "PSTU"
-      }
-    },
-    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -1410,7 +1520,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-8",
+      "source_url": "#cite_note-:17-10",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 42,
@@ -1433,7 +1543,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-4",
+      "source_url": "#cite_note-:0-5",
       "candidates": {
         "Eduardo Paes": 48.6,
         "Douglas Ruas": 11.1,
@@ -1441,6 +1551,87 @@
         "Wilson Witzel": 1.9,
         "William Siri": 0.8,
         "Anthony Garotinho": 11
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Anthony Garotinho": "Republicanos"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Badra",
+      "collection_date": "2026-07-29",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-12",
+      "candidates": {
+        "Raquel Lyra": 37.2,
+        "João Campos": 44.6,
+        "Ivan Moraes": 0.6
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Prefab",
+      "collection_date": "2026-07-29",
+      "sample_size": 2000,
+      "margin_error": 2.19,
+      "tse_registration": "",
+      "source_url": "#cite_note-3",
+      "candidates": {
+        "Eduardo Paes": 34.5,
+        "Douglas Ruas": 10.9,
+        "André Marinho": 1.8,
+        "Wilson Witzel": 3.6,
+        "William Siri": 1.8,
+        "Anthony Garotinho": 10.8
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Anthony Garotinho": "Republicanos"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Prefab Future",
+      "collection_date": "2026-07-29",
+      "sample_size": 2000,
+      "margin_error": 2.19,
+      "tse_registration": "",
+      "source_url": "#cite_note-7",
+      "candidates": {
+        "Eduardo Paes": 34.5,
+        "Douglas Ruas": 10.9,
+        "André Marinho": 1.8,
+        "Wilson Witzel": 3.6,
+        "William Siri": 1.8,
+        "Anthony Garotinho": 10.8
       },
       "parties": {
         "Eduardo Paes": "PSD",
@@ -1529,26 +1720,119 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Badra",
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Real Time Big Data",
       "collection_date": "2026-07-29",
-      "sample_size": 1500,
-      "margin_error": 2.5,
+      "sample_size": 2000,
+      "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-:9-4",
       "candidates": {
-        "Raquel Lyra": 37.2,
-        "João Campos": 44.6,
-        "Ivan Moraes": 0.6
+        "Cleitinho": 36,
+        "Alexandre Kalil": 15,
+        "Mateus Simões": 10,
+        "Gabriel Azevedo": 7,
+        "Ben Mendes": 1,
+        "Patrus Ananias": 14
       },
       "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Ben Mendes": "MISSÃO",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-29",
+      "sample_size": 2000,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-4",
+      "candidates": {
+        "Cleitinho": 37,
+        "Alexandre Kalil": 15,
+        "Mateus Simões": 10,
+        "Gabriel Azevedo": 7,
+        "Ben Mendes": 1,
+        "Patrus Ananias": 14
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Ben Mendes": "MISSÃO",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-29",
+      "sample_size": 2000,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-4",
+      "candidates": {
+        "Cleitinho": 38,
+        "Alexandre Kalil": 15,
+        "Mateus Simões": 11,
+        "Gabriel Azevedo": 7,
+        "Ben Mendes": 1,
+        "Patrus Ananias": 14
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Ben Mendes": "MISSÃO",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Ben Mendes|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-29",
+      "sample_size": 2000,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-4",
+      "candidates": {
+        "Alexandre Kalil": 20,
+        "Mateus Simões": 10,
+        "Gabriel Azevedo": 8,
+        "Marcelo Aro": 15,
+        "Ben Mendes": 1,
+        "Patrus Ananias": 17
+      },
+      "parties": {
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Ben Mendes": "MISSÃO",
+        "Patrus Ananias": "PT"
       }
     },
     {
@@ -1606,180 +1890,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Prefab",
-      "collection_date": "2026-07-29",
-      "sample_size": 2000,
-      "margin_error": 2.19,
-      "tse_registration": "",
-      "source_url": "#cite_note-2",
-      "candidates": {
-        "Eduardo Paes": 34.5,
-        "Douglas Ruas": 10.9,
-        "André Marinho": 1.8,
-        "Wilson Witzel": 3.6,
-        "William Siri": 1.8,
-        "Anthony Garotinho": 10.8
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Prefab Future",
-      "collection_date": "2026-07-29",
-      "sample_size": 2000,
-      "margin_error": 2.19,
-      "tse_registration": "",
-      "source_url": "#cite_note-6",
-      "candidates": {
-        "Eduardo Paes": 34.5,
-        "Douglas Ruas": 10.9,
-        "André Marinho": 1.8,
-        "Wilson Witzel": 3.6,
-        "William Siri": 1.8,
-        "Anthony Garotinho": 10.8
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-29",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-2",
-      "candidates": {
-        "Cleitinho": 36,
-        "Alexandre Kalil": 15,
-        "Mateus Simões": 10,
-        "Gabriel Azevedo": 7,
-        "Ben Mendes": 1,
-        "Patrus Ananias": 14
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Ben Mendes": "MISSÃO",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-29",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-2",
-      "candidates": {
-        "Cleitinho": 37,
-        "Alexandre Kalil": 15,
-        "Mateus Simões": 10,
-        "Gabriel Azevedo": 7,
-        "Ben Mendes": 1,
-        "Patrus Ananias": 14
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Ben Mendes": "MISSÃO",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-29",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-2",
-      "candidates": {
-        "Cleitinho": 38,
-        "Alexandre Kalil": 15,
-        "Mateus Simões": 11,
-        "Gabriel Azevedo": 7,
-        "Ben Mendes": 1,
-        "Patrus Ananias": 14
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Ben Mendes": "MISSÃO",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Ben Mendes|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-29",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-2",
-      "candidates": {
-        "Alexandre Kalil": 20,
-        "Mateus Simões": 10,
-        "Gabriel Azevedo": 8,
-        "Marcelo Aro": 15,
-        "Ben Mendes": 1,
-        "Patrus Ananias": 17
-      },
-      "parties": {
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Ben Mendes": "MISSÃO",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -1801,6 +1911,31 @@
       }
     },
     {
+      "uf": "RS",
+      "estado": "Rio Grande do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
+      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-28",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:12-3",
+      "candidates": {
+        "Luciano Zucco": 22,
+        "Juliana Brizola": 24,
+        "Gabriel Souza": 6,
+        "Marcelo Maranata": 3
+      },
+      "parties": {
+        "Luciano Zucco": "PL",
+        "Juliana Brizola": "PDT",
+        "Gabriel Souza": "MDB",
+        "Marcelo Maranata": "PSDB"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -1811,7 +1946,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-9",
+      "source_url": "#cite_note-:13-11",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 33,
@@ -1838,7 +1973,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -1909,28 +2044,30 @@
       }
     },
     {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri",
       "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-28",
-      "sample_size": 1104,
-      "margin_error": 3,
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-27",
+      "sample_size": 2000,
+      "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-1",
+      "source_url": "#cite_note-:10-9",
       "candidates": {
-        "Luciano Zucco": 22,
-        "Juliana Brizola": 24,
-        "Gabriel Souza": 6,
-        "Marcelo Maranata": 3
+        "Eduardo Paes": 37,
+        "Douglas Ruas": 16,
+        "André Marinho": 2,
+        "William Siri": 3,
+        "Anthony Garotinho": 12
       },
       "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Gabriel Souza": "MDB",
-        "Marcelo Maranata": "PSDB"
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "William Siri": "PSOL",
+        "Anthony Garotinho": "Republicanos"
       }
     },
     {
@@ -1959,33 +2096,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-27",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:10-8",
-      "candidates": {
-        "Eduardo Paes": 37,
-        "Douglas Ruas": 16,
-        "André Marinho": 2,
-        "William Siri": 3,
-        "Anthony Garotinho": 12
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "William Siri": "PSOL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -1996,7 +2106,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-12",
+      "source_url": "#cite_note-:16-14",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37,
@@ -2019,7 +2129,7 @@
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-15",
+      "source_url": "#cite_note-:14-17",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 40,
@@ -2042,7 +2152,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-8",
+      "source_url": "#cite_note-:8-10",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -2069,7 +2179,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-8",
+      "source_url": "#cite_note-:8-10",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 12,
@@ -2098,7 +2208,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-8",
+      "source_url": "#cite_note-:8-10",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -2127,7 +2237,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-8",
+      "source_url": "#cite_note-:8-10",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -2154,7 +2264,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-8",
+      "source_url": "#cite_note-:8-10",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -2168,6 +2278,110 @@
         "Gabriel Azevedo": "MDB",
         "Ben Mendes": "MISSÃO",
         "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Folha /IPESPE",
+      "collection_date": "2026-07-25",
+      "sample_size": 1000,
+      "margin_error": 3.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
+      "candidates": {
+        "Raquel Lyra": 46,
+        "João Campos": 44,
+        "Ivan Moraes": 1
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-11",
+      "candidates": {
+        "Eduardo Paes": 38,
+        "Douglas Ruas": 10,
+        "André Marinho": 1,
+        "Wilson Witzel": 1,
+        "William Siri": 2,
+        "Anthony Garotinho": 10
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Anthony Garotinho": "Republicanos"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-11",
+      "candidates": {
+        "Eduardo Paes": 42,
+        "Douglas Ruas": 11,
+        "André Marinho": 1,
+        "Wilson Witzel": 2,
+        "William Siri": 2
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Douglas Ruas|Eduardo Paes|William Siri",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-11",
+      "candidates": {
+        "Eduardo Paes": 42,
+        "Douglas Ruas": 11,
+        "André Marinho": 1,
+        "William Siri": 2
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "William Siri": "PSOL"
       }
     },
     {
@@ -2237,7 +2451,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-11",
+      "source_url": "#cite_note-:13-13",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -2266,7 +2480,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-11",
+      "source_url": "#cite_note-:13-13",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -2293,7 +2507,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-11",
+      "source_url": "#cite_note-:13-13",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -2305,29 +2519,6 @@
         "Requião Filho": "PDT",
         "Sandro Alex": "PSD",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Folha /IPESPE",
-      "collection_date": "2026-07-25",
-      "sample_size": 1000,
-      "margin_error": 3.2,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
-      "candidates": {
-        "Raquel Lyra": 46,
-        "João Campos": 44,
-        "Ivan Moraes": 1
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -2405,87 +2596,6 @@
         "Mailza Assis": "PP",
         "Tião Bocalom": "PSDB",
         "Thor Dantas": "PSB"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-10",
-      "candidates": {
-        "Eduardo Paes": 38,
-        "Douglas Ruas": 10,
-        "André Marinho": 1,
-        "Wilson Witzel": 1,
-        "William Siri": 2,
-        "Anthony Garotinho": 10
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-10",
-      "candidates": {
-        "Eduardo Paes": 42,
-        "Douglas Ruas": 11,
-        "André Marinho": 1,
-        "Wilson Witzel": 2,
-        "William Siri": 2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Douglas Ruas|Eduardo Paes|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-10",
-      "candidates": {
-        "Eduardo Paes": 42,
-        "Douglas Ruas": 11,
-        "André Marinho": 1,
-        "William Siri": 2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "William Siri": "PSOL"
       }
     },
     {
@@ -2678,7 +2788,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -2707,7 +2817,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -2861,7 +2971,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-16",
+      "source_url": "#cite_note-:13-18",
       "candidates": {
         "Raquel Lyra": 48.2,
         "João Campos": 36.5,
@@ -2905,7 +3015,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-3",
+      "source_url": "#cite_note-:11-5",
       "candidates": {
         "Luciano Zucco": 34.2,
         "Juliana Brizola": 30.1,
@@ -2930,7 +3040,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
@@ -3047,31 +3157,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-07-15",
-      "sample_size": 1006,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-7",
-      "candidates": {
-        "Alan Rick": 38.27,
-        "Mailza Assis": 19.48,
-        "Tião Bocalom": 19.28,
-        "Thor Dantas": 1.79
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
@@ -3082,7 +3167,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 9,
@@ -3113,7 +3198,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Eduardo Paes": 47,
         "Douglas Ruas": 11,
@@ -3140,7 +3225,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-1",
+      "source_url": "#cite_note-:1-3",
       "candidates": {
         "Marcos Rogério": 36,
         "Adaílton Fúria": 28,
@@ -3157,6 +3242,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-07-15",
+      "sample_size": 1006,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-7",
+      "candidates": {
+        "Alan Rick": 38.27,
+        "Mailza Assis": 19.48,
+        "Tião Bocalom": 19.28,
+        "Thor Dantas": 1.79
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -3167,7 +3277,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-13",
+      "source_url": "#cite_note-:12-15",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
@@ -3361,7 +3471,7 @@
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Raquel Lyra": 42.4,
         "João Campos": 40.4,
@@ -3371,6 +3481,31 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "RS",
+      "estado": "Rio Grande do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
+      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-07-11",
+      "sample_size": 2002,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:10-7",
+      "candidates": {
+        "Luciano Zucco": 37.5,
+        "Juliana Brizola": 24.8,
+        "Gabriel Souza": 9.1,
+        "Marcelo Maranata": 2.1
+      },
+      "parties": {
+        "Luciano Zucco": "PL",
+        "Juliana Brizola": "PDT",
+        "Gabriel Souza": "MDB",
+        "Marcelo Maranata": "PSDB"
       }
     },
     {
@@ -3400,31 +3535,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-07-11",
-      "sample_size": 2002,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:10-5",
-      "candidates": {
-        "Luciano Zucco": 37.5,
-        "Juliana Brizola": 24.8,
-        "Gabriel Souza": 9.1,
-        "Marcelo Maranata": 2.1
-      },
-      "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Gabriel Souza": "MDB",
-        "Marcelo Maranata": "PSDB"
       }
     },
     {
@@ -3605,7 +3715,7 @@
       "sample_size": 2500,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-B-3",
+      "source_url": "#cite_note-:0-B-5",
       "candidates": {
         "Marcos Rogério": 39.79,
         "Adaílton Fúria": 28.28,
@@ -3905,7 +4015,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -3934,7 +4044,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -4032,6 +4142,31 @@
       }
     },
     {
+      "uf": "RS",
+      "estado": "Rio Grande do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
+      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Brasmarket",
+      "collection_date": "2026-07-03",
+      "sample_size": 1200,
+      "margin_error": 2.84,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-9",
+      "candidates": {
+        "Luciano Zucco": 39,
+        "Juliana Brizola": 20.4,
+        "Gabriel Souza": 6,
+        "Marcelo Maranata": 3
+      },
+      "parties": {
+        "Luciano Zucco": "PL",
+        "Juliana Brizola": "PDT",
+        "Gabriel Souza": "MDB",
+        "Marcelo Maranata": "PSDB"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -4063,28 +4198,34 @@
       }
     },
     {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
       "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Brasmarket",
-      "collection_date": "2026-07-03",
-      "sample_size": 1200,
-      "margin_error": 2.84,
+      "institute": "Prefab Future",
+      "collection_date": "2026-07-02",
+      "sample_size": 2500,
+      "margin_error": 1.96,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-7",
+      "source_url": "#cite_note-17",
       "candidates": {
-        "Luciano Zucco": 39,
-        "Juliana Brizola": 20.4,
-        "Gabriel Souza": 6,
-        "Marcelo Maranata": 3
+        "Eduardo Paes": 33.9,
+        "Douglas Ruas": 10.3,
+        "André Marinho": 1.2,
+        "Wilson Witzel": 2.8,
+        "William Siri": 0.9,
+        "Bombeiro Rafa Luz": 1,
+        "Anthony Garotinho": 8.7
       },
       "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Gabriel Souza": "MDB",
-        "Marcelo Maranata": "PSDB"
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Bombeiro Rafa Luz": "MISSÃO",
+        "Anthony Garotinho": "Republicanos"
       }
     },
     {
@@ -4141,37 +4282,6 @@
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Prefab Future",
-      "collection_date": "2026-07-02",
-      "sample_size": 2500,
-      "margin_error": 1.96,
-      "tse_registration": "",
-      "source_url": "#cite_note-16",
-      "candidates": {
-        "Eduardo Paes": 33.9,
-        "Douglas Ruas": 10.3,
-        "André Marinho": 1.2,
-        "Wilson Witzel": 2.8,
-        "William Siri": 0.9,
-        "Bombeiro Rafa Luz": 1,
-        "Anthony Garotinho": 8.7
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
       "cenario": "André Marinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
       "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
       "institute": "Paraná Pesquisas",
@@ -4179,7 +4289,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-18",
+      "source_url": "#cite_note-:7-19",
       "candidates": {
         "Eduardo Paes": 54.2,
         "Douglas Ruas": 14.6,
@@ -4208,7 +4318,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-18",
+      "source_url": "#cite_note-:7-19",
       "candidates": {
         "Eduardo Paes": 50.7,
         "Douglas Ruas": 13.8,
@@ -4354,7 +4464,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-16",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -4383,7 +4493,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-16",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -4410,7 +4520,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-16",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -4437,7 +4547,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-16",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -4460,7 +4570,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-16",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -4531,7 +4641,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-15",
+      "source_url": "#cite_note-:11-17",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 39,
@@ -4583,7 +4693,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data2-21",
+      "source_url": "#cite_note-Numen_Data2-23",
       "candidates": {
         "Raquel Lyra": 51.17,
         "João Campos": 41.75,
@@ -4606,7 +4716,7 @@
       "sample_size": 3197,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-5",
+      "source_url": "#cite_note-:0-7",
       "candidates": {
         "Marcos Rogério": 31.54,
         "Adaílton Fúria": 27.48,
@@ -4633,7 +4743,7 @@
       "sample_size": 1600,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Cleitinho": 37.56,
         "Alexandre Kalil": 11.06,
@@ -4649,6 +4759,31 @@
         "Gabriel Azevedo": "MDB",
         "Ben Mendes": "MISSÃO",
         "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "RS",
+      "estado": "Rio Grande do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
+      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-06-22",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-10",
+      "candidates": {
+        "Luciano Zucco": 32,
+        "Juliana Brizola": 37,
+        "Gabriel Souza": 18,
+        "Marcelo Maranata": 3
+      },
+      "parties": {
+        "Luciano Zucco": "PL",
+        "Juliana Brizola": "PDT",
+        "Gabriel Souza": "MDB",
+        "Marcelo Maranata": "PSDB"
       }
     },
     {
@@ -4701,31 +4836,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-06-22",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-8",
-      "candidates": {
-        "Luciano Zucco": 32,
-        "Juliana Brizola": 37,
-        "Gabriel Souza": 18,
-        "Marcelo Maranata": 3
-      },
-      "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Gabriel Souza": "MDB",
-        "Marcelo Maranata": "PSDB"
       }
     },
     {
@@ -4942,6 +5052,62 @@
       }
     },
     {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "DataTempo",
+      "collection_date": "2026-06-17",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-18",
+      "candidates": {
+        "Cleitinho": 27.7,
+        "Alexandre Kalil": 18.3,
+        "Mateus Simões": 3.7,
+        "Gabriel Azevedo": 4.5,
+        "Marcelo Aro": 5.1,
+        "Ben Mendes": 2.3
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Ben Mendes": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Mateus Simões",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "DataTempo",
+      "collection_date": "2026-06-17",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-18",
+      "candidates": {
+        "Cleitinho": 28.8,
+        "Alexandre Kalil": 20.5,
+        "Mateus Simões": 3.9,
+        "Gabriel Azevedo": 3.4,
+        "Ben Mendes": 3.3
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Ben Mendes": "MISSÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -4996,62 +5162,6 @@
       }
     },
     {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "DataTempo",
-      "collection_date": "2026-06-17",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-16",
-      "candidates": {
-        "Cleitinho": 27.7,
-        "Alexandre Kalil": 18.3,
-        "Mateus Simões": 3.7,
-        "Gabriel Azevedo": 4.5,
-        "Marcelo Aro": 5.1,
-        "Ben Mendes": 2.3
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Ben Mendes": "MISSÃO"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Mateus Simões",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "DataTempo",
-      "collection_date": "2026-06-17",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-16",
-      "candidates": {
-        "Cleitinho": 28.8,
-        "Alexandre Kalil": 20.5,
-        "Mateus Simões": 3.9,
-        "Gabriel Azevedo": 3.4,
-        "Ben Mendes": 3.3
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Ben Mendes": "MISSÃO"
-      }
-    },
-    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -5062,7 +5172,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Raquel Lyra": 38,
         "João Campos": 43,
@@ -5095,6 +5205,29 @@
         "Jorginho Mello": "PL",
         "João Rodrigues": "PSD",
         "Gelson Merisio": "PSB"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Folha /IPESPE",
+      "collection_date": "2026-06-14",
+      "sample_size": 1000,
+      "margin_error": 3.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
+      "candidates": {
+        "Raquel Lyra": 44,
+        "João Campos": 42,
+        "Ivan Moraes": 2
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -5183,29 +5316,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Folha /IPESPE",
-      "collection_date": "2026-06-14",
-      "sample_size": 1000,
-      "margin_error": 3.2,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
-      "candidates": {
-        "Raquel Lyra": 44,
-        "João Campos": 42,
-        "Ivan Moraes": 2
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
-      }
-    },
-    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -5245,7 +5355,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-15",
+      "source_url": "#cite_note-:11-17",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -5274,7 +5384,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-15",
+      "source_url": "#cite_note-:11-17",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -5470,7 +5580,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-25",
+      "source_url": "#cite_note-:10-27",
       "candidates": {
         "Raquel Lyra": 40,
         "João Campos": 45,
@@ -5495,7 +5605,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-B-26",
+      "source_url": "#cite_note-:9-B-28",
       "candidates": {
         "Raquel Lyra": 41.1,
         "João Campos": 44.2,
@@ -5574,7 +5684,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -5603,7 +5713,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -5772,7 +5882,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-19",
+      "source_url": "#cite_note-:10-21",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -5907,7 +6017,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-20",
+      "source_url": "#cite_note-:6-21",
       "candidates": {
         "Eduardo Paes": 48.3,
         "Douglas Ruas": 12.6,
@@ -5938,7 +6048,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-9",
+      "source_url": "#cite_note-:4-11",
       "candidates": {
         "Luciano Zucco": 37.8,
         "Juliana Brizola": 19,
@@ -5950,6 +6060,33 @@
         "Juliana Brizola": "PDT",
         "Edegar Pretto": "PT",
         "Marcelo Maranata": "PSDB"
+      }
+    },
+    {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Perfil",
+      "collection_date": "2026-06-03",
+      "sample_size": 1301,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Marcos Rogério": 41.3,
+        "Adaílton Fúria": 28.1,
+        "Expedito Netto": 9.1,
+        "Hildon Chaves": 14.7,
+        "Samuel Costa": 2.8
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
       }
     },
     {
@@ -5973,33 +6110,6 @@
         "Jorginho Mello": "PL",
         "João Rodrigues": "PSD",
         "Gelson Merisio": "PSB"
-      }
-    },
-    {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Perfil",
-      "collection_date": "2026-06-03",
-      "sample_size": 1301,
-      "margin_error": 2.7,
-      "tse_registration": "",
-      "source_url": "#cite_note-7",
-      "candidates": {
-        "Marcos Rogério": 41.3,
-        "Adaílton Fúria": 28.1,
-        "Expedito Netto": 9.1,
-        "Hildon Chaves": 14.7,
-        "Samuel Costa": 2.8
-      },
-      "parties": {
-        "Marcos Rogério": "",
-        "Adaílton Fúria": "",
-        "Expedito Netto": "",
-        "Hildon Chaves": "",
-        "Samuel Costa": ""
       }
     },
     {
@@ -6063,7 +6173,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-19",
+      "source_url": "#cite_note-:8-21",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
@@ -6744,6 +6854,33 @@
       }
     },
     {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "IAP",
+      "collection_date": "2026-05-23",
+      "sample_size": 1600,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-11",
+      "candidates": {
+        "Marcos Rogério": 35.4,
+        "Adaílton Fúria": 23.2,
+        "Expedito Netto": 7.7,
+        "Hildon Chaves": 14.3,
+        "Samuel Costa": 2.8
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -6795,33 +6932,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "IAP",
-      "collection_date": "2026-05-23",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-9",
-      "candidates": {
-        "Marcos Rogério": 35.4,
-        "Adaílton Fúria": 23.2,
-        "Expedito Netto": 7.7,
-        "Hildon Chaves": 14.3,
-        "Samuel Costa": 2.8
-      },
-      "parties": {
-        "Marcos Rogério": "",
-        "Adaílton Fúria": "",
-        "Expedito Netto": "",
-        "Hildon Chaves": "",
-        "Samuel Costa": ""
       }
     },
     {
@@ -6950,62 +7060,6 @@
       }
     },
     {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "IRG Pesquisa",
-      "collection_date": "2026-05-20",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-20",
-      "candidates": {
-        "Sergio Moro": 39.4,
-        "Requião Filho": 18.1,
-        "Sandro Alex": 12.3,
-        "Rafael Greca": 14.7,
-        "Tony Garcia": 0.9,
-        "Luiz França": 0.3
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Rafael Greca": "MDB",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "IRG Pesquisa",
-      "collection_date": "2026-05-20",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-20",
-      "candidates": {
-        "Sergio Moro": 40.6,
-        "Requião Filho": 20.5,
-        "Sandro Alex": 26.2,
-        "Tony Garcia": 1.2,
-        "Luiz França": 0.9
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Tony Garcia": "DC",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -7016,7 +7070,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 39,
@@ -7039,7 +7093,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 15,
@@ -7068,7 +7122,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Cleitinho": 39,
         "Mateus Simões": 17,
@@ -7085,6 +7139,62 @@
       }
     },
     {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "IRG Pesquisa",
+      "collection_date": "2026-05-20",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-22",
+      "candidates": {
+        "Sergio Moro": 39.4,
+        "Requião Filho": 18.1,
+        "Sandro Alex": 12.3,
+        "Rafael Greca": 14.7,
+        "Tony Garcia": 0.9,
+        "Luiz França": 0.3
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Rafael Greca": "MDB",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Requião Filho|Sandro Alex|Sergio Moro|Tony Garcia",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "IRG Pesquisa",
+      "collection_date": "2026-05-20",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-22",
+      "candidates": {
+        "Sergio Moro": 40.6,
+        "Requião Filho": 20.5,
+        "Sandro Alex": 26.2,
+        "Tony Garcia": 1.2,
+        "Luiz França": 0.9
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Tony Garcia": "DC",
+        "Luiz França": "MISSÃO"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -7095,7 +7205,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-22",
+      "source_url": "#cite_note-:7-24",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
@@ -7513,7 +7623,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -7542,7 +7652,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -7634,29 +7744,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-05-08",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Allyson": 26.2,
-        "Álvaro Dias": 29.9,
-        "Cadu de Lula": 22.9
-      },
-      "parties": {
-        "Allyson": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT"
-      }
-    },
-    {
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
@@ -7667,7 +7754,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2A-21",
+      "source_url": "#cite_note-Veritá2A-22",
       "candidates": {
         "Eduardo Paes": 50,
         "Douglas Ruas": 32.3,
@@ -7690,7 +7777,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2B-10",
+      "source_url": "#cite_note-Veritá2B-12",
       "candidates": {
         "Luciano Zucco": 49.7,
         "Juliana Brizola": 23.2,
@@ -7715,7 +7802,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Marcos Rogério": 42.5,
         "Adaílton Fúria": 22.2,
@@ -7725,6 +7812,29 @@
         "Marcos Rogério": "",
         "Adaílton Fúria": "",
         "Hildon Chaves": ""
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-05-08",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Allyson": 26.2,
+        "Álvaro Dias": 29.9,
+        "Cadu de Lula": 22.9
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -7778,33 +7888,6 @@
       }
     },
     {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-05-03",
-      "sample_size": 2010,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-22",
-      "candidates": {
-        "Sergio Moro": 58.6,
-        "Requião Filho": 20,
-        "Sandro Alex": 9.6,
-        "Rafael Greca": 9.8,
-        "Luiz França": 2.2
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Rafael Greca": "MDB",
-        "Luiz França": "MISSÃO"
-      }
-    },
-    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -7815,7 +7898,7 @@
       "sample_size": 4000,
       "margin_error": 1.6,
       "tse_registration": "",
-      "source_url": "#cite_note-DataTrends1-30",
+      "source_url": "#cite_note-DataTrends1-32",
       "candidates": {
         "Raquel Lyra": 36,
         "João Campos": 42,
@@ -7838,7 +7921,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-23",
+      "source_url": "#cite_note-:6-25",
       "candidates": {
         "Cleitinho": 28,
         "Alexandre Kalil": 6,
@@ -7867,7 +7950,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-23",
+      "source_url": "#cite_note-:6-25",
       "candidates": {
         "Cleitinho": 30,
         "Mateus Simões": 24,
@@ -7881,6 +7964,33 @@
         "Gabriel Azevedo": "MDB",
         "Marcelo Aro": "PP",
         "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Luiz França|Rafael Greca|Requião Filho|Sandro Alex|Sergio Moro",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-05-03",
+      "sample_size": 2010,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá2-24",
+      "candidates": {
+        "Sergio Moro": 58.6,
+        "Requião Filho": 20,
+        "Sandro Alex": 9.6,
+        "Rafael Greca": 9.8,
+        "Luiz França": 2.2
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Rafael Greca": "MDB",
+        "Luiz França": "MISSÃO"
       }
     },
     {
@@ -7902,6 +8012,27 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-04-30",
+      "sample_size": 2010,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Raquel Lyra": 49.6,
+        "João Campos": 39.8
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
       }
     },
     {
@@ -7954,27 +8085,6 @@
         "Marconi Perillo": "PSDB",
         "Adriana Accorsi": "PT",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-04-30",
-      "sample_size": 2010,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Raquel Lyra": 49.6,
-        "João Campos": 39.8
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
       }
     },
     {
@@ -8057,7 +8167,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -8086,7 +8196,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -8103,6 +8213,31 @@
       }
     },
     {
+      "uf": "RS",
+      "estado": "Rio Grande do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
+      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Genial/Quaest-Abril-13",
+      "candidates": {
+        "Luciano Zucco": 21,
+        "Juliana Brizola": 24,
+        "Gabriel Souza": 6,
+        "Marcelo Maranata": 2
+      },
+      "parties": {
+        "Luciano Zucco": "PL",
+        "Juliana Brizola": "PDT",
+        "Gabriel Souza": "MDB",
+        "Marcelo Maranata": "PSDB"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -8113,7 +8248,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-24",
+      "source_url": "#cite_note-Quaest-Abril-26",
       "candidates": {
         "Ciro Gomes": 41,
         "Elmano de Freitas": 32,
@@ -8140,7 +8275,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-24",
+      "source_url": "#cite_note-Quaest-Abril-26",
       "candidates": {
         "Ciro Gomes": 33,
         "Camilo Santana": 40,
@@ -8167,7 +8302,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-24",
+      "source_url": "#cite_note-Quaest-Abril-26",
       "candidates": {
         "Elmano de Freitas": 39,
         "Roberto Cláudio": 16,
@@ -8194,7 +8329,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-24",
+      "source_url": "#cite_note-Quaest-Abril-26",
       "candidates": {
         "Camilo Santana": 49,
         "Roberto Cláudio": 12,
@@ -8329,31 +8464,6 @@
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL",
         "Olímpio Rocha": "PSOL"
-      }
-    },
-    {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-11",
-      "candidates": {
-        "Luciano Zucco": 21,
-        "Juliana Brizola": 24,
-        "Gabriel Souza": 6,
-        "Marcelo Maranata": 2
-      },
-      "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Gabriel Souza": "MDB",
-        "Marcelo Maranata": "PSDB"
       }
     },
     {
@@ -8615,7 +8725,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-18",
+      "source_url": "#cite_note-QuaestAbril-19",
       "candidates": {
         "Tarcísio": 38,
         "Haddad": 26,
@@ -8640,7 +8750,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-18",
+      "source_url": "#cite_note-QuaestAbril-19",
       "candidates": {
         "Tarcísio": 40,
         "Haddad": 28,
@@ -8663,7 +8773,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-33",
+      "source_url": "#cite_note-:8-35",
       "candidates": {
         "Raquel Lyra": 34,
         "João Campos": 42,
@@ -8675,6 +8785,145 @@
         "João Campos": "PSB",
         "Eduardo Moura": "NOVO",
         "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-04-26",
+      "sample_size": 1680,
+      "margin_error": 2.4,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-23",
+      "candidates": {
+        "Eduardo Paes": 53,
+        "Douglas Ruas": 13.2,
+        "André Marinho": 2.8,
+        "Wilson Witzel": 3.6,
+        "William Siri": 1,
+        "Bombeiro Rafa Luz": 2.1
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Bombeiro Rafa Luz": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Quaest",
+      "collection_date": "2026-04-26",
+      "sample_size": 1482,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-28",
+      "candidates": {
+        "Cleitinho": 30,
+        "Alexandre Kalil": 8,
+        "Mateus Simões": 14,
+        "Gabriel Azevedo": 4,
+        "Marcelo Aro": 2,
+        "Patrus Ananias": 4
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Quaest",
+      "collection_date": "2026-04-26",
+      "sample_size": 1482,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-28",
+      "candidates": {
+        "Cleitinho": 35,
+        "Alexandre Kalil": 11,
+        "Gabriel Azevedo": 5,
+        "Marcelo Aro": 3,
+        "Patrus Ananias": 4
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Quaest",
+      "collection_date": "2026-04-26",
+      "sample_size": 1482,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-28",
+      "candidates": {
+        "Cleitinho": 37,
+        "Mateus Simões": 16,
+        "Gabriel Azevedo": 3,
+        "Marcelo Aro": 3,
+        "Patrus Ananias": 3
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Quaest",
+      "collection_date": "2026-04-26",
+      "sample_size": 1482,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-28",
+      "candidates": {
+        "Alexandre Kalil": 12,
+        "Mateus Simões": 18,
+        "Gabriel Azevedo": 5,
+        "Marcelo Aro": 4,
+        "Patrus Ananias": 6
+      },
+      "parties": {
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
       }
     },
     {
@@ -8729,21 +8978,22 @@
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
+      "cenario": "André Ceciliano|André Marinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
       "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-04-26",
-      "sample_size": 1680,
-      "margin_error": 2.4,
+      "institute": "Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 1200,
+      "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-22",
+      "source_url": "#cite_note-:5-25",
       "candidates": {
-        "Eduardo Paes": 53,
-        "Douglas Ruas": 13.2,
-        "André Marinho": 2.8,
-        "Wilson Witzel": 3.6,
-        "William Siri": 1,
-        "Bombeiro Rafa Luz": 2.1
+        "Eduardo Paes": 34,
+        "Douglas Ruas": 9,
+        "André Marinho": 1,
+        "Wilson Witzel": 3,
+        "William Siri": 2,
+        "Bombeiro Rafa Luz": 1,
+        "André Ceciliano": 8
       },
       "parties": {
         "Eduardo Paes": "PSD",
@@ -8751,117 +9001,62 @@
         "André Marinho": "NOVO",
         "Wilson Witzel": "Democrata",
         "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO"
+        "Bombeiro Rafa Luz": "MISSÃO",
+        "André Ceciliano": "PT"
       }
     },
     {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
       "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
       "institute": "Quaest",
-      "collection_date": "2026-04-26",
-      "sample_size": 1482,
+      "collection_date": "2026-04-25",
+      "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-26",
+      "source_url": "#cite_note-:5-25",
       "candidates": {
-        "Cleitinho": 30,
-        "Alexandre Kalil": 8,
-        "Mateus Simões": 14,
-        "Gabriel Azevedo": 4,
-        "Marcelo Aro": 2,
-        "Patrus Ananias": 4
+        "Eduardo Paes": 40,
+        "Douglas Ruas": 10,
+        "André Marinho": 1,
+        "Wilson Witzel": 3,
+        "William Siri": 2
       },
       "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL"
       }
     },
     {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Patrus Ananias",
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
       "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
       "institute": "Quaest",
-      "collection_date": "2026-04-26",
-      "sample_size": 1482,
+      "collection_date": "2026-04-25",
+      "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-26",
+      "source_url": "#cite_note-:5-25",
       "candidates": {
-        "Cleitinho": 35,
-        "Alexandre Kalil": 11,
-        "Gabriel Azevedo": 5,
-        "Marcelo Aro": 3,
-        "Patrus Ananias": 4
+        "Eduardo Paes": 39,
+        "Douglas Ruas": 11,
+        "André Marinho": 1,
+        "Wilson Witzel": 2,
+        "William Siri": 2
       },
       "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-26",
-      "sample_size": 1482,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-26",
-      "candidates": {
-        "Cleitinho": 37,
-        "Mateus Simões": 16,
-        "Gabriel Azevedo": 3,
-        "Marcelo Aro": 3,
-        "Patrus Ananias": 3
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-26",
-      "sample_size": 1482,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-26",
-      "candidates": {
-        "Alexandre Kalil": 12,
-        "Mateus Simões": 18,
-        "Gabriel Azevedo": 5,
-        "Marcelo Aro": 4,
-        "Patrus Ananias": 6
-      },
-      "parties": {
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL"
       }
     },
     {
@@ -8927,7 +9122,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-24",
+      "source_url": "#cite_note-:8-26",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -8956,7 +9151,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-24",
+      "source_url": "#cite_note-:8-26",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -8971,91 +9166,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-24",
-      "candidates": {
-        "Eduardo Paes": 34,
-        "Douglas Ruas": 9,
-        "André Marinho": 1,
-        "Wilson Witzel": 3,
-        "William Siri": 2,
-        "Bombeiro Rafa Luz": 1,
-        "André Ceciliano": 8
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO",
-        "André Ceciliano": "PT"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-24",
-      "candidates": {
-        "Eduardo Paes": 40,
-        "Douglas Ruas": 10,
-        "André Marinho": 1,
-        "Wilson Witzel": 3,
-        "William Siri": 2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-24",
-      "candidates": {
-        "Eduardo Paes": 39,
-        "Douglas Ruas": 11,
-        "André Marinho": 1,
-        "Wilson Witzel": 2,
-        "William Siri": 2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL"
-      }
-    },
-    {
       "uf": "SP",
       "estado": "São Paulo",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em São Paulo",
@@ -9066,7 +9176,7 @@
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-VoxAbril-19",
+      "source_url": "#cite_note-VoxAbril-20",
       "candidates": {
         "Tarcísio": 48.2,
         "Haddad": 32.3,
@@ -9093,7 +9203,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-Brasmarket1-13",
+      "source_url": "#cite_note-Brasmarket1-15",
       "candidates": {
         "Luciano Zucco": 35.5,
         "Juliana Brizola": 20.6,
@@ -9166,7 +9276,7 @@
       "sample_size": 1100,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data1-34",
+      "source_url": "#cite_note-Numen_Data1-36",
       "candidates": {
         "Raquel Lyra": 45.1,
         "João Campos": 37.1,
@@ -9178,6 +9288,33 @@
         "João Campos": "PSB",
         "Eduardo Moura": "NOVO",
         "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Phoenix",
+      "collection_date": "2026-04-17",
+      "sample_size": 1355,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-14",
+      "candidates": {
+        "Marcos Rogério": 29.45,
+        "Adaílton Fúria": 16.61,
+        "Expedito Netto": 5.17,
+        "Hildon Chaves": 20.44,
+        "Samuel Costa": 6.79
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
       }
     },
     {
@@ -9205,33 +9342,6 @@
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Phoenix",
-      "collection_date": "2026-04-17",
-      "sample_size": 1355,
-      "margin_error": 2.7,
-      "tse_registration": "",
-      "source_url": "#cite_note-12",
-      "candidates": {
-        "Marcos Rogério": 29.45,
-        "Adaílton Fúria": 16.61,
-        "Expedito Netto": 5.17,
-        "Hildon Chaves": 20.44,
-        "Samuel Costa": 6.79
-      },
-      "parties": {
-        "Marcos Rogério": "",
-        "Adaílton Fúria": "",
-        "Expedito Netto": "",
-        "Hildon Chaves": "",
-        "Samuel Costa": ""
       }
     },
     {
@@ -9370,7 +9480,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Tarcísio": 47.8,
         "Haddad": 33.1,
@@ -9420,7 +9530,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -9449,7 +9559,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -9476,7 +9586,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -9503,7 +9613,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -9688,7 +9798,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-36",
+      "source_url": "#cite_note-:6-38",
       "candidates": {
         "Raquel Lyra": 33,
         "João Campos": 50,
@@ -9713,7 +9823,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Simplex1-37",
+      "source_url": "#cite_note-Simplex1-39",
       "candidates": {
         "Raquel Lyra": 42.3,
         "João Campos": 42.6,
@@ -9738,7 +9848,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-15",
+      "source_url": "#cite_note-:3-17",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -9765,7 +9875,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-15",
+      "source_url": "#cite_note-:3-17",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Edegar Pretto": 24.6,
@@ -9788,7 +9898,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-15",
+      "source_url": "#cite_note-:3-17",
       "candidates": {
         "Luciano Zucco": 26.9,
         "Juliana Brizola": 35.2,
@@ -9798,6 +9908,62 @@
         "Luciano Zucco": "PL",
         "Juliana Brizola": "PDT",
         "Gabriel Souza": "MDB"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-04-04",
+      "sample_size": 2030,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá1-30",
+      "candidates": {
+        "Eduardo Paes": 49.7,
+        "Douglas Ruas": 32.7,
+        "Wilson Witzel": 4,
+        "William Siri": 8.2,
+        "Bombeiro Rafa Luz": 2.7
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Bombeiro Rafa Luz": "MISSÃO"
+      }
+    },
+    {
+      "uf": "RS",
+      "estado": "Rio Grande do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
+      "cenario": "Covatti Filho|Edegar Pretto|Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-04-04",
+      "sample_size": 2020,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá1-16",
+      "candidates": {
+        "Luciano Zucco": 45.3,
+        "Juliana Brizola": 11.6,
+        "Edegar Pretto": 28.4,
+        "Gabriel Souza": 6.9,
+        "Covatti Filho": 2.8,
+        "Marcelo Maranata": 5
+      },
+      "parties": {
+        "Luciano Zucco": "PL",
+        "Juliana Brizola": "PDT",
+        "Edegar Pretto": "PT",
+        "Gabriel Souza": "MDB",
+        "Covatti Filho": "PP",
+        "Marcelo Maranata": "PSDB"
       }
     },
     {
@@ -9848,62 +10014,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-04-04",
-      "sample_size": 2030,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-29",
-      "candidates": {
-        "Eduardo Paes": 49.7,
-        "Douglas Ruas": 32.7,
-        "Wilson Witzel": 4,
-        "William Siri": 8.2,
-        "Bombeiro Rafa Luz": 2.7
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO"
-      }
-    },
-    {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Covatti Filho|Edegar Pretto|Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-04-04",
-      "sample_size": 2020,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-14",
-      "candidates": {
-        "Luciano Zucco": 45.3,
-        "Juliana Brizola": 11.6,
-        "Edegar Pretto": 28.4,
-        "Gabriel Souza": 6.9,
-        "Covatti Filho": 2.8,
-        "Marcelo Maranata": 5
-      },
-      "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Edegar Pretto": "PT",
-        "Gabriel Souza": "MDB",
-        "Covatti Filho": "PP",
-        "Marcelo Maranata": "PSDB"
       }
     },
     {
@@ -10034,6 +10144,143 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 2010,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Raquel Lyra": 41.4,
+        "João Campos": 41.4,
+        "Eduardo Moura": 2.9,
+        "Ivan Moraes": 4
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Eduardo Moura": "NOVO",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 2195,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-33",
+      "candidates": {
+        "Cleitinho": 32.7,
+        "Alexandre Kalil": 28.6,
+        "Mateus Simões": 11.7,
+        "Gabriel Azevedo": 6.7,
+        "Marcelo Aro": 4,
+        "Patrus Ananias": 3.7
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Cleitinho|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 2195,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-33",
+      "candidates": {
+        "Cleitinho": 40.5,
+        "Mateus Simões": 29.4,
+        "Gabriel Azevedo": 8.7,
+        "Patrus Ananias": 3.7
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 2195,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-33",
+      "candidates": {
+        "Cleitinho": 34.2,
+        "Alexandre Kalil": 37.9,
+        "Gabriel Azevedo": 11.5,
+        "Marcelo Aro": 4.2,
+        "Patrus Ananias": 2.3
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 2030,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá1-35",
+      "candidates": {
+        "Cleitinho": 50.3,
+        "Alexandre Kalil": 13.1,
+        "Mateus Simões": 14.9,
+        "Gabriel Azevedo": 8.3,
+        "Marcelo Aro": 3.2,
+        "Ben Mendes": 6.6,
+        "Patrus Ananias": 3.5
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Ben Mendes": "MISSÃO",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -10044,7 +10291,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-26",
+      "source_url": "#cite_note-:6-28",
       "candidates": {
         "Ciro Gomes": 30,
         "Elmano de Freitas": 21,
@@ -10219,7 +10466,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
+      "source_url": "#cite_note-:7-28",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -10246,7 +10493,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
+      "source_url": "#cite_note-:7-28",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -10273,7 +10520,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
+      "source_url": "#cite_note-:7-28",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -10298,7 +10545,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-26",
+      "source_url": "#cite_note-:7-28",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -10312,31 +10559,6 @@
         "Rafael Greca": "MDB",
         "Guto Silva": "PSD",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 2010,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Raquel Lyra": 41.4,
-        "João Campos": 41.4,
-        "Eduardo Moura": 2.9,
-        "Ivan Moraes": 4
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -10362,118 +10584,6 @@
         "Fábio Trad": "PT",
         "João Henrique Catan": "NOVO",
         "Lucien Rezende": "PSOL"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 2195,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-31",
-      "candidates": {
-        "Cleitinho": 32.7,
-        "Alexandre Kalil": 28.6,
-        "Mateus Simões": 11.7,
-        "Gabriel Azevedo": 6.7,
-        "Marcelo Aro": 4,
-        "Patrus Ananias": 3.7
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Cleitinho|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 2195,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-31",
-      "candidates": {
-        "Cleitinho": 40.5,
-        "Mateus Simões": 29.4,
-        "Gabriel Azevedo": 8.7,
-        "Patrus Ananias": 3.7
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 2195,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-31",
-      "candidates": {
-        "Cleitinho": 34.2,
-        "Alexandre Kalil": 37.9,
-        "Gabriel Azevedo": 11.5,
-        "Marcelo Aro": 4.2,
-        "Patrus Ananias": 2.3
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 2030,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-33",
-      "candidates": {
-        "Cleitinho": 50.3,
-        "Alexandre Kalil": 13.1,
-        "Mateus Simões": 14.9,
-        "Gabriel Azevedo": 8.3,
-        "Marcelo Aro": 3.2,
-        "Ben Mendes": 6.6,
-        "Patrus Ananias": 3.5
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Ben Mendes": "MISSÃO",
-        "Patrus Ananias": "PT"
       }
     },
     {
@@ -10575,7 +10685,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-21",
+      "source_url": "#cite_note-:5-22",
       "candidates": {
         "Tarcísio": 49.1,
         "Haddad": 42.6,
@@ -10600,7 +10710,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-21",
+      "source_url": "#cite_note-:5-22",
       "candidates": {
         "Tarcísio": 48.8,
         "Tebet": 41.8,
@@ -10625,7 +10735,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-21",
+      "source_url": "#cite_note-:5-22",
       "candidates": {
         "Tarcísio": 49.4,
         "França": 32.2,
@@ -10650,7 +10760,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-21",
+      "source_url": "#cite_note-:5-22",
       "candidates": {
         "Tarcísio": 48.4,
         "Alckmin": 41.4,
@@ -10665,6 +10775,137 @@
       }
     },
     {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Futura Inteligência",
+      "collection_date": "2026-03-28",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-36",
+      "candidates": {
+        "Cleitinho": 41.3,
+        "Alexandre Kalil": 11.7,
+        "Mateus Simões": 14,
+        "Gabriel Azevedo": 3.1,
+        "Marcelo Aro": 1.3,
+        "Patrus Ananias": 1.8
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Gabriel Azevedo|Marcelo Aro|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Futura Inteligência",
+      "collection_date": "2026-03-28",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-36",
+      "candidates": {
+        "Alexandre Kalil": 21.4,
+        "Gabriel Azevedo": 11.1,
+        "Marcelo Aro": 7.8,
+        "Patrus Ananias": 5.7
+      },
+      "parties": {
+        "Alexandre Kalil": "PDT",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Futura Inteligência",
+      "collection_date": "2026-03-28",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-36",
+      "candidates": {
+        "Mateus Simões": 29.7,
+        "Gabriel Azevedo": 10.1,
+        "Marcelo Aro": 7,
+        "Patrus Ananias": 4.7
+      },
+      "parties": {
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Futura Inteligência",
+      "collection_date": "2026-03-28",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-36",
+      "candidates": {
+        "Cleitinho": 44.1,
+        "Alexandre Kalil": 17.5,
+        "Gabriel Azevedo": 4.7,
+        "Marcelo Aro": 4.6,
+        "Patrus Ananias": 3.9
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Cleitinho|Gabriel Azevedo|Marcelo Aro|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Futura Inteligência",
+      "collection_date": "2026-03-28",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-36",
+      "candidates": {
+        "Cleitinho": 43.3,
+        "Gabriel Azevedo": 5.7,
+        "Marcelo Aro": 5.8,
+        "Patrus Ananias": 4
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -10675,7 +10916,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Ciro Gomes": 39,
         "Elmano de Freitas": 42,
@@ -10700,7 +10941,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Elmano de Freitas": 45,
         "Roberto Cláudio": 27,
@@ -10735,137 +10976,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Futura Inteligência",
-      "collection_date": "2026-03-28",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-34",
-      "candidates": {
-        "Cleitinho": 41.3,
-        "Alexandre Kalil": 11.7,
-        "Mateus Simões": 14,
-        "Gabriel Azevedo": 3.1,
-        "Marcelo Aro": 1.3,
-        "Patrus Ananias": 1.8
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Gabriel Azevedo|Marcelo Aro|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Futura Inteligência",
-      "collection_date": "2026-03-28",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-34",
-      "candidates": {
-        "Alexandre Kalil": 21.4,
-        "Gabriel Azevedo": 11.1,
-        "Marcelo Aro": 7.8,
-        "Patrus Ananias": 5.7
-      },
-      "parties": {
-        "Alexandre Kalil": "PDT",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Futura Inteligência",
-      "collection_date": "2026-03-28",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-34",
-      "candidates": {
-        "Mateus Simões": 29.7,
-        "Gabriel Azevedo": 10.1,
-        "Marcelo Aro": 7,
-        "Patrus Ananias": 4.7
-      },
-      "parties": {
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Futura Inteligência",
-      "collection_date": "2026-03-28",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-34",
-      "candidates": {
-        "Cleitinho": 44.1,
-        "Alexandre Kalil": 17.5,
-        "Gabriel Azevedo": 4.7,
-        "Marcelo Aro": 4.6,
-        "Patrus Ananias": 3.9
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Cleitinho|Gabriel Azevedo|Marcelo Aro|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Futura Inteligência",
-      "collection_date": "2026-03-28",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-34",
-      "candidates": {
-        "Cleitinho": 43.3,
-        "Gabriel Azevedo": 5.7,
-        "Marcelo Aro": 5.8,
-        "Patrus Ananias": 4
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
       }
     },
     {
@@ -11344,7 +11454,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-30",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -11371,7 +11481,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-30",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -11398,7 +11508,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-30",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -11408,6 +11518,35 @@
         "Sergio Moro": "PL",
         "Requião Filho": "PDT",
         "Alexandre Curi": "Republicanos"
+      }
+    },
+    {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Léo Moraes|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-19",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-RO2-16",
+      "candidates": {
+        "Marcos Rogério": 31.8,
+        "Léo Moraes": 16.5,
+        "Adaílton Fúria": 15.4,
+        "Expedito Netto": 8.7,
+        "Hildon Chaves": 8.5,
+        "Samuel Costa": 0.9
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Léo Moraes": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
       }
     },
     {
@@ -11432,35 +11571,6 @@
       }
     },
     {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Léo Moraes|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-03-19",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-RO2-14",
-      "candidates": {
-        "Marcos Rogério": 31.8,
-        "Léo Moraes": 16.5,
-        "Adaílton Fúria": 15.4,
-        "Expedito Netto": 8.7,
-        "Hildon Chaves": 8.5,
-        "Samuel Costa": 0.9
-      },
-      "parties": {
-        "Marcos Rogério": "",
-        "Léo Moraes": "",
-        "Adaílton Fúria": "",
-        "Expedito Netto": "",
-        "Hildon Chaves": "",
-        "Samuel Costa": ""
-      }
-    },
-    {
       "uf": "SP",
       "estado": "São Paulo",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em São Paulo",
@@ -11471,7 +11581,7 @@
       "sample_size": 3025,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-23",
+      "source_url": "#cite_note-Veritá1-24",
       "candidates": {
         "Tarcísio": 41.1,
         "Haddad": 27.7,
@@ -11483,6 +11593,89 @@
         "Haddad": "PT",
         "d'Avila": "NOVO",
         "Kataguiri": "MISSÃO"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "DataTempo",
+      "collection_date": "2026-03-18",
+      "sample_size": 2030,
+      "margin_error": 2.19,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-1-41",
+      "candidates": {
+        "Cleitinho": 25.5,
+        "Mateus Simões": 13.5,
+        "Gabriel Azevedo": 3.4,
+        "Marcelo Aro": 2.8,
+        "Patrus Ananias": 2.6
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "DataTempo",
+      "collection_date": "2026-03-18",
+      "sample_size": 2030,
+      "margin_error": 2.19,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-1-41",
+      "candidates": {
+        "Cleitinho": 29.6,
+        "Alexandre Kalil": 6,
+        "Mateus Simões": 15.8,
+        "Gabriel Azevedo": 3.6,
+        "Marcelo Aro": 3.1,
+        "Patrus Ananias": 3
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "DataTempo",
+      "collection_date": "2026-03-18",
+      "sample_size": 2030,
+      "margin_error": 2.19,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-1-41",
+      "candidates": {
+        "Cleitinho": 30.8,
+        "Mateus Simões": 17,
+        "Gabriel Azevedo": 4.2,
+        "Marcelo Aro": 3.4,
+        "Patrus Ananias": 3.8
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Marcelo Aro": "PP",
+        "Patrus Ananias": "PT"
       }
     },
     {
@@ -11674,89 +11867,6 @@
       }
     },
     {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "DataTempo",
-      "collection_date": "2026-03-18",
-      "sample_size": 2030,
-      "margin_error": 2.19,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-1-39",
-      "candidates": {
-        "Cleitinho": 25.5,
-        "Mateus Simões": 13.5,
-        "Gabriel Azevedo": 3.4,
-        "Marcelo Aro": 2.8,
-        "Patrus Ananias": 2.6
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "DataTempo",
-      "collection_date": "2026-03-18",
-      "sample_size": 2030,
-      "margin_error": 2.19,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-1-39",
-      "candidates": {
-        "Cleitinho": 29.6,
-        "Alexandre Kalil": 6,
-        "Mateus Simões": 15.8,
-        "Gabriel Azevedo": 3.6,
-        "Marcelo Aro": 3.1,
-        "Patrus Ananias": 3
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Cleitinho|Gabriel Azevedo|Marcelo Aro|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "DataTempo",
-      "collection_date": "2026-03-18",
-      "sample_size": 2030,
-      "margin_error": 2.19,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-1-39",
-      "candidates": {
-        "Cleitinho": 30.8,
-        "Mateus Simões": 17,
-        "Gabriel Azevedo": 4.2,
-        "Marcelo Aro": 3.4,
-        "Patrus Ananias": 3.8
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Marcelo Aro": "PP",
-        "Patrus Ananias": "PT"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -11846,7 +11956,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-16",
+      "source_url": "#cite_note-:2-18",
       "candidates": {
         "Luciano Zucco": 31,
         "Juliana Brizola": 24,
@@ -11875,7 +11985,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-16",
+      "source_url": "#cite_note-:2-18",
       "candidates": {
         "Luciano Zucco": 35,
         "Juliana Brizola": 30,
@@ -11900,7 +12010,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-16",
+      "source_url": "#cite_note-:2-18",
       "candidates": {
         "Luciano Zucco": 36,
         "Edegar Pretto": 27,
@@ -12071,7 +12181,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-45",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 19,
@@ -12102,7 +12212,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-45",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 19,
@@ -12129,7 +12239,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-45",
       "candidates": {
         "Cleitinho": 39,
         "Alexandre Kalil": 24,
@@ -12154,7 +12264,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-45",
       "candidates": {
         "Cleitinho": 40,
         "Mateus Simões": 19,
@@ -12179,7 +12289,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-45",
       "candidates": {
         "Alexandre Kalil": 30,
         "Gabriel Azevedo": 18,
@@ -12202,7 +12312,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-45",
       "candidates": {
         "Mateus Simões": 25,
         "Gabriel Azevedo": 19,
@@ -12225,7 +12335,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-45",
       "candidates": {
         "Alexandre Kalil": 34,
         "Gabriel Azevedo": 21
@@ -12340,7 +12450,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-31",
+      "source_url": "#cite_note-:1-32",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 13,
@@ -12369,7 +12479,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-31",
+      "source_url": "#cite_note-:1-32",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -12400,7 +12510,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-31",
+      "source_url": "#cite_note-:1-32",
       "candidates": {
         "Eduardo Paes": 51,
         "Douglas Ruas": 19
@@ -12421,7 +12531,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-45",
+      "source_url": "#cite_note-:2-47",
       "candidates": {
         "Cleitinho": 45.6,
         "Alexandre Kalil": 18.4,
@@ -12446,7 +12556,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-45",
+      "source_url": "#cite_note-:2-47",
       "candidates": {
         "Cleitinho": 45.8,
         "Mateus Simões": 22.6,
@@ -12471,7 +12581,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-24",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Tarcísio": 47,
         "Haddad": 31,
@@ -12496,7 +12606,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-24",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Tarcísio": 44,
         "Alckmin": 33,
@@ -12521,7 +12631,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-24",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 21,
@@ -12546,7 +12656,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-24",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Tarcísio": 48,
         "França": 23,
@@ -12571,7 +12681,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-24",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Tarcísio": 43,
         "Derrite": 18,
@@ -12594,7 +12704,7 @@
       "sample_size": 1200,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-32",
+      "source_url": "#cite_note-:2-33",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 4,
@@ -12623,7 +12733,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Tarcísio": 44,
         "Haddad": 31,
@@ -12650,7 +12760,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Tarcísio": 46,
         "Alckmin": 26,
@@ -12677,7 +12787,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Tarcísio": 44,
         "França": 5,
@@ -12706,7 +12816,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 19,
@@ -12733,7 +12843,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -12762,7 +12872,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -12791,7 +12901,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-29",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -12843,7 +12953,7 @@
       "sample_size": 1201,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Marcos Rogério": 16.7,
         "Adaílton Fúria": 26.9,
@@ -12899,7 +13009,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-40",
+      "source_url": "#cite_note-:-1-42",
       "candidates": {
         "Raquel Lyra": 35,
         "João Campos": 48,
@@ -12970,7 +13080,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-42",
+      "source_url": "#cite_note-:3-44",
       "candidates": {
         "Raquel Lyra": 31,
         "João Campos": 51,
@@ -12995,7 +13105,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Raquel Lyra": 29,
         "João Campos": 42,
@@ -13020,7 +13130,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-17",
+      "source_url": "#cite_note-:1-19",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Juliana Brizola": 17,
@@ -13051,7 +13161,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-17",
+      "source_url": "#cite_note-:1-19",
       "candidates": {
         "Luciano Zucco": 27.5,
         "Juliana Brizola": 19.5,
@@ -13080,7 +13190,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-17",
+      "source_url": "#cite_note-:1-19",
       "candidates": {
         "Luciano Zucco": 28.9,
         "Juliana Brizola": 20.9,
@@ -13109,7 +13219,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 51,
         "Haddad": 27.7,
@@ -13136,7 +13246,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 48.5,
         "Alckmin": 29.9,
@@ -13163,7 +13273,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Tarcísio": 52.8,
         "França": 18.5,
@@ -13190,7 +13300,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "França": 24.2,
         "Nunes": 36,
@@ -13217,7 +13327,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "França": 29.2,
         "Serra": 10.7,
@@ -13350,7 +13460,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-33",
+      "source_url": "#cite_note-:3-34",
       "candidates": {
         "Eduardo Paes": 42.5,
         "Douglas Ruas": 1.6,
@@ -13381,7 +13491,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-33",
+      "source_url": "#cite_note-:3-34",
       "candidates": {
         "Eduardo Paes": 50.5,
         "Douglas Ruas": 2.3,
@@ -13408,7 +13518,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-33",
+      "source_url": "#cite_note-:3-34",
       "candidates": {
         "Eduardo Paes": 50.3,
         "Ítalo Marsili": 0.7,
@@ -13529,7 +13639,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-30",
+      "source_url": "#cite_note-:5-32",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -13556,7 +13666,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-30",
+      "source_url": "#cite_note-:5-32",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -13583,7 +13693,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-30",
+      "source_url": "#cite_note-:5-32",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -13635,7 +13745,7 @@
       "sample_size": 1602,
       "margin_error": 3.45,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Marcos Rogério": 18.7,
         "Adaílton Fúria": 21.3,
@@ -13685,7 +13795,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-45",
+      "source_url": "#cite_note-:2-47",
       "candidates": {
         "Raquel Lyra": 27,
         "João Campos": 56,
@@ -13927,6 +14037,54 @@
       }
     },
     {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Jayme Campos|Natasha Slhessarenko|Otaviano Pivetta|Wellington Fagundes",
+      "secao": "Primeiro turno (governador) › 2025 › Março – Julho",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2025-12-16",
+      "sample_size": 1502,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
+      "candidates": {
+        "Wellington Fagundes": 32.4,
+        "Otaviano Pivetta": 21.5,
+        "Jayme Campos": 23.4,
+        "Natasha Slhessarenko": 6.1
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Jayme Campos": "UNIÃO",
+        "Natasha Slhessarenko": "PSB"
+      }
+    },
+    {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Wellington Fagundes",
+      "secao": "Primeiro turno (governador) › 2025 › Março – Julho",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2025-12-16",
+      "sample_size": 1502,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
+      "candidates": {
+        "Wellington Fagundes": 43.1,
+        "Otaviano Pivetta": 28.1,
+        "Natasha Slhessarenko": 8.4
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Natasha Slhessarenko": "PSB"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -13995,54 +14153,6 @@
         "Rogério Marinho": "PL",
         "Álvaro Dias": "Republicanos",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "MT",
-      "estado": "Mato Grosso",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Jayme Campos|Natasha Slhessarenko|Otaviano Pivetta|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2025 › Março – Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2025-12-16",
-      "sample_size": 1502,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Wellington Fagundes": 32.4,
-        "Otaviano Pivetta": 21.5,
-        "Jayme Campos": 23.4,
-        "Natasha Slhessarenko": 6.1
-      },
-      "parties": {
-        "Wellington Fagundes": "PL",
-        "Otaviano Pivetta": "Republicanos",
-        "Jayme Campos": "UNIÃO",
-        "Natasha Slhessarenko": "PSB"
-      }
-    },
-    {
-      "uf": "MT",
-      "estado": "Mato Grosso",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Natasha Slhessarenko|Otaviano Pivetta|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2025 › Março – Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2025-12-16",
-      "sample_size": 1502,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Wellington Fagundes": 43.1,
-        "Otaviano Pivetta": 28.1,
-        "Natasha Slhessarenko": 8.4
-      },
-      "parties": {
-        "Wellington Fagundes": "PL",
-        "Otaviano Pivetta": "Republicanos",
-        "Natasha Slhessarenko": "PSB"
       }
     },
     {
@@ -14242,7 +14352,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-19",
+      "source_url": "#cite_note-RO1-21",
       "candidates": {
         "Fernando Máximo": 22,
         "Ivo Cassol": 22,
@@ -14273,7 +14383,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-19",
+      "source_url": "#cite_note-RO1-21",
       "candidates": {
         "Ivo Cassol": 23,
         "Marcos Rogério": 19,
@@ -14304,7 +14414,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-19",
+      "source_url": "#cite_note-RO1-21",
       "candidates": {
         "Fernando Máximo": 26,
         "Adaílton Fúria": 22,
@@ -14333,7 +14443,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-19",
+      "source_url": "#cite_note-RO1-21",
       "candidates": {
         "Marcos Rogério": 23,
         "Adaílton Fúria": 23,
@@ -14349,58 +14459,6 @@
         "Confúcio Moura": "",
         "Sérgio Gonçalves": "",
         "Samuel Costa": ""
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|José Roberto Arruda|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2025 › Janeiro – Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-12-08",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-DF01-22",
-      "candidates": {
-        "Celina Leão": 40,
-        "José Roberto Arruda": 21,
-        "Leandro Grass": 13,
-        "Ricardo Cappelli": 6,
-        "Paula Belmonte": 6
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "José Roberto Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Celina Leão|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2025 › Janeiro – Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-12-08",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-DF01-22",
-      "candidates": {
-        "Celina Leão": 50,
-        "Leandro Grass": 16,
-        "Ricardo Cappelli": 7,
-        "Paula Belmonte": 7
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
       }
     },
     {
@@ -14771,7 +14829,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Tarcísio": 45,
         "Alckmin": 26,
@@ -14800,7 +14858,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Tarcísio": 49,
         "Hilton": 8,
@@ -14829,7 +14887,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Tarcísio": 50,
         "França": 18,
@@ -14858,7 +14916,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Derrite": 25,
         "Hilton": 8,
@@ -14887,7 +14945,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Nunes": 28,
         "Hilton": 8,
@@ -14916,7 +14974,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Hilton": 8,
         "Haddad": 29,
@@ -14945,7 +15003,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Hilton": 8,
         "Haddad": 33,
@@ -14974,7 +15032,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Derrite": 18,
         "Nunes": 18,
@@ -15028,7 +15086,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Wellington Fagundes": 43,
         "Otaviano Pivetta": 17
@@ -15049,7 +15107,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Wellington Fagundes": 44,
         "Otaviano Pivetta": 18,
@@ -15072,7 +15130,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:3-26",
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 15,
@@ -15275,7 +15333,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-18",
+      "source_url": "#cite_note-:6-20",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -15302,7 +15360,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-18",
+      "source_url": "#cite_note-:6-20",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -15327,7 +15385,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-18",
+      "source_url": "#cite_note-:6-20",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -15352,7 +15410,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-18",
+      "source_url": "#cite_note-:6-20",
       "candidates": {
         "Luciano Zucco": 29,
         "Juliana Brizola": 31,
@@ -15375,7 +15433,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-18",
+      "source_url": "#cite_note-:6-20",
       "candidates": {
         "Luciano Zucco": 29,
         "Edegar Pretto": 29,
@@ -15398,7 +15456,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-21",
+      "source_url": "#cite_note-:7-23",
       "candidates": {
         "Luciano Zucco": 21.1,
         "Juliana Brizola": 11,
@@ -15423,7 +15481,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-21",
+      "source_url": "#cite_note-:7-23",
       "candidates": {
         "Luciano Zucco": 24.1,
         "Juliana Brizola": 15,
@@ -15642,7 +15700,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-28",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "Tarcísio": 48.3,
         "Alckmin": 22.7,
@@ -15669,7 +15727,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-28",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "Tarcísio": 50.1,
         "Hilton": 8.8,
@@ -15696,7 +15754,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-28",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "Tarcísio": 52.7,
         "França": 12.6,
@@ -15725,7 +15783,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-28",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "França": 17.6,
         "Nunes": 32.7,
@@ -15756,7 +15814,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-28",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "França": 22.4,
         "Hilton": 13.9,
@@ -15785,7 +15843,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-28",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "França": 24,
         "Hilton": 14.5,
@@ -15814,7 +15872,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-28",
+      "source_url": "#cite_note-:2-29",
       "candidates": {
         "França": 24.2,
         "Hilton": 14.4,
@@ -15927,7 +15985,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Tarcísio": 52,
         "França": 16,
@@ -15954,7 +16012,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Tarcísio": 47,
         "Alckmin": 26,
@@ -15981,7 +16039,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-30",
       "candidates": {
         "França": 20,
         "Nunes": 34,
@@ -16008,7 +16066,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-30",
       "candidates": {
         "França": 27,
         "Hilton": 10,
@@ -16035,7 +16093,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Alckmin": 31,
         "Nunes": 30,
@@ -16139,7 +16197,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-30",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Tarcísio": 47.3,
         "França": 18.2,
@@ -16166,7 +16224,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-30",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Tarcísio": 48.6,
         "Alckmin": 34.2,
@@ -16193,7 +16251,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-30",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Manga": 10.8,
         "Alckmin": 39.4,
@@ -16224,7 +16282,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-30",
+      "source_url": "#cite_note-:1-31",
       "candidates": {
         "Manga": 8.2,
         "Derrite": 23.2,
@@ -16251,7 +16309,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-31",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Tarcísio": 43.8,
         "Manga": 4.7,
@@ -16282,7 +16340,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-31",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Tarcísio": 47.7,
         "Manga": 4.9,
@@ -16313,7 +16371,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-31",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Tarcísio": 46.1,
         "Manga": 4.9,
@@ -16344,7 +16402,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-31",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Manga": 8.6,
         "França": 14.2,
@@ -16373,7 +16431,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-31",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Manga": 9.9,
         "França": 18,
@@ -16404,7 +16462,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-31",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Manga": 10.4,
         "França": 19.8,
@@ -16433,7 +16491,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-31",
+      "source_url": "#cite_note-:0-32",
       "candidates": {
         "Manga": 10.3,
         "França": 19.8,
@@ -16562,7 +16620,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Tarcísio": 43,
         "Alckmin": 21,
@@ -16916,7 +16974,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Tarcísio": 42.1,
         "Manga": 4.8,
@@ -16947,7 +17005,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Tarcísio": 46.5,
         "Manga": 5.4,
@@ -16978,7 +17036,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Manga": 8.7,
         "França": 16.2,
@@ -17009,7 +17067,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Manga": 11.7,
         "França": 20.6,
@@ -17040,7 +17098,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Manga": 11.6,
         "França": 21.8,
@@ -17071,7 +17129,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Manga": 11.4,
         "França": 21.8,
@@ -17173,7 +17231,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Tarcísio": 37.8,
         "Alckmin": 24.7,
@@ -17200,7 +17258,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Tarcísio": 40.3,
         "França": 12.7,
@@ -17227,7 +17285,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Tarcísio": 48.6,
         "França": 16.6,
@@ -17252,7 +17310,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "França": 17,
         "Nunes": 27,
@@ -17279,7 +17337,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "França": 21.6,
         "Nunes": 35.8,
@@ -17304,7 +17362,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Manga": 9.5,
         "França": 18.8,
@@ -17333,7 +17391,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Manga": 9.8,
         "França": 19.3,
@@ -17362,7 +17420,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Tarcísio": 38,
         "França": 6,
@@ -17433,7 +17491,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Tarcísio": 40.5,
         "França": 12.6,
@@ -17460,7 +17518,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "França": 14.6,
         "Nunes": 27.2,
