@@ -1,9 +1,9 @@
 {
-  "ultima_execucao": "2026-08-24T11:41:56.183Z",
+  "ultima_execucao": "2026-08-25T11:40:02.871Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 689,
-  "pesquisas_usadas": 689,
-  "estados_com_agregado": 24,
+  "pesquisas_extraidas_brutas": 715,
+  "pesquisas_usadas": 715,
+  "estados_com_agregado": 25,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
     "AC": [
@@ -39,7 +39,7 @@
           "JHC",
           "Renan Filho"
         ],
-        "pesquisas": 12
+        "pesquisas": 13
       },
       {
         "candidatos": [
@@ -57,7 +57,7 @@
           "Omar Aziz",
           "Roberto Cidade"
         ],
-        "pesquisas": 19
+        "pesquisas": 20
       },
       {
         "candidatos": [
@@ -81,6 +81,15 @@
       {
         "candidatos": [
           "ACM Neto",
+          "Aroldo Félix",
+          "Jerônimo",
+          "Ronaldo Mansur"
+        ],
+        "pesquisas": 7
+      },
+      {
+        "candidatos": [
+          "ACM Neto",
           "Jerônimo",
           "Ronaldo Mansur"
         ],
@@ -94,15 +103,6 @@
           "Ronaldo Mansur"
         ],
         "pesquisas": 6
-      },
-      {
-        "candidatos": [
-          "ACM Neto",
-          "Aroldo Félix",
-          "Jerônimo",
-          "Ronaldo Mansur"
-        ],
-        "pesquisas": 5
       },
       {
         "candidatos": [
@@ -170,6 +170,38 @@
           "Zé Batista"
         ],
         "pesquisas": 1
+      }
+    ],
+    "DF": [
+      {
+        "candidatos": [
+          "Celina Leão",
+          "José Roberto Arruda",
+          "Kiko Caputo",
+          "Leandro Grass",
+          "Paula Belmonte",
+          "Ricardo Cappelli"
+        ],
+        "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "Celina Leão",
+          "José Roberto Arruda",
+          "Leandro Grass",
+          "Paula Belmonte",
+          "Ricardo Cappelli"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Celina Leão",
+          "Leandro Grass",
+          "Paula Belmonte",
+          "Ricardo Cappelli"
+        ],
+        "pesquisas": 2
       }
     ],
     "ES": [
@@ -275,7 +307,7 @@
           "Orleans Brandão",
           "Roberto Rocha"
         ],
-        "pesquisas": 6
+        "pesquisas": 7
       },
       {
         "candidatos": [
@@ -492,17 +524,17 @@
       {
         "candidatos": [
           "Efraim Filho",
-          "Lucas Ribeiro",
-          "Olímpio Rocha"
+          "Lucas Ribeiro"
         ],
         "pesquisas": 9
       },
       {
         "candidatos": [
           "Efraim Filho",
-          "Lucas Ribeiro"
+          "Lucas Ribeiro",
+          "Olímpio Rocha"
         ],
-        "pesquisas": 7
+        "pesquisas": 9
       },
       {
         "candidatos": [
@@ -546,7 +578,7 @@
           "Sergio Moro",
           "Tayná Miessa"
         ],
-        "pesquisas": 6
+        "pesquisas": 7
       },
       {
         "candidatos": [
@@ -643,17 +675,6 @@
       {
         "candidatos": [
           "André Marinho",
-          "Bombeiro Rafa Luz",
-          "Douglas Ruas",
-          "Eduardo Paes",
-          "William Siri",
-          "Wilson Witzel"
-        ],
-        "pesquisas": 2
-      },
-      {
-        "candidatos": [
-          "André Marinho",
           "Anthony Garotinho",
           "Coronel Busnello",
           "Cyro Garcia",
@@ -663,7 +684,18 @@
           "Luan Monteiro",
           "William Siri"
         ],
-        "pesquisas": 1
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "André Marinho",
+          "Bombeiro Rafa Luz",
+          "Douglas Ruas",
+          "Eduardo Paes",
+          "William Siri",
+          "Wilson Witzel"
+        ],
+        "pesquisas": 2
       }
     ],
     "RN": [
@@ -676,7 +708,7 @@
           "Rodrigo Bolsonaro",
           "Álvaro Dias"
         ],
-        "pesquisas": 20
+        "pesquisas": 21
       },
       {
         "candidatos": [
@@ -723,7 +755,7 @@
           "Luciano Zucco",
           "Marcelo Maranata"
         ],
-        "pesquisas": 9
+        "pesquisas": 11
       },
       {
         "candidatos": [
@@ -881,6 +913,15 @@
       },
       {
         "candidatos": [
+          "Gelson Merisio",
+          "Jorginho Mello",
+          "João Rodrigues",
+          "Ralf Zimmer"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
           "Jorginho Mello",
           "João Rodrigues"
         ],
@@ -889,15 +930,6 @@
       {
         "candidatos": [
           "Adriano Silva",
-          "Afrânio Boppré",
-          "Décio Lima",
-          "Jorginho Mello",
-          "João Rodrigues"
-        ],
-        "pesquisas": 1
-      },
-      {
-        "candidatos": [
           "Afrânio Boppré",
           "Décio Lima",
           "Jorginho Mello",
@@ -963,7 +995,7 @@
           "Ricardo Marques",
           "Valmir de Francisquinho"
         ],
-        "pesquisas": 18
+        "pesquisas": 20
       },
       {
         "candidatos": [
@@ -1002,7 +1034,7 @@
           "Laurez Moreira",
           "Professora Dorinha"
         ],
-        "pesquisas": 10
+        "pesquisas": 11
       },
       {
         "candidatos": [
@@ -1053,7 +1085,7 @@
     "AL": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "status": "ok",
-      "pesquisas": 13,
+      "pesquisas": 14,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Alagoas"
     },
     "AP": {
@@ -1065,13 +1097,13 @@
     "AM": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "status": "ok",
-      "pesquisas": 28,
+      "pesquisas": 29,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
     },
     "BA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "status": "ok",
-      "pesquisas": 31,
+      "pesquisas": 33,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Bahia"
     },
     "CE": {
@@ -1082,8 +1114,8 @@
     },
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "status": "sem_pesquisas_validas",
-      "pesquisas": 0,
+      "status": "ok",
+      "pesquisas": 8,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
@@ -1101,7 +1133,7 @@
     "MA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "status": "ok",
-      "pesquisas": 9,
+      "pesquisas": 10,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Maranh%C3%A3o"
     },
     "MT": {
@@ -1131,13 +1163,13 @@
     "PB": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
       "status": "ok",
-      "pesquisas": 17,
+      "pesquisas": 19,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Para%C3%ADba"
     },
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 52,
+      "pesquisas": 54,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
@@ -1155,19 +1187,19 @@
     "RJ": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
       "status": "ok",
-      "pesquisas": 27,
+      "pesquisas": 29,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_de_Janeiro"
     },
     "RN": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "status": "ok",
-      "pesquisas": 47,
+      "pesquisas": 48,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
     },
     "RS": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
       "status": "ok",
-      "pesquisas": 27,
+      "pesquisas": 29,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Sul"
     },
     "RO": {
@@ -1185,7 +1217,7 @@
     "SC": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
       "status": "ok",
-      "pesquisas": 16,
+      "pesquisas": 17,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Santa_Catarina"
     },
     "SP": {
@@ -1197,13 +1229,13 @@
     "SE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "status": "ok",
-      "pesquisas": 28,
+      "pesquisas": 30,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
     },
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 15,
+      "pesquisas": 16,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
