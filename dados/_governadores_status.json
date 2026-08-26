@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-08-25T11:40:02.871Z",
+  "ultima_execucao": "2026-08-26T11:41:46.400Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 715,
-  "pesquisas_usadas": 715,
+  "pesquisas_extraidas_brutas": 723,
+  "pesquisas_usadas": 723,
   "estados_com_agregado": 25,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -14,7 +14,7 @@
           "Thor Dantas",
           "Tião Bocalom"
         ],
-        "pesquisas": 16
+        "pesquisas": 17
       },
       {
         "candidatos": [
@@ -39,7 +39,7 @@
           "JHC",
           "Renan Filho"
         ],
-        "pesquisas": 13
+        "pesquisas": 14
       },
       {
         "candidatos": [
@@ -57,7 +57,7 @@
           "Omar Aziz",
           "Roberto Cidade"
         ],
-        "pesquisas": 20
+        "pesquisas": 21
       },
       {
         "candidatos": [
@@ -336,7 +336,7 @@
           "Sargento Laudicério",
           "Wellington Fagundes"
         ],
-        "pesquisas": 4
+        "pesquisas": 5
       },
       {
         "candidatos": [
@@ -653,6 +653,20 @@
       {
         "candidatos": [
           "André Marinho",
+          "Anthony Garotinho",
+          "Coronel Busnello",
+          "Cyro Garcia",
+          "Douglas Ruas",
+          "Eduardo Paes",
+          "Juliete Pantoja",
+          "Luan Monteiro",
+          "William Siri"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "André Marinho",
           "Douglas Ruas",
           "Eduardo Paes",
           "William Siri",
@@ -671,20 +685,6 @@
           "Wilson Witzel"
         ],
         "pesquisas": 3
-      },
-      {
-        "candidatos": [
-          "André Marinho",
-          "Anthony Garotinho",
-          "Coronel Busnello",
-          "Cyro Garcia",
-          "Douglas Ruas",
-          "Eduardo Paes",
-          "Juliete Pantoja",
-          "Luan Monteiro",
-          "William Siri"
-        ],
-        "pesquisas": 2
       },
       {
         "candidatos": [
@@ -803,7 +803,7 @@
           "Marcos Rogério",
           "Samuel Costa"
         ],
-        "pesquisas": 7
+        "pesquisas": 8
       },
       {
         "candidatos": [
@@ -1034,7 +1034,7 @@
           "Laurez Moreira",
           "Professora Dorinha"
         ],
-        "pesquisas": 11
+        "pesquisas": 12
       },
       {
         "candidatos": [
@@ -1079,13 +1079,13 @@
     "AC": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
       "status": "ok",
-      "pesquisas": 20,
+      "pesquisas": 21,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Acre"
     },
     "AL": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "status": "ok",
-      "pesquisas": 14,
+      "pesquisas": 15,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Alagoas"
     },
     "AP": {
@@ -1097,7 +1097,7 @@
     "AM": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "status": "ok",
-      "pesquisas": 29,
+      "pesquisas": 30,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
     },
     "BA": {
@@ -1139,7 +1139,7 @@
     "MT": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "status": "ok",
-      "pesquisas": 9,
+      "pesquisas": 10,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso"
     },
     "MS": {
@@ -1157,7 +1157,7 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 71,
+      "pesquisas": 72,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
@@ -1187,7 +1187,7 @@
     "RJ": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
       "status": "ok",
-      "pesquisas": 29,
+      "pesquisas": 30,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_de_Janeiro"
     },
     "RN": {
@@ -1205,7 +1205,7 @@
     "RO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "status": "ok",
-      "pesquisas": 15,
+      "pesquisas": 16,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Rond%C3%B4nia"
     },
     "RR": {
@@ -1235,7 +1235,7 @@
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 16,
+      "pesquisas": 17,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
