@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-28",
+  "atualizado_em": "2026-08-29",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -648,40 +648,40 @@
       "estado": "Goiás",
       "cenario": "Governador · 1º turno",
       "corte": "2026-08-27",
-      "pesquisas_no_calculo": 15,
+      "pesquisas_no_calculo": 16,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Daniel Vilela",
           "partido": "MDB",
-          "media": 38.5,
-          "ic_min": 35.1,
-          "ic_max": 41.9,
-          "pesquisas": 15
+          "media": 38,
+          "ic_min": 34.9,
+          "ic_max": 41.2,
+          "pesquisas": 16
         },
         {
           "nome": "Marconi Perillo",
           "partido": "PSDB",
-          "media": 24.9,
-          "ic_min": 21.7,
-          "ic_max": 28.1,
-          "pesquisas": 15
+          "media": 24.2,
+          "ic_min": 21.1,
+          "ic_max": 27.3,
+          "pesquisas": 16
         },
         {
           "nome": "Wilder Morais",
           "partido": "PL",
-          "media": 14.7,
-          "ic_min": 12.7,
-          "ic_max": 16.7,
-          "pesquisas": 15
+          "media": 15.6,
+          "ic_min": 13.4,
+          "ic_max": 17.9,
+          "pesquisas": 16
         },
         {
           "nome": "Luis Cesar Bueno",
           "partido": "PT",
-          "media": 4.6,
-          "ic_min": 3.3,
-          "ic_max": 5.8,
-          "pesquisas": 15
+          "media": 5,
+          "ic_min": 3.7,
+          "ic_max": 6.2,
+          "pesquisas": 16
         }
       ],
       "ultimas_pesquisas": [
@@ -702,6 +702,14 @@
           "fonte_url": "#cite_note-:16-9"
         },
         {
+          "instituto": "Veritá",
+          "coleta": "2026-08-23",
+          "amostra": 1600,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "#cite_note-11"
+        },
+        {
           "instituto": "Paraná Pesquisas",
           "coleta": "2026-08-17",
           "amostra": 1240,
@@ -715,7 +723,7 @@
           "amostra": 3200,
           "margem": 1.7,
           "tse": "",
-          "fonte_url": "#cite_note-:16-9"
+          "fonte_url": "#cite_note-:16-D-16"
         },
         {
           "instituto": "Goiás Pesquisas/Mais Goiás",
@@ -723,15 +731,7 @@
           "amostra": 1150,
           "margem": 2.89,
           "tse": "",
-          "fonte_url": "#cite_note-13"
-        },
-        {
-          "instituto": "Directa",
-          "coleta": "2026-07-31",
-          "amostra": 2000,
-          "margem": 2.19,
-          "tse": "",
-          "fonte_url": "#cite_note-15"
+          "fonte_url": "#cite_note-17"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
@@ -1447,7 +1447,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-08-24",
+      "corte": "2026-08-27",
       "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
@@ -1455,16 +1455,16 @@
           "nome": "Raquel Lyra",
           "partido": "PSD",
           "media": 44.4,
-          "ic_min": 43,
+          "ic_min": 43.2,
           "ic_max": 45.7,
           "pesquisas": 20
         },
         {
           "nome": "João Campos",
           "partido": "PSB",
-          "media": 40.2,
-          "ic_min": 38.8,
-          "ic_max": 41.5,
+          "media": 39.8,
+          "ic_min": 38.4,
+          "ic_max": 41.2,
           "pesquisas": 20
         },
         {
@@ -1478,12 +1478,20 @@
       ],
       "ultimas_pesquisas": [
         {
+          "instituto": "DataTrends",
+          "coleta": "2026-08-27",
+          "amostra": 1200,
+          "margem": 2.83,
+          "tse": "",
+          "fonte_url": "#cite_note-:4-14"
+        },
+        {
           "instituto": "Múltipla",
           "coleta": "2026-08-24",
           "amostra": 900,
           "margem": 3.3,
           "tse": "",
-          "fonte_url": "#cite_note-:22-14"
+          "fonte_url": "#cite_note-:22-15"
         },
         {
           "instituto": "Simplex",
@@ -1491,7 +1499,7 @@
           "amostra": 1067,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-20"
+          "fonte_url": "#cite_note-21"
         },
         {
           "instituto": "Datafolha",
@@ -1507,7 +1515,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:18-24"
+          "fonte_url": "#cite_note-:18-25"
         },
         {
           "instituto": "DataTrends",
@@ -1515,19 +1523,11 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-:19-26"
-        },
-        {
-          "instituto": "Datafolha",
-          "coleta": "2026-07-30",
-          "amostra": 1022,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
+          "fonte_url": "#cite_note-:19-27"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:22-14"
+      "fonte_url": "#cite_note-:4-14"
     },
     "PI": {
       "uf": "PI",
