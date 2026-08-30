@@ -1,6 +1,60 @@
 {
-  "atualizado_em": "2026-08-29",
+  "atualizado_em": "2026-08-30",
   "pesquisas": [
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Veritá",
+      "collection_date": "2026-08-28",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:16-13",
+      "candidates": {
+        "Omar Aziz": 31,
+        "Roberto Cidade": 22.4,
+        "Maria do Carmo": 29.2,
+        "David Almeida": 10.8
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Roberto Cidade": "UNIÃO",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Well Macêdo",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-08-28",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Hana Ghassan": 27,
+        "Daniel Santos": 28,
+        "Araceli Lemos": 2,
+        "Well Macêdo": 2,
+        "Gal Leite": 2,
+        "José Moita": 1
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Well Macêdo": "PSTU",
+        "Gal Leite": "UP",
+        "José Moita": "Democrata"
+      }
+    },
     {
       "uf": "AM",
       "estado": "Amazonas",
@@ -12,7 +66,7 @@
       "sample_size": 1517,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Omar Aziz": 24.3,
         "Roberto Cidade": 19.7,
@@ -418,7 +472,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-15",
+      "source_url": "#cite_note-:15-17",
       "candidates": {
         "Omar Aziz": 34,
         "Roberto Cidade": 22,
@@ -616,7 +670,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-17",
+      "source_url": "#cite_note-:14-19",
       "candidates": {
         "Omar Aziz": 26,
         "Roberto Cidade": 18,
@@ -641,7 +695,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Omar Aziz": 26,
         "Roberto Cidade": 23,
@@ -1007,6 +1061,35 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Veritá",
+      "collection_date": "2026-08-23",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:33-11",
+      "candidates": {
+        "Hana Ghassan": 41.4,
+        "Daniel Santos": 49.7,
+        "Araceli Lemos": 5.2,
+        "Gal Leite": 4,
+        "Robertinho": 4,
+        "José Moita": 4
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Gal Leite": "UP",
+        "Robertinho": "PRTB",
+        "José Moita": "Democrata"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -1275,35 +1358,6 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-08-23",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:33-9",
-      "candidates": {
-        "Hana Ghassan": 41.4,
-        "Daniel Santos": 49.7,
-        "Araceli Lemos": 5.2,
-        "Gal Leite": 4,
-        "Robertinho": 4,
-        "José Moita": 4
-      },
-      "parties": {
-        "Hana Ghassan": "MDB",
-        "Daniel Santos": "PODE",
-        "Araceli Lemos": "PSOL",
-        "Gal Leite": "UP",
-        "Robertinho": "PRTB",
-        "José Moita": "Democrata"
-      }
-    },
-    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -1462,7 +1516,7 @@
       "sample_size": 3000,
       "margin_error": 1.9,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Omar Aziz": 25.72,
         "Roberto Cidade": 24,
@@ -1791,6 +1845,35 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-08-19",
+      "sample_size": 1197,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:32-13",
+      "candidates": {
+        "Hana Ghassan": 48.6,
+        "Daniel Santos": 40.5,
+        "Araceli Lemos": 1.4,
+        "Gal Leite": 0,
+        "Robertinho": 0.3,
+        "José Moita": 0.1
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Gal Leite": "UP",
+        "Robertinho": "PRTB",
+        "José Moita": "Democrata"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -1844,35 +1927,6 @@
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT",
         "Ronaldo Mansur": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-08-19",
-      "sample_size": 1197,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:32-11",
-      "candidates": {
-        "Hana Ghassan": 48.6,
-        "Daniel Santos": 40.5,
-        "Araceli Lemos": 1.4,
-        "Gal Leite": 0,
-        "Robertinho": 0.3,
-        "José Moita": 0.1
-      },
-      "parties": {
-        "Hana Ghassan": "MDB",
-        "Daniel Santos": "PODE",
-        "Araceli Lemos": "PSOL",
-        "Gal Leite": "UP",
-        "Robertinho": "PRTB",
-        "José Moita": "Democrata"
       }
     },
     {
@@ -2227,6 +2281,35 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Doxa",
+      "collection_date": "2026-08-15",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:31-18",
+      "candidates": {
+        "Hana Ghassan": 35.1,
+        "Daniel Santos": 30.2,
+        "Araceli Lemos": 1.4,
+        "Gal Leite": 0.8,
+        "Robertinho": 0.7,
+        "José Moita": 0.4
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Gal Leite": "UP",
+        "Robertinho": "PRTB",
+        "José Moita": "Democrata"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -2327,35 +2410,6 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Doxa",
-      "collection_date": "2026-08-15",
-      "sample_size": 2000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:31-16",
-      "candidates": {
-        "Hana Ghassan": 35.1,
-        "Daniel Santos": 30.2,
-        "Araceli Lemos": 1.4,
-        "Gal Leite": 0.8,
-        "Robertinho": 0.7,
-        "José Moita": 0.4
-      },
-      "parties": {
-        "Hana Ghassan": "MDB",
-        "Daniel Santos": "PODE",
-        "Araceli Lemos": "PSOL",
-        "Gal Leite": "UP",
-        "Robertinho": "PRTB",
-        "José Moita": "Democrata"
-      }
-    },
-    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -2366,7 +2420,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-23",
+      "source_url": "#cite_note-:13-25",
       "candidates": {
         "Omar Aziz": 33.7,
         "Roberto Cidade": 18.8,
@@ -3133,7 +3187,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:30-22",
+      "source_url": "#cite_note-:30-24",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 31,
@@ -3811,7 +3865,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-25",
+      "source_url": "#cite_note-:12-27",
       "candidates": {
         "Omar Aziz": 27.4,
         "Roberto Cidade": 15.5,
@@ -4194,6 +4248,62 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:29-26",
+      "candidates": {
+        "Daniel Santos": 20,
+        "Hana Ghassan": 24,
+        "Mário Couto": 11,
+        "Araceli Lemos": 2,
+        "Cleber Rabelo": 2,
+        "Raquel Brício": 2
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-07-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:29-26",
+      "candidates": {
+        "Daniel Santos": 23,
+        "Hana Ghassan": 25,
+        "Araceli Lemos": 5,
+        "Cleber Rabelo": 4,
+        "Raquel Brício": 2
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -4456,62 +4566,6 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:29-24",
-      "candidates": {
-        "Daniel Santos": 20,
-        "Hana Ghassan": 24,
-        "Mário Couto": 11,
-        "Araceli Lemos": 2,
-        "Cleber Rabelo": 2,
-        "Raquel Brício": 2
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:29-24",
-      "candidates": {
-        "Daniel Santos": 23,
-        "Hana Ghassan": 25,
-        "Araceli Lemos": 5,
-        "Cleber Rabelo": 4,
-        "Raquel Brício": 2
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
-      }
-    },
-    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -4593,7 +4647,7 @@
       "sample_size": 3000,
       "margin_error": 1.79,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-26",
+      "source_url": "#cite_note-:11-28",
       "candidates": {
         "Omar Aziz": 27,
         "Maria do Carmo": 16.8,
@@ -5503,7 +5557,7 @@
       "sample_size": 2685,
       "margin_error": 1.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-27",
+      "source_url": "#cite_note-:10-29",
       "candidates": {
         "Omar Aziz": 30,
         "Maria do Carmo": 21,
@@ -5515,6 +5569,77 @@
         "Maria do Carmo": "PL",
         "David Almeida": "Avante",
         "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Ampla",
+      "collection_date": "2026-07-10",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:28-29",
+      "candidates": {
+        "Daniel Santos": 34.4,
+        "Hana Ghassan": 22.5,
+        "Araceli Lemos": 2.9,
+        "Cleber Rabelo": 4.6
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Ampla",
+      "collection_date": "2026-07-10",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:28-29",
+      "candidates": {
+        "Daniel Santos": 37.1,
+        "Hana Ghassan": 24.7,
+        "Araceli Lemos": 4.5
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Cleber Rabelo|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Ampla",
+      "collection_date": "2026-07-10",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:28-29",
+      "candidates": {
+        "Daniel Santos": 36.3,
+        "Hana Ghassan": 25.6,
+        "Cleber Rabelo": 5.8
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -5542,77 +5667,6 @@
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Ampla",
-      "collection_date": "2026-07-10",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:28-27",
-      "candidates": {
-        "Daniel Santos": 34.4,
-        "Hana Ghassan": 22.5,
-        "Araceli Lemos": 2.9,
-        "Cleber Rabelo": 4.6
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Ampla",
-      "collection_date": "2026-07-10",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:28-27",
-      "candidates": {
-        "Daniel Santos": 37.1,
-        "Hana Ghassan": 24.7,
-        "Araceli Lemos": 4.5
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Cleber Rabelo|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Ampla",
-      "collection_date": "2026-07-10",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:28-27",
-      "candidates": {
-        "Daniel Santos": 36.3,
-        "Hana Ghassan": 25.6,
-        "Cleber Rabelo": 5.8
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -5791,6 +5845,58 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Veritate",
+      "collection_date": "2026-07-07",
+      "sample_size": 1400,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:27-30",
+      "candidates": {
+        "Daniel Santos": 37.2,
+        "Hana Ghassan": 31.6,
+        "Araceli Lemos": 3.9,
+        "Cleber Rabelo": 5.9
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Veritate",
+      "collection_date": "2026-07-07",
+      "sample_size": 1400,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:27-30",
+      "candidates": {
+        "Daniel Santos": 34.2,
+        "Hana Ghassan": 29.2,
+        "Mário Couto": 10.6,
+        "Araceli Lemos": 2.9,
+        "Cleber Rabelo": 4.1
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "ES",
       "estado": "Espírito Santo",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
@@ -5937,58 +6043,6 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Veritate",
-      "collection_date": "2026-07-07",
-      "sample_size": 1400,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:27-28",
-      "candidates": {
-        "Daniel Santos": 37.2,
-        "Hana Ghassan": 31.6,
-        "Araceli Lemos": 3.9,
-        "Cleber Rabelo": 5.9
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Veritate",
-      "collection_date": "2026-07-07",
-      "sample_size": 1400,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:27-28",
-      "candidates": {
-        "Daniel Santos": 34.2,
-        "Hana Ghassan": 29.2,
-        "Mário Couto": 10.6,
-        "Araceli Lemos": 2.9,
-        "Cleber Rabelo": 4.1
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -6084,7 +6138,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-28",
+      "source_url": "#cite_note-:7-30",
       "candidates": {
         "Omar Aziz": 27.2,
         "Maria do Carmo": 30.4,
@@ -6213,7 +6267,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-30",
+      "source_url": "#cite_note-:6-32",
       "candidates": {
         "Omar Aziz": 33.9,
         "Maria do Carmo": 18.3,
@@ -6646,7 +6700,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-32",
+      "source_url": "#cite_note-:5-34",
       "candidates": {
         "Omar Aziz": 33,
         "Maria do Carmo": 19,
@@ -6671,7 +6725,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-31",
+      "source_url": "#cite_note-:26-33",
       "candidates": {
         "Daniel Santos": 32,
         "Hana Ghassan": 29,
@@ -6923,7 +6977,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Omar Aziz": 28,
         "Maria do Carmo": 20,
@@ -6935,6 +6989,31 @@
         "Maria do Carmo": "PL",
         "David Almeida": "Avante",
         "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Data Populi",
+      "collection_date": "2026-06-20",
+      "sample_size": 780,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-35",
+      "candidates": {
+        "Daniel Santos": 22.4,
+        "Hana Ghassan": 25.6,
+        "Araceli Lemos": 2.4,
+        "Cleber Rabelo": 9.4
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -6983,31 +7062,6 @@
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL",
         "Olímpio Rocha": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Data Populi",
-      "collection_date": "2026-06-20",
-      "sample_size": 780,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-33",
-      "candidates": {
-        "Daniel Santos": 22.4,
-        "Hana Ghassan": 25.6,
-        "Araceli Lemos": 2.4,
-        "Cleber Rabelo": 9.4
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -7263,6 +7317,64 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Doxa",
+      "collection_date": "2026-06-14",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:25-38",
+      "candidates": {
+        "Daniel Santos": 24.8,
+        "Hana Ghassan": 30.4,
+        "Mário Couto": 4.3,
+        "Araceli Lemos": 1.1,
+        "Cleber Rabelo": 1.4,
+        "Raquel Brício": 0.6
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Doxa",
+      "collection_date": "2026-06-14",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:25-38",
+      "candidates": {
+        "Daniel Santos": 24.5,
+        "Hana Ghassan": 29.1,
+        "Mário Couto": 3.6,
+        "Araceli Lemos": 1.2,
+        "Cleber Rabelo": 1,
+        "Raquel Brício": 0.5
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU",
+        "Raquel Brício": "UP"
+      }
+    },
+    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -7312,64 +7424,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Doxa",
-      "collection_date": "2026-06-14",
-      "sample_size": 2000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:25-36",
-      "candidates": {
-        "Daniel Santos": 24.8,
-        "Hana Ghassan": 30.4,
-        "Mário Couto": 4.3,
-        "Araceli Lemos": 1.1,
-        "Cleber Rabelo": 1.4,
-        "Raquel Brício": 0.6
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto|Raquel Brício",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Doxa",
-      "collection_date": "2026-06-14",
-      "sample_size": 2000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:25-36",
-      "candidates": {
-        "Daniel Santos": 24.5,
-        "Hana Ghassan": 29.1,
-        "Mário Couto": 3.6,
-        "Araceli Lemos": 1.2,
-        "Cleber Rabelo": 1,
-        "Raquel Brício": 0.5
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU",
-        "Raquel Brício": "UP"
       }
     },
     {
@@ -7656,7 +7710,7 @@
       "sample_size": 1792,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-35",
+      "source_url": "#cite_note-:3-37",
       "candidates": {
         "Omar Aziz": 26.45,
         "Maria do Carmo": 21.82,
@@ -8035,7 +8089,7 @@
       "sample_size": 1507,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-37",
+      "source_url": "#cite_note-:2-39",
       "candidates": {
         "Omar Aziz": 25.3,
         "Maria do Carmo": 18.8,
@@ -8060,7 +8114,7 @@
       "sample_size": 2996,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-38",
+      "source_url": "#cite_note-:1-40",
       "candidates": {
         "Omar Aziz": 25.1,
         "Maria do Carmo": 16.2,
@@ -8281,6 +8335,33 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-05-31",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá3-42",
+      "candidates": {
+        "Daniel Santos": 52.5,
+        "Hana Ghassan": 32,
+        "Mário Couto": 0.8,
+        "Araceli Lemos": 5.2,
+        "Cleber Rabelo": 0.6
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -8353,33 +8434,6 @@
         "Jorginho Mello": "PL",
         "João Rodrigues": "PSD",
         "Gelson Merisio": "PSB"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-05-31",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-40",
-      "candidates": {
-        "Daniel Santos": 52.5,
-        "Hana Ghassan": 32,
-        "Mário Couto": 0.8,
-        "Araceli Lemos": 5.2,
-        "Cleber Rabelo": 0.6
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -8522,7 +8576,7 @@
       "sample_size": 3003,
       "margin_error": 1.79,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-39",
+      "source_url": "#cite_note-:8-41",
       "candidates": {
         "Maria do Carmo": 20.1,
         "Omar Aziz": 29.1,
@@ -8674,7 +8728,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-41",
+      "source_url": "#cite_note-:0-43",
       "candidates": {
         "Maria do Carmo": 41.4,
         "Omar Aziz": 32.6,
@@ -8899,7 +8953,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-42",
+      "source_url": "#cite_note-:24-44",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -8926,7 +8980,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-42",
+      "source_url": "#cite_note-:24-44",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -9032,7 +9086,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Maria do Carmo": 17.1,
         "Omar Aziz": 34.6,
@@ -9055,7 +9109,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Maria do Carmo": 15.6,
         "Omar Aziz": 29.8,
@@ -9080,7 +9134,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-AM06-46",
+      "source_url": "#cite_note-AM06-48",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 32,
@@ -9319,7 +9373,7 @@
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-Action-50",
+      "source_url": "#cite_note-Action-52",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 31,
@@ -9450,7 +9504,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-47",
+      "source_url": "#cite_note-AM05-49",
       "candidates": {
         "Maria do Carmo": 38.4,
         "Omar Aziz": 27.5,
@@ -9475,7 +9529,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-47",
+      "source_url": "#cite_note-AM05-49",
       "candidates": {
         "Maria do Carmo": 45,
         "Omar Aziz": 30.1,
@@ -9500,7 +9554,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -9527,7 +9581,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -9706,7 +9760,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-53",
       "candidates": {
         "Maria do Carmo": 22,
         "Omar Aziz": 35,
@@ -9954,7 +10008,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-47",
+      "source_url": "#cite_note-:23-49",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -10098,6 +10152,33 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-04-30",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá2-51",
+      "candidates": {
+        "Daniel Santos": 29.1,
+        "Hana Ghassan": 26.6,
+        "Mário Couto": 1,
+        "Araceli Lemos": 4,
+        "Cleber Rabelo": 0.7
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -10193,27 +10274,23 @@
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
       "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-04-30",
-      "sample_size": 1525,
-      "margin_error": 2.5,
+      "institute": "Ampla",
+      "collection_date": "2026-04-29",
+      "sample_size": 1500,
+      "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-49",
+      "source_url": "#cite_note-:22-53",
       "candidates": {
-        "Daniel Santos": 29.1,
-        "Hana Ghassan": 26.6,
-        "Mário Couto": 1,
-        "Araceli Lemos": 4,
-        "Cleber Rabelo": 0.7
+        "Daniel Santos": 35.2,
+        "Hana Ghassan": 26,
+        "Araceli Lemos": 3.4
       },
       "parties": {
         "Daniel Santos": "PODE",
         "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
+        "Araceli Lemos": "PSOL"
       }
     },
     {
@@ -10273,29 +10350,6 @@
       }
     },
     {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Ampla",
-      "collection_date": "2026-04-29",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:22-51",
-      "candidates": {
-        "Daniel Santos": 35.2,
-        "Hana Ghassan": 26,
-        "Araceli Lemos": 3.4
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL"
-      }
-    },
-    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -10306,7 +10360,7 @@
       "sample_size": 1202,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-52",
+      "source_url": "#cite_note-Veritá2-54",
       "candidates": {
         "Maria do Carmo": 41,
         "Omar Aziz": 34.5,
@@ -11054,6 +11108,58 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:20-55",
+      "candidates": {
+        "Daniel Santos": 22,
+        "Hana Ghassan": 19,
+        "Mário Couto": 11,
+        "Araceli Lemos": 2,
+        "Cleber Rabelo": 3
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "DC",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
+      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-04-25",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:20-55",
+      "candidates": {
+        "Daniel Santos": 24,
+        "Hana Ghassan": 22,
+        "Araceli Lemos": 3,
+        "Cleber Rabelo": 5
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Araceli Lemos": "PSOL",
+        "Cleber Rabelo": "PSTU"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -11190,58 +11296,6 @@
         "André Marinho": "NOVO",
         "Wilson Witzel": "Democrata",
         "William Siri": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:20-53",
-      "candidates": {
-        "Daniel Santos": 22,
-        "Hana Ghassan": 19,
-        "Mário Couto": 11,
-        "Araceli Lemos": 2,
-        "Cleber Rabelo": 3
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "DC",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Cleber Rabelo|Daniel Santos|Hana Ghassan",
-      "secao": "Primeiro Turno (Governador) › 2026 › Abril - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:20-53",
-      "candidates": {
-        "Daniel Santos": 24,
-        "Hana Ghassan": 22,
-        "Araceli Lemos": 3,
-        "Cleber Rabelo": 5
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Araceli Lemos": "PSOL",
-        "Cleber Rabelo": "PSTU"
       }
     },
     {
@@ -11507,7 +11561,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-56",
+      "source_url": "#cite_note-:19-58",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -11534,7 +11588,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-56",
+      "source_url": "#cite_note-:19-58",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -12219,6 +12273,52 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 1525,
+      "margin_error": null,
+      "tse_registration": "",
+      "source_url": "#cite_note-63",
+      "candidates": {
+        "Daniel Santos": 43.4,
+        "Hana Ghassan": 25.5,
+        "Mário Couto": 17.4
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 1525,
+      "margin_error": null,
+      "tse_registration": "",
+      "source_url": "#cite_note-63",
+      "candidates": {
+        "Daniel Santos": 31.8,
+        "Hana Ghassan": 18.7,
+        "Mário Couto": 12.7
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -12435,52 +12535,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 1525,
-      "margin_error": null,
-      "tse_registration": "",
-      "source_url": "#cite_note-61",
-      "candidates": {
-        "Daniel Santos": 43.4,
-        "Hana Ghassan": 25.5,
-        "Mário Couto": 17.4
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 1525,
-      "margin_error": null,
-      "tse_registration": "",
-      "source_url": "#cite_note-61",
-      "candidates": {
-        "Daniel Santos": 31.8,
-        "Hana Ghassan": 18.7,
-        "Mário Couto": 12.7
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL"
       }
     },
     {
@@ -13202,7 +13256,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM03-53",
+      "source_url": "#cite_note-AM03-55",
       "candidates": {
         "Maria do Carmo": 40.8,
         "Omar Aziz": 33.8,
@@ -13394,31 +13448,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-03-21",
-      "sample_size": 1006,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-3-29",
-      "candidates": {
-        "Alan Rick": 40.36,
-        "Mailza Assis": 20.78,
-        "Tião Bocalom": 15.6,
-        "Thor Dantas": 2.68
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -13429,7 +13458,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-64",
+      "source_url": "#cite_note-:0-66",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -13456,7 +13485,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-64",
+      "source_url": "#cite_note-:0-66",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -13514,6 +13543,31 @@
         "Daniel Santos": "PODE",
         "Hana Ghassan": "MDB",
         "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-03-21",
+      "sample_size": 1006,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-3-29",
+      "candidates": {
+        "Alan Rick": 40.36,
+        "Mailza Assis": 20.78,
+        "Tião Bocalom": 15.6,
+        "Thor Dantas": 2.68
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -13679,7 +13733,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-AM04-54",
+      "source_url": "#cite_note-AM04-56",
       "candidates": {
         "Maria do Carmo": 27,
         "Omar Aziz": 39,
@@ -13702,7 +13756,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-AM04-54",
+      "source_url": "#cite_note-AM04-56",
       "candidates": {
         "Maria do Carmo": 26,
         "Omar Aziz": 37,
@@ -14108,7 +14162,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-55",
+      "source_url": "#cite_note-AM02-57",
       "candidates": {
         "Maria do Carmo": 41.8,
         "Omar Aziz": 40.4,
@@ -14133,7 +14187,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-55",
+      "source_url": "#cite_note-AM02-57",
       "candidates": {
         "Maria do Carmo": 42.2,
         "Omar Aziz": 40.6,
@@ -14156,7 +14210,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-55",
+      "source_url": "#cite_note-AM02-57",
       "candidates": {
         "Maria do Carmo": 42.8,
         "Omar Aziz": 40.5,
@@ -14429,7 +14483,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM01-56",
+      "source_url": "#cite_note-AM01-58",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 33,
@@ -15479,7 +15533,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-73",
+      "source_url": "#cite_note-:3-75",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -15506,7 +15560,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-73",
+      "source_url": "#cite_note-:3-75",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -15604,6 +15658,31 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
+      "institute": "Doxa",
+      "collection_date": "2026-01-30",
+      "sample_size": 2000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-79",
+      "candidates": {
+        "Daniel Santos": 32.1,
+        "Hana Ghassan": 22.2,
+        "Mário Couto": 16.7,
+        "Araceli Lemos": 2.9
+      },
+      "parties": {
+        "Daniel Santos": "PODE",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -15647,31 +15726,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Março",
-      "institute": "Doxa",
-      "collection_date": "2026-01-30",
-      "sample_size": 2000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-77",
-      "candidates": {
-        "Daniel Santos": 32.1,
-        "Hana Ghassan": 22.2,
-        "Mário Couto": 16.7,
-        "Araceli Lemos": 2.9
-      },
-      "parties": {
-        "Daniel Santos": "PODE",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
       }
     },
     {
@@ -15879,6 +15933,181 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
+      "institute": "Doxa",
+      "collection_date": "2025-12-23",
+      "sample_size": 2000,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-81",
+      "candidates": {
+        "Daniel Santos": 30.5,
+        "Hana Ghassan": 20.3,
+        "Mário Couto": 14.8,
+        "Araceli Lemos": 4.2
+      },
+      "parties": {
+        "Daniel Santos": "PSB",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
+      "institute": "Doxa",
+      "collection_date": "2025-12-23",
+      "sample_size": 2000,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-81",
+      "candidates": {
+        "Daniel Santos": 20.7,
+        "Hana Ghassan": 19.8,
+        "Mário Couto": 26.6,
+        "Araceli Lemos": 7.3
+      },
+      "parties": {
+        "Daniel Santos": "PSB",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
+      "institute": "Doxa",
+      "collection_date": "2025-12-23",
+      "sample_size": 2000,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-81",
+      "candidates": {
+        "Daniel Santos": 34.1,
+        "Hana Ghassan": 19.2,
+        "Mário Couto": 10.3,
+        "Araceli Lemos": 2.1
+      },
+      "parties": {
+        "Daniel Santos": "PSB",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
+      "institute": "Doxa",
+      "collection_date": "2025-12-23",
+      "sample_size": 2000,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-81",
+      "candidates": {
+        "Daniel Santos": 18.8,
+        "Hana Ghassan": 32,
+        "Mário Couto": 12.4,
+        "Araceli Lemos": 1.2
+      },
+      "parties": {
+        "Daniel Santos": "PSB",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
+      "institute": "Doxa",
+      "collection_date": "2025-12-23",
+      "sample_size": 2000,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-81",
+      "candidates": {
+        "Daniel Santos": 23.2,
+        "Hana Ghassan": 21.3,
+        "Mário Couto": 8.8,
+        "Araceli Lemos": 1.5
+      },
+      "parties": {
+        "Daniel Santos": "PSB",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
+      "institute": "Doxa",
+      "collection_date": "2025-12-23",
+      "sample_size": 2000,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-81",
+      "candidates": {
+        "Daniel Santos": 47.8,
+        "Hana Ghassan": 19.1,
+        "Mário Couto": 8.6,
+        "Araceli Lemos": 4.7
+      },
+      "parties": {
+        "Daniel Santos": "PSB",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
+      "institute": "Doxa",
+      "collection_date": "2025-12-23",
+      "sample_size": 2000,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-81",
+      "candidates": {
+        "Daniel Santos": 18.8,
+        "Hana Ghassan": 23.2,
+        "Mário Couto": 25.6,
+        "Araceli Lemos": 11.2
+      },
+      "parties": {
+        "Daniel Santos": "PSB",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
       "uf": "SC",
       "estado": "Santa Catarina",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
@@ -15928,181 +16157,6 @@
         "João Rodrigues": "PSD",
         "Décio Lima": "PT",
         "Afrânio Boppré": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
-      "institute": "Doxa",
-      "collection_date": "2025-12-23",
-      "sample_size": 2000,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-79",
-      "candidates": {
-        "Daniel Santos": 30.5,
-        "Hana Ghassan": 20.3,
-        "Mário Couto": 14.8,
-        "Araceli Lemos": 4.2
-      },
-      "parties": {
-        "Daniel Santos": "PSB",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
-      "institute": "Doxa",
-      "collection_date": "2025-12-23",
-      "sample_size": 2000,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-79",
-      "candidates": {
-        "Daniel Santos": 20.7,
-        "Hana Ghassan": 19.8,
-        "Mário Couto": 26.6,
-        "Araceli Lemos": 7.3
-      },
-      "parties": {
-        "Daniel Santos": "PSB",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
-      "institute": "Doxa",
-      "collection_date": "2025-12-23",
-      "sample_size": 2000,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-79",
-      "candidates": {
-        "Daniel Santos": 34.1,
-        "Hana Ghassan": 19.2,
-        "Mário Couto": 10.3,
-        "Araceli Lemos": 2.1
-      },
-      "parties": {
-        "Daniel Santos": "PSB",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
-      "institute": "Doxa",
-      "collection_date": "2025-12-23",
-      "sample_size": 2000,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-79",
-      "candidates": {
-        "Daniel Santos": 18.8,
-        "Hana Ghassan": 32,
-        "Mário Couto": 12.4,
-        "Araceli Lemos": 1.2
-      },
-      "parties": {
-        "Daniel Santos": "PSB",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
-      "institute": "Doxa",
-      "collection_date": "2025-12-23",
-      "sample_size": 2000,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-79",
-      "candidates": {
-        "Daniel Santos": 23.2,
-        "Hana Ghassan": 21.3,
-        "Mário Couto": 8.8,
-        "Araceli Lemos": 1.5
-      },
-      "parties": {
-        "Daniel Santos": "PSB",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
-      "institute": "Doxa",
-      "collection_date": "2025-12-23",
-      "sample_size": 2000,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-79",
-      "candidates": {
-        "Daniel Santos": 47.8,
-        "Hana Ghassan": 19.1,
-        "Mário Couto": 8.6,
-        "Araceli Lemos": 4.7
-      },
-      "parties": {
-        "Daniel Santos": "PSB",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
-      "institute": "Doxa",
-      "collection_date": "2025-12-23",
-      "sample_size": 2000,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-79",
-      "candidates": {
-        "Daniel Santos": 18.8,
-        "Hana Ghassan": 23.2,
-        "Mário Couto": 25.6,
-        "Araceli Lemos": 11.2
-      },
-      "parties": {
-        "Daniel Santos": "PSB",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
       }
     },
     {
@@ -16635,7 +16689,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-93",
+      "source_url": "#cite_note-:6-95",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -16658,7 +16712,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-93",
+      "source_url": "#cite_note-:6-95",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -16856,12 +16910,37 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-99",
+      "source_url": "#cite_note-:7-101",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
         "Mário Couto": 9.08,
         "Araceli Lemos": 4.02
+      },
+      "parties": {
+        "Daniel Santos": "PSB",
+        "Hana Ghassan": "MDB",
+        "Mário Couto": "PL",
+        "Araceli Lemos": "PSOL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
+      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
+      "institute": "Doxa (Belém)",
+      "collection_date": "2025-11-29",
+      "sample_size": 600,
+      "margin_error": 4,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-99",
+      "candidates": {
+        "Daniel Santos": 29.4,
+        "Hana Ghassan": 19.8,
+        "Mário Couto": 15.7,
+        "Araceli Lemos": 2.5
       },
       "parties": {
         "Daniel Santos": "PSB",
@@ -16912,31 +16991,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "PA",
-      "estado": "Pará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Hana Ghassan|Mário Couto",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Março",
-      "institute": "Doxa (Belém)",
-      "collection_date": "2025-11-29",
-      "sample_size": 600,
-      "margin_error": 4,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-97",
-      "candidates": {
-        "Daniel Santos": 29.4,
-        "Hana Ghassan": 19.8,
-        "Mário Couto": 15.7,
-        "Araceli Lemos": 2.5
-      },
-      "parties": {
-        "Daniel Santos": "PSB",
-        "Hana Ghassan": "MDB",
-        "Mário Couto": "PL",
-        "Araceli Lemos": "PSOL"
       }
     },
     {
@@ -17669,7 +17723,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-107",
+      "source_url": "#cite_note-109",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -17692,7 +17746,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-107",
+      "source_url": "#cite_note-109",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -18022,7 +18076,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-112",
+      "source_url": "#cite_note-114",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -18043,7 +18097,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-112",
+      "source_url": "#cite_note-114",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -18064,7 +18118,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-112",
+      "source_url": "#cite_note-114",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -18085,7 +18139,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-112",
+      "source_url": "#cite_note-114",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -18768,7 +18822,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-121",
+      "source_url": "#cite_note-123",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -18791,7 +18845,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-121",
+      "source_url": "#cite_note-123",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -18906,7 +18960,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-130",
+      "source_url": "#cite_note-:11-132",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -18990,7 +19044,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-140",
+      "source_url": "#cite_note-:13-142",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -19011,7 +19065,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-143",
+      "source_url": "#cite_note-145",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -19032,7 +19086,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-143",
+      "source_url": "#cite_note-145",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -19053,7 +19107,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-148",
+      "source_url": "#cite_note-:14-150",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -19074,7 +19128,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-151",
+      "source_url": "#cite_note-:15-153",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -19281,7 +19335,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-154",
+      "source_url": "#cite_note-:16-156",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -19566,7 +19620,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-157",
+      "source_url": "#cite_note-:17-159",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10

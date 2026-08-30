@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-29",
+  "atualizado_em": "2026-08-30",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -177,51 +177,59 @@
       "uf": "AM",
       "estado": "Amazonas",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-08-27",
+      "corte": "2026-08-28",
       "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Omar Aziz",
           "partido": "PSD",
-          "media": 28.4,
-          "ic_min": 26.9,
-          "ic_max": 30,
+          "media": 28.6,
+          "ic_min": 27.1,
+          "ic_max": 30.1,
           "pesquisas": 20
         },
         {
           "nome": "Roberto Cidade",
           "partido": "UNIÃO",
-          "media": 20.1,
-          "ic_min": 18.7,
-          "ic_max": 21.5,
+          "media": 20.4,
+          "ic_min": 19,
+          "ic_max": 21.7,
           "pesquisas": 20
         },
         {
           "nome": "Maria do Carmo",
           "partido": "PL",
-          "media": 19.5,
-          "ic_min": 17.6,
-          "ic_max": 21.5,
+          "media": 20.4,
+          "ic_min": 18.1,
+          "ic_max": 22.6,
           "pesquisas": 20
         },
         {
           "nome": "David Almeida",
           "partido": "Avante",
-          "media": 16.7,
-          "ic_min": 15.7,
-          "ic_max": 17.6,
+          "media": 16.2,
+          "ic_min": 15,
+          "ic_max": 17.3,
           "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Veritá",
+          "coleta": "2026-08-28",
+          "amostra": 1220,
+          "margem": 3,
+          "tse": "",
+          "fonte_url": "#cite_note-:16-13"
+        },
         {
           "instituto": "Eficaz",
           "coleta": "2026-08-27",
           "amostra": 1517,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-13"
+          "fonte_url": "#cite_note-15"
         },
         {
           "instituto": "Real Time Big Data",
@@ -229,7 +237,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:15-15"
+          "fonte_url": "#cite_note-:15-17"
         },
         {
           "instituto": "Genial/Quaest",
@@ -237,7 +245,7 @@
           "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:14-17"
+          "fonte_url": "#cite_note-:14-19"
         },
         {
           "instituto": "Direto ao Ponto",
@@ -245,7 +253,7 @@
           "amostra": 1200,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-19"
+          "fonte_url": "#cite_note-21"
         },
         {
           "instituto": "Projeta",
@@ -253,19 +261,11 @@
           "amostra": 3000,
           "margem": 1.9,
           "tse": "",
-          "fonte_url": "#cite_note-21"
-        },
-        {
-          "instituto": "DMP",
-          "coleta": "2026-08-14",
-          "amostra": 2000,
-          "margem": 2.2,
-          "tse": "",
-          "fonte_url": "#cite_note-:13-23"
+          "fonte_url": "#cite_note-23"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-13"
+      "fonte_url": "#cite_note-:16-13"
     },
     "BA": {
       "uf": "BA",
@@ -1150,48 +1150,48 @@
       "estado": "Pará",
       "cenario": "Governador · 1º turno",
       "corte": "2026-07-07",
-      "pesquisas_no_calculo": 8,
+      "pesquisas_no_calculo": 7,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Daniel Santos",
           "partido": "PODE",
-          "media": 33.5,
-          "ic_min": 27.9,
-          "ic_max": 39,
-          "pesquisas": 8
+          "media": 34.1,
+          "ic_min": 28.2,
+          "ic_max": 39.9,
+          "pesquisas": 7
         },
         {
           "nome": "Hana Ghassan",
           "partido": "MDB",
-          "media": 27.6,
-          "ic_min": 25.2,
-          "ic_max": 30.1,
-          "pesquisas": 8
+          "media": 28.1,
+          "ic_min": 25.9,
+          "ic_max": 30.3,
+          "pesquisas": 7
         },
         {
           "nome": "Mário Couto",
           "partido": "DC",
-          "media": 7.8,
-          "ic_min": 5.1,
-          "ic_max": 10.5,
-          "pesquisas": 8
+          "media": 7.7,
+          "ic_min": 4.8,
+          "ic_max": 10.6,
+          "pesquisas": 7
         },
         {
           "nome": "Araceli Lemos",
           "partido": "PSOL",
-          "media": 2.8,
+          "media": 2.9,
           "ic_min": 2.1,
-          "ic_max": 3.6,
-          "pesquisas": 8
+          "ic_max": 3.7,
+          "pesquisas": 7
         },
         {
           "nome": "Cleber Rabelo",
           "partido": "PSTU",
           "media": 2.8,
-          "ic_min": 1.9,
-          "ic_max": 3.8,
-          "pesquisas": 8
+          "ic_min": 1.8,
+          "ic_max": 3.9,
+          "pesquisas": 7
         }
       ],
       "ultimas_pesquisas": [
@@ -1201,7 +1201,7 @@
           "amostra": 1400,
           "margem": 2.6,
           "tse": "",
-          "fonte_url": "#cite_note-:27-28"
+          "fonte_url": "#cite_note-:27-30"
         },
         {
           "instituto": "Simetria",
@@ -1209,7 +1209,7 @@
           "amostra": 1200,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:26-31"
+          "fonte_url": "#cite_note-:26-33"
         },
         {
           "instituto": "Veritá",
@@ -1217,7 +1217,7 @@
           "amostra": 1525,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-Veritá3-40"
+          "fonte_url": "#cite_note-Veritá3-42"
         },
         {
           "instituto": "Ampla",
@@ -1225,7 +1225,7 @@
           "amostra": 1500,
           "margem": 2.6,
           "tse": "",
-          "fonte_url": "#cite_note-:24-42"
+          "fonte_url": "#cite_note-:24-44"
         },
         {
           "instituto": "Doxa",
@@ -1233,7 +1233,7 @@
           "amostra": 2000,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-43"
+          "fonte_url": "#cite_note-45"
         },
         {
           "instituto": "Simetria",
@@ -1241,11 +1241,11 @@
           "amostra": 1200,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:23-47"
+          "fonte_url": "#cite_note-:23-49"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:27-28"
+      "fonte_url": "#cite_note-:27-30"
     },
     "PB": {
       "uf": "PB",
