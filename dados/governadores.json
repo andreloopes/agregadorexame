@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-30",
+  "atualizado_em": "2026-08-31",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -99,35 +99,43 @@
       "uf": "AL",
       "estado": "Alagoas",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-08-24",
+      "corte": "2026-08-29",
       "pesquisas_no_calculo": 13,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "JHC",
           "partido": "PSDB",
-          "media": 46,
-          "ic_min": 42.7,
-          "ic_max": 49.2,
+          "media": 45.9,
+          "ic_min": 43.2,
+          "ic_max": 48.6,
           "pesquisas": 13
         },
         {
           "nome": "Renan Filho",
           "partido": "MDB",
-          "media": 40.6,
-          "ic_min": 38.2,
+          "media": 40.8,
+          "ic_min": 38.7,
           "ic_max": 43,
           "pesquisas": 13
         }
       ],
       "ultimas_pesquisas": [
         {
+          "instituto": "Paraná Pesquisas",
+          "coleta": "2026-08-29",
+          "amostra": 1400,
+          "margem": 2.7,
+          "tse": "",
+          "fonte_url": "#cite_note-:11-12"
+        },
+        {
           "instituto": "Ranking",
           "coleta": "2026-08-24",
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-12"
+          "fonte_url": "#cite_note-14"
         },
         {
           "instituto": "TDL",
@@ -135,15 +143,15 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-14"
+          "fonte_url": "#cite_note-16"
         },
         {
-          "instituto": "Genial/Quaest",
+          "instituto": "Quaest",
           "coleta": "2026-08-23",
           "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:10-16"
+          "fonte_url": "#cite_note-:10-18"
         },
         {
           "instituto": "Falpe",
@@ -151,7 +159,7 @@
           "amostra": 5000,
           "margem": 1.38,
           "tse": "",
-          "fonte_url": "#cite_note-:8-18"
+          "fonte_url": "#cite_note-:8-20"
         },
         {
           "instituto": "Ranking",
@@ -159,19 +167,11 @@
           "amostra": 1201,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-:7-20"
-        },
-        {
-          "instituto": "Vox Brasil",
-          "coleta": "2026-07-08",
-          "amostra": 1200,
-          "margem": 2.83,
-          "tse": "",
-          "fonte_url": "#cite_note-22"
+          "fonte_url": "#cite_note-:7-22"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-12"
+      "fonte_url": "#cite_note-:11-12"
     },
     "AM": {
       "uf": "AM",
@@ -459,67 +459,75 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-08-24",
-      "pesquisas_no_calculo": 5,
+      "corte": "2026-08-29",
+      "pesquisas_no_calculo": 6,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Celina Leão",
           "partido": "PP",
-          "media": 32.9,
-          "ic_min": 31.7,
-          "ic_max": 34.2,
-          "pesquisas": 5
+          "media": 33.5,
+          "ic_min": 32.2,
+          "ic_max": 34.8,
+          "pesquisas": 6
         },
         {
           "nome": "Arruda",
           "partido": "PSD",
-          "media": 23.8,
-          "ic_min": 21.7,
-          "ic_max": 26,
-          "pesquisas": 5
+          "media": 24,
+          "ic_min": 22.3,
+          "ic_max": 25.7,
+          "pesquisas": 6
         },
         {
           "nome": "Leandro Grass",
           "partido": "PT",
           "media": 10.7,
-          "ic_min": 9.6,
-          "ic_max": 11.8,
-          "pesquisas": 5
+          "ic_min": 9.8,
+          "ic_max": 11.6,
+          "pesquisas": 6
         },
         {
           "nome": "Paula Belmonte",
           "partido": "PSDB",
-          "media": 3.8,
-          "ic_min": 3.4,
-          "ic_max": 4.2,
-          "pesquisas": 5
+          "media": 4.1,
+          "ic_min": 3.6,
+          "ic_max": 4.5,
+          "pesquisas": 6
         },
         {
           "nome": "Ricardo Cappelli",
           "partido": "PSB",
           "media": 3.5,
-          "ic_min": 3.1,
-          "ic_max": 3.8,
-          "pesquisas": 5
+          "ic_min": 3.2,
+          "ic_max": 3.9,
+          "pesquisas": 6
         },
         {
           "nome": "Kiko Caputo",
           "partido": "NOVO",
           "media": 2.2,
-          "ic_min": 1.6,
+          "ic_min": 1.8,
           "ic_max": 2.7,
-          "pesquisas": 5
+          "pesquisas": 6
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "IGAPE",
+          "coleta": "2026-08-29",
+          "amostra": 2000,
+          "margem": 2.2,
+          "tse": "",
+          "fonte_url": "#cite_note-11"
+        },
         {
           "instituto": "Genial/Quaest",
           "coleta": "2026-08-24",
           "amostra": 1104,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:5-11"
+          "fonte_url": "#cite_note-:5-13"
         },
         {
           "instituto": "IGAPE",
@@ -527,7 +535,7 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-13"
+          "fonte_url": "#cite_note-15"
         },
         {
           "instituto": "Datafolha",
@@ -543,7 +551,7 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-:3-19"
+          "fonte_url": "#cite_note-:3-21"
         },
         {
           "instituto": "Correio/Opinião",
@@ -551,11 +559,11 @@
           "amostra": 1109,
           "margem": 3.3,
           "tse": "",
-          "fonte_url": "#cite_note-:2-21"
+          "fonte_url": "#cite_note-:2-23"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:5-11"
+      "fonte_url": "#cite_note-11"
     },
     "ES": {
       "uf": "ES",
@@ -648,40 +656,40 @@
       "estado": "Goiás",
       "cenario": "Governador · 1º turno",
       "corte": "2026-08-27",
-      "pesquisas_no_calculo": 16,
+      "pesquisas_no_calculo": 17,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Daniel Vilela",
           "partido": "MDB",
-          "media": 38,
-          "ic_min": 34.9,
-          "ic_max": 41.2,
-          "pesquisas": 16
+          "media": 38.6,
+          "ic_min": 35.5,
+          "ic_max": 41.6,
+          "pesquisas": 17
         },
         {
           "nome": "Marconi Perillo",
           "partido": "PSDB",
           "media": 24.2,
-          "ic_min": 21.1,
-          "ic_max": 27.3,
-          "pesquisas": 16
+          "ic_min": 21.3,
+          "ic_max": 27.1,
+          "pesquisas": 17
         },
         {
           "nome": "Wilder Morais",
           "partido": "PL",
-          "media": 15.6,
+          "media": 15.4,
           "ic_min": 13.4,
-          "ic_max": 17.9,
-          "pesquisas": 16
+          "ic_max": 17.5,
+          "pesquisas": 17
         },
         {
           "nome": "Luis Cesar Bueno",
           "partido": "PT",
-          "media": 5,
-          "ic_min": 3.7,
-          "ic_max": 6.2,
-          "pesquisas": 16
+          "media": 4.7,
+          "ic_min": 3.5,
+          "ic_max": 6,
+          "pesquisas": 17
         }
       ],
       "ultimas_pesquisas": [
@@ -710,6 +718,14 @@
           "fonte_url": "#cite_note-11"
         },
         {
+          "instituto": "Brasmarket/Jovem Pan News",
+          "coleta": "2026-08-21",
+          "amostra": 1200,
+          "margem": 2.8,
+          "tse": "",
+          "fonte_url": "#cite_note-:16-L-14"
+        },
+        {
           "instituto": "Paraná Pesquisas",
           "coleta": "2026-08-17",
           "amostra": 1240,
@@ -723,15 +739,7 @@
           "amostra": 3200,
           "margem": 1.7,
           "tse": "",
-          "fonte_url": "#cite_note-:16-D-16"
-        },
-        {
-          "instituto": "Goiás Pesquisas/Mais Goiás",
-          "coleta": "2026-08-12",
-          "amostra": 1150,
-          "margem": 2.89,
-          "tse": "",
-          "fonte_url": "#cite_note-17"
+          "fonte_url": "#cite_note-:16-D-18"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
@@ -937,59 +945,67 @@
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-08-24",
-      "pesquisas_no_calculo": 7,
+      "corte": "2026-08-27",
+      "pesquisas_no_calculo": 8,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Eduardo Riedel",
           "partido": "PP",
-          "media": 44.7,
-          "ic_min": 42.7,
-          "ic_max": 46.6,
-          "pesquisas": 7
+          "media": 45.3,
+          "ic_min": 43.6,
+          "ic_max": 47,
+          "pesquisas": 8
         },
         {
           "nome": "Fábio Trad",
           "partido": "PT",
-          "media": 18.9,
-          "ic_min": 16.1,
-          "ic_max": 21.8,
-          "pesquisas": 7
-        },
-        {
-          "nome": "João Henrique Catan",
-          "partido": "NOVO",
-          "media": 7.2,
-          "ic_min": 5.3,
-          "ic_max": 9,
-          "pesquisas": 7
+          "media": 19.2,
+          "ic_min": 17,
+          "ic_max": 21.5,
+          "pesquisas": 8
         },
         {
           "nome": "Delcídio do Amaral",
           "partido": "PRD",
-          "media": 6.7,
-          "ic_min": 5.1,
-          "ic_max": 8.3,
-          "pesquisas": 7
+          "media": 7.3,
+          "ic_min": 5.8,
+          "ic_max": 8.8,
+          "pesquisas": 8
+        },
+        {
+          "nome": "João Henrique Catan",
+          "partido": "NOVO",
+          "media": 6.6,
+          "ic_min": 5,
+          "ic_max": 8.2,
+          "pesquisas": 8
         },
         {
           "nome": "Economista Renato Gomes",
           "partido": "DC",
-          "media": 2.6,
-          "ic_min": 1.9,
+          "media": 2.7,
+          "ic_min": 2.1,
           "ic_max": 3.3,
-          "pesquisas": 7
+          "pesquisas": 8
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Instituto Ranking Brasil",
+          "coleta": "2026-08-27",
+          "amostra": 2000,
+          "margem": 2.2,
+          "tse": "",
+          "fonte_url": "#cite_note-8"
+        },
         {
           "instituto": "Genial/Quaest",
           "coleta": "2026-08-24",
           "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:6-8"
+          "fonte_url": "#cite_note-:6-10"
         },
         {
           "instituto": "Instituto Ranking Brasil",
@@ -997,7 +1013,7 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-10"
+          "fonte_url": "#cite_note-12"
         },
         {
           "instituto": "Instituto Ranking Brasil",
@@ -1005,7 +1021,7 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-16"
+          "fonte_url": "#cite_note-18"
         },
         {
           "instituto": "Instituto Ranking Brasil",
@@ -1013,7 +1029,7 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-18"
+          "fonte_url": "#cite_note-20"
         },
         {
           "instituto": "Ipems/JD1",
@@ -1021,19 +1037,11 @@
           "amostra": 950,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-22"
-        },
-        {
-          "instituto": "Instituto Ranking Brasil",
-          "coleta": "2026-06-05",
-          "amostra": 2000,
-          "margem": 2.2,
-          "tse": "",
           "fonte_url": "#cite_note-24"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:6-8"
+      "fonte_url": "#cite_note-8"
     },
     "MG": {
       "uf": "MG",
@@ -2208,40 +2216,40 @@
       "estado": "Sergipe",
       "cenario": "Governador · 1º turno",
       "corte": "2026-08-26",
-      "pesquisas_no_calculo": 19,
+      "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Fábio Mitidieri",
           "partido": "PSD",
           "media": 40.1,
-          "ic_min": 37.8,
-          "ic_max": 42.5,
-          "pesquisas": 19
+          "ic_min": 37.9,
+          "ic_max": 42.3,
+          "pesquisas": 20
         },
         {
           "nome": "Valmir de Francisquinho",
           "partido": "Republicanos",
-          "media": 33.1,
-          "ic_min": 29.4,
-          "ic_max": 36.8,
-          "pesquisas": 19
+          "media": 32.7,
+          "ic_min": 29.2,
+          "ic_max": 36.2,
+          "pesquisas": 20
         },
         {
           "nome": "Ricardo Marques",
           "partido": "PL",
-          "media": 6.3,
-          "ic_min": 5.2,
-          "ic_max": 7.4,
-          "pesquisas": 19
+          "media": 6.1,
+          "ic_min": 5.1,
+          "ic_max": 7.2,
+          "pesquisas": 20
         },
         {
           "nome": "Emanuel Cacho",
           "partido": "PSDB",
-          "media": 0.8,
+          "media": 0.9,
           "ic_min": 0.6,
           "ic_max": 1.1,
-          "pesquisas": 19
+          "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
@@ -2254,12 +2262,20 @@
           "fonte_url": "#cite_note-:7-10"
         },
         {
+          "instituto": "IFP",
+          "coleta": "2026-08-21",
+          "amostra": 1314,
+          "margem": 2.7,
+          "tse": "",
+          "fonte_url": "#cite_note-:7-S-12"
+        },
+        {
           "instituto": "CTAS",
           "coleta": "2026-08-21",
           "amostra": 1224,
           "margem": 2.7,
           "tse": "",
-          "fonte_url": "#cite_note-12"
+          "fonte_url": "#cite_note-14"
         },
         {
           "instituto": "Veritá",
@@ -2267,7 +2283,7 @@
           "amostra": 1220,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:6-14"
+          "fonte_url": "#cite_note-:6-16"
         },
         {
           "instituto": "INOR",
@@ -2275,21 +2291,13 @@
           "amostra": 1070,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-17"
+          "fonte_url": "#cite_note-19"
         },
         {
           "instituto": "IFP",
           "coleta": "2026-08-12",
           "amostra": 2400,
           "margem": 2,
-          "tse": "",
-          "fonte_url": "#cite_note-19"
-        },
-        {
-          "instituto": "ECM Sergipe",
-          "coleta": "2026-08-12",
-          "amostra": 1500,
-          "margem": 2.53,
           "tse": "",
           "fonte_url": "#cite_note-21"
         }

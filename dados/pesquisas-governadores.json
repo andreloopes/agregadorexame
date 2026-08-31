@@ -1,6 +1,56 @@
 {
-  "atualizado_em": "2026-08-30",
+  "atualizado_em": "2026-08-31",
   "pesquisas": [
+    {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-08-29",
+      "sample_size": 1400,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-12",
+      "candidates": {
+        "JHC": 47.2,
+        "Renan Filho": 41.3
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "IGAPE",
+      "collection_date": "2026-08-29",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-11",
+      "candidates": {
+        "Celina Leão": 35.4,
+        "Arruda": 24.5,
+        "Leandro Grass": 10.7,
+        "Ricardo Cappelli": 3.8,
+        "Paula Belmonte": 4.8,
+        "Kiko Caputo": 2.5
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
     {
       "uf": "AM",
       "estado": "Amazonas",
@@ -103,6 +153,33 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Instituto Ranking Brasil",
+      "collection_date": "2026-08-27",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-8",
+      "candidates": {
+        "Eduardo Riedel": 47,
+        "Fábio Trad": 20,
+        "João Henrique Catan": 5,
+        "Delcídio do Amaral": 9,
+        "Economista Renato Gomes": 3
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Delcídio do Amaral": "PRD",
+        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -660,6 +737,56 @@
       }
     },
     {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Ranking",
+      "collection_date": "2026-08-24",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-14",
+      "candidates": {
+        "JHC": 46.41,
+        "Renan Filho": 33.88
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-08-24",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-13",
+      "candidates": {
+        "Celina Leão": 34,
+        "Arruda": 20,
+        "Leandro Grass": 13,
+        "Ricardo Cappelli": 3,
+        "Paula Belmonte": 3,
+        "Kiko Caputo": 2
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -707,6 +834,33 @@
         "Roberto Cidade": "UNIÃO",
         "Maria do Carmo": "PL",
         "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-08-24",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-10",
+      "candidates": {
+        "Eduardo Riedel": 40,
+        "Fábio Trad": 13,
+        "João Henrique Catan": 3,
+        "Delcídio do Amaral": 8,
+        "Economista Renato Gomes": 1
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Delcídio do Amaral": "PRD",
+        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -781,56 +935,6 @@
       }
     },
     {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Ranking",
-      "collection_date": "2026-08-24",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-12",
-      "candidates": {
-        "JHC": 46.41,
-        "Renan Filho": 33.88
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-08-24",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-11",
-      "candidates": {
-        "Celina Leão": 34,
-        "Arruda": 20,
-        "Leandro Grass": 13,
-        "Ricardo Cappelli": 3,
-        "Paula Belmonte": 3,
-        "Kiko Caputo": 2
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
-      }
-    },
-    {
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
@@ -855,33 +959,6 @@
         "Doutora Natasha": "PSD",
         "Sargento Laudicério": "Agir",
         "Rafaell Milas": "MISSÃO"
-      }
-    },
-    {
-      "uf": "MS",
-      "estado": "Mato Grosso do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-08-24",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-8",
-      "candidates": {
-        "Eduardo Riedel": 40,
-        "Fábio Trad": 13,
-        "João Henrique Catan": 3,
-        "Delcídio do Amaral": 8,
-        "Economista Renato Gomes": 1
-      },
-      "parties": {
-        "Eduardo Riedel": "PP",
-        "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD",
-        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -1061,6 +1138,48 @@
       }
     },
     {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "TDL",
+      "collection_date": "2026-08-23",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-16",
+      "candidates": {
+        "JHC": 55,
+        "Renan Filho": 42.6
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-08-23",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:10-18",
+      "candidates": {
+        "JHC": 40,
+        "Renan Filho": 42
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -1229,48 +1348,6 @@
       }
     },
     {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "TDL",
-      "collection_date": "2026-08-23",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-14",
-      "candidates": {
-        "JHC": 55,
-        "Renan Filho": 42.6
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
-      }
-    },
-    {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-08-23",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:10-16",
-      "candidates": {
-        "JHC": 40,
-        "Renan Filho": 42
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
-      }
-    },
-    {
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
@@ -1355,6 +1432,35 @@
         "Juliana Brizola": "PDT",
         "Gabriel Souza": "MDB",
         "Marcelo Maranata": "PSDB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "IGAPE",
+      "collection_date": "2026-08-22",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-15",
+      "candidates": {
+        "Celina Leão": 33.9,
+        "Arruda": 24.1,
+        "Leandro Grass": 10.3,
+        "Ricardo Cappelli": 3.7,
+        "Paula Belmonte": 4.1,
+        "Kiko Caputo": 2.5
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
       }
     },
     {
@@ -1456,35 +1562,6 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "IGAPE",
-      "collection_date": "2026-08-22",
-      "sample_size": 2000,
-      "margin_error": 2.2,
-      "tse_registration": "",
-      "source_url": "#cite_note-13",
-      "candidates": {
-        "Celina Leão": 33.9,
-        "Arruda": 24.1,
-        "Leandro Grass": 10.3,
-        "Ricardo Cappelli": 3.7,
-        "Paula Belmonte": 4.1,
-        "Kiko Caputo": 2.5
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
-      }
-    },
-    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -1503,6 +1580,35 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Datafolha",
+      "collection_date": "2026-08-21",
+      "sample_size": 910,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Celina Leão": 30,
+        "Arruda": 28,
+        "Leandro Grass": 11,
+        "Ricardo Cappelli": 3,
+        "Paula Belmonte": 4,
+        "Kiko Caputo": 2
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
       }
     },
     {
@@ -1528,6 +1634,31 @@
         "Roberto Cidade": "UNIÃO",
         "Maria do Carmo": "PL",
         "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Outubro",
+      "institute": "Brasmarket/Jovem Pan News",
+      "collection_date": "2026-08-21",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:16-L-14",
+      "candidates": {
+        "Daniel Vilela": 44.2,
+        "Marconi Perillo": 23.8,
+        "Wilder Morais": 13.5,
+        "Luis Cesar Bueno": 2
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -1582,12 +1713,37 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
+      "institute": "IFP",
+      "collection_date": "2026-08-21",
+      "sample_size": 1314,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-S-12",
+      "candidates": {
+        "Fábio Mitidieri": 39.69,
+        "Valmir de Francisquinho": 28.43,
+        "Ricardo Marques": 4.46,
+        "Emanuel Cacho": 1.47
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
       "institute": "CTAS",
       "collection_date": "2026-08-21",
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Fábio Mitidieri": 44.4,
         "Valmir de Francisquinho": 25.5,
@@ -1599,35 +1755,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Datafolha",
-      "collection_date": "2026-08-21",
-      "sample_size": 910,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Celina Leão": 30,
-        "Arruda": 28,
-        "Leandro Grass": 11,
-        "Ricardo Cappelli": 3,
-        "Paula Belmonte": 4,
-        "Kiko Caputo": 2
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
       }
     },
     {
@@ -1955,29 +2082,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "DataCapital",
-      "collection_date": "2026-08-18",
-      "sample_size": 2100,
-      "margin_error": 2.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-17",
-      "candidates": {
-        "Allyson": 41.8,
-        "Álvaro Dias": 26.3,
-        "Cadu de Lula": 20.3
-      },
-      "parties": {
-        "Allyson": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT"
-      }
-    },
-    {
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
@@ -1988,7 +2092,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-17",
+      "source_url": "#cite_note-:4-19",
       "candidates": {
         "Celina Leão": 34,
         "Arruda": 32,
@@ -2015,7 +2119,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-17",
+      "source_url": "#cite_note-:4-19",
       "candidates": {
         "Celina Leão": 45,
         "Leandro Grass": 20,
@@ -2027,6 +2131,29 @@
         "Leandro Grass": "PT",
         "Ricardo Cappelli": "PSB",
         "Paula Belmonte": "PSDB"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataCapital",
+      "collection_date": "2026-08-18",
+      "sample_size": 2100,
+      "margin_error": 2.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-17",
+      "candidates": {
+        "Allyson": 41.8,
+        "Álvaro Dias": 26.3,
+        "Cadu de Lula": 20.3
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT"
       }
     },
     {
@@ -2175,7 +2302,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-14",
+      "source_url": "#cite_note-:6-16",
       "candidates": {
         "Fábio Mitidieri": 51,
         "Valmir de Francisquinho": 33.7,
@@ -2266,7 +2393,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Fábio Mitidieri": 31.59,
         "Valmir de Francisquinho": 46.73,
@@ -2278,6 +2405,35 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "IGAPE",
+      "collection_date": "2026-08-15",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-21",
+      "candidates": {
+        "Celina Leão": 33.4,
+        "Arruda": 23.7,
+        "Leandro Grass": 9.4,
+        "Ricardo Cappelli": 3.5,
+        "Paula Belmonte": 4.3,
+        "Kiko Caputo": 2.8
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
       }
     },
     {
@@ -2320,7 +2476,7 @@
       "sample_size": 3200,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-D-16",
+      "source_url": "#cite_note-:16-D-18",
       "candidates": {
         "Daniel Vilela": 27.75,
         "Marconi Perillo": 36.78,
@@ -2378,35 +2534,6 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "IGAPE",
-      "collection_date": "2026-08-15",
-      "sample_size": 2000,
-      "margin_error": 2.2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-19",
-      "candidates": {
-        "Celina Leão": 33.4,
-        "Arruda": 23.7,
-        "Leandro Grass": 9.4,
-        "Ricardo Cappelli": 3.5,
-        "Paula Belmonte": 4.3,
-        "Kiko Caputo": 2.8
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
       }
     },
     {
@@ -2522,7 +2649,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Daniel Vilela": 37.2,
         "Marconi Perillo": 18.8,
@@ -2534,6 +2661,33 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Instituto Ranking Brasil",
+      "collection_date": "2026-08-12",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-12",
+      "candidates": {
+        "Eduardo Riedel": 46.4,
+        "Fábio Trad": 21.7,
+        "João Henrique Catan": 7.4,
+        "Delcídio do Amaral": 7.6,
+        "Economista Renato Gomes": 3.4
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Delcídio do Amaral": "PRD",
+        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -2609,7 +2763,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Fábio Mitidieri": 38.94,
         "Valmir de Francisquinho": 28.76,
@@ -2634,7 +2788,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Fábio Mitidieri": 37,
         "Valmir de Francisquinho": 23.8,
@@ -2646,33 +2800,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "MS",
-      "estado": "Mato Grosso do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Instituto Ranking Brasil",
-      "collection_date": "2026-08-12",
-      "sample_size": 2000,
-      "margin_error": 2.2,
-      "tse_registration": "",
-      "source_url": "#cite_note-10",
-      "candidates": {
-        "Eduardo Riedel": 46.4,
-        "Fábio Trad": 21.7,
-        "João Henrique Catan": 7.4,
-        "Delcídio do Amaral": 7.6,
-        "Economista Renato Gomes": 3.4
-      },
-      "parties": {
-        "Eduardo Riedel": "PP",
-        "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD",
-        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -3125,6 +3252,31 @@
       }
     },
     {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-05",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-14",
+      "candidates": {
+        "Eduardo Riedel": 44,
+        "Fábio Trad": 25,
+        "João Henrique Catan": 12,
+        "Economista Renato Gomes": 3
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Economista Renato Gomes": "DC"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -3149,31 +3301,6 @@
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "MS",
-      "estado": "Mato Grosso do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "cenario": "Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-05",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-12",
-      "candidates": {
-        "Eduardo Riedel": 44,
-        "Fábio Trad": 25,
-        "João Henrique Catan": 12,
-        "Economista Renato Gomes": 3
-      },
-      "parties": {
-        "Eduardo Riedel": "PP",
-        "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -3343,7 +3470,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-23",
+      "source_url": "#cite_note-:5-25",
       "candidates": {
         "Fábio Mitidieri": 43,
         "Valmir de Francisquinho": 40,
@@ -3368,7 +3495,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Daniel Vilela": 45.8,
         "Marconi Perillo": 24.5,
@@ -3403,6 +3530,35 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Correio/Opinião",
+      "collection_date": "2026-07-30",
+      "sample_size": 1109,
+      "margin_error": 3.3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:2-23",
+      "candidates": {
+        "Celina Leão": 32.4,
+        "Arruda": 24,
+        "Leandro Grass": 9.8,
+        "Ricardo Cappelli": 4.3,
+        "Paula Belmonte": 3.5,
+        "Kiko Caputo": 0.8
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Ricardo Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
       }
     },
     {
@@ -3452,35 +3608,6 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Correio/Opinião",
-      "collection_date": "2026-07-30",
-      "sample_size": 1109,
-      "margin_error": 3.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-21",
-      "candidates": {
-        "Celina Leão": 32.4,
-        "Arruda": 24,
-        "Leandro Grass": 9.8,
-        "Ricardo Cappelli": 4.3,
-        "Paula Belmonte": 3.5,
-        "Kiko Caputo": 0.8
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
-      }
-    },
-    {
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
@@ -3507,6 +3634,31 @@
         "Wilson Witzel": "Democrata",
         "William Siri": "PSOL",
         "Anthony Garotinho": "Republicanos"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Campo Grande News/Novo Ibrape",
+      "collection_date": "2026-07-29",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-16",
+      "candidates": {
+        "Eduardo Riedel": 46.1,
+        "Fábio Trad": 18.2,
+        "João Henrique Catan": 4.2,
+        "Economista Renato Gomes": 2.9
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -3543,7 +3695,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Fábio Mitidieri": 37.94,
         "Valmir de Francisquinho": 46.07,
@@ -3632,31 +3784,6 @@
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT"
-      }
-    },
-    {
-      "uf": "MS",
-      "estado": "Mato Grosso do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "cenario": "Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Campo Grande News/Novo Ibrape",
-      "collection_date": "2026-07-29",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-14",
-      "candidates": {
-        "Eduardo Riedel": 46.1,
-        "Fábio Trad": 18.2,
-        "João Henrique Catan": 4.2,
-        "Economista Renato Gomes": 2.9
-      },
-      "parties": {
-        "Eduardo Riedel": "PP",
-        "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -3885,12 +4012,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Junho – Outubro",
-      "institute": "Genial/Quaest",
+      "institute": "Quaest",
       "collection_date": "2026-07-28",
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-21",
+      "source_url": "#cite_note-:14-23",
       "candidates": {
         "Daniel Vilela": 37,
         "Marconi Perillo": 21,
@@ -4599,7 +4726,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Fábio Mitidieri": 45.4,
         "Valmir de Francisquinho": 32.2,
@@ -4672,7 +4799,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Eduardo Riedel": 46.2,
         "Fábio Trad": 21.6,
@@ -4924,6 +5051,27 @@
       }
     },
     {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Falpe",
+      "collection_date": "2026-07-20",
+      "sample_size": 5000,
+      "margin_error": 1.38,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-20",
+      "candidates": {
+        "JHC": 40,
+        "Renan Filho": 40
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -4944,27 +5092,6 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Falpe",
-      "collection_date": "2026-07-20",
-      "sample_size": 5000,
-      "margin_error": 1.38,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-18",
-      "candidates": {
-        "JHC": 40,
-        "Renan Filho": 40
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
       }
     },
     {
@@ -5003,7 +5130,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Fábio Mitidieri": 46.2,
         "Valmir de Francisquinho": 34,
@@ -5265,7 +5392,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Fábio Mitidieri": 39.33,
         "Valmir de Francisquinho": 27.8,
@@ -5449,6 +5576,27 @@
       }
     },
     {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Ranking",
+      "collection_date": "2026-07-11",
+      "sample_size": 1201,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-22",
+      "candidates": {
+        "JHC": 47,
+        "Renan Filho": 38
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -5498,27 +5646,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Ranking",
-      "collection_date": "2026-07-11",
-      "sample_size": 1201,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-20",
-      "candidates": {
-        "JHC": 47,
-        "Renan Filho": 38
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
       }
     },
     {
@@ -5720,6 +5847,27 @@
       }
     },
     {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Vox Brasil",
+      "collection_date": "2026-07-08",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-24",
+      "candidates": {
+        "JHC": 43.5,
+        "Renan Filho": 49.3
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -5730,7 +5878,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-25",
+      "source_url": "#cite_note-:12-27",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 26,
@@ -5755,7 +5903,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-25",
+      "source_url": "#cite_note-:12-27",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 24,
@@ -5809,7 +5957,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 38.69,
@@ -5821,27 +5969,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Vox Brasil",
-      "collection_date": "2026-07-08",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-22",
-      "candidates": {
-        "JHC": 43.5,
-        "Renan Filho": 49.3
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
       }
     },
     {
@@ -6215,7 +6342,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Eduardo Riedel": 46.4,
         "Fábio Trad": 20.8,
@@ -6292,7 +6419,7 @@
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-33",
+      "source_url": "#cite_note-:4-35",
       "candidates": {
         "Fábio Mitidieri": 40.67,
         "Valmir de Francisquinho": 29.22,
@@ -6348,7 +6475,7 @@
       "sample_size": 1400,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "JHC": 45.9,
         "Renan Filho": 41
@@ -6419,6 +6546,27 @@
       }
     },
     {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-06-30",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-26",
+      "candidates": {
+        "JHC": 46,
+        "Renan Filho": 46
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -6429,7 +6577,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-28",
+      "source_url": "#cite_note-:10-30",
       "candidates": {
         "Daniel Vilela": 31,
         "Marconi Perillo": 33,
@@ -6502,7 +6650,7 @@
       "sample_size": 1200,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Fábio Mitidieri": 33.1,
         "Valmir de Francisquinho": 39.25,
@@ -6514,27 +6662,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-06-30",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-24",
-      "candidates": {
-        "JHC": 46,
-        "Renan Filho": 46
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
       }
     },
     {
@@ -6846,6 +6973,27 @@
       }
     },
     {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "TDL",
+      "collection_date": "2026-06-22",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-28",
+      "candidates": {
+        "JHC": 52,
+        "Renan Filho": 37
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -6918,27 +7066,6 @@
         "Jorginho Mello": "PL",
         "João Rodrigues": "PSD",
         "Gelson Merisio": "PSB"
-      }
-    },
-    {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "TDL",
-      "collection_date": "2026-06-22",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-26",
-      "candidates": {
-        "JHC": 52,
-        "Renan Filho": 37
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
       }
     },
     {
@@ -7027,7 +7154,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Fábio Mitidieri": 41.2,
         "Valmir de Francisquinho": 26.7,
@@ -7075,7 +7202,7 @@
       "sample_size": 1100,
       "margin_error": 4.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-29",
+      "source_url": "#cite_note-:9-31",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 22.7,
@@ -7146,7 +7273,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Fábio Mitidieri": 34.95,
         "Valmir de Francisquinho": 41.5,
@@ -7464,7 +7591,7 @@
       "sample_size": 3600,
       "margin_error": 1.63,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-30",
+      "source_url": "#cite_note-:8-32",
       "candidates": {
         "Daniel Vilela": 28.5,
         "Marconi Perillo": 33.8,
@@ -7476,6 +7603,31 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "IPR",
+      "collection_date": "2026-06-13",
+      "sample_size": 950,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-22",
+      "candidates": {
+        "Eduardo Riedel": 46.6,
+        "Fábio Trad": 17.5,
+        "João Henrique Catan": 6.9,
+        "Economista Renato Gomes": 4.3
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -7593,7 +7745,7 @@
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-42",
       "candidates": {
         "Fábio Mitidieri": 38.7,
         "Valmir de Francisquinho": 42.8,
@@ -7605,31 +7757,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "MS",
-      "estado": "Mato Grosso do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "cenario": "Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "IPR",
-      "collection_date": "2026-06-13",
-      "sample_size": 950,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-20",
-      "candidates": {
-        "Eduardo Riedel": 46.6,
-        "Fábio Trad": 17.5,
-        "João Henrique Catan": 6.9,
-        "Economista Renato Gomes": 4.3
-      },
-      "parties": {
-        "Eduardo Riedel": "PP",
-        "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -7656,6 +7783,27 @@
       }
     },
     {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Vox Brasil",
+      "collection_date": "2026-06-11",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-27",
+      "candidates": {
+        "JHC": 45.1,
+        "Renan Filho": 48.6
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
       "uf": "SC",
       "estado": "Santa Catarina",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
@@ -7676,27 +7824,6 @@
         "Jorginho Mello": "PL",
         "João Rodrigues": "PSD",
         "Gelson Merisio": "PSB"
-      }
-    },
-    {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Vox Brasil",
-      "collection_date": "2026-06-11",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-25",
-      "candidates": {
-        "JHC": 45.1,
-        "Renan Filho": 48.6
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
       }
     },
     {
@@ -7722,6 +7849,33 @@
         "Maria do Carmo": "PL",
         "David Almeida": "Avante",
         "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Ipems/JD1",
+      "collection_date": "2026-06-10",
+      "sample_size": 950,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-24",
+      "candidates": {
+        "Eduardo Riedel": 45.24,
+        "Fábio Trad": 12.53,
+        "João Henrique Catan": 8.52,
+        "Delcídio do Amaral": 12.3,
+        "Economista Renato Gomes": 1.74
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Delcídio do Amaral": "PRD",
+        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -7770,33 +7924,6 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "MS",
-      "estado": "Mato Grosso do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Ipems/JD1",
-      "collection_date": "2026-06-10",
-      "sample_size": 950,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-22",
-      "candidates": {
-        "Eduardo Riedel": 45.24,
-        "Fábio Trad": 12.53,
-        "João Henrique Catan": 8.52,
-        "Delcídio do Amaral": 12.3,
-        "Economista Renato Gomes": 1.74
-      },
-      "parties": {
-        "Eduardo Riedel": "PP",
-        "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD",
-        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -7983,7 +8110,7 @@
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Fábio Mitidieri": 40.8,
         "Valmir de Francisquinho": 30.3,
@@ -8062,7 +8189,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Eduardo Riedel": 46,
         "Fábio Trad": 20.4,
@@ -8245,7 +8372,7 @@
       "sample_size": 1507,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-32",
+      "source_url": "#cite_note-:7-34",
       "candidates": {
         "Daniel Vilela": 27.8,
         "Marconi Perillo": 17.5,
@@ -8293,7 +8420,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-44",
+      "source_url": "#cite_note-:2-46",
       "candidates": {
         "Fábio Mitidieri": 44.7,
         "Valmir de Francisquinho": 38.7,
@@ -8447,7 +8574,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-34",
+      "source_url": "#cite_note-:6-36",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -8472,7 +8599,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -8753,7 +8880,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-38",
+      "source_url": "#cite_note--2-40",
       "candidates": {
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
@@ -8780,7 +8907,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-38",
+      "source_url": "#cite_note--2-40",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
@@ -8893,31 +9020,6 @@
       }
     },
     {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-05-25",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-46",
-      "candidates": {
-        "Fábio Mitidieri": 41,
-        "Valmir de Francisquinho": 38,
-        "Ricardo Marques": 5,
-        "Emanuel Cacho": 2
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -8928,7 +9030,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Eduardo Riedel": 46.6,
         "Fábio Trad": 17.5,
@@ -8940,6 +9042,31 @@
         "Fábio Trad": "PT",
         "João Henrique Catan": "NOVO",
         "Economista Renato Gomes": "DC"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-05-25",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-48",
+      "candidates": {
+        "Fábio Mitidieri": 41,
+        "Valmir de Francisquinho": 38,
+        "Ricardo Marques": 5,
+        "Emanuel Cacho": 2
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -9034,7 +9161,7 @@
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-48",
+      "source_url": "#cite_note-:0-50",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 39.72,
@@ -9452,7 +9579,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--1-44",
+      "source_url": "#cite_note--1-46",
       "candidates": {
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
@@ -9606,7 +9733,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-46",
+      "source_url": "#cite_note-:4-48",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -9633,7 +9760,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-46",
+      "source_url": "#cite_note-:4-48",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -9658,7 +9785,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-46",
+      "source_url": "#cite_note-:4-48",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -9685,7 +9812,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-46",
+      "source_url": "#cite_note-:4-48",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -9733,7 +9860,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-30",
       "candidates": {
         "Eduardo Riedel": 43,
         "Fábio Trad": 21,
@@ -9747,6 +9874,27 @@
         "João Henrique Catan": "NOVO",
         "Delcídio do Amaral": "PRD",
         "Economista Renato Gomes": "DC"
+      }
+    },
+    {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Falpe",
+      "collection_date": "2026-05-10",
+      "sample_size": 5000,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-30",
+      "candidates": {
+        "JHC": 37,
+        "Renan Filho": 41.75
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
       }
     },
     {
@@ -9828,27 +9976,6 @@
         "Sandro Alex": "PSD",
         "Tony Garcia": "DC",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Falpe",
-      "collection_date": "2026-05-10",
-      "sample_size": 5000,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-28",
-      "candidates": {
-        "JHC": 37,
-        "Renan Filho": 41.75
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
       }
     },
     {
@@ -10141,7 +10268,7 @@
       "sample_size": 1220,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "JHC": 51,
         "Renan Filho": 35
@@ -10189,7 +10316,7 @@
       "sample_size": 3300,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Daniel Vilela": 29.6,
         "Marconi Perillo": 30.2,
@@ -10385,7 +10512,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-51",
+      "source_url": "#cite_note-Genial/Quaest-Abril-53",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -10410,7 +10537,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-51",
+      "source_url": "#cite_note-Genial/Quaest-Abril-53",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -10435,7 +10562,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-51",
+      "source_url": "#cite_note-Genial/Quaest-Abril-53",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 21,
@@ -10702,6 +10829,52 @@
       }
     },
     {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-04-27",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "JHC": 68.9,
+        "Renan Filho": 31.1
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "IPR",
+      "collection_date": "2026-04-27",
+      "sample_size": 784,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-32",
+      "candidates": {
+        "Eduardo Riedel": 47.32,
+        "Fábio Trad": 16.45,
+        "João Henrique Catan": 6.76,
+        "Economista Renato Gomes": 3.7
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Economista Renato Gomes": "DC"
+      }
+    },
+    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -10762,7 +10935,7 @@
       "sample_size": 1312,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-SE04-50",
+      "source_url": "#cite_note-SE04-52",
       "candidates": {
         "Fábio Mitidieri": 37.27,
         "Valmir de Francisquinho": 44.59,
@@ -10772,52 +10945,6 @@
         "Fábio Mitidieri": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-04-27",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "JHC": 68.9,
-        "Renan Filho": 31.1
-      },
-      "parties": {
-        "JHC": "PSDB",
-        "Renan Filho": "MDB"
-      }
-    },
-    {
-      "uf": "MS",
-      "estado": "Mato Grosso do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "cenario": "Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "IPR",
-      "collection_date": "2026-04-27",
-      "sample_size": 784,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-30",
-      "candidates": {
-        "Eduardo Riedel": 47.32,
-        "Fábio Trad": 16.45,
-        "João Henrique Catan": 6.76,
-        "Economista Renato Gomes": 3.7
-      },
-      "parties": {
-        "Eduardo Riedel": "PP",
-        "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -11384,7 +11511,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-51",
+      "source_url": "#cite_note-SE05-53",
       "candidates": {
         "Fábio Mitidieri": 35.3,
         "Valmir de Francisquinho": 39.9,
@@ -11821,7 +11948,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-54",
+      "source_url": "#cite_note-:3-56",
       "candidates": {
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
@@ -11848,7 +11975,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-54",
+      "source_url": "#cite_note-:3-56",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
@@ -11875,7 +12002,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-54",
+      "source_url": "#cite_note-:3-56",
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
@@ -11900,7 +12027,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Eduardo Riedel": 43,
         "Fábio Trad": 19.4,
@@ -12100,7 +12227,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-53",
+      "source_url": "#cite_note-Veritá1-55",
       "candidates": {
         "Fábio Mitidieri": 44.2,
         "Valmir de Francisquinho": 34.5,
@@ -12319,6 +12446,29 @@
       }
     },
     {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Eduardo Riedel": 49.5,
+        "Fábio Trad": 24.5,
+        "João Henrique Catan": 20.3
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -12491,29 +12641,6 @@
       "parties": {
         "Jorginho Mello": "PL",
         "João Rodrigues": "PSD"
-      }
-    },
-    {
-      "uf": "MS",
-      "estado": "Mato Grosso do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "cenario": "Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Eduardo Riedel": 49.5,
-        "Fábio Trad": 24.5,
-        "João Henrique Catan": 20.3
-      },
-      "parties": {
-        "Eduardo Riedel": "PP",
-        "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -12789,7 +12916,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Eduardo Riedel": 46.2,
         "Fábio Trad": 15.7,
@@ -13804,7 +13931,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-55",
+      "source_url": "#cite_note-SE02-57",
       "candidates": {
         "Fábio Mitidieri": 42.88,
         "Valmir de Francisquinho": 35.03
@@ -13825,7 +13952,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-55",
+      "source_url": "#cite_note-SE02-57",
       "candidates": {
         "Fábio Mitidieri": 44.51,
         "Ricardo Marques": 21.63
@@ -13846,7 +13973,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-55",
+      "source_url": "#cite_note-SE02-57",
       "candidates": {
         "Fábio Mitidieri": 51.64,
         "Emanuel Cacho": 10.3
@@ -14004,7 +14131,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-57",
+      "source_url": "#cite_note-:1-59",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -14031,7 +14158,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-57",
+      "source_url": "#cite_note-:1-59",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -14058,7 +14185,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-57",
+      "source_url": "#cite_note-:1-59",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -15481,7 +15608,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Eduardo Riedel": 40,
         "Fábio Trad": 17,
@@ -15893,7 +16020,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-59",
+      "source_url": "#cite_note-:2-61",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
@@ -16637,7 +16764,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-38",
+      "source_url": "#cite_note-DF01-40",
       "candidates": {
         "Celina Leão": 40,
         "Arruda": 21,
@@ -16664,7 +16791,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-38",
+      "source_url": "#cite_note-DF01-40",
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
@@ -17238,7 +17365,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-40",
+      "source_url": "#cite_note-:2-42",
       "candidates": {
         "Eduardo Riedel": 55,
         "Fábio Trad": 16,
@@ -17328,7 +17455,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-56",
+      "source_url": "#cite_note-SE01-58",
       "candidates": {
         "Fábio Mitidieri": 46,
         "Valmir de Francisquinho": 33
@@ -17349,7 +17476,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-56",
+      "source_url": "#cite_note-SE01-58",
       "candidates": {
         "Fábio Mitidieri": 49,
         "Thiago de Joaldo": 26
@@ -17370,7 +17497,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-56",
+      "source_url": "#cite_note-SE01-58",
       "candidates": {
         "Fábio Mitidieri": 48,
         "Emília Corrêa": 32
@@ -17391,7 +17518,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-56",
+      "source_url": "#cite_note-SE01-58",
       "candidates": {
         "Fábio Mitidieri": 50,
         "Eduardo Amorim": 28
