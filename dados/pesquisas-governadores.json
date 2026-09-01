@@ -1,6 +1,56 @@
 {
-  "atualizado_em": "2026-08-31",
+  "atualizado_em": "2026-09-01",
   "pesquisas": [
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Perfil/ES Hoje",
+      "collection_date": "2026-08-30",
+      "sample_size": 1800,
+      "margin_error": 2.31,
+      "tse_registration": "",
+      "source_url": "#cite_note-16",
+      "candidates": {
+        "Ricardo Ferraço": 32,
+        "Lorenzo Pazolini": 35.06,
+        "Helder Salomão": 8.5
+      },
+      "parties": {
+        "Ricardo Ferraço": "MDB",
+        "Lorenzo Pazolini": "Republicanos",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "RR",
+      "estado": "Roraima",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
+      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Census",
+      "collection_date": "2026-08-30",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-13",
+      "candidates": {
+        "Arthur Henrique": 54.99,
+        "Soldado Sampaio": 28.42,
+        "Rosi Aires PSOL": 0.83,
+        "Clébio Genuíno": 0.12,
+        "Farah Mesquita": 0.33
+      },
+      "parties": {
+        "Arthur Henrique": "",
+        "Soldado Sampaio": "",
+        "Rosi Aires PSOL": "",
+        "Clébio Genuíno": "",
+        "Farah Mesquita": ""
+      }
+    },
     {
       "uf": "AL",
       "estado": "Alagoas",
@@ -106,6 +156,29 @@
       }
     },
     {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Marcos Rogério",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-08-28",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-8",
+      "candidates": {
+        "Marcos Rogério": 40.7,
+        "Adaílton Fúria": 22.4,
+        "Expedito Netto": 10.3
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": ""
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -128,6 +201,31 @@
         "Roberto Cidade": "UNIÃO",
         "Maria do Carmo": "PL",
         "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Novo Perfil",
+      "collection_date": "2026-08-27",
+      "sample_size": 1430,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-6",
+      "candidates": {
+        "Alan Rick": 36.1,
+        "Mailza Assis": 33.1,
+        "Tião Bocalom": 16.2,
+        "Thor Dantas": 2.3
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -304,12 +402,35 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
       "secao": "Primeiro Turno (Governador) › 2026",
+      "institute": "O Girassol",
+      "collection_date": "2026-08-27",
+      "sample_size": 1200,
+      "margin_error": 2.9,
+      "tse_registration": "",
+      "source_url": "#cite_note-17",
+      "candidates": {
+        "Professora Dorinha": 33.92,
+        "Laurez Moreira": 8.83,
+        "Ataídes Oliveira": 7.17
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-08-27",
       "sample_size": 1504,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-17",
+      "source_url": "#cite_note-:11-19",
       "candidates": {
         "Professora Dorinha": 37.3,
         "Laurez Moreira": 7.6,
@@ -319,6 +440,104 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Quaest",
+      "collection_date": "2026-08-26",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-18",
+      "candidates": {
+        "Ricardo Ferraço": 35,
+        "Lorenzo Pazolini": 28,
+        "Helder Salomão": 10
+      },
+      "parties": {
+        "Ricardo Ferraço": "MDB",
+        "Lorenzo Pazolini": "Republicanos",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-08-26",
+      "sample_size": 1504,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-A-20",
+      "candidates": {
+        "Ricardo Ferraço": 38.2,
+        "Lorenzo Pazolini": 39,
+        "Helder Salomão": 7.5
+      },
+      "parties": {
+        "Ricardo Ferraço": "MDB",
+        "Lorenzo Pazolini": "Republicanos",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "RR",
+      "estado": "Roraima",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
+      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Quaest",
+      "collection_date": "2026-08-26",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-14",
+      "candidates": {
+        "Arthur Henrique": 60,
+        "Soldado Sampaio": 27,
+        "Rosi Aires PSOL": 1,
+        "Clébio Genuíno": 0,
+        "Farah Mesquita": 0
+      },
+      "parties": {
+        "Arthur Henrique": "",
+        "Soldado Sampaio": "",
+        "Rosi Aires PSOL": "",
+        "Clébio Genuíno": "",
+        "Farah Mesquita": ""
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-08-26",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-8",
+      "candidates": {
+        "Alan Rick": 33,
+        "Mailza Assis": 24,
+        "Tião Bocalom": 15,
+        "Thor Dantas": 2
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -357,7 +576,7 @@
       "sample_size": 1250,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Professora Dorinha": 39,
         "Laurez Moreira": 12,
@@ -367,31 +586,6 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-08-26",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-6",
-      "candidates": {
-        "Alan Rick": 33,
-        "Mailza Assis": 24,
-        "Tião Bocalom": 15,
-        "Thor Dantas": 2
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -441,76 +635,30 @@
       }
     },
     {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Genial/Quaest",
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "INOP",
       "collection_date": "2026-08-26",
-      "sample_size": 804,
-      "margin_error": 3,
+      "sample_size": 2600,
+      "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-16",
+      "source_url": "#cite_note-14",
       "candidates": {
-        "Ricardo Ferraço": 35,
-        "Lorenzo Pazolini": 28,
-        "Helder Salomão": 10
+        "Eduardo Braide": 42.54,
+        "Orleans Brandão": 42.08,
+        "Felipe Camarão": 5.44,
+        "Roberto Rocha": 3.88,
+        "André Luís": 0.15
       },
       "parties": {
-        "Ricardo Ferraço": "MDB",
-        "Lorenzo Pazolini": "Republicanos",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-08-26",
-      "sample_size": 1504,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:11-A-18",
-      "candidates": {
-        "Ricardo Ferraço": 38.2,
-        "Lorenzo Pazolini": 39,
-        "Helder Salomão": 7.5
-      },
-      "parties": {
-        "Ricardo Ferraço": "MDB",
-        "Lorenzo Pazolini": "Republicanos",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-08-26",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-13",
-      "candidates": {
-        "Arthur Henrique": 60,
-        "Soldado Sampaio": 27,
-        "Rosi Aires PSOL": 1,
-        "Clébio Genuíno": 0,
-        "Farah Mesquita": 0
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Soldado Sampaio": "",
-        "Rosi Aires PSOL": "",
-        "Clébio Genuíno": "",
-        "Farah Mesquita": ""
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
       }
     },
     {
@@ -626,7 +774,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-21",
+      "source_url": "#cite_note-:10-23",
       "candidates": {
         "Professora Dorinha": 33,
         "Laurez Moreira": 11,
@@ -695,7 +843,7 @@
       "sample_size": 900,
       "margin_error": 3.27,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Eduardo Braide": 36.6,
         "Orleans Brandão": 41.1,
@@ -837,6 +985,58 @@
       }
     },
     {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "institute": "Quaest",
+      "collection_date": "2026-08-24",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:2-10",
+      "candidates": {
+        "Marcos Rogério": 24,
+        "Adaílton Fúria": 21,
+        "Expedito Netto": 10,
+        "Hildon Chaves": 10,
+        "Samuel Costa": 2
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-08-24",
+      "sample_size": 1006,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-10",
+      "candidates": {
+        "Alan Rick": 32.5,
+        "Mailza Assis": 29.32,
+        "Tião Bocalom": 15.01,
+        "Thor Dantas": 3.38
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -892,12 +1092,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
       "secao": "Primeiro Turno (Governador) › 2026",
-      "institute": "Genial/Quaest",
+      "institute": "Quaest",
       "collection_date": "2026-08-24",
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-23",
+      "source_url": "#cite_note-:9-25",
       "candidates": {
         "Professora Dorinha": 37,
         "Laurez Moreira": 7,
@@ -910,35 +1110,10 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-08-24",
-      "sample_size": 1006,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-8",
-      "candidates": {
-        "Alan Rick": 32.5,
-        "Mailza Assis": 29.32,
-        "Tião Bocalom": 15.01,
-        "Thor Dantas": 3.38
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Doutora Natasha|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "Genial/Quaest",
       "collection_date": "2026-08-24",
@@ -949,16 +1124,12 @@
       "candidates": {
         "Wellington Fagundes": 27,
         "Otaviano Pivetta": 23,
-        "Doutora Natasha": 8,
-        "Sargento Laudicério": 2,
-        "Rafaell Milas": 2
+        "Doutora Natasha": 8
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
-        "Doutora Natasha": "PSD",
-        "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO"
+        "Doutora Natasha": "PSD"
       }
     },
     {
@@ -1111,33 +1282,6 @@
       }
     },
     {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-08-24",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-8",
-      "candidates": {
-        "Marcos Rogério": 24,
-        "Adaílton Fúria": 21,
-        "Expedito Netto": 10,
-        "Hildon Chaves": 10,
-        "Samuel Costa": 2
-      },
-      "parties": {
-        "Marcos Rogério": "",
-        "Adaílton Fúria": "",
-        "Expedito Netto": "",
-        "Hildon Chaves": "",
-        "Samuel Costa": ""
-      }
-    },
-    {
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
@@ -1183,7 +1327,7 @@
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
       "institute": "Veritá",
       "collection_date": "2026-08-23",
@@ -1196,7 +1340,6 @@
         "Daniel Santos": 49.7,
         "Araceli Lemos": 5.2,
         "Gal Leite": 4,
-        "Robertinho": 4,
         "José Moita": 4
       },
       "parties": {
@@ -1204,7 +1347,6 @@
         "Daniel Santos": "PODE",
         "Araceli Lemos": "PSOL",
         "Gal Leite": "UP",
-        "Robertinho": "PRTB",
         "José Moita": "Democrata"
       }
     },
@@ -1272,7 +1414,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Genial/Quaest",
+      "institute": "Quaest",
       "collection_date": "2026-08-23",
       "sample_size": 804,
       "margin_error": 3,
@@ -1301,12 +1443,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
-      "institute": "Genial/Quaest",
+      "institute": "Quaest",
       "collection_date": "2026-08-23",
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25,
@@ -1351,7 +1493,7 @@
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Doutora Natasha|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-08-23",
@@ -1362,16 +1504,12 @@
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 39,
-        "Doutora Natasha": 8.7,
-        "Sargento Laudicério": 2.2,
-        "Rafaell Milas": 0.3
+        "Doutora Natasha": 8.7
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
-        "Doutora Natasha": "PSD",
-        "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO"
+        "Doutora Natasha": "PSD"
       }
     },
     {
@@ -1464,6 +1602,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataControl",
+      "collection_date": "2026-08-22",
+      "sample_size": 1620,
+      "margin_error": 2.43,
+      "tse_registration": "",
+      "source_url": "#cite_note-12",
+      "candidates": {
+        "Alan Rick": 27.5,
+        "Mailza Assis": 34.9,
+        "Tião Bocalom": 15.3,
+        "Thor Dantas": 2
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -1488,31 +1651,6 @@
         "Sandro Alex": "PSD",
         "Luiz França": "MISSÃO",
         "Tayná Miessa": "UP"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "DataControl",
-      "collection_date": "2026-08-22",
-      "sample_size": 1620,
-      "margin_error": 2.43,
-      "tse_registration": "",
-      "source_url": "#cite_note-10",
-      "candidates": {
-        "Alan Rick": 27.5,
-        "Mailza Assis": 34.9,
-        "Tião Bocalom": 15.3,
-        "Thor Dantas": 2
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -1849,7 +1987,7 @@
       "sample_size": 1200,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Professora Dorinha": 30.67,
         "Laurez Moreira": 9.42,
@@ -1872,7 +2010,7 @@
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Eduardo Braide": 37.84,
         "Orleans Brandão": 41.01,
@@ -1892,27 +2030,23 @@
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Doutora Natasha|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "MT Dados",
       "collection_date": "2026-08-20",
       "sample_size": 3080,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-10",
+      "source_url": "#cite_note-:9-11",
       "candidates": {
         "Wellington Fagundes": 27,
         "Otaviano Pivetta": 27,
-        "Doutora Natasha": 12,
-        "Sargento Laudicério": 2,
-        "Rafaell Milas": 2
+        "Doutora Natasha": 12
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
-        "Doutora Natasha": "PSD",
-        "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO"
+        "Doutora Natasha": "PSD"
       }
     },
     {
@@ -1975,7 +2109,7 @@
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
       "institute": "AtlasIntel",
       "collection_date": "2026-08-19",
@@ -1988,7 +2122,6 @@
         "Daniel Santos": 40.5,
         "Araceli Lemos": 1.4,
         "Gal Leite": 0,
-        "Robertinho": 0.3,
         "José Moita": 0.1
       },
       "parties": {
@@ -1996,7 +2129,6 @@
         "Daniel Santos": "PODE",
         "Araceli Lemos": "PSOL",
         "Gal Leite": "UP",
-        "Robertinho": "PRTB",
         "José Moita": "Democrata"
       }
     },
@@ -2067,18 +2199,18 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-13",
+      "source_url": "#cite_note-:16-15",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 44,
-        "Vera Lúcia": 1,
-        "Delegado Huggo": 1
+        "Delegado Huggo": 1,
+        "Vera Lúcia": 1
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Vera Lúcia": "NOVO",
-        "Delegado Huggo": "MISSÃO"
+        "Delegado Huggo": "MISSÃO",
+        "Vera Lúcia": "NOVO"
       }
     },
     {
@@ -2134,29 +2266,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "DataCapital",
-      "collection_date": "2026-08-18",
-      "sample_size": 2100,
-      "margin_error": 2.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-17",
-      "candidates": {
-        "Allyson": 41.8,
-        "Álvaro Dias": 26.3,
-        "Cadu de Lula": 20.3
-      },
-      "parties": {
-        "Allyson": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT"
-      }
-    },
-    {
       "uf": "RO",
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
@@ -2167,7 +2276,7 @@
       "sample_size": 961,
       "margin_error": 3.2,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Marcos Rogério": 28.2,
         "Adaílton Fúria": 19.35,
@@ -2184,30 +2293,80 @@
       }
     },
     {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Mensury/Blog do Barreto",
+      "collection_date": "2026-08-18",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-17",
+      "candidates": {
+        "Allyson": 31.33,
+        "Álvaro Dias": 17.93,
+        "Cadu de Lula": 18,
+        "Robério Paulino": 0.93,
+        "Rodrigo Bolsonaro": 0.47,
+        "Dário Barbosa": 0.07
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataCapital",
+      "collection_date": "2026-08-18",
+      "sample_size": 2100,
+      "margin_error": 2.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-19",
+      "candidates": {
+        "Allyson": 41.8,
+        "Álvaro Dias": 26.3,
+        "Cadu de Lula": 20.3
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia|Zé Batista",
+      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Ipsus/Ipec",
       "collection_date": "2026-08-18",
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-15",
+      "source_url": "#cite_note-:17-17",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 35,
-        "Vera Lúcia": 2,
         "Delegado Huggo": 3,
-        "Zé Batista": 1
+        "Vera Lúcia": 2
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Vera Lúcia": "NOVO",
         "Delegado Huggo": "MISSÃO",
-        "Zé Batista": "PSTU"
+        "Vera Lúcia": "NOVO"
       }
     },
     {
@@ -2440,7 +2599,7 @@
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
-      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Robertinho",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
       "institute": "Doxa",
       "collection_date": "2026-08-15",
@@ -2453,7 +2612,6 @@
         "Daniel Santos": 30.2,
         "Araceli Lemos": 1.4,
         "Gal Leite": 0.8,
-        "Robertinho": 0.7,
         "José Moita": 0.4
       },
       "parties": {
@@ -2461,7 +2619,6 @@
         "Daniel Santos": "PODE",
         "Araceli Lemos": "PSOL",
         "Gal Leite": "UP",
-        "Robertinho": "PRTB",
         "José Moita": "Democrata"
       }
     },
@@ -2524,7 +2681,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-27",
+      "source_url": "#cite_note-:8-29",
       "candidates": {
         "Professora Dorinha": 39.27,
         "Laurez Moreira": 8.2,
@@ -2595,7 +2752,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 26.4,
@@ -2734,7 +2891,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Allyson": 37.31,
         "Álvaro Dias": 26.48,
@@ -2831,25 +2988,23 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Zé Batista",
+      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Datafolha",
       "collection_date": "2026-08-12",
       "sample_size": 1022,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-17",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
         "Ciro Gomes": 52,
         "Elmano de Freitas": 33,
-        "Delegado Huggo": 1,
-        "Zé Batista": 0
+        "Delegado Huggo": 1
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Delegado Huggo": "MISSÃO",
-        "Zé Batista": "PSTU"
+        "Delegado Huggo": "MISSÃO"
       }
     },
     {
@@ -2917,7 +3072,7 @@
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Eduardo Braide": 39.1,
         "Orleans Brandão": 47.5,
@@ -2937,34 +3092,30 @@
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Doutora Natasha|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-11",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-11",
+      "source_url": "#cite_note-:8-13",
       "candidates": {
         "Wellington Fagundes": 34,
         "Otaviano Pivetta": 26,
-        "Doutora Natasha": 13,
-        "Sargento Laudicério": 1,
-        "Rafaell Milas": 3
+        "Doutora Natasha": 13
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
-        "Doutora Natasha": "PSD",
-        "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO"
+        "Doutora Natasha": "PSD"
       }
     },
     {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Zé Batista",
+      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "AtlasIntel /Focus",
       "collection_date": "2026-08-11",
@@ -2975,14 +3126,12 @@
       "candidates": {
         "Ciro Gomes": 49.3,
         "Elmano de Freitas": 44.6,
-        "Delegado Huggo": 2.8,
-        "Zé Batista": 0
+        "Delegado Huggo": 2.8
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Delegado Huggo": "MISSÃO",
-        "Zé Batista": "PSTU"
+        "Delegado Huggo": "MISSÃO"
       }
     },
     {
@@ -2996,7 +3145,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Allyson": 30.18,
         "Álvaro Dias": 27.65,
@@ -3071,7 +3220,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-22",
+      "source_url": "#cite_note-:0-24",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25.9,
@@ -3091,56 +3240,23 @@
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
-      "cenario": "Doutora Natasha|Otaviano Pivetta|Rafaell Milas|Sargento Laudicério|Wellington Fagundes",
+      "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
       "secao": "Primeiro turno (governador) › 2026 › Agosto",
       "institute": "Percent Brasil",
       "collection_date": "2026-08-10",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Wellington Fagundes": 32,
         "Otaviano Pivetta": 21,
-        "Doutora Natasha": 11,
-        "Sargento Laudicério": 2.1,
-        "Rafaell Milas": 1.1
+        "Doutora Natasha": 11
       },
       "parties": {
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
-        "Doutora Natasha": "PSD",
-        "Sargento Laudicério": "Agir",
-        "Rafaell Milas": "MISSÃO"
-      }
-    },
-    {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Seta",
-      "collection_date": "2026-08-09",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-24",
-      "candidates": {
-        "Allyson": 39.5,
-        "Álvaro Dias": 23.7,
-        "Cadu de Lula": 19.6,
-        "Robério Paulino": 0.4,
-        "Rodrigo Bolsonaro": 1.7,
-        "Dário Barbosa": 0.9
-      },
-      "parties": {
-        "Allyson": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Rodrigo Bolsonaro": "Agir",
-        "Dário Barbosa": "PSTU"
+        "Doutora Natasha": "PSD"
       }
     },
     {
@@ -3154,7 +3270,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Alan Rick": 38.23,
         "Mailza Assis": 25.55,
@@ -3174,12 +3290,41 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Seta",
+      "collection_date": "2026-08-09",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-26",
+      "candidates": {
+        "Allyson": 39.5,
+        "Álvaro Dias": 23.7,
+        "Cadu de Lula": 19.6,
+        "Robério Paulino": 0.4,
+        "Rodrigo Bolsonaro": 1.7,
+        "Dário Barbosa": 0.9
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
       "institute": "Metadata/Grupo Dial",
       "collection_date": "2026-08-08",
       "sample_size": 1536,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Allyson": 34.2,
         "Álvaro Dias": 24,
@@ -3195,6 +3340,31 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Travessia Diagnóstico",
+      "collection_date": "2026-08-06",
+      "sample_size": 800,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-16",
+      "candidates": {
+        "Alan Rick": 37,
+        "Mailza Assis": 29,
+        "Tião Bocalom": 13,
+        "Thor Dantas": 7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -3224,31 +3394,6 @@
         "Samuel de Mattos": "PSTU",
         "Adriano Teixeira": "PCO",
         "Tayná Miessa": "UP"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Travessia Diagnóstico",
-      "collection_date": "2026-08-06",
-      "sample_size": 800,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-14",
-      "candidates": {
-        "Alan Rick": 37,
-        "Mailza Assis": 29,
-        "Tião Bocalom": 13,
-        "Thor Dantas": 7
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -3287,7 +3432,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Allyson": 26.2,
         "Álvaro Dias": 16.3,
@@ -3520,7 +3665,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Professora Dorinha": 36.3,
         "Laurez Moreira": 8.3,
@@ -3685,31 +3830,6 @@
       }
     },
     {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "INOR",
-      "collection_date": "2026-07-29",
-      "sample_size": 1070,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-27",
-      "candidates": {
-        "Fábio Mitidieri": 37.94,
-        "Valmir de Francisquinho": 46.07,
-        "Ricardo Marques": 7.01,
-        "Emanuel Cacho": 0.28
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -3784,6 +3904,31 @@
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "INOR",
+      "collection_date": "2026-07-29",
+      "sample_size": 1070,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-27",
+      "candidates": {
+        "Fábio Mitidieri": 37.94,
+        "Valmir de Francisquinho": 46.07,
+        "Ricardo Marques": 7.01,
+        "Emanuel Cacho": 0.28
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -4071,7 +4216,7 @@
       "sample_size": 2050,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 26,
@@ -4116,27 +4261,23 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
       "institute": "Genial/Quaest",
       "collection_date": "2026-07-28",
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-23",
+      "source_url": "#cite_note-:13-24",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 33,
-        "Eduardo Girão": 3,
-        "Jarir Pereira": 1,
-        "Zé Batista": 0
+        "Eduardo Girão": 3
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -4431,6 +4572,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-25",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-18",
+      "candidates": {
+        "Alan Rick": 38,
+        "Mailza Assis": 28,
+        "Tião Bocalom": 17,
+        "Thor Dantas": 7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -4545,7 +4711,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Allyson": 38.8,
         "Álvaro Dias": 24.9,
@@ -4561,31 +4727,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-25",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-16",
-      "candidates": {
-        "Alan Rick": 38,
-        "Mailza Assis": 28,
-        "Tião Bocalom": 17,
-        "Thor Dantas": 7
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -4703,7 +4844,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-30",
+      "source_url": "#cite_note-:7-32",
       "candidates": {
         "Professora Dorinha": 34.4,
         "Laurez Moreira": 10.1,
@@ -4826,7 +4967,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-30",
+      "source_url": "#cite_note-:8-32",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 28,
@@ -4842,6 +4983,106 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-21",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-24",
+      "candidates": {
+        "Lorenzo Pazolini": 30,
+        "Ricardo Ferraço": 41,
+        "Helder Salomão": 10
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-21",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-24",
+      "candidates": {
+        "Lorenzo Pazolini": 27,
+        "Magno Malta": 13,
+        "Ricardo Ferraço": 38,
+        "Helder Salomão": 8
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Magno Malta": "PL",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Paulo Hartung|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-21",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-24",
+      "candidates": {
+        "Lorenzo Pazolini": 25,
+        "Paulo Hartung": 27,
+        "Ricardo Ferraço": 31,
+        "Helder Salomão": 8
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Paulo Hartung": "PSD",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Paulo Hartung|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-21",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-24",
+      "candidates": {
+        "Lorenzo Pazolini": 22,
+        "Magno Malta": 10,
+        "Paulo Hartung": 25,
+        "Ricardo Ferraço": 29,
+        "Helder Salomão": 8
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Magno Malta": "PL",
+        "Paulo Hartung": "PSD",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
       }
     },
     {
@@ -4928,106 +5169,6 @@
       }
     },
     {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-21",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-22",
-      "candidates": {
-        "Lorenzo Pazolini": 30,
-        "Ricardo Ferraço": 41,
-        "Helder Salomão": 10
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-21",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-22",
-      "candidates": {
-        "Lorenzo Pazolini": 27,
-        "Magno Malta": 13,
-        "Ricardo Ferraço": 38,
-        "Helder Salomão": 8
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Magno Malta": "PL",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Paulo Hartung|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-21",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-22",
-      "candidates": {
-        "Lorenzo Pazolini": 25,
-        "Paulo Hartung": 27,
-        "Ricardo Ferraço": 31,
-        "Helder Salomão": 8
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Paulo Hartung": "PSD",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Paulo Hartung|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-21",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-22",
-      "candidates": {
-        "Lorenzo Pazolini": 22,
-        "Magno Malta": 10,
-        "Paulo Hartung": 25,
-        "Ricardo Ferraço": 29,
-        "Helder Salomão": 8
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Magno Malta": "PL",
-        "Paulo Hartung": "PSD",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -5038,7 +5179,7 @@
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-A-27",
+      "source_url": "#cite_note-:5-A-29",
       "candidates": {
         "Eduardo Braide": 42.5,
         "Orleans Brandão": 48.7,
@@ -5146,27 +5287,23 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
       "institute": "Ipsus/IPEC",
       "collection_date": "2026-07-18",
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
-        "Eduardo Girão": 6,
-        "Jarir Pereira": 1,
-        "Zé Batista": 1
+        "Eduardo Girão": 6
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -5180,7 +5317,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Allyson": 41.7,
         "Álvaro Dias": 11.8,
@@ -5234,7 +5371,7 @@
       "sample_size": 1250,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Professora Dorinha": 32,
         "Laurez Moreira": 15,
@@ -5257,7 +5394,7 @@
       "sample_size": 2610,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
@@ -5272,6 +5409,33 @@
       }
     },
     {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-15",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-14",
+      "candidates": {
+        "Marcos Rogério": 36,
+        "Adaílton Fúria": 28,
+        "Expedito Netto": 10,
+        "Hildon Chaves": 13,
+        "Samuel Costa": 1
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
+      }
+    },
+    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -5282,7 +5446,7 @@
       "sample_size": 1006,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-18",
+      "source_url": "#cite_note-:3-20",
       "candidates": {
         "Alan Rick": 38.27,
         "Mailza Assis": 19.48,
@@ -5355,33 +5519,6 @@
       }
     },
     {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-15",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-12",
-      "candidates": {
-        "Marcos Rogério": 36,
-        "Adaílton Fúria": 28,
-        "Expedito Netto": 10,
-        "Hildon Chaves": 13,
-        "Samuel Costa": 1
-      },
-      "parties": {
-        "Marcos Rogério": "",
-        "Adaílton Fúria": "",
-        "Expedito Netto": "",
-        "Hildon Chaves": "",
-        "Samuel Costa": ""
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -5408,27 +5545,23 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-14",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-27",
+      "source_url": "#cite_note-:12-28",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
-        "Eduardo Girão": 7,
-        "Jarir Pereira": 1,
-        "Zé Batista": 0
+        "Eduardo Girão": 7
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -5442,7 +5575,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-23",
+      "source_url": "#cite_note-:8-25",
       "candidates": {
         "Lorenzo Pazolini": 25,
         "Ricardo Ferraço": 37,
@@ -5465,7 +5598,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-23",
+      "source_url": "#cite_note-:8-25",
       "candidates": {
         "Magno Malta": 22,
         "Ricardo Ferraço": 37,
@@ -5488,7 +5621,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-23",
+      "source_url": "#cite_note-:8-25",
       "candidates": {
         "Lorenzo Pazolini": 21,
         "Magno Malta": 15,
@@ -5513,7 +5646,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-23",
+      "source_url": "#cite_note-:8-25",
       "candidates": {
         "Lorenzo Pazolini": 19,
         "Magno Malta": 12,
@@ -5630,7 +5763,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Allyson": 35.27,
         "Álvaro Dias": 33.67,
@@ -5780,7 +5913,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Allyson": 41.78,
         "Álvaro Dias": 26.05,
@@ -5794,6 +5927,33 @@
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "institute": "IAP",
+      "collection_date": "2026-07-09",
+      "sample_size": 2500,
+      "margin_error": 2.45,
+      "tse_registration": "",
+      "source_url": "#cite_note-:0-B-16",
+      "candidates": {
+        "Marcos Rogério": 39.79,
+        "Adaílton Fúria": 28.28,
+        "Expedito Netto": 9.63,
+        "Hildon Chaves": 15.16,
+        "Samuel Costa": 2.99
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
       }
     },
     {
@@ -5817,33 +5977,6 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
-      "institute": "IAP",
-      "collection_date": "2026-07-09",
-      "sample_size": 2500,
-      "margin_error": 2.45,
-      "tse_registration": "",
-      "source_url": "#cite_note-:0-B-14",
-      "candidates": {
-        "Marcos Rogério": 39.79,
-        "Adaílton Fúria": 28.28,
-        "Expedito Netto": 9.63,
-        "Hildon Chaves": 15.16,
-        "Samuel Costa": 2.99
-      },
-      "parties": {
-        "Marcos Rogério": "",
-        "Adaílton Fúria": "",
-        "Expedito Netto": "",
-        "Hildon Chaves": "",
-        "Samuel Costa": ""
       }
     },
     {
@@ -5928,7 +6061,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Allyson": 27.5,
         "Álvaro Dias": 32.1,
@@ -5969,6 +6102,102 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Instituto França",
+      "collection_date": "2026-07-07",
+      "sample_size": 1066,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-26",
+      "candidates": {
+        "Lorenzo Pazolini": 29.71,
+        "Magno Malta": 13.3,
+        "Ricardo Ferraço": 27.72,
+        "Helder Salomão": 8.87
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Magno Malta": "PL",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Instituto França",
+      "collection_date": "2026-07-07",
+      "sample_size": 1066,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-26",
+      "candidates": {
+        "Lorenzo Pazolini": 34.27,
+        "Ricardo Ferraço": 30.6,
+        "Helder Salomão": 10.64
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Magno Malta|Paulo Hartung|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Instituto França",
+      "collection_date": "2026-07-07",
+      "sample_size": 1066,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-26",
+      "candidates": {
+        "Magno Malta": 21.51,
+        "Paulo Hartung": 20.62,
+        "Ricardo Ferraço": 26.61,
+        "Helder Salomão": 9.76
+      },
+      "parties": {
+        "Magno Malta": "PL",
+        "Paulo Hartung": "PSD",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Instituto França",
+      "collection_date": "2026-07-07",
+      "sample_size": 1066,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-26",
+      "candidates": {
+        "Lorenzo Pazolini": 41.91,
+        "Ricardo Ferraço": 28.82,
+        "Helder Salomão": 15.3
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
       }
     },
     {
@@ -6024,102 +6253,6 @@
       }
     },
     {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Instituto França",
-      "collection_date": "2026-07-07",
-      "sample_size": 1066,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-24",
-      "candidates": {
-        "Lorenzo Pazolini": 29.71,
-        "Magno Malta": 13.3,
-        "Ricardo Ferraço": 27.72,
-        "Helder Salomão": 8.87
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Magno Malta": "PL",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Instituto França",
-      "collection_date": "2026-07-07",
-      "sample_size": 1066,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-24",
-      "candidates": {
-        "Lorenzo Pazolini": 34.27,
-        "Ricardo Ferraço": 30.6,
-        "Helder Salomão": 10.64
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Magno Malta|Paulo Hartung|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Instituto França",
-      "collection_date": "2026-07-07",
-      "sample_size": 1066,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-24",
-      "candidates": {
-        "Magno Malta": 21.51,
-        "Paulo Hartung": 20.62,
-        "Ricardo Ferraço": 26.61,
-        "Helder Salomão": 9.76
-      },
-      "parties": {
-        "Magno Malta": "PL",
-        "Paulo Hartung": "PSD",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Instituto França",
-      "collection_date": "2026-07-07",
-      "sample_size": 1066,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-24",
-      "candidates": {
-        "Lorenzo Pazolini": 41.91,
-        "Ricardo Ferraço": 28.82,
-        "Helder Salomão": 15.3
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -6130,7 +6263,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-31",
+      "source_url": "#cite_note-:4-33",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
@@ -6236,7 +6369,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Allyson": 35.9,
         "Álvaro Dias": 24.7,
@@ -6315,7 +6448,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Allyson": 34.59,
         "Álvaro Dias": 29,
@@ -6567,6 +6700,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/Acre em Dia",
+      "collection_date": "2026-06-30",
+      "sample_size": 800,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-21",
+      "candidates": {
+        "Alan Rick": 41.25,
+        "Mailza Assis": 19.25,
+        "Tião Bocalom": 19.5,
+        "Thor Dantas": 2.5
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -6589,31 +6747,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/Acre em Dia",
-      "collection_date": "2026-06-30",
-      "sample_size": 800,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-19",
-      "candidates": {
-        "Alan Rick": 41.25,
-        "Mailza Assis": 19.25,
-        "Tião Bocalom": 19.5,
-        "Thor Dantas": 2.5
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -6872,25 +7005,50 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
       "institute": "DataTrends",
       "collection_date": "2026-06-25",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-29",
+      "source_url": "#cite_note-:11-30",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 39,
-        "Eduardo Girão": 4,
-        "Jarir Pereira": 1
+        "Eduardo Girão": 4
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "institute": "IHPEC",
+      "collection_date": "2026-06-24",
+      "sample_size": 3197,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:0-18",
+      "candidates": {
+        "Marcos Rogério": 31.54,
+        "Adaílton Fúria": 27.48,
+        "Expedito Netto": 5.15,
+        "Hildon Chaves": 8.17,
+        "Samuel Costa": 0.84
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
       }
     },
     {
@@ -6914,33 +7072,6 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
-      "institute": "IHPEC",
-      "collection_date": "2026-06-24",
-      "sample_size": 3197,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:0-16",
-      "candidates": {
-        "Marcos Rogério": 31.54,
-        "Adaílton Fúria": 27.48,
-        "Expedito Netto": 5.15,
-        "Hildon Chaves": 8.17,
-        "Samuel Costa": 0.84
-      },
-      "parties": {
-        "Marcos Rogério": "",
-        "Adaílton Fúria": "",
-        "Expedito Netto": "",
-        "Hildon Chaves": "",
-        "Samuel Costa": ""
       }
     },
     {
@@ -7004,7 +7135,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Allyson": 27.3,
         "Álvaro Dias": 32.5,
@@ -7033,7 +7164,7 @@
       "sample_size": 1340,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-34",
+      "source_url": "#cite_note-:6-36",
       "candidates": {
         "Professora Dorinha": 35.9,
         "Laurez Moreira": 8.8,
@@ -7227,7 +7358,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-35",
+      "source_url": "#cite_note-:4-37",
       "candidates": {
         "Professora Dorinha": 33,
         "Laurez Moreira": 17,
@@ -7250,7 +7381,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-35",
+      "source_url": "#cite_note-:4-37",
       "candidates": {
         "Professora Dorinha": 35,
         "Laurez Moreira": 22,
@@ -7288,6 +7419,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-06-17",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:2-22",
+      "candidates": {
+        "Alan Rick": 39,
+        "Mailza Assis": 26,
+        "Tião Bocalom": 18,
+        "Thor Dantas": 5
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -7298,7 +7454,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 24.2,
@@ -7314,31 +7470,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-06-17",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-20",
-      "candidates": {
-        "Alan Rick": 39,
-        "Mailza Assis": 26,
-        "Tião Bocalom": 18,
-        "Thor Dantas": 5
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -7535,7 +7666,7 @@
       "sample_size": 1550,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Allyson": 34.8,
         "Álvaro Dias": 22.8,
@@ -7557,7 +7688,7 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
       "institute": "AtlasIntel /Focus",
       "collection_date": "2026-06-14",
@@ -7568,16 +7699,60 @@
       "candidates": {
         "Ciro Gomes": 45.8,
         "Elmano de Freitas": 44.8,
-        "Eduardo Girão": 4.8,
-        "Jarir Pereira": 0.1,
-        "Zé Batista": 1
+        "Eduardo Girão": 4.8
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Perfil/ES Hoje",
+      "collection_date": "2026-06-13",
+      "sample_size": 1800,
+      "margin_error": 2.3,
+      "tse_registration": "",
+      "source_url": "#cite_note-28",
+      "candidates": {
+        "Lorenzo Pazolini": 35,
+        "Magno Malta": 9.17,
+        "Ricardo Ferraço": 29.67,
+        "Helder Salomão": 6.89
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Magno Malta": "PL",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Perfil/ES Hoje",
+      "collection_date": "2026-06-13",
+      "sample_size": 1800,
+      "margin_error": 2.3,
+      "tse_registration": "",
+      "source_url": "#cite_note-28",
+      "candidates": {
+        "Lorenzo Pazolini": 37.78,
+        "Ricardo Ferraço": 31.94,
+        "Helder Salomão": 8.72
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
       }
     },
     {
@@ -7684,54 +7859,6 @@
         "Sandro Alex": "PSD",
         "Tony Garcia": "DC",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Perfil/ES Hoje",
-      "collection_date": "2026-06-13",
-      "sample_size": 1800,
-      "margin_error": 2.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-26",
-      "candidates": {
-        "Lorenzo Pazolini": 35,
-        "Magno Malta": 9.17,
-        "Ricardo Ferraço": 29.67,
-        "Helder Salomão": 6.89
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Magno Malta": "PL",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Perfil/ES Hoje",
-      "collection_date": "2026-06-13",
-      "sample_size": 1800,
-      "margin_error": 2.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-26",
-      "candidates": {
-        "Lorenzo Pazolini": 37.78,
-        "Ricardo Ferraço": 31.94,
-        "Helder Salomão": 8.72
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
       }
     },
     {
@@ -7993,7 +8120,7 @@
       "sample_size": 1314,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-38",
+      "source_url": "#cite_note-:5-40",
       "candidates": {
         "Professora Dorinha": 31.1,
         "Laurez Moreira": 11.8,
@@ -8062,7 +8189,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-27",
+      "source_url": "#cite_note-:6-29",
       "candidates": {
         "Lorenzo Pazolini": 33,
         "Ricardo Ferraço": 39,
@@ -8085,7 +8212,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-27",
+      "source_url": "#cite_note-:6-29",
       "candidates": {
         "Lorenzo Pazolini": 28,
         "Magno Malta": 14,
@@ -8125,6 +8252,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-06-06",
+      "sample_size": 1201,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-24",
+      "candidates": {
+        "Alan Rick": 39.55,
+        "Mailza Assis": 19.4,
+        "Tião Bocalom": 17.07,
+        "Thor Dantas": 2
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -8151,31 +8303,6 @@
         "Rafael Greca": "MDB",
         "Tony Garcia": "DC",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-06-06",
-      "sample_size": 1201,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-22",
-      "candidates": {
-        "Alan Rick": 39.55,
-        "Mailza Assis": 19.4,
-        "Tião Bocalom": 17.07,
-        "Thor Dantas": 2
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -8253,6 +8380,33 @@
         "Maria do Carmo": "PL",
         "David Almeida": "Avante",
         "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "institute": "Perfil",
+      "collection_date": "2026-06-03",
+      "sample_size": 1301,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-20",
+      "candidates": {
+        "Marcos Rogério": 41.3,
+        "Adaílton Fúria": 28.1,
+        "Expedito Netto": 9.1,
+        "Hildon Chaves": 14.7,
+        "Samuel Costa": 2.8
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
       }
     },
     {
@@ -8335,30 +8489,28 @@
       }
     },
     {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
-      "institute": "Perfil",
-      "collection_date": "2026-06-03",
-      "sample_size": 1301,
-      "margin_error": 2.7,
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-06-02",
+      "sample_size": 1000,
+      "margin_error": 3.2,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
       "candidates": {
-        "Marcos Rogério": 41.3,
-        "Adaílton Fúria": 28.1,
-        "Expedito Netto": 9.1,
-        "Hildon Chaves": 14.7,
-        "Samuel Costa": 2.8
+        "Alan Rick": 41.2,
+        "Mailza Assis": 24.4,
+        "Tião Bocalom": 16.1,
+        "Thor Dantas": 3.8
       },
       "parties": {
-        "Marcos Rogério": "",
-        "Adaílton Fúria": "",
-        "Expedito Netto": "",
-        "Hildon Chaves": "",
-        "Samuel Costa": ""
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -8382,31 +8534,6 @@
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-06-02",
-      "sample_size": 1000,
-      "margin_error": 3.2,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Alan Rick": 41.2,
-        "Mailza Assis": 24.4,
-        "Tião Bocalom": 16.1,
-        "Thor Dantas": 3.8
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -8438,27 +8565,23 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
       "institute": "Ipsus/IPEC",
       "collection_date": "2026-06-01",
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-33",
+      "source_url": "#cite_note-:8-34",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
-        "Eduardo Girão": 4,
-        "Jarir Pereira": 1,
-        "Zé Batista": 1
+        "Eduardo Girão": 4
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -8499,7 +8622,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-41",
+      "source_url": "#cite_note-:6-43",
       "candidates": {
         "Allyson": 39.8,
         "Álvaro Dias": 22.1,
@@ -8626,7 +8749,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Allyson": 41.01,
         "Álvaro Dias": 22.75,
@@ -8674,7 +8797,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Allyson": 38,
         "Álvaro Dias": 22.8,
@@ -8803,7 +8926,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Allyson": 27.9,
         "Álvaro Dias": 30.5,
@@ -8842,6 +8965,31 @@
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL",
         "Olímpio Rocha": "PSOL"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-05-26",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-30",
+      "candidates": {
+        "Lorenzo Pazolini": 29,
+        "Magno Malta": 27.8,
+        "Ricardo Ferraço": 20.7,
+        "Helder Salomão": 19.2
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Magno Malta": "PL",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
       }
     },
     {
@@ -8947,31 +9095,6 @@
       }
     },
     {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-05-26",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-28",
-      "candidates": {
-        "Lorenzo Pazolini": 29,
-        "Magno Malta": 27.8,
-        "Ricardo Ferraço": 20.7,
-        "Helder Salomão": 19.2
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Magno Malta": "PL",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -8998,7 +9121,7 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
       "institute": "Veritá",
       "collection_date": "2026-05-26",
@@ -9009,14 +9132,12 @@
       "candidates": {
         "Ciro Gomes": 45,
         "Elmano de Freitas": 38.8,
-        "Eduardo Girão": 3.4,
-        "Jarir Pereira": 2
+        "Eduardo Girão": 3.4
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -9122,6 +9243,33 @@
       }
     },
     {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "institute": "IAP",
+      "collection_date": "2026-05-23",
+      "sample_size": 1600,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-22",
+      "candidates": {
+        "Marcos Rogério": 35.4,
+        "Adaílton Fúria": 23.2,
+        "Expedito Netto": 7.7,
+        "Hildon Chaves": 14.3,
+        "Samuel Costa": 2.8
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -9132,7 +9280,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Allyson": 38.5,
         "Álvaro Dias": 19.8,
@@ -9173,33 +9321,6 @@
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL",
         "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
-      "institute": "IAP",
-      "collection_date": "2026-05-23",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-20",
-      "candidates": {
-        "Marcos Rogério": 35.4,
-        "Adaílton Fúria": 23.2,
-        "Expedito Netto": 7.7,
-        "Hildon Chaves": 14.3,
-        "Samuel Costa": 2.8
-      },
-      "parties": {
-        "Marcos Rogério": "",
-        "Adaílton Fúria": "",
-        "Expedito Netto": "",
-        "Hildon Chaves": "",
-        "Samuel Costa": ""
       }
     },
     {
@@ -9286,7 +9407,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-48",
+      "source_url": "#cite_note-:5-50",
       "candidates": {
         "Allyson": 37,
         "Álvaro Dias": 25.2,
@@ -9315,7 +9436,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Allyson": 28.6,
         "Álvaro Dias": 34.5,
@@ -9466,27 +9587,23 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
       "institute": "Real Time Big Data",
       "collection_date": "2026-05-19",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-36",
+      "source_url": "#cite_note-:7-37",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
-        "Eduardo Girão": 8,
-        "Jarir Pereira": 2,
-        "Zé Batista": 0
+        "Eduardo Girão": 8
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -9569,6 +9686,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/Notícias da Hora",
+      "collection_date": "2026-05-16",
+      "sample_size": 800,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-1-26",
+      "candidates": {
+        "Alan Rick": 42,
+        "Mailza Assis": 16.12,
+        "Tião Bocalom": 15.88,
+        "Thor Dantas": 1.5
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -9593,31 +9735,6 @@
         "Wilder Morais": "PL",
         "Adriana Accorsi": "PT",
         "Telêmaco Brandão": "NOVO"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/Notícias da Hora",
-      "collection_date": "2026-05-16",
-      "sample_size": 800,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-1-24",
-      "candidates": {
-        "Alan Rick": 42,
-        "Mailza Assis": 16.12,
-        "Tião Bocalom": 15.88,
-        "Thor Dantas": 1.5
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -9989,7 +10106,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Allyson": 35.5,
         "Álvaro Dias": 22.9,
@@ -10005,6 +10122,29 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Hildon Chaves|Marcos Rogério",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "institute": "Veritá",
+      "collection_date": "2026-05-08",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-24",
+      "candidates": {
+        "Marcos Rogério": 42.5,
+        "Adaílton Fúria": 22.2,
+        "Hildon Chaves": 21.7
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Hildon Chaves": ""
       }
     },
     {
@@ -10076,29 +10216,6 @@
         "Juliana Brizola": "PDT",
         "Edegar Pretto": "PT",
         "Gabriel Souza": "MDB"
-      }
-    },
-    {
-      "uf": "RO",
-      "estado": "Rondônia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
-      "cenario": "Adaílton Fúria|Hildon Chaves|Marcos Rogério",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
-      "institute": "Veritá",
-      "collection_date": "2026-05-08",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-22",
-      "candidates": {
-        "Marcos Rogério": 42.5,
-        "Adaílton Fúria": 22.2,
-        "Hildon Chaves": 21.7
-      },
-      "parties": {
-        "Marcos Rogério": "",
-        "Adaílton Fúria": "",
-        "Hildon Chaves": ""
       }
     },
     {
@@ -10306,6 +10423,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta",
+      "collection_date": "2026-04-30",
+      "sample_size": 1006,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-2-27",
+      "candidates": {
+        "Alan Rick": 39.6,
+        "Mailza Assis": 16.5,
+        "Tião Bocalom": 18.9,
+        "Thor Dantas": 1.79
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -10349,31 +10491,6 @@
       "parties": {
         "Raquel Lyra": "PSD",
         "João Campos": "PSB"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta",
-      "collection_date": "2026-04-30",
-      "sample_size": 1006,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-2-25",
-      "candidates": {
-        "Alan Rick": 39.6,
-        "Mailza Assis": 16.5,
-        "Tião Bocalom": 18.9,
-        "Thor Dantas": 1.79
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -10477,6 +10594,104 @@
       }
     },
     {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Paulo Hartung|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-32",
+      "candidates": {
+        "Lorenzo Pazolini": 18,
+        "Magno Malta": 15,
+        "Paulo Hartung": 19,
+        "Ricardo Ferraço": 15,
+        "Helder Salomão": 7
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Magno Malta": "PL",
+        "Paulo Hartung": "PSD",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-32",
+      "candidates": {
+        "Lorenzo Pazolini": 20,
+        "Magno Malta": 18,
+        "Ricardo Ferraço": 24,
+        "Helder Salomão": 8
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Magno Malta": "PL",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Magno Malta|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-32",
+      "candidates": {
+        "Magno Malta": 24,
+        "Ricardo Ferraço": 32,
+        "Helder Salomão": 10
+      },
+      "parties": {
+        "Magno Malta": "PL",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-32",
+      "candidates": {
+        "Lorenzo Pazolini": 24,
+        "Ricardo Ferraço": 32,
+        "Helder Salomão": 9
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -10575,104 +10790,6 @@
       }
     },
     {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Paulo Hartung|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-30",
-      "candidates": {
-        "Lorenzo Pazolini": 18,
-        "Magno Malta": 15,
-        "Paulo Hartung": 19,
-        "Ricardo Ferraço": 15,
-        "Helder Salomão": 7
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Magno Malta": "PL",
-        "Paulo Hartung": "PSD",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-30",
-      "candidates": {
-        "Lorenzo Pazolini": 20,
-        "Magno Malta": 18,
-        "Ricardo Ferraço": 24,
-        "Helder Salomão": 8
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Magno Malta": "PL",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Magno Malta|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-30",
-      "candidates": {
-        "Magno Malta": 24,
-        "Ricardo Ferraço": 32,
-        "Helder Salomão": 10
-      },
-      "parties": {
-        "Magno Malta": "PL",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-30",
-      "candidates": {
-        "Lorenzo Pazolini": 24,
-        "Ricardo Ferraço": 32,
-        "Helder Salomão": 9
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -10724,108 +10841,92 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Genial/Quaest",
       "collection_date": "2026-04-28",
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-38",
+      "source_url": "#cite_note-Quaest-Abril-39",
       "candidates": {
         "Ciro Gomes": 41,
         "Elmano de Freitas": 32,
-        "Eduardo Girão": 4,
-        "Jarir Pereira": 1,
-        "Zé Batista": 0
+        "Eduardo Girão": 4
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão|Jarir Pereira|Zé Batista",
+      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Genial/Quaest",
       "collection_date": "2026-04-28",
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-38",
+      "source_url": "#cite_note-Quaest-Abril-39",
       "candidates": {
         "Ciro Gomes": 33,
         "Camilo Santana": 40,
-        "Eduardo Girão": 5,
-        "Jarir Pereira": 1,
-        "Zé Batista": 1
+        "Eduardo Girão": 5
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Camilo Santana": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Eduardo Girão|Elmano de Freitas|Jarir Pereira|Roberto Cláudio|Zé Batista",
+      "cenario": "Eduardo Girão|Elmano de Freitas|Roberto Cláudio",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Genial/Quaest",
       "collection_date": "2026-04-28",
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-38",
+      "source_url": "#cite_note-Quaest-Abril-39",
       "candidates": {
         "Elmano de Freitas": 39,
         "Roberto Cláudio": 16,
-        "Eduardo Girão": 8,
-        "Jarir Pereira": 2,
-        "Zé Batista": 1
+        "Eduardo Girão": 8
       },
       "parties": {
         "Elmano de Freitas": "PT",
         "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Camilo Santana|Eduardo Girão|Jarir Pereira|Roberto Cláudio|Zé Batista",
+      "cenario": "Camilo Santana|Eduardo Girão|Roberto Cláudio",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Genial/Quaest",
       "collection_date": "2026-04-28",
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-38",
+      "source_url": "#cite_note-Quaest-Abril-39",
       "candidates": {
         "Camilo Santana": 49,
         "Roberto Cláudio": 12,
-        "Eduardo Girão": 9,
-        "Jarir Pereira": 1,
-        "Zé Batista": 1
+        "Eduardo Girão": 9
       },
       "parties": {
         "Camilo Santana": "PT",
         "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -10847,31 +10948,6 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
-      }
-    },
-    {
-      "uf": "MS",
-      "estado": "Mato Grosso do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "cenario": "Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "IPR",
-      "collection_date": "2026-04-27",
-      "sample_size": 784,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-32",
-      "candidates": {
-        "Eduardo Riedel": 47.32,
-        "Fábio Trad": 16.45,
-        "João Henrique Catan": 6.76,
-        "Economista Renato Gomes": 3.7
-      },
-      "parties": {
-        "Eduardo Riedel": "PP",
-        "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -10897,6 +10973,31 @@
         "Mailza Assis": "PP",
         "Tião Bocalom": "PSDB",
         "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "IPR",
+      "collection_date": "2026-04-27",
+      "sample_size": 784,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-32",
+      "candidates": {
+        "Eduardo Riedel": 47.32,
+        "Fábio Trad": 16.45,
+        "João Henrique Catan": 6.76,
+        "Economista Renato Gomes": 3.7
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -10951,7 +11052,7 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Veritá",
       "collection_date": "2026-04-27",
@@ -10962,16 +11063,12 @@
       "candidates": {
         "Ciro Gomes": 54.2,
         "Elmano de Freitas": 35.2,
-        "Eduardo Girão": 9.5,
-        "Jarir Pereira": 0.7,
-        "Zé Batista": 0.3
+        "Eduardo Girão": 9.5
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -10985,7 +11082,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-45",
+      "source_url": "#cite_note-QuaestAbril-46",
       "candidates": {
         "Tarcísio": 38,
         "Haddad": 26,
@@ -11010,7 +11107,7 @@
       "sample_size": 1650,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-QuaestAbril-45",
+      "source_url": "#cite_note-QuaestAbril-46",
       "candidates": {
         "Tarcísio": 40,
         "Haddad": 28,
@@ -11436,7 +11533,7 @@
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-VoxAbril-46",
+      "source_url": "#cite_note-VoxAbril-47",
       "candidates": {
         "Tarcísio": 48.2,
         "Haddad": 32.3,
@@ -11488,7 +11585,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Allyson": 40.4,
         "Álvaro Dias": 18.6,
@@ -11551,33 +11648,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Exatus",
-      "collection_date": "2026-04-17",
-      "sample_size": 1518,
-      "margin_error": 2.51,
-      "tse_registration": "",
-      "source_url": "#cite_note-54",
-      "candidates": {
-        "Allyson": 37.29,
-        "Álvaro Dias": 24.91,
-        "Cadu de Lula": 10.74,
-        "Robério Paulino": 2.03,
-        "Dário Barbosa": 0.68
-      },
-      "parties": {
-        "Allyson": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Dário Barbosa": "PSTU"
-      }
-    },
-    {
       "uf": "RO",
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
@@ -11588,7 +11658,7 @@
       "sample_size": 1355,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Marcos Rogério": 29.45,
         "Adaílton Fúria": 16.61,
@@ -11605,6 +11675,33 @@
       }
     },
     {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Exatus",
+      "collection_date": "2026-04-17",
+      "sample_size": 1518,
+      "margin_error": 2.51,
+      "tse_registration": "",
+      "source_url": "#cite_note-56",
+      "candidates": {
+        "Allyson": 37.29,
+        "Álvaro Dias": 24.91,
+        "Cadu de Lula": 10.74,
+        "Robério Paulino": 2.03,
+        "Dário Barbosa": 0.68
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
       "uf": "ES",
       "estado": "Espírito Santo",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
@@ -11615,7 +11712,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Lorenzo Pazolini": 35.67,
         "Magno Malta": 12.61,
@@ -11640,7 +11737,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Lorenzo Pazolini": 39.11,
         "Ricardo Ferraço": 26.83,
@@ -11740,7 +11837,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Tarcísio": 47.8,
         "Haddad": 33.1,
@@ -11900,7 +11997,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Professora Dorinha": 12.38,
         "Laurez Moreira": 6,
@@ -11925,7 +12022,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Allyson": 27.8,
         "Álvaro Dias": 32.6,
@@ -12167,6 +12264,31 @@
       }
     },
     {
+      "uf": "RR",
+      "estado": "Roraima",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
+      "cenario": "Arthur Henrique|Doutor Raposo|Edilson Damião|Juscelino Kubitschek Pereira",
+      "secao": "Primeiro Turno (Governador) › 2026 › Março - Abril",
+      "institute": "Veritá",
+      "collection_date": "2026-04-04",
+      "sample_size": 1030,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-RO4-15",
+      "candidates": {
+        "Arthur Henrique": 42.6,
+        "Edilson Damião": 22.5,
+        "Juscelino Kubitschek Pereira": 4.2,
+        "Doutor Raposo": 1.6
+      },
+      "parties": {
+        "Arthur Henrique": "",
+        "Edilson Damião": "",
+        "Juscelino Kubitschek Pereira": "",
+        "Doutor Raposo": ""
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -12189,31 +12311,6 @@
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL"
-      }
-    },
-    {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Doutor Raposo|Edilson Damião|Juscelino Kubitschek Pereira",
-      "secao": "Primeiro Turno (Governador) › 2026 › Março - Abril",
-      "institute": "Veritá",
-      "collection_date": "2026-04-04",
-      "sample_size": 1030,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-RO4-14",
-      "candidates": {
-        "Arthur Henrique": 42.6,
-        "Edilson Damião": 22.5,
-        "Juscelino Kubitschek Pereira": 4.2,
-        "Doutor Raposo": 1.6
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Edilson Damião": "",
-        "Juscelino Kubitschek Pereira": "",
-        "Doutor Raposo": ""
       }
     },
     {
@@ -12787,7 +12884,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-40",
+      "source_url": "#cite_note-:6-46",
       "candidates": {
         "Ciro Gomes": 30,
         "Elmano de Freitas": 21,
@@ -12807,7 +12904,7 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-03-30",
@@ -12818,23 +12915,19 @@
       "candidates": {
         "Ciro Gomes": 46.6,
         "Elmano de Freitas": 33.9,
-        "Eduardo Girão": 6.1,
-        "Jarir Pereira": 0.9,
-        "Zé Batista": 0.5
+        "Eduardo Girão": 6.1
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "AtlasIntel",
       "collection_date": "2026-03-30",
@@ -12845,21 +12938,19 @@
       "candidates": {
         "Ciro Gomes": 46.2,
         "Elmano de Freitas": 42.6,
-        "Eduardo Girão": 5.3,
-        "Jarir Pereira": 1
+        "Eduardo Girão": 5.3
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Jarir Pereira|Roberto Cláudio",
+      "cenario": "Ciro Gomes|Eduardo Girão|Roberto Cláudio",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "AtlasIntel",
       "collection_date": "2026-03-30",
@@ -12870,21 +12961,19 @@
       "candidates": {
         "Ciro Gomes": 46,
         "Roberto Cláudio": 15.2,
-        "Eduardo Girão": 22.3,
-        "Jarir Pereira": 1.1
+        "Eduardo Girão": 22.3
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão|Jarir Pereira",
+      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "AtlasIntel",
       "collection_date": "2026-03-30",
@@ -12895,14 +12984,12 @@
       "candidates": {
         "Ciro Gomes": 46,
         "Camilo Santana": 48.8,
-        "Eduardo Girão": 5.4,
-        "Jarir Pereira": 0.7
+        "Eduardo Girão": 5.4
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Camilo Santana": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -12939,7 +13026,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-48",
+      "source_url": "#cite_note-:5-49",
       "candidates": {
         "Tarcísio": 49.1,
         "Haddad": 42.6,
@@ -12964,7 +13051,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-48",
+      "source_url": "#cite_note-:5-49",
       "candidates": {
         "Tarcísio": 48.8,
         "Tebet": 41.8,
@@ -12989,7 +13076,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-48",
+      "source_url": "#cite_note-:5-49",
       "candidates": {
         "Tarcísio": 49.4,
         "França": 32.2,
@@ -13014,7 +13101,7 @@
       "sample_size": 2200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-48",
+      "source_url": "#cite_note-:5-49",
       "candidates": {
         "Tarcísio": 48.4,
         "Alckmin": 41.4,
@@ -13039,7 +13126,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-59",
       "candidates": {
         "Allyson": 28.8,
         "Álvaro Dias": 37.2,
@@ -13207,50 +13294,46 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Real Time Big Data",
       "collection_date": "2026-03-28",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-50",
       "candidates": {
         "Ciro Gomes": 39,
         "Elmano de Freitas": 42,
-        "Eduardo Girão": 13,
-        "Jarir Pereira": 0
+        "Eduardo Girão": 13
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Eduardo Girão|Elmano de Freitas|Jarir Pereira|Roberto Cláudio",
+      "cenario": "Eduardo Girão|Elmano de Freitas|Roberto Cláudio",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Real Time Big Data",
       "collection_date": "2026-03-28",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-50",
       "candidates": {
         "Elmano de Freitas": 45,
         "Roberto Cláudio": 27,
-        "Eduardo Girão": 15,
-        "Jarir Pereira": 1
+        "Eduardo Girão": 15
       },
       "parties": {
         "Elmano de Freitas": "PT",
         "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -13264,7 +13347,7 @@
       "sample_size": 1700,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-58",
+      "source_url": "#cite_note-:3-60",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 20.6,
@@ -13287,7 +13370,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-33",
+      "source_url": "#cite_note-:2-35",
       "candidates": {
         "Lorenzo Pazolini": 17,
         "Magno Malta": 18,
@@ -13312,7 +13395,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-33",
+      "source_url": "#cite_note-:2-35",
       "candidates": {
         "Lorenzo Pazolini": 21,
         "Ricardo Ferraço": 33,
@@ -13335,7 +13418,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-33",
+      "source_url": "#cite_note-:2-35",
       "candidates": {
         "Ricardo Ferraço": 36,
         "Arnaldinho Borgo": 11,
@@ -13358,7 +13441,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-33",
+      "source_url": "#cite_note-:2-35",
       "candidates": {
         "Magno Malta": 22,
         "Ricardo Ferraço": 25,
@@ -13366,6 +13449,33 @@
         "Helder Salomão": 10
       },
       "parties": {
+        "Magno Malta": "PL",
+        "Ricardo Ferraço": "MDB",
+        "Arnaldinho Borgo": "PSDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Arnaldinho Borgo|Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Veritá",
+      "collection_date": "2026-03-24",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Veritá1-33",
+      "candidates": {
+        "Lorenzo Pazolini": 32,
+        "Magno Malta": 19.3,
+        "Ricardo Ferraço": 22.3,
+        "Arnaldinho Borgo": 7.1,
+        "Helder Salomão": 19
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
         "Magno Malta": "PL",
         "Ricardo Ferraço": "MDB",
         "Arnaldinho Borgo": "PSDB",
@@ -13398,6 +13508,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-24",
+      "sample_size": 1030,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Alan Rick": 41.3,
+        "Mailza Assis": 25,
+        "Tião Bocalom": 26,
+        "Thor Dantas": 7.7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -13408,7 +13543,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-41",
+      "source_url": "#cite_note-:3-43",
       "candidates": {
         "Professora Dorinha": 35,
         "Laurez Moreira": 18,
@@ -13435,7 +13570,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-41",
+      "source_url": "#cite_note-:3-43",
       "candidates": {
         "Professora Dorinha": 39,
         "Laurez Moreira": 20,
@@ -13460,7 +13595,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-41",
+      "source_url": "#cite_note-:3-43",
       "candidates": {
         "Professora Dorinha": 40,
         "Laurez Moreira": 23,
@@ -13470,31 +13605,6 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-03-24",
-      "sample_size": 1030,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Alan Rick": 41.3,
-        "Mailza Assis": 25,
-        "Tião Bocalom": 26,
-        "Thor Dantas": 7.7
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -13523,37 +13633,10 @@
       }
     },
     {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Arnaldinho Borgo|Helder Salomão|Lorenzo Pazolini|Magno Malta|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-03-24",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-31",
-      "candidates": {
-        "Lorenzo Pazolini": 32,
-        "Magno Malta": 19.3,
-        "Ricardo Ferraço": 22.3,
-        "Arnaldinho Borgo": 7.1,
-        "Helder Salomão": 19
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Magno Malta": "PL",
-        "Ricardo Ferraço": "MDB",
-        "Arnaldinho Borgo": "PSDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Veritá",
       "collection_date": "2026-03-24",
@@ -13564,14 +13647,12 @@
       "candidates": {
         "Ciro Gomes": 47.3,
         "Elmano de Freitas": 38.8,
-        "Eduardo Girão": 12.5,
-        "Jarir Pereira": 1.3
+        "Eduardo Girão": 12.5
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -13683,7 +13764,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-3-29",
+      "source_url": "#cite_note-:-3-31",
       "candidates": {
         "Alan Rick": 40.36,
         "Mailza Assis": 20.78,
@@ -13806,7 +13887,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO2-25",
+      "source_url": "#cite_note-RO2-27",
       "candidates": {
         "Marcos Rogério": 31.8,
         "Léo Moraes": 16.5,
@@ -13835,7 +13916,7 @@
       "sample_size": 3025,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-50",
+      "source_url": "#cite_note-Veritá1-51",
       "candidates": {
         "Tarcísio": 41.1,
         "Haddad": 27.7,
@@ -13908,7 +13989,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-59",
+      "source_url": "#cite_note-:2-61",
       "candidates": {
         "Allyson": 29.24,
         "Álvaro Dias": 31.18,
@@ -14070,7 +14151,7 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Datafolha",
       "collection_date": "2026-03-18",
@@ -14081,23 +14162,19 @@
       "candidates": {
         "Ciro Gomes": 47,
         "Elmano de Freitas": 32,
-        "Eduardo Girão": 5,
-        "Jarir Pereira": 2,
-        "Zé Batista": 2
+        "Eduardo Girão": 5
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Jarir Pereira|Roberto Cláudio|Zé Batista",
+      "cenario": "Ciro Gomes|Eduardo Girão|Roberto Cláudio",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Datafolha",
       "collection_date": "2026-03-18",
@@ -14108,16 +14185,12 @@
       "candidates": {
         "Ciro Gomes": 42,
         "Roberto Cláudio": 20,
-        "Eduardo Girão": 14,
-        "Jarir Pereira": 4,
-        "Zé Batista": 2
+        "Eduardo Girão": 14
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL",
-        "Zé Batista": "PSTU"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -14362,7 +14435,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-34",
+      "source_url": "#cite_note-:3-36",
       "candidates": {
         "Lorenzo Pazolini": 35,
         "Ricardo Ferraço": 35,
@@ -14385,7 +14458,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-34",
+      "source_url": "#cite_note-:3-36",
       "candidates": {
         "Lorenzo Pazolini": 27,
         "Magno Malta": 15,
@@ -14410,7 +14483,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-34",
+      "source_url": "#cite_note-:3-36",
       "candidates": {
         "Magno Malta": 17,
         "Ricardo Ferraço": 34,
@@ -14600,6 +14673,52 @@
       }
     },
     {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-03-11",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-37",
+      "candidates": {
+        "Lorenzo Pazolini": 42,
+        "Ricardo Ferraço": 36.1,
+        "Helder Salomão": 9.1
+      },
+      "parties": {
+        "Lorenzo Pazolini": "Republicanos",
+        "Ricardo Ferraço": "MDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
+      "uf": "ES",
+      "estado": "Espírito Santo",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
+      "cenario": "Arnaldinho Borgo|Helder Salomão|Ricardo Ferraço",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-03-11",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-37",
+      "candidates": {
+        "Ricardo Ferraço": 45.3,
+        "Arnaldinho Borgo": 19.1,
+        "Helder Salomão": 10.9
+      },
+      "parties": {
+        "Ricardo Ferraço": "MDB",
+        "Arnaldinho Borgo": "PSDB",
+        "Helder Salomão": "PT"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -14645,52 +14764,6 @@
         "Jerônimo": "PT",
         "José Carlos Aleluia": "NOVO",
         "Ronaldo Mansur": "PSOL"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Helder Salomão|Lorenzo Pazolini|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-03-11",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-35",
-      "candidates": {
-        "Lorenzo Pazolini": 42,
-        "Ricardo Ferraço": 36.1,
-        "Helder Salomão": 9.1
-      },
-      "parties": {
-        "Lorenzo Pazolini": "Republicanos",
-        "Ricardo Ferraço": "MDB",
-        "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "ES",
-      "estado": "Espírito Santo",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "cenario": "Arnaldinho Borgo|Helder Salomão|Ricardo Ferraço",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-03-11",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-35",
-      "candidates": {
-        "Ricardo Ferraço": 45.3,
-        "Arnaldinho Borgo": 19.1,
-        "Helder Salomão": 10.9
-      },
-      "parties": {
-        "Ricardo Ferraço": "MDB",
-        "Arnaldinho Borgo": "PSDB",
-        "Helder Salomão": "PT"
       }
     },
     {
@@ -14835,7 +14908,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Tarcísio": 47,
         "Haddad": 31,
@@ -14860,7 +14933,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Tarcísio": 44,
         "Alckmin": 33,
@@ -14885,7 +14958,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 21,
@@ -14910,7 +14983,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Tarcísio": 48,
         "França": 23,
@@ -14935,7 +15008,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Tarcísio": 43,
         "Derrite": 18,
@@ -14987,7 +15060,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-52",
+      "source_url": "#cite_note-:3-53",
       "candidates": {
         "Tarcísio": 44,
         "Haddad": 31,
@@ -15014,7 +15087,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-52",
+      "source_url": "#cite_note-:3-53",
       "candidates": {
         "Tarcísio": 46,
         "Alckmin": 26,
@@ -15041,7 +15114,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-52",
+      "source_url": "#cite_note-:3-53",
       "candidates": {
         "Tarcísio": 44,
         "França": 5,
@@ -15070,7 +15143,7 @@
       "sample_size": 1608,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-52",
+      "source_url": "#cite_note-:3-53",
       "candidates": {
         "Tarcísio": 49,
         "Tebet": 19,
@@ -15207,7 +15280,7 @@
       "sample_size": 1201,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Marcos Rogério": 16.7,
         "Adaílton Fúria": 26.9,
@@ -15473,7 +15546,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Tarcísio": 51,
         "Haddad": 27.7,
@@ -15500,7 +15573,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Tarcísio": 48.5,
         "Alckmin": 29.9,
@@ -15527,7 +15600,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Tarcísio": 52.8,
         "França": 18.5,
@@ -15554,7 +15627,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-54",
       "candidates": {
         "França": 24.2,
         "Nunes": 36,
@@ -15581,7 +15654,7 @@
       "sample_size": 1580,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-54",
       "candidates": {
         "França": 29.2,
         "Serra": 10.7,
@@ -15820,7 +15893,7 @@
       "sample_size": 22820,
       "margin_error": 3.47,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-42",
+      "source_url": "#cite_note-:1-44",
       "candidates": {
         "Professora Dorinha": 22.93,
         "Laurez Moreira": 9.72,
@@ -15866,7 +15939,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Professora Dorinha": 36.31,
         "Laurez Moreira": 5.25,
@@ -15963,7 +16036,7 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas|Jarir Pereira",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-01-21",
@@ -15974,14 +16047,12 @@
       "candidates": {
         "Ciro Gomes": 44.8,
         "Elmano de Freitas": 34.2,
-        "Eduardo Girão": 7.9,
-        "Jarir Pereira": 1.6
+        "Eduardo Girão": 7.9
       },
       "parties": {
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO",
-        "Jarir Pereira": "PSOL"
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -15995,7 +16066,7 @@
       "sample_size": 1602,
       "margin_error": 3.45,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Marcos Rogério": 18.7,
         "Adaílton Fúria": 21.3,
@@ -16297,7 +16368,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-63",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 26,
@@ -16320,7 +16391,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-63",
       "candidates": {
         "Allyson": 39,
         "Álvaro Dias": 15,
@@ -16343,7 +16414,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-63",
       "candidates": {
         "Allyson": 34,
         "Rogério Marinho": 15,
@@ -16462,7 +16533,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-62",
+      "source_url": "#cite_note-:0-64",
       "candidates": {
         "Allyson": 38.6,
         "Rogério Marinho": 19,
@@ -16485,7 +16556,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-62",
+      "source_url": "#cite_note-:0-64",
       "candidates": {
         "Allyson": 38.2,
         "Álvaro Dias": 15.1,
@@ -16508,7 +16579,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-62",
+      "source_url": "#cite_note-:0-64",
       "candidates": {
         "Allyson": 35.9,
         "Rogério Marinho": 15.6,
@@ -16531,7 +16602,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-30",
+      "source_url": "#cite_note-AC01-32",
       "candidates": {
         "Alan Rick": 40,
         "Tião Bocalom": 24,
@@ -16556,7 +16627,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-30",
+      "source_url": "#cite_note-AC01-32",
       "candidates": {
         "Alan Rick": 51,
         "Mailza Assis": 21,
@@ -16579,7 +16650,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-30",
+      "source_url": "#cite_note-AC01-32",
       "candidates": {
         "Alan Rick": 46,
         "Tião Bocalom": 30,
@@ -16602,7 +16673,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-30",
+      "source_url": "#cite_note-RO1-32",
       "candidates": {
         "Fernando Máximo": 22,
         "Ivo Cassol": 22,
@@ -16633,7 +16704,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-30",
+      "source_url": "#cite_note-RO1-32",
       "candidates": {
         "Ivo Cassol": 23,
         "Marcos Rogério": 19,
@@ -16664,7 +16735,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-30",
+      "source_url": "#cite_note-RO1-32",
       "candidates": {
         "Fernando Máximo": 26,
         "Adaílton Fúria": 22,
@@ -16693,7 +16764,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-30",
+      "source_url": "#cite_note-RO1-32",
       "candidates": {
         "Marcos Rogério": 23,
         "Adaílton Fúria": 23,
@@ -16862,7 +16933,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-15",
+      "source_url": "#cite_note-RR01-16",
       "candidates": {
         "Arthur Henrique": 33,
         "Edilson Damião": 28,
@@ -16889,7 +16960,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-15",
+      "source_url": "#cite_note-RR01-16",
       "candidates": {
         "Arthur Henrique": 37,
         "Edilson Damião": 35,
@@ -16912,7 +16983,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-15",
+      "source_url": "#cite_note-RR01-16",
       "candidates": {
         "Teresa Surita": 42,
         "Edilson Damião": 33,
@@ -16991,7 +17062,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-64",
+      "source_url": "#cite_note-:1-66",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 34,
@@ -17014,7 +17085,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-64",
+      "source_url": "#cite_note-:1-66",
       "candidates": {
         "Allyson": 42,
         "Álvaro Dias": 17,
@@ -17131,7 +17202,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Tarcísio": 45,
         "Alckmin": 26,
@@ -17160,7 +17231,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Tarcísio": 49,
         "Hilton": 8,
@@ -17189,7 +17260,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Tarcísio": 50,
         "França": 18,
@@ -17218,7 +17289,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Derrite": 25,
         "Hilton": 8,
@@ -17247,7 +17318,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Nunes": 28,
         "Hilton": 8,
@@ -17276,7 +17347,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Hilton": 8,
         "Haddad": 29,
@@ -17305,7 +17376,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Hilton": 8,
         "Haddad": 33,
@@ -17334,7 +17405,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Derrite": 18,
         "Nunes": 18,
@@ -17388,7 +17459,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-34",
+      "source_url": "#cite_note-:3-38",
       "candidates": {
         "Wellington Fagundes": 43,
         "Otaviano Pivetta": 17
@@ -17409,7 +17480,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-34",
+      "source_url": "#cite_note-:3-38",
       "candidates": {
         "Wellington Fagundes": 44,
         "Otaviano Pivetta": 18,
@@ -17432,7 +17503,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-34",
+      "source_url": "#cite_note-:3-38",
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 15,
@@ -17896,7 +17967,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Professora Dorinha": 29,
         "Eduardo Gomes": 29,
@@ -17921,7 +17992,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-16",
+      "source_url": "#cite_note-RR02-17",
       "candidates": {
         "Teresa Surita": 33,
         "Edilson Damião": 23,
@@ -17948,7 +18019,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-16",
+      "source_url": "#cite_note-RR02-17",
       "candidates": {
         "Arthur Henrique": 31,
         "Edilson Damião": 25,
@@ -17975,7 +18046,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-16",
+      "source_url": "#cite_note-RR02-17",
       "candidates": {
         "Edilson Damião": 28,
         "Soldado Sampaio": 14,
@@ -18002,7 +18073,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-55",
+      "source_url": "#cite_note-:2-56",
       "candidates": {
         "Tarcísio": 48.3,
         "Alckmin": 22.7,
@@ -18029,7 +18100,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-55",
+      "source_url": "#cite_note-:2-56",
       "candidates": {
         "Tarcísio": 50.1,
         "Hilton": 8.8,
@@ -18056,7 +18127,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-55",
+      "source_url": "#cite_note-:2-56",
       "candidates": {
         "Tarcísio": 52.7,
         "França": 12.6,
@@ -18085,7 +18156,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-55",
+      "source_url": "#cite_note-:2-56",
       "candidates": {
         "França": 17.6,
         "Nunes": 32.7,
@@ -18116,7 +18187,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-55",
+      "source_url": "#cite_note-:2-56",
       "candidates": {
         "França": 22.4,
         "Hilton": 13.9,
@@ -18145,7 +18216,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-55",
+      "source_url": "#cite_note-:2-56",
       "candidates": {
         "França": 24,
         "Hilton": 14.5,
@@ -18174,7 +18245,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-55",
+      "source_url": "#cite_note-:2-56",
       "candidates": {
         "França": 24.2,
         "Hilton": 14.4,
@@ -18287,7 +18358,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Tarcísio": 52,
         "França": 16,
@@ -18314,7 +18385,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Tarcísio": 47,
         "Alckmin": 26,
@@ -18341,7 +18412,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-57",
       "candidates": {
         "França": 20,
         "Nunes": 34,
@@ -18368,7 +18439,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-57",
       "candidates": {
         "França": 27,
         "Hilton": 10,
@@ -18395,7 +18466,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Alckmin": 31,
         "Nunes": 30,
@@ -18474,7 +18545,7 @@
       "sample_size": 1505,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-65",
+      "source_url": "#cite_note-:-1-67",
       "candidates": {
         "Allyson": 30,
         "Rogério Marinho": 28.2,
@@ -18499,7 +18570,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-57",
+      "source_url": "#cite_note-:1-58",
       "candidates": {
         "Tarcísio": 47.3,
         "França": 18.2,
@@ -18526,7 +18597,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-57",
+      "source_url": "#cite_note-:1-58",
       "candidates": {
         "Tarcísio": 48.6,
         "Alckmin": 34.2,
@@ -18553,7 +18624,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-57",
+      "source_url": "#cite_note-:1-58",
       "candidates": {
         "Manga": 10.8,
         "Alckmin": 39.4,
@@ -18584,7 +18655,7 @@
       "sample_size": 2059,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-57",
+      "source_url": "#cite_note-:1-58",
       "candidates": {
         "Manga": 8.2,
         "Derrite": 23.2,
@@ -18611,7 +18682,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-58",
+      "source_url": "#cite_note-:0-59",
       "candidates": {
         "Tarcísio": 43.8,
         "Manga": 4.7,
@@ -18642,7 +18713,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-58",
+      "source_url": "#cite_note-:0-59",
       "candidates": {
         "Tarcísio": 47.7,
         "Manga": 4.9,
@@ -18673,7 +18744,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-58",
+      "source_url": "#cite_note-:0-59",
       "candidates": {
         "Tarcísio": 46.1,
         "Manga": 4.9,
@@ -18704,7 +18775,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-58",
+      "source_url": "#cite_note-:0-59",
       "candidates": {
         "Manga": 8.6,
         "França": 14.2,
@@ -18733,7 +18804,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-58",
+      "source_url": "#cite_note-:0-59",
       "candidates": {
         "Manga": 9.9,
         "França": 18,
@@ -18764,7 +18835,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-58",
+      "source_url": "#cite_note-:0-59",
       "candidates": {
         "Manga": 10.4,
         "França": 19.8,
@@ -18793,7 +18864,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-58",
+      "source_url": "#cite_note-:0-59",
       "candidates": {
         "Manga": 10.3,
         "França": 19.8,
@@ -18824,7 +18895,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Alan Rick": 35,
         "Tião Bocalom": 23,
@@ -18849,7 +18920,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Alan Rick": 44,
         "Mailza Assis": 18,
@@ -18872,7 +18943,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Alan Rick": 38,
         "Tião Bocalom": 27,
@@ -18922,7 +18993,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-59",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Tarcísio": 43,
         "Alckmin": 21,
@@ -19276,7 +19347,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Tarcísio": 42.1,
         "Manga": 4.8,
@@ -19307,7 +19378,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Tarcísio": 46.5,
         "Manga": 5.4,
@@ -19338,7 +19409,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Manga": 8.7,
         "França": 16.2,
@@ -19369,7 +19440,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Manga": 11.7,
         "França": 20.6,
@@ -19400,7 +19471,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Manga": 11.6,
         "França": 21.8,
@@ -19431,7 +19502,7 @@
       "sample_size": 1700,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Manga": 11.4,
         "França": 21.8,
@@ -19533,7 +19604,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-62",
       "candidates": {
         "Tarcísio": 37.8,
         "Alckmin": 24.7,
@@ -19560,7 +19631,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-62",
       "candidates": {
         "Tarcísio": 40.3,
         "França": 12.7,
@@ -19587,7 +19658,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-62",
       "candidates": {
         "Tarcísio": 48.6,
         "França": 16.6,
@@ -19612,7 +19683,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-62",
       "candidates": {
         "França": 17,
         "Nunes": 27,
@@ -19639,7 +19710,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-62",
       "candidates": {
         "França": 21.6,
         "Nunes": 35.8,
@@ -19664,7 +19735,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-62",
       "candidates": {
         "Manga": 9.5,
         "França": 18.8,
@@ -19693,7 +19764,7 @@
       "sample_size": 1650,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-62",
       "candidates": {
         "Manga": 9.8,
         "França": 19.3,
@@ -19722,7 +19793,7 @@
       "sample_size": 1644,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-62",
+      "source_url": "#cite_note-63",
       "candidates": {
         "Tarcísio": 38,
         "França": 6,
@@ -19793,7 +19864,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Tarcísio": 40.5,
         "França": 12.6,
@@ -19820,7 +19891,7 @@
       "sample_size": 1684,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-64",
       "candidates": {
         "França": 14.6,
         "Nunes": 27.2,
