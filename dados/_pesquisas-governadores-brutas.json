@@ -1,6 +1,33 @@
 {
-  "atualizado_em": "2026-09-01",
+  "atualizado_em": "2026-09-02",
   "pesquisas": [
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Qualittá",
+      "collection_date": "2026-08-31",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Allyson": 40.1,
+        "Álvaro Dias": 18.3,
+        "Cadu de Lula": 19.4,
+        "Robério Paulino": 0.5,
+        "Dário Barbosa": 0.5
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Dário Barbosa": "PSTU"
+      }
+    },
     {
       "uf": "ES",
       "estado": "Espírito Santo",
@@ -57,12 +84,33 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
       "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Índice",
+      "collection_date": "2026-08-29",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-12",
+      "candidates": {
+        "JHC": 47.6,
+        "Renan Filho": 35.6
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-08-29",
       "sample_size": 1400,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-12",
+      "source_url": "#cite_note-:11-14",
       "candidates": {
         "JHC": 47.2,
         "Renan Filho": 41.3
@@ -76,7 +124,7 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "IGAPE",
       "collection_date": "2026-08-29",
@@ -88,7 +136,7 @@
         "Celina Leão": 35.4,
         "Arruda": 24.5,
         "Leandro Grass": 10.7,
-        "Ricardo Cappelli": 3.8,
+        "Cappelli": 3.8,
         "Paula Belmonte": 4.8,
         "Kiko Caputo": 2.5
       },
@@ -96,9 +144,36 @@
         "Celina Leão": "PP",
         "Arruda": "PSD",
         "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
+        "Cappelli": "PSB",
         "Paula Belmonte": "PSDB",
         "Kiko Caputo": "NOVO"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "IPSensus",
+      "collection_date": "2026-08-29",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-14",
+      "candidates": {
+        "Eduardo Braide": 36.4,
+        "Orleans Brandão": 42.3,
+        "Felipe Camarão": 6.3,
+        "Roberto Rocha": 4.4,
+        "André Luís": 1.3
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB",
+        "André Luís": "MISSÃO"
       }
     },
     {
@@ -156,6 +231,74 @@
       }
     },
     {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-28",
+      "sample_size": 2000,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:14-13",
+      "candidates": {
+        "Eduardo Paes": 35,
+        "Douglas Ruas": 21,
+        "Anthony Garotinho": 7,
+        "André Marinho": 1,
+        "Coronel Busnello": 4,
+        "William Siri": 5,
+        "Cyro Garcia": 1,
+        "Juliete Pantoja": 1,
+        "Luan Monteiro": 0
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "Anthony Garotinho": "Republicanos",
+        "André Marinho": "NOVO",
+        "Coronel Busnello": "MISSÃO",
+        "William Siri": "PSOL",
+        "Cyro Garcia": "PSTU",
+        "Juliete Pantoja": "UP",
+        "Luan Monteiro": "PCO"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-28",
+      "sample_size": 2000,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:14-13",
+      "candidates": {
+        "Eduardo Paes": 36,
+        "Douglas Ruas": 23,
+        "André Marinho": 4,
+        "Coronel Busnello": 5,
+        "William Siri": 5,
+        "Cyro Garcia": 1,
+        "Juliete Pantoja": 1,
+        "Luan Monteiro": 0
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Coronel Busnello": "MISSÃO",
+        "William Siri": "PSOL",
+        "Cyro Garcia": "PSTU",
+        "Juliete Pantoja": "UP",
+        "Luan Monteiro": "PCO"
+      }
+    },
+    {
       "uf": "RO",
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
@@ -166,16 +309,20 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-8",
+      "source_url": "#cite_note-:3-8",
       "candidates": {
         "Marcos Rogério": 40.7,
         "Adaílton Fúria": 22.4,
-        "Expedito Netto": 10.3
+        "Expedito Netto": 10.3,
+        "Hildon Chaves": 10.2,
+        "Samuel Costa": 0.8
       },
       "parties": {
         "Marcos Rogério": "",
         "Adaílton Fúria": "",
-        "Expedito Netto": ""
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
       }
     },
     {
@@ -370,6 +517,29 @@
       }
     },
     {
+      "uf": "PI",
+      "estado": "Piauí",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
+      "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "DataTrends",
+      "collection_date": "2026-08-27",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-11",
+      "candidates": {
+        "Rafael Fonteles": 57,
+        "Joel Rodrigues": 23,
+        "Gisvaldo Oliveira": 1
+      },
+      "parties": {
+        "Rafael Fonteles": "PT",
+        "Joel Rodrigues": "PP",
+        "Gisvaldo Oliveira": "PSOL"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -380,7 +550,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Allyson": 39.1,
         "Álvaro Dias": 14.5,
@@ -595,7 +765,7 @@
       "sample_size": 2600,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Eduardo Braide": 42.54,
         "Orleans Brandão": 42.08,
@@ -687,6 +857,27 @@
       }
     },
     {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Falpe",
+      "collection_date": "2026-08-25",
+      "sample_size": 5000,
+      "margin_error": 1.39,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-V-16",
+      "candidates": {
+        "JHC": 37.5,
+        "Renan Filho": 41.25
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -768,7 +959,7 @@
       "sample_size": 900,
       "margin_error": 3.27,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Eduardo Braide": 36.6,
         "Orleans Brandão": 41.1,
@@ -795,7 +986,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Allyson": 37.21,
         "Álvaro Dias": 24.07,
@@ -824,7 +1015,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Allyson": 34.94,
         "Álvaro Dias": 25.85,
@@ -920,7 +1111,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-18",
       "candidates": {
         "JHC": 46.41,
         "Renan Filho": 33.88
@@ -984,7 +1175,7 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Genial/Quaest",
       "collection_date": "2026-08-24",
@@ -996,7 +1187,7 @@
         "Celina Leão": 34,
         "Arruda": 20,
         "Leandro Grass": 13,
-        "Ricardo Cappelli": 3,
+        "Cappelli": 3,
         "Paula Belmonte": 3,
         "Kiko Caputo": 2
       },
@@ -1004,7 +1195,7 @@
         "Celina Leão": "PP",
         "Arruda": "PSD",
         "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
+        "Cappelli": "PSB",
         "Paula Belmonte": "PSDB",
         "Kiko Caputo": "NOVO"
       }
@@ -1109,12 +1300,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
       "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Genial/Quaest",
+      "institute": "Quaest",
       "collection_date": "2026-08-24",
       "sample_size": 1302,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-13",
+      "source_url": "#cite_note-:13-14",
       "candidates": {
         "Eduardo Paes": 37,
         "Douglas Ruas": 14,
@@ -1149,7 +1340,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-15",
       "candidates": {
         "Eduardo Paes": 44.5,
         "Douglas Ruas": 15.5,
@@ -1184,7 +1375,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-15",
       "candidates": {
         "Eduardo Paes": 48.3,
         "Douglas Ruas": 18.6,
@@ -1292,7 +1483,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-20",
       "candidates": {
         "JHC": 55,
         "Renan Filho": 42.6
@@ -1313,7 +1504,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-18",
+      "source_url": "#cite_note-:10-22",
       "candidates": {
         "JHC": 40,
         "Renan Filho": 42
@@ -1359,7 +1550,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25,
@@ -1469,7 +1660,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Eduardo Paes": 34.9,
         "Douglas Ruas": 14.7,
@@ -1504,7 +1695,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-15",
+      "source_url": "#cite_note-:9-16",
       "candidates": {
         "Allyson": 25,
         "Álvaro Dias": 19,
@@ -1647,7 +1838,7 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "IGAPE",
       "collection_date": "2026-08-22",
@@ -1659,7 +1850,7 @@
         "Celina Leão": 33.9,
         "Arruda": 24.1,
         "Leandro Grass": 10.3,
-        "Ricardo Cappelli": 3.7,
+        "Cappelli": 3.7,
         "Paula Belmonte": 4.1,
         "Kiko Caputo": 2.5
       },
@@ -1667,9 +1858,36 @@
         "Celina Leão": "PP",
         "Arruda": "PSD",
         "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
+        "Cappelli": "PSB",
         "Paula Belmonte": "PSDB",
         "Kiko Caputo": "NOVO"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Well Macêdo",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Veritate",
+      "collection_date": "2026-08-22",
+      "sample_size": 1400,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "#cite_note-:34-13",
+      "candidates": {
+        "Hana Ghassan": 28.6,
+        "Daniel Santos": 35.6,
+        "Araceli Lemos": 2.3,
+        "Gal Leite": 1.1,
+        "José Moita": 2.1
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Gal Leite": "UP",
+        "José Moita": "Democrata"
       }
     },
     {
@@ -1749,7 +1967,7 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Datafolha",
       "collection_date": "2026-08-21",
@@ -1761,7 +1979,7 @@
         "Celina Leão": 30,
         "Arruda": 28,
         "Leandro Grass": 11,
-        "Ricardo Cappelli": 3,
+        "Cappelli": 3,
         "Paula Belmonte": 4,
         "Kiko Caputo": 2
       },
@@ -1769,7 +1987,7 @@
         "Celina Leão": "PP",
         "Arruda": "PSD",
         "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
+        "Cappelli": "PSB",
         "Paula Belmonte": "PSDB",
         "Kiko Caputo": "NOVO"
       }
@@ -1902,7 +2120,7 @@
       "sample_size": 1204,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-16",
+      "source_url": "#cite_note-:11-17",
       "candidates": {
         "Eduardo Paes": 41,
         "Douglas Ruas": 19,
@@ -1987,7 +2205,7 @@
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Eduardo Braide": 37.84,
         "Orleans Brandão": 41.01,
@@ -2164,7 +2382,7 @@
       "sample_size": 1197,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:32-13",
+      "source_url": "#cite_note-:32-16",
       "candidates": {
         "Hana Ghassan": 48.6,
         "Daniel Santos": 40.5,
@@ -2242,7 +2460,7 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-18",
@@ -2254,14 +2472,14 @@
         "Celina Leão": 34,
         "Arruda": 32,
         "Leandro Grass": 18,
-        "Ricardo Cappelli": 5,
+        "Cappelli": 5,
         "Paula Belmonte": 6
       },
       "parties": {
         "Celina Leão": "PP",
         "Arruda": "PSD",
         "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
+        "Cappelli": "PSB",
         "Paula Belmonte": "PSDB"
       }
     },
@@ -2269,7 +2487,7 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-18",
@@ -2280,13 +2498,13 @@
       "candidates": {
         "Celina Leão": 45,
         "Leandro Grass": 20,
-        "Ricardo Cappelli": 10,
+        "Cappelli": 10,
         "Paula Belmonte": 6
       },
       "parties": {
         "Celina Leão": "PP",
         "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
+        "Cappelli": "PSB",
         "Paula Belmonte": "PSDB"
       }
     },
@@ -2301,7 +2519,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Allyson": 31.33,
         "Álvaro Dias": 17.93,
@@ -2330,7 +2548,7 @@
       "sample_size": 2100,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Allyson": 41.8,
         "Álvaro Dias": 26.3,
@@ -2353,7 +2571,7 @@
       "sample_size": 961,
       "margin_error": 3.2,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Marcos Rogério": 28.2,
         "Adaílton Fúria": 19.35,
@@ -2570,7 +2788,7 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "IGAPE",
       "collection_date": "2026-08-15",
@@ -2582,7 +2800,7 @@
         "Celina Leão": 33.4,
         "Arruda": 23.7,
         "Leandro Grass": 9.4,
-        "Ricardo Cappelli": 3.5,
+        "Cappelli": 3.5,
         "Paula Belmonte": 4.3,
         "Kiko Caputo": 2.8
       },
@@ -2590,7 +2808,7 @@
         "Celina Leão": "PP",
         "Arruda": "PSD",
         "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
+        "Cappelli": "PSB",
         "Paula Belmonte": "PSDB",
         "Kiko Caputo": "NOVO"
       }
@@ -2631,7 +2849,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:31-18",
+      "source_url": "#cite_note-:31-21",
       "candidates": {
         "Hana Ghassan": 35.1,
         "Daniel Santos": 30.2,
@@ -2752,7 +2970,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 26.4,
@@ -2781,7 +2999,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Rafael Fonteles": 50.6,
         "Joel Rodrigues": 16.3,
@@ -2914,7 +3132,7 @@
       "sample_size": 1137,
       "margin_error": 2.85,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Rafael Fonteles": 73.84,
         "Joel Rodrigues": 19.21,
@@ -2939,7 +3157,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Allyson": 37.31,
         "Álvaro Dias": 26.48,
@@ -3041,7 +3259,7 @@
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Eduardo Braide": 39.1,
         "Orleans Brandão": 47.5,
@@ -3191,7 +3409,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-24",
+      "source_url": "#cite_note-:0-26",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25.9,
@@ -3241,7 +3459,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Allyson": 30.18,
         "Álvaro Dias": 27.65,
@@ -3295,7 +3513,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Allyson": 39.5,
         "Álvaro Dias": 23.7,
@@ -3324,7 +3542,7 @@
       "sample_size": 1536,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Allyson": 34.2,
         "Álvaro Dias": 24,
@@ -3432,7 +3650,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Allyson": 26.2,
         "Álvaro Dias": 16.3,
@@ -3459,7 +3677,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:30-24",
+      "source_url": "#cite_note-:30-27",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 31,
@@ -3536,7 +3754,7 @@
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Rafael Fonteles": 75.69,
         "Joel Rodrigues": 18.99,
@@ -3561,7 +3779,7 @@
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Rafael Fonteles": 56.53,
         "Joel Rodrigues": 26.5,
@@ -3681,7 +3899,7 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Correio/Opinião",
       "collection_date": "2026-07-30",
@@ -3693,7 +3911,7 @@
         "Celina Leão": 32.4,
         "Arruda": 24,
         "Leandro Grass": 9.8,
-        "Ricardo Cappelli": 4.3,
+        "Cappelli": 4.3,
         "Paula Belmonte": 3.5,
         "Kiko Caputo": 0.8
       },
@@ -3701,7 +3919,7 @@
         "Celina Leão": "PP",
         "Arruda": "PSD",
         "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
+        "Cappelli": "PSB",
         "Paula Belmonte": "PSDB",
         "Kiko Caputo": "NOVO"
       }
@@ -3763,7 +3981,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-20",
+      "source_url": "#cite_note-:0-21",
       "candidates": {
         "Eduardo Paes": 48.6,
         "Douglas Ruas": 11.1,
@@ -4054,7 +4272,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Eduardo Paes": 34.5,
         "Douglas Ruas": 10.9,
@@ -4083,7 +4301,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Eduardo Paes": 34.5,
         "Douglas Ruas": 10.9,
@@ -4239,7 +4457,7 @@
       "sample_size": 2050,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 26,
@@ -4314,7 +4532,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-24",
+      "source_url": "#cite_note-:10-25",
       "candidates": {
         "Eduardo Paes": 37,
         "Douglas Ruas": 16,
@@ -4574,7 +4792,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-26",
+      "source_url": "#cite_note-:29-29",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -4603,7 +4821,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-26",
+      "source_url": "#cite_note-:29-29",
       "candidates": {
         "Daniel Santos": 23,
         "Hana Ghassan": 25,
@@ -4734,7 +4952,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-26",
+      "source_url": "#cite_note-:9-27",
       "candidates": {
         "Eduardo Paes": 38,
         "Douglas Ruas": 10,
@@ -4763,7 +4981,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-26",
+      "source_url": "#cite_note-:9-27",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -4790,7 +5008,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-26",
+      "source_url": "#cite_note-:9-27",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -4815,7 +5033,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Allyson": 38.8,
         "Álvaro Dias": 24.9,
@@ -4967,7 +5185,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-32",
+      "source_url": "#cite_note-:8-33",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 28,
@@ -5096,7 +5314,7 @@
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-A-29",
+      "source_url": "#cite_note-:5-A-31",
       "candidates": {
         "Eduardo Braide": 42.5,
         "Orleans Brandão": 48.7,
@@ -5202,7 +5420,7 @@
       "sample_size": 5000,
       "margin_error": 1.38,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-20",
+      "source_url": "#cite_note-:8-24",
       "candidates": {
         "JHC": 40,
         "Renan Filho": 40
@@ -5317,7 +5535,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Allyson": 41.7,
         "Álvaro Dias": 11.8,
@@ -5371,7 +5589,7 @@
       "sample_size": 2610,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
@@ -5444,7 +5662,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 9,
@@ -5475,7 +5693,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Eduardo Paes": 47,
         "Douglas Ruas": 11,
@@ -5502,7 +5720,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-14",
+      "source_url": "#cite_note-:1-13",
       "candidates": {
         "Marcos Rogério": 36,
         "Adaílton Fúria": 28,
@@ -5719,7 +5937,7 @@
       "sample_size": 1201,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-22",
+      "source_url": "#cite_note-:7-26",
       "candidates": {
         "JHC": 47,
         "Renan Filho": 38
@@ -5763,7 +5981,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Allyson": 35.27,
         "Álvaro Dias": 33.67,
@@ -5842,7 +6060,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-29",
+      "source_url": "#cite_note-:28-32",
       "candidates": {
         "Daniel Santos": 34.4,
         "Hana Ghassan": 22.5,
@@ -5867,7 +6085,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-29",
+      "source_url": "#cite_note-:28-32",
       "candidates": {
         "Daniel Santos": 37.1,
         "Hana Ghassan": 24.7,
@@ -5890,7 +6108,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-29",
+      "source_url": "#cite_note-:28-32",
       "candidates": {
         "Daniel Santos": 36.3,
         "Hana Ghassan": 25.6,
@@ -5913,7 +6131,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Allyson": 41.78,
         "Álvaro Dias": 26.05,
@@ -5963,7 +6181,7 @@
       "sample_size": 2500,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-B-16",
+      "source_url": "#cite_note-:0-B-15",
       "candidates": {
         "Marcos Rogério": 39.79,
         "Adaílton Fúria": 28.28,
@@ -5990,7 +6208,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-28",
       "candidates": {
         "JHC": 43.5,
         "Renan Filho": 49.3
@@ -6061,7 +6279,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Allyson": 27.5,
         "Álvaro Dias": 32.1,
@@ -6211,7 +6429,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-33",
+      "source_url": "#cite_note-:4-35",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
@@ -6238,7 +6456,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-30",
+      "source_url": "#cite_note-:27-33",
       "candidates": {
         "Daniel Santos": 37.2,
         "Hana Ghassan": 31.6,
@@ -6263,7 +6481,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-30",
+      "source_url": "#cite_note-:27-33",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 29.2,
@@ -6369,7 +6587,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Allyson": 35.9,
         "Álvaro Dias": 24.7,
@@ -6448,7 +6666,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Allyson": 34.59,
         "Álvaro Dias": 29,
@@ -6552,7 +6770,7 @@
       "sample_size": 2500,
       "margin_error": 1.96,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Eduardo Paes": 33.9,
         "Douglas Ruas": 10.3,
@@ -6608,7 +6826,7 @@
       "sample_size": 1400,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-29",
       "candidates": {
         "JHC": 45.9,
         "Renan Filho": 41
@@ -6629,7 +6847,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-34",
+      "source_url": "#cite_note-:7-35",
       "candidates": {
         "Eduardo Paes": 54.2,
         "Douglas Ruas": 14.6,
@@ -6658,7 +6876,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-34",
+      "source_url": "#cite_note-:7-35",
       "candidates": {
         "Eduardo Paes": 50.7,
         "Douglas Ruas": 13.8,
@@ -6714,7 +6932,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-26",
+      "source_url": "#cite_note-:6-30",
       "candidates": {
         "JHC": 46,
         "Renan Filho": 46
@@ -7008,7 +7226,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-33",
+      "source_url": "#cite_note-:26-36",
       "candidates": {
         "Daniel Santos": 32,
         "Hana Ghassan": 29,
@@ -7058,7 +7276,7 @@
       "sample_size": 3197,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-18",
+      "source_url": "#cite_note-:0-17",
       "candidates": {
         "Marcos Rogério": 31.54,
         "Adaílton Fúria": 27.48,
@@ -7114,7 +7332,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-28",
+      "source_url": "#cite_note-:4-32",
       "candidates": {
         "JHC": 52,
         "Renan Filho": 37
@@ -7135,7 +7353,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Allyson": 27.3,
         "Álvaro Dias": 32.5,
@@ -7260,7 +7478,7 @@
       "sample_size": 780,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Daniel Santos": 22.4,
         "Hana Ghassan": 25.6,
@@ -7510,7 +7728,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 24.2,
@@ -7608,7 +7826,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-38",
+      "source_url": "#cite_note-:25-41",
       "candidates": {
         "Daniel Santos": 24.8,
         "Hana Ghassan": 30.4,
@@ -7637,7 +7855,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-38",
+      "source_url": "#cite_note-:25-41",
       "candidates": {
         "Daniel Santos": 24.5,
         "Hana Ghassan": 29.1,
@@ -7689,7 +7907,7 @@
       "sample_size": 1550,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Allyson": 34.8,
         "Álvaro Dias": 22.8,
@@ -7920,7 +8138,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-27",
+      "source_url": "#cite_note-:5-31",
       "candidates": {
         "JHC": 45.1,
         "Renan Filho": 48.6
@@ -8393,7 +8611,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-36",
+      "source_url": "#cite_note-:6-37",
       "candidates": {
         "Eduardo Paes": 48.3,
         "Douglas Ruas": 12.6,
@@ -8449,7 +8667,7 @@
       "sample_size": 1301,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Marcos Rogério": 41.3,
         "Adaílton Fúria": 28.1,
@@ -8595,7 +8813,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-42",
+      "source_url": "#cite_note-Veritá3-45",
       "candidates": {
         "Daniel Santos": 52.5,
         "Hana Ghassan": 32,
@@ -8622,7 +8840,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-43",
+      "source_url": "#cite_note-:6-44",
       "candidates": {
         "Allyson": 39.8,
         "Álvaro Dias": 22.1,
@@ -8690,7 +8908,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Papo Aberto/DataRD",
       "collection_date": "2026-05-29",
@@ -8715,7 +8933,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Goiás Pesquisas/Mais Goiás",
       "collection_date": "2026-05-29",
@@ -8727,15 +8945,13 @@
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
         "Wilder Morais": 12.2,
-        "Luis Cesar Bueno": 3.1,
-        "Telêmaco Brandão": 1.1
+        "Luis Cesar Bueno": 3.1
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -8770,7 +8986,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Allyson": 41.01,
         "Álvaro Dias": 22.75,
@@ -8797,7 +9013,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Allyson": 38,
         "Álvaro Dias": 22.8,
@@ -8949,7 +9165,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Allyson": 27.9,
         "Álvaro Dias": 30.5,
@@ -9067,7 +9283,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Directa",
       "collection_date": "2026-05-26",
@@ -9079,22 +9295,20 @@
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
         "Wilder Morais": 10.6,
-        "Adriana Accorsi": 11.2,
-        "Telêmaco Brandão": 0.3
+        "Adriana Accorsi": 11.2
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Adriana Accorsi": "PT"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Directa",
       "collection_date": "2026-05-26",
@@ -9106,15 +9320,13 @@
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
         "Wilder Morais": 11.5,
-        "Luis Cesar Bueno": 5.4,
-        "Telêmaco Brandão": 0.3
+        "Luis Cesar Bueno": 5.4
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -9201,7 +9413,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-44",
+      "source_url": "#cite_note-:24-47",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -9228,7 +9440,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-44",
+      "source_url": "#cite_note-:24-47",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -9253,7 +9465,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Allyson": 38.5,
         "Álvaro Dias": 19.8,
@@ -9282,7 +9494,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Marcos Rogério": 35.4,
         "Adaílton Fúria": 23.2,
@@ -9407,7 +9619,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-50",
+      "source_url": "#cite_note-:5-51",
       "candidates": {
         "Allyson": 37,
         "Álvaro Dias": 25.2,
@@ -9436,7 +9648,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Allyson": 28.6,
         "Álvaro Dias": 34.5,
@@ -9635,7 +9847,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-05-17",
@@ -9647,22 +9859,20 @@
         "Daniel Vilela": 41.2,
         "Marconi Perillo": 23.3,
         "Wilder Morais": 10.3,
-        "Adriana Accorsi": 9.2,
-        "Telêmaco Brandão": 0.5
+        "Adriana Accorsi": 9.2
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Adriana Accorsi": "PT"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-05-17",
@@ -9674,15 +9884,13 @@
         "Daniel Vilela": 42.3,
         "Marconi Perillo": 24.8,
         "Wilder Morais": 10.5,
-        "Luis Cesar Bueno": 3.9,
-        "Telêmaco Brandão": 0.4
+        "Luis Cesar Bueno": 3.9
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
@@ -9714,7 +9922,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Directa",
       "collection_date": "2026-05-16",
@@ -9726,15 +9934,13 @@
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
         "Wilder Morais": 10.9,
-        "Adriana Accorsi": 8.7,
-        "Telêmaco Brandão": 0.6
+        "Adriana Accorsi": 8.7
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Adriana Accorsi": "PT"
       }
     },
     {
@@ -9798,7 +10004,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -9825,7 +10031,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -9866,7 +10072,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Real Time Big Data",
       "collection_date": "2026-05-12",
@@ -9878,22 +10084,20 @@
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
         "Wilder Morais": 14,
-        "Adriana Accorsi": 13,
-        "Telêmaco Brandão": 1
+        "Adriana Accorsi": 13
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Adriana Accorsi": "PT"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Real Time Big Data",
       "collection_date": "2026-05-12",
@@ -9904,21 +10108,19 @@
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
-        "Wilder Morais": 14,
-        "Telêmaco Brandão": 1
+        "Wilder Morais": 14
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Telêmaco Brandão": "NOVO"
+        "Wilder Morais": "PL"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Real Time Big Data",
       "collection_date": "2026-05-12",
@@ -9930,22 +10132,20 @@
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
         "Wilder Morais": 14,
-        "Luis Cesar Bueno": 2,
-        "Telêmaco Brandão": 1
+        "Luis Cesar Bueno": 2
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Real Time Big Data",
       "collection_date": "2026-05-12",
@@ -9956,14 +10156,12 @@
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
-        "Wilder Morais": 14,
-        "Telêmaco Brandão": 1
+        "Wilder Morais": 14
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Telêmaco Brandão": "NOVO"
+        "Wilder Morais": "PL"
       }
     },
     {
@@ -10004,7 +10202,7 @@
       "sample_size": 5000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-34",
       "candidates": {
         "JHC": 37,
         "Renan Filho": 41.75
@@ -10106,7 +10304,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-53",
       "candidates": {
         "Allyson": 35.5,
         "Álvaro Dias": 22.9,
@@ -10135,7 +10333,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2A-37",
+      "source_url": "#cite_note-Veritá2A-38",
       "candidates": {
         "Eduardo Paes": 50,
         "Douglas Ruas": 32.3,
@@ -10206,7 +10404,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Marcos Rogério": 42.5,
         "Adaílton Fúria": 22.2,
@@ -10252,7 +10450,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-49",
+      "source_url": "#cite_note-:23-52",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -10385,7 +10583,7 @@
       "sample_size": 1220,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-35",
       "candidates": {
         "JHC": 51,
         "Renan Filho": 35
@@ -10424,7 +10622,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Exata GO",
       "collection_date": "2026-04-30",
@@ -10456,7 +10654,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-51",
+      "source_url": "#cite_note-Veritá2-54",
       "candidates": {
         "Daniel Santos": 29.1,
         "Hana Ghassan": 26.6,
@@ -10525,7 +10723,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-53",
+      "source_url": "#cite_note-:22-56",
       "candidates": {
         "Daniel Santos": 35.2,
         "Hana Ghassan": 26,
@@ -10812,7 +11010,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Genial/Quaest",
       "collection_date": "2026-04-28",
@@ -10837,7 +11035,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Genial/Quaest",
       "collection_date": "2026-04-28",
@@ -10862,7 +11060,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Genial/Quaest",
       "collection_date": "2026-04-28",
@@ -11313,7 +11511,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-38",
+      "source_url": "#cite_note-:4-39",
       "candidates": {
         "Eduardo Paes": 53,
         "Douglas Ruas": 13.2,
@@ -11342,7 +11540,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-55",
+      "source_url": "#cite_note-:20-58",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 19,
@@ -11369,7 +11567,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-55",
+      "source_url": "#cite_note-:20-58",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 22,
@@ -11448,7 +11646,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-40",
+      "source_url": "#cite_note-:5-41",
       "candidates": {
         "Eduardo Paes": 34,
         "Douglas Ruas": 9,
@@ -11479,7 +11677,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-40",
+      "source_url": "#cite_note-:5-41",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 10,
@@ -11506,7 +11704,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-40",
+      "source_url": "#cite_note-:5-41",
       "candidates": {
         "Eduardo Paes": 39,
         "Douglas Ruas": 11,
@@ -11585,7 +11783,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Allyson": 40.4,
         "Álvaro Dias": 18.6,
@@ -11658,7 +11856,7 @@
       "sample_size": 1518,
       "margin_error": 2.51,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Allyson": 37.29,
         "Álvaro Dias": 24.91,
@@ -11685,7 +11883,7 @@
       "sample_size": 1355,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Marcos Rogério": 29.45,
         "Adaílton Fúria": 16.61,
@@ -11785,7 +11983,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-58",
+      "source_url": "#cite_note-:19-61",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -11812,7 +12010,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-58",
+      "source_url": "#cite_note-:19-61",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -11855,7 +12053,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Veritá",
       "collection_date": "2026-04-13",
@@ -12022,7 +12220,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-59",
       "candidates": {
         "Allyson": 27.8,
         "Álvaro Dias": 32.6,
@@ -12038,7 +12236,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Gerp",
       "collection_date": "2026-04-10",
@@ -12050,22 +12248,20 @@
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
         "Wilder Morais": 15,
-        "Adriana Accorsi": 11,
-        "Telêmaco Brandão": 1
+        "Adriana Accorsi": 11
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Adriana Accorsi": "PT"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Gerp",
       "collection_date": "2026-04-10",
@@ -12077,22 +12273,20 @@
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
         "Wilder Morais": 16,
-        "Luis Cesar Bueno": 5,
-        "Telêmaco Brandão": 1
+        "Luis Cesar Bueno": 5
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Gerp",
       "collection_date": "2026-04-10",
@@ -12103,14 +12297,12 @@
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
-        "Wilder Morais": 15,
-        "Telêmaco Brandão": 1
+        "Wilder Morais": 15
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Telêmaco Brandão": "NOVO"
+        "Wilder Morais": "PL"
       }
     },
     {
@@ -12274,7 +12466,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-45",
+      "source_url": "#cite_note-Veritá1-46",
       "candidates": {
         "Eduardo Paes": 49.7,
         "Douglas Ruas": 32.7,
@@ -12423,7 +12615,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-04-03",
@@ -12435,22 +12627,20 @@
         "Daniel Vilela": 43.4,
         "Marconi Perillo": 24.4,
         "Wilder Morais": 11.5,
-        "Adriana Accorsi": 9.2,
-        "Telêmaco Brandão": 0.3
+        "Adriana Accorsi": 9.2
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Adriana Accorsi": "PT"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-04-03",
@@ -12461,21 +12651,19 @@
       "candidates": {
         "Daniel Vilela": 54,
         "Wilder Morais": 15.9,
-        "Adriana Accorsi": 14.3,
-        "Telêmaco Brandão": 0.7
+        "Adriana Accorsi": 14.3
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Adriana Accorsi": "PT"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-04-03",
@@ -12761,7 +12949,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-66",
       "candidates": {
         "Daniel Santos": 43.4,
         "Hana Ghassan": 25.5,
@@ -12784,7 +12972,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-66",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 18.7,
@@ -13324,7 +13512,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-59",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Allyson": 28.8,
         "Álvaro Dias": 37.2,
@@ -13347,7 +13535,7 @@
       "sample_size": 1700,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-60",
+      "source_url": "#cite_note-:3-61",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 20.6,
@@ -13691,7 +13879,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-66",
+      "source_url": "#cite_note-:0-69",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -13718,7 +13906,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-66",
+      "source_url": "#cite_note-:0-69",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -13887,7 +14075,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO2-27",
+      "source_url": "#cite_note-RO2-26",
       "candidates": {
         "Marcos Rogério": 31.8,
         "Léo Moraes": 16.5,
@@ -14118,7 +14306,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-61",
+      "source_url": "#cite_note-:2-62",
       "candidates": {
         "Allyson": 29.24,
         "Álvaro Dias": 31.18,
@@ -14197,7 +14385,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Real Time Big Data",
       "collection_date": "2026-03-17",
@@ -14209,22 +14397,20 @@
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
         "Wilder Morais": 12,
-        "Adriana Accorsi": 12,
-        "Telêmaco Brandão": 1
+        "Adriana Accorsi": 12
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Adriana Accorsi": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Adriana Accorsi": "PT"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Real Time Big Data",
       "collection_date": "2026-03-17",
@@ -14236,22 +14422,20 @@
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
         "Wilder Morais": 13,
-        "Luis Cesar Bueno": 4,
-        "Telêmaco Brandão": 1
+        "Luis Cesar Bueno": 4
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
-        "Luis Cesar Bueno": "PT",
-        "Telêmaco Brandão": "NOVO"
+        "Luis Cesar Bueno": "PT"
       }
     },
     {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Real Time Big Data",
       "collection_date": "2026-03-17",
@@ -14262,14 +14446,12 @@
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
-        "Wilder Morais": 13,
-        "Telêmaco Brandão": 1
+        "Wilder Morais": 13
       },
       "parties": {
         "Daniel Vilela": "MDB",
         "Marconi Perillo": "PSDB",
-        "Wilder Morais": "PL",
-        "Telêmaco Brandão": "NOVO"
+        "Wilder Morais": "PL"
       }
     },
     {
@@ -14777,7 +14959,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-47",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 13,
@@ -14806,7 +14988,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-47",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -14837,7 +15019,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-47",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Eduardo Paes": 51,
         "Douglas Ruas": 19
@@ -15031,7 +15213,7 @@
       "sample_size": 1200,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-48",
+      "source_url": "#cite_note-:2-49",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 4,
@@ -15280,7 +15462,7 @@
       "sample_size": 1201,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Marcos Rogério": 16.7,
         "Adaílton Fúria": 26.9,
@@ -15733,7 +15915,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-75",
+      "source_url": "#cite_note-:3-78",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -15760,7 +15942,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-75",
+      "source_url": "#cite_note-:3-78",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -15783,7 +15965,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-49",
+      "source_url": "#cite_note-:3-50",
       "candidates": {
         "Eduardo Paes": 42.5,
         "Douglas Ruas": 1.6,
@@ -15814,7 +15996,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-49",
+      "source_url": "#cite_note-:3-50",
       "candidates": {
         "Eduardo Paes": 50.5,
         "Douglas Ruas": 2.3,
@@ -15841,7 +16023,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-49",
+      "source_url": "#cite_note-:3-50",
       "candidates": {
         "Eduardo Paes": 50.3,
         "Ítalo Marsili": 0.7,
@@ -15868,7 +16050,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-79",
+      "source_url": "#cite_note-:1-82",
       "candidates": {
         "Daniel Santos": 32.1,
         "Hana Ghassan": 22.2,
@@ -16066,7 +16248,7 @@
       "sample_size": 1602,
       "margin_error": 3.45,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Marcos Rogério": 18.7,
         "Adaílton Fúria": 21.3,
@@ -16084,7 +16266,7 @@
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
-      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Telêmaco Brandão|Wilder Morais",
+      "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
       "institute": "Directa",
       "collection_date": "2026-01-12",
@@ -16141,7 +16323,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-81",
+      "source_url": "#cite_note-84",
       "candidates": {
         "Daniel Santos": 30.5,
         "Hana Ghassan": 20.3,
@@ -16166,7 +16348,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-81",
+      "source_url": "#cite_note-84",
       "candidates": {
         "Daniel Santos": 20.7,
         "Hana Ghassan": 19.8,
@@ -16191,7 +16373,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-81",
+      "source_url": "#cite_note-84",
       "candidates": {
         "Daniel Santos": 34.1,
         "Hana Ghassan": 19.2,
@@ -16216,7 +16398,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-81",
+      "source_url": "#cite_note-84",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 32,
@@ -16241,7 +16423,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-81",
+      "source_url": "#cite_note-84",
       "candidates": {
         "Daniel Santos": 23.2,
         "Hana Ghassan": 21.3,
@@ -16266,7 +16448,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-81",
+      "source_url": "#cite_note-84",
       "candidates": {
         "Daniel Santos": 47.8,
         "Hana Ghassan": 19.1,
@@ -16291,7 +16473,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-81",
+      "source_url": "#cite_note-84",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 23.2,
@@ -16416,7 +16598,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 26,
@@ -16439,7 +16621,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Allyson": 39,
         "Álvaro Dias": 15,
@@ -16462,7 +16644,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Allyson": 34,
         "Rogério Marinho": 15,
@@ -16533,7 +16715,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-64",
+      "source_url": "#cite_note-:0-65",
       "candidates": {
         "Allyson": 38.6,
         "Rogério Marinho": 19,
@@ -16556,7 +16738,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-64",
+      "source_url": "#cite_note-:0-65",
       "candidates": {
         "Allyson": 38.2,
         "Álvaro Dias": 15.1,
@@ -16579,7 +16761,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-64",
+      "source_url": "#cite_note-:0-65",
       "candidates": {
         "Allyson": 35.9,
         "Rogério Marinho": 15.6,
@@ -16673,7 +16855,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-32",
+      "source_url": "#cite_note-RO1-31",
       "candidates": {
         "Fernando Máximo": 22,
         "Ivo Cassol": 22,
@@ -16704,7 +16886,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-32",
+      "source_url": "#cite_note-RO1-31",
       "candidates": {
         "Ivo Cassol": 23,
         "Marcos Rogério": 19,
@@ -16735,7 +16917,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-32",
+      "source_url": "#cite_note-RO1-31",
       "candidates": {
         "Fernando Máximo": 26,
         "Adaílton Fúria": 22,
@@ -16764,7 +16946,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-32",
+      "source_url": "#cite_note-RO1-31",
       "candidates": {
         "Marcos Rogério": 23,
         "Adaílton Fúria": 23,
@@ -16828,7 +17010,7 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "cenario": "Arruda|Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2025 › Janeiro – Julho",
       "institute": "Real Time Big Data",
       "collection_date": "2025-12-08",
@@ -16840,14 +17022,14 @@
         "Celina Leão": 40,
         "Arruda": 21,
         "Leandro Grass": 13,
-        "Ricardo Cappelli": 6,
+        "Cappelli": 6,
         "Paula Belmonte": 6
       },
       "parties": {
         "Celina Leão": "PP",
         "Arruda": "PSD",
         "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
+        "Cappelli": "PSB",
         "Paula Belmonte": "PSDB"
       }
     },
@@ -16855,7 +17037,7 @@
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Celina Leão|Leandro Grass|Paula Belmonte|Ricardo Cappelli",
+      "cenario": "Arruda|Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2025 › Janeiro – Julho",
       "institute": "Real Time Big Data",
       "collection_date": "2025-12-08",
@@ -16866,13 +17048,13 @@
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
-        "Ricardo Cappelli": 7,
+        "Cappelli": 7,
         "Paula Belmonte": 7
       },
       "parties": {
         "Celina Leão": "PP",
         "Leandro Grass": "PT",
-        "Ricardo Cappelli": "PSB",
+        "Cappelli": "PSB",
         "Paula Belmonte": "PSDB"
       }
     },
@@ -16887,7 +17069,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-95",
+      "source_url": "#cite_note-:6-98",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -16910,7 +17092,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-95",
+      "source_url": "#cite_note-:6-98",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -17062,7 +17244,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-66",
+      "source_url": "#cite_note-:1-67",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 34,
@@ -17085,7 +17267,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-66",
+      "source_url": "#cite_note-:1-67",
       "candidates": {
         "Allyson": 42,
         "Álvaro Dias": 17,
@@ -17108,7 +17290,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-101",
+      "source_url": "#cite_note-:7-104",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
@@ -17133,7 +17315,7 @@
       "sample_size": 600,
       "margin_error": 4,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-99",
+      "source_url": "#cite_note-:9-102",
       "candidates": {
         "Daniel Santos": 29.4,
         "Hana Ghassan": 19.8,
@@ -17921,7 +18103,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-109",
+      "source_url": "#cite_note-112",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -17944,7 +18126,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-109",
+      "source_url": "#cite_note-112",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -18274,7 +18456,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-114",
+      "source_url": "#cite_note-117",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -18295,7 +18477,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-114",
+      "source_url": "#cite_note-117",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -18316,7 +18498,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-114",
+      "source_url": "#cite_note-117",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -18337,7 +18519,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-114",
+      "source_url": "#cite_note-117",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -18545,7 +18727,7 @@
       "sample_size": 1505,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-67",
+      "source_url": "#cite_note-:-1-68",
       "candidates": {
         "Allyson": 30,
         "Rogério Marinho": 28.2,
@@ -19020,7 +19202,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-123",
+      "source_url": "#cite_note-126",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -19043,7 +19225,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-123",
+      "source_url": "#cite_note-126",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -19158,7 +19340,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-132",
+      "source_url": "#cite_note-:11-135",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -19242,7 +19424,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-142",
+      "source_url": "#cite_note-:13-145",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -19263,7 +19445,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-145",
+      "source_url": "#cite_note-148",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -19284,7 +19466,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-145",
+      "source_url": "#cite_note-148",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -19305,7 +19487,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-150",
+      "source_url": "#cite_note-:14-153",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -19326,7 +19508,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-153",
+      "source_url": "#cite_note-:15-156",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -19533,7 +19715,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-156",
+      "source_url": "#cite_note-:16-159",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -19818,7 +20000,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-159",
+      "source_url": "#cite_note-:17-162",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10

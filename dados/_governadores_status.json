@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-09-01T15:27:27.457Z",
+  "ultima_execucao": "2026-09-02T15:04:48.307Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 782,
-  "pesquisas_usadas": 782,
+  "pesquisas_extraidas_brutas": 790,
+  "pesquisas_usadas": 790,
   "estados_com_agregado": 26,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -39,7 +39,7 @@
           "JHC",
           "Renan Filho"
         ],
-        "pesquisas": 16
+        "pesquisas": 18
       },
       {
         "candidatos": [
@@ -171,30 +171,30 @@
       {
         "candidatos": [
           "Arruda",
+          "Cappelli",
           "Celina Leão",
           "Kiko Caputo",
           "Leandro Grass",
-          "Paula Belmonte",
-          "Ricardo Cappelli"
+          "Paula Belmonte"
         ],
         "pesquisas": 6
       },
       {
         "candidatos": [
           "Arruda",
+          "Cappelli",
           "Celina Leão",
           "Leandro Grass",
-          "Paula Belmonte",
-          "Ricardo Cappelli"
+          "Paula Belmonte"
         ],
         "pesquisas": 2
       },
       {
         "candidatos": [
+          "Cappelli",
           "Celina Leão",
           "Leandro Grass",
-          "Paula Belmonte",
-          "Ricardo Cappelli"
+          "Paula Belmonte"
         ],
         "pesquisas": 2
       }
@@ -252,45 +252,41 @@
           "Marconi Perillo",
           "Wilder Morais"
         ],
-        "pesquisas": 19
+        "pesquisas": 25
       },
       {
         "candidatos": [
           "Adriana Accorsi",
           "Daniel Vilela",
           "Marconi Perillo",
-          "Telêmaco Brandão",
           "Wilder Morais"
         ],
-        "pesquisas": 7
+        "pesquisas": 10
       },
       {
         "candidatos": [
           "Daniel Vilela",
-          "Luis Cesar Bueno",
           "Marconi Perillo",
-          "Telêmaco Brandão",
           "Wilder Morais"
         ],
         "pesquisas": 6
       },
       {
         "candidatos": [
+          "Adriana Accorsi",
           "Daniel Vilela",
-          "Marconi Perillo",
-          "Telêmaco Brandão",
-          "Wilder Morais"
+          "Luis Cesar Bueno",
+          "Marconi Perillo"
         ],
-        "pesquisas": 4
+        "pesquisas": 1
       },
       {
         "candidatos": [
           "Adriana Accorsi",
           "Daniel Vilela",
-          "Marconi Perillo",
           "Wilder Morais"
         ],
-        "pesquisas": 3
+        "pesquisas": 1
       }
     ],
     "MA": [
@@ -302,7 +298,7 @@
           "Orleans Brandão",
           "Roberto Rocha"
         ],
-        "pesquisas": 9
+        "pesquisas": 10
       },
       {
         "candidatos": [
@@ -608,6 +604,14 @@
           "Rafael Fonteles"
         ],
         "pesquisas": 5
+      },
+      {
+        "candidatos": [
+          "Gisvaldo Oliveira",
+          "Joel Rodrigues",
+          "Rafael Fonteles"
+        ],
+        "pesquisas": 1
       }
     ],
     "RJ": [
@@ -623,7 +627,7 @@
           "Luan Monteiro",
           "William Siri"
         ],
-        "pesquisas": 4
+        "pesquisas": 5
       },
       {
         "candidatos": [
@@ -661,11 +665,13 @@
       {
         "candidatos": [
           "André Marinho",
-          "Bombeiro Rafa Luz",
+          "Coronel Busnello",
+          "Cyro Garcia",
           "Douglas Ruas",
           "Eduardo Paes",
-          "William Siri",
-          "Wilson Witzel"
+          "Juliete Pantoja",
+          "Luan Monteiro",
+          "William Siri"
         ],
         "pesquisas": 2
       }
@@ -698,7 +704,7 @@
           "Robério Paulino",
           "Álvaro Dias"
         ],
-        "pesquisas": 6
+        "pesquisas": 7
       },
       {
         "candidatos": [
@@ -775,15 +781,7 @@
           "Marcos Rogério",
           "Samuel Costa"
         ],
-        "pesquisas": 8
-      },
-      {
-        "candidatos": [
-          "Adaílton Fúria",
-          "Expedito Netto",
-          "Marcos Rogério"
-        ],
-        "pesquisas": 1
+        "pesquisas": 9
       },
       {
         "candidatos": [
@@ -810,6 +808,15 @@
           "Confúcio Moura",
           "Expedito Netto",
           "Hildon Chaves",
+          "Marcos Rogério",
+          "Samuel Costa",
+          "Sérgio Gonçalves"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Adaílton Fúria",
           "Marcos Rogério",
           "Samuel Costa",
           "Sérgio Gonçalves"
@@ -1056,7 +1063,7 @@
     "AL": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "status": "ok",
-      "pesquisas": 17,
+      "pesquisas": 19,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Alagoas"
     },
     "AP": {
@@ -1104,7 +1111,7 @@
     "MA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "status": "ok",
-      "pesquisas": 12,
+      "pesquisas": 13,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Maranh%C3%A3o"
     },
     "MT": {
@@ -1128,7 +1135,7 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 73,
+      "pesquisas": 74,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
@@ -1152,19 +1159,19 @@
     "PI": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
       "status": "ok",
-      "pesquisas": 5,
+      "pesquisas": 6,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Piau%C3%AD"
     },
     "RJ": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
       "status": "ok",
-      "pesquisas": 31,
+      "pesquisas": 33,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_de_Janeiro"
     },
     "RN": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "status": "ok",
-      "pesquisas": 53,
+      "pesquisas": 54,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
     },
     "RS": {
