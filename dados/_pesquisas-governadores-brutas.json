@@ -1,6 +1,108 @@
 {
-  "atualizado_em": "2026-09-04",
+  "atualizado_em": "2026-09-05",
   "pesquisas": [
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Maria do Carmo|Omar Aziz|Roberto Cidade",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-09-03",
+      "sample_size": 1185,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:17-13",
+      "candidates": {
+        "Omar Aziz": 31,
+        "Roberto Cidade": 18.8,
+        "Maria do Carmo": 27.4,
+        "David Almeida": 8.7
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Roberto Cidade": "UNIÃO",
+        "Maria do Carmo": "PL",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Quaest",
+      "collection_date": "2026-09-03",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:18-15",
+      "candidates": {
+        "Ciro Gomes": 45,
+        "Elmano de Freitas": 34
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "IRG",
+      "collection_date": "2026-09-03",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Sergio Moro": 38.8,
+        "Requião Filho": 21.8,
+        "Sandro Alex": 27,
+        "Luiz França": 0.9,
+        "Tayná Miessa": 0.3
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Tayná Miessa": "UP"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Exatus",
+      "collection_date": "2026-09-03",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Allyson": 37.42,
+        "Álvaro Dias": 20.56,
+        "Cadu de Lula": 17.96,
+        "Robério Paulino": 0.34,
+        "Rodrigo Bolsonaro": 1.35,
+        "Dário Barbosa": 0.08
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
     {
       "uf": "SE",
       "estado": "Sergipe",
@@ -18,6 +120,31 @@
         "Valmir de Francisquinho": 27.83,
         "Ricardo Marques": 3.84,
         "Emanuel Cacho": 1.12
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-03",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-D-11",
+      "candidates": {
+        "Fábio Mitidieri": 45,
+        "Valmir de Francisquinho": 37,
+        "Ricardo Marques": 9,
+        "Emanuel Cacho": 2
       },
       "parties": {
         "Fábio Mitidieri": "PSD",
@@ -118,50 +245,42 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "DataFolha",
+      "institute": "Datafolha",
       "collection_date": "2026-09-02",
       "sample_size": 1204,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-15",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
         "Ciro Gomes": 46,
-        "Elmano de Freitas": 37,
-        "Delegado Huggo": 0,
-        "Vera Lúcia": 1
+        "Elmano de Freitas": 37
       },
       "parties": {
         "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Delegado Huggo": "MISSÃO",
-        "Vera Lúcia": "NOVO"
+        "Elmano de Freitas": "PT"
       }
     },
     {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "AtlasIntel/Focus",
+      "institute": "AtlasIntel /Focus",
       "collection_date": "2026-09-02",
       "sample_size": 1834,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-atlas03set-17",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
         "Ciro Gomes": 48.4,
-        "Elmano de Freitas": 45.8,
-        "Delegado Huggo": 1,
-        "Vera Lúcia": 0.3
+        "Elmano de Freitas": 45.8
       },
       "parties": {
         "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Delegado Huggo": "MISSÃO",
-        "Vera Lúcia": "NOVO"
+        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -188,6 +307,35 @@
       }
     },
     {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|José Moita|Well Macêdo",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Indexa",
+      "collection_date": "2026-09-02",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:36-9",
+      "candidates": {
+        "Hana Ghassan": 35.7,
+        "Daniel Santos": 38,
+        "Araceli Lemos": 0.7,
+        "Well Macêdo": 0.4,
+        "Gal Leite": 0.1,
+        "José Moita": 0.1
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Well Macêdo": "PSTU",
+        "Gal Leite": "UP",
+        "José Moita": "Democrata"
+      }
+    },
+    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -198,7 +346,7 @@
       "sample_size": 1207,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
         "Lucas Ribeiro": 42.4,
         "Efraim Filho": 30.9
@@ -219,7 +367,7 @@
       "sample_size": 1280,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-9",
+      "source_url": "#cite_note-:23-10",
       "candidates": {
         "Sergio Moro": 45,
         "Requião Filho": 24,
@@ -242,26 +390,28 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
+      "uf": "PI",
+      "estado": "Piauí",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
+      "cenario": "Elizeu Aguiar|Gisvaldo Oliveira|Joel Rodrigues|Rafael Fonteles",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "institute": "Amostragem",
       "collection_date": "2026-09-02",
-      "sample_size": 1600,
-      "margin_error": 2,
+      "sample_size": 1137,
+      "margin_error": 2.85,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-14",
+      "source_url": "#cite_note-11",
       "candidates": {
-        "Raquel Lyra": 43,
-        "João Campos": 43,
-        "Ivan Moraes": 2
+        "Rafael Fonteles": 73.48,
+        "Joel Rodrigues": 20.89,
+        "Elizeu Aguiar": 0.54,
+        "Gisvaldo Oliveira": 0.65
       },
       "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "Rafael Fonteles": "PT",
+        "Joel Rodrigues": "PP",
+        "Elizeu Aguiar": "NOVO",
+        "Gisvaldo Oliveira": "PSOL"
       }
     },
     {
@@ -275,7 +425,7 @@
       "sample_size": 1622,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Rafael Fonteles": 62.4,
         "Joel Rodrigues": 20.9,
@@ -437,7 +587,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Allyson": 40.1,
         "Álvaro Dias": 18.3,
@@ -512,7 +662,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:35-9",
+      "source_url": "#cite_note-:35-11",
       "candidates": {
         "Hana Ghassan": 34,
         "Daniel Santos": 33,
@@ -539,7 +689,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Allyson": 28.3,
         "Álvaro Dias": 27.1,
@@ -693,7 +843,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Allyson": 33.06,
         "Álvaro Dias": 21,
@@ -722,7 +872,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-13",
+      "source_url": "#cite_note-:16-15",
       "candidates": {
         "Omar Aziz": 31,
         "Roberto Cidade": 22.4,
@@ -747,7 +897,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Hana Ghassan": 27,
         "Daniel Santos": 28,
@@ -896,7 +1046,7 @@
       "sample_size": 1517,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Omar Aziz": 24.3,
         "Roberto Cidade": 19.7,
@@ -924,8 +1074,8 @@
       "source_url": "#cite_note-:7-11",
       "candidates": {
         "Celina Leão": 30.7,
-        "Arruda": 29,
-        "Leandro Grass": 14.2,
+        "Arruda": 14.2,
+        "Leandro Grass": 29,
         "Cappelli": 5.8,
         "Paula Belmonte": 8.2,
         "Kiko Caputo": 4.3
@@ -1054,7 +1204,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Sergio Moro": 46.9,
         "Requião Filho": 23.3,
@@ -1087,7 +1237,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-11",
+      "source_url": "#cite_note-:22-12",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 20,
@@ -1113,23 +1263,21 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "DataTrends",
       "collection_date": "2026-08-27",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-16",
+      "source_url": "#cite_note-:4-15",
       "candidates": {
         "Raquel Lyra": 45,
-        "João Campos": 36,
-        "Ivan Moraes": 1
+        "João Campos": 36
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -1143,7 +1291,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-13",
+      "source_url": "#cite_note-:8-15",
       "candidates": {
         "Rafael Fonteles": 57,
         "Joel Rodrigues": 23,
@@ -1166,7 +1314,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Allyson": 39.1,
         "Álvaro Dias": 14.5,
@@ -1460,7 +1608,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-11",
+      "source_url": "#cite_note-:7-12",
       "candidates": {
         "Fábio Mitidieri": 40,
         "Valmir de Francisquinho": 20,
@@ -1529,7 +1677,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-17",
+      "source_url": "#cite_note-:15-19",
       "candidates": {
         "Omar Aziz": 34,
         "Roberto Cidade": 22,
@@ -1627,7 +1775,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Allyson": 37.21,
         "Álvaro Dias": 24.07,
@@ -1656,7 +1804,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Allyson": 34.94,
         "Álvaro Dias": 25.85,
@@ -1773,7 +1921,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-19",
+      "source_url": "#cite_note-:14-21",
       "candidates": {
         "Omar Aziz": 26,
         "Roberto Cidade": 18,
@@ -1798,7 +1946,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Omar Aziz": 26,
         "Roberto Cidade": 23,
@@ -1916,7 +2064,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Múltipla",
       "collection_date": "2026-08-24",
@@ -1926,13 +2074,53 @@
       "source_url": "#cite_note-:22-17",
       "candidates": {
         "Raquel Lyra": 43,
-        "João Campos": 37,
-        "Ivan Moraes": 1
+        "João Campos": 37
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-08-24",
+      "sample_size": 1302,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:21-19",
+      "candidates": {
+        "Raquel Lyra": 44,
+        "João Campos": 36
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Contextto",
+      "collection_date": "2026-08-24",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:21-A-21",
+      "candidates": {
+        "Raquel Lyra": 39,
+        "João Campos": 41
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
       }
     },
     {
@@ -2264,7 +2452,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:33-14",
+      "source_url": "#cite_note-:33-16",
       "candidates": {
         "Hana Ghassan": 41.4,
         "Daniel Santos": 49.7,
@@ -2286,12 +2474,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Genial/Quaest",
+      "institute": "Quaest",
       "collection_date": "2026-08-23",
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:21-13",
+      "source_url": "#cite_note-:21-14",
       "candidates": {
         "Sergio Moro": 37,
         "Requião Filho": 21,
@@ -2359,7 +2547,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-20",
+      "source_url": "#cite_note-:9-22",
       "candidates": {
         "Allyson": 25,
         "Álvaro Dias": 19,
@@ -2538,7 +2726,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:34-16",
+      "source_url": "#cite_note-:34-18",
       "candidates": {
         "Hana Ghassan": 28.6,
         "Daniel Santos": 35.6,
@@ -2586,7 +2774,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-14",
+      "source_url": "#cite_note-:20-15",
       "candidates": {
         "Sergio Moro": 38,
         "Requião Filho": 20,
@@ -2613,7 +2801,7 @@
       "sample_size": 3000,
       "margin_error": 1.9,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Omar Aziz": 25.72,
         "Roberto Cidade": 24,
@@ -2706,7 +2894,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Simplex",
       "collection_date": "2026-08-21",
@@ -2716,20 +2904,18 @@
       "source_url": "#cite_note-23",
       "candidates": {
         "Raquel Lyra": 46.2,
-        "João Campos": 36.1,
-        "Ivan Moraes": 0.1
+        "João Campos": 36.1
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Datafolha",
       "collection_date": "2026-08-21",
@@ -2739,13 +2925,11 @@
       "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
         "Raquel Lyra": 47,
-        "João Campos": 40,
-        "Ivan Moraes": 1
+        "João Campos": 40
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -2819,7 +3003,7 @@
       "sample_size": 1314,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-S-13",
+      "source_url": "#cite_note-:7-S-14",
       "candidates": {
         "Fábio Mitidieri": 39.69,
         "Valmir de Francisquinho": 28.43,
@@ -2844,7 +3028,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Fábio Mitidieri": 44.4,
         "Valmir de Francisquinho": 25.5,
@@ -3014,25 +3198,21 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-19",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-19",
+      "source_url": "#cite_note-:16-21",
       "candidates": {
         "Ciro Gomes": 44,
-        "Elmano de Freitas": 44,
-        "Delegado Huggo": 1,
-        "Vera Lúcia": 1
+        "Elmano de Freitas": 44
       },
       "parties": {
         "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Delegado Huggo": "MISSÃO",
-        "Vera Lúcia": "NOVO"
+        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -3046,7 +3226,7 @@
       "sample_size": 1197,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:32-19",
+      "source_url": "#cite_note-:32-21",
       "candidates": {
         "Hana Ghassan": 48.6,
         "Daniel Santos": 40.5,
@@ -3073,7 +3253,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-15",
+      "source_url": "#cite_note-:19-16",
       "candidates": {
         "Sergio Moro": 36.81,
         "Requião Filho": 21.02,
@@ -3099,25 +3279,21 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Ipsus/Ipec",
       "collection_date": "2026-08-18",
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-15",
+      "source_url": "#cite_note-:17-23",
       "candidates": {
         "Ciro Gomes": 43,
-        "Elmano de Freitas": 35,
-        "Delegado Huggo": 3,
-        "Vera Lúcia": 2
+        "Elmano de Freitas": 35
       },
       "parties": {
         "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Delegado Huggo": "MISSÃO",
-        "Vera Lúcia": "NOVO"
+        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -3183,7 +3359,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Allyson": 31.33,
         "Álvaro Dias": 17.93,
@@ -3212,7 +3388,7 @@
       "sample_size": 2100,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Allyson": 41.8,
         "Álvaro Dias": 26.3,
@@ -3310,7 +3486,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-16",
+      "source_url": "#cite_note-:17-17",
       "candidates": {
         "Sergio Moro": 37,
         "Requião Filho": 20,
@@ -3343,7 +3519,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-17",
+      "source_url": "#cite_note-:6-18",
       "candidates": {
         "Fábio Mitidieri": 51,
         "Valmir de Francisquinho": 33.7,
@@ -3368,7 +3544,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-17",
+      "source_url": "#cite_note-:0-18",
       "candidates": {
         "Sergio Moro": 37.33,
         "Requião Filho": 20.56,
@@ -3401,7 +3577,7 @@
       "sample_size": 1520,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-19",
+      "source_url": "#cite_note-:16-20",
       "candidates": {
         "Sergio Moro": 46.1,
         "Requião Filho": 23.4,
@@ -3434,7 +3610,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Fábio Mitidieri": 31.59,
         "Valmir de Francisquinho": 46.73,
@@ -3513,7 +3689,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:31-24",
+      "source_url": "#cite_note-:31-26",
       "candidates": {
         "Hana Ghassan": 35.1,
         "Daniel Santos": 30.2,
@@ -3533,7 +3709,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-15",
@@ -3543,13 +3719,11 @@
       "source_url": "#cite_note-:18-27",
       "candidates": {
         "Raquel Lyra": 43,
-        "João Campos": 43,
-        "Ivan Moraes": 2
+        "João Campos": 43
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -3586,7 +3760,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-25",
+      "source_url": "#cite_note-:13-27",
       "candidates": {
         "Omar Aziz": 33.7,
         "Roberto Cidade": 18.8,
@@ -3604,7 +3778,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "DataTrends",
       "collection_date": "2026-08-14",
@@ -3614,13 +3788,11 @@
       "source_url": "#cite_note-:19-29",
       "candidates": {
         "Raquel Lyra": 44,
-        "João Campos": 35,
-        "Ivan Moraes": 1
+        "João Campos": 35
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -3634,7 +3806,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 26.4,
@@ -3663,7 +3835,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Rafael Fonteles": 50.6,
         "Joel Rodrigues": 16.3,
@@ -3681,7 +3853,7 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Datafolha",
       "collection_date": "2026-08-12",
@@ -3691,13 +3863,11 @@
       "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
         "Ciro Gomes": 52,
-        "Elmano de Freitas": 33,
-        "Delegado Huggo": 1
+        "Elmano de Freitas": 33
       },
       "parties": {
         "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Delegado Huggo": "MISSÃO"
+        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -3763,7 +3933,7 @@
       "sample_size": 1350,
       "margin_error": 2.67,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-20",
+      "source_url": "#cite_note-:15-21",
       "candidates": {
         "Sergio Moro": 40.2,
         "Requião Filho": 21,
@@ -3796,7 +3966,7 @@
       "sample_size": 1137,
       "margin_error": 2.85,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Rafael Fonteles": 73.84,
         "Joel Rodrigues": 19.21,
@@ -3821,7 +3991,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Allyson": 37.31,
         "Álvaro Dias": 26.48,
@@ -3850,7 +4020,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Fábio Mitidieri": 38.94,
         "Valmir de Francisquinho": 28.76,
@@ -3875,7 +4045,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Fábio Mitidieri": 37,
         "Valmir de Francisquinho": 23.8,
@@ -3893,7 +4063,7 @@
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Delegado Huggo|Elmano de Freitas|Vera Lúcia",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "AtlasIntel /Focus",
       "collection_date": "2026-08-11",
@@ -3903,13 +4073,11 @@
       "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
         "Ciro Gomes": 49.3,
-        "Elmano de Freitas": 44.6,
-        "Delegado Huggo": 2.8
+        "Elmano de Freitas": 44.6
       },
       "parties": {
         "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Delegado Huggo": "MISSÃO"
+        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -3973,7 +4141,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Sergio Moro": 45.7,
         "Requião Filho": 23.2,
@@ -3999,7 +4167,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Múltipla",
       "collection_date": "2026-08-11",
@@ -4123,7 +4291,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Allyson": 30.18,
         "Álvaro Dias": 27.65,
@@ -4177,7 +4345,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Allyson": 39.5,
         "Álvaro Dias": 23.7,
@@ -4206,7 +4374,7 @@
       "sample_size": 1536,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Allyson": 34.2,
         "Álvaro Dias": 24,
@@ -4260,7 +4428,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 19.5,
@@ -4314,7 +4482,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Allyson": 26.2,
         "Álvaro Dias": 16.3,
@@ -4341,7 +4509,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:30-30",
+      "source_url": "#cite_note-:30-32",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 31,
@@ -4418,7 +4586,7 @@
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Rafael Fonteles": 75.69,
         "Joel Rodrigues": 18.99,
@@ -4443,7 +4611,7 @@
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Rafael Fonteles": 56.53,
         "Joel Rodrigues": 26.5,
@@ -4468,7 +4636,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-24",
+      "source_url": "#cite_note-:14-25",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -4497,7 +4665,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-26",
+      "source_url": "#cite_note-:5-27",
       "candidates": {
         "Fábio Mitidieri": 43,
         "Valmir de Francisquinho": 40,
@@ -4592,7 +4760,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Datafolha",
       "collection_date": "2026-07-30",
@@ -4602,20 +4770,18 @@
       "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
         "Raquel Lyra": 48,
-        "João Campos": 42,
-        "Ivan Moraes": 1
+        "João Campos": 42
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-30",
@@ -4625,13 +4791,11 @@
       "source_url": "#cite_note-:17-34",
       "candidates": {
         "Raquel Lyra": 44,
-        "João Campos": 42,
-        "Ivan Moraes": 3
+        "João Campos": 42
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -4906,7 +5070,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Badra",
       "collection_date": "2026-07-29",
@@ -4916,13 +5080,11 @@
       "source_url": "#cite_note-36",
       "candidates": {
         "Raquel Lyra": 37.2,
-        "João Campos": 44.6,
-        "Ivan Moraes": 0.6
+        "João Campos": 44.6
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -4994,7 +5156,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Fábio Mitidieri": 37.94,
         "Valmir de Francisquinho": 46.07,
@@ -5019,7 +5181,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-27",
+      "source_url": "#cite_note-:12-29",
       "candidates": {
         "Omar Aziz": 27.4,
         "Roberto Cidade": 15.5,
@@ -5044,7 +5206,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-27",
+      "source_url": "#cite_note-:13-29",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 33,
@@ -5092,7 +5254,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -5121,7 +5283,7 @@
       "sample_size": 2050,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 26,
@@ -5355,7 +5517,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Genial/Quaest",
       "collection_date": "2026-07-26",
@@ -5365,36 +5527,32 @@
       "source_url": "#cite_note-:16-38",
       "candidates": {
         "Raquel Lyra": 43,
-        "João Campos": 37,
-        "Ivan Moraes": 1
+        "João Campos": 37
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Múltipla",
       "collection_date": "2026-07-26",
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-41",
+      "source_url": "#cite_note-:14-42",
       "candidates": {
         "Raquel Lyra": 44,
-        "João Campos": 40,
-        "Ivan Moraes": 1
+        "João Campos": 40
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -5456,7 +5614,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-32",
+      "source_url": "#cite_note-:29-34",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -5485,7 +5643,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-32",
+      "source_url": "#cite_note-:29-34",
       "candidates": {
         "Daniel Santos": 23,
         "Hana Ghassan": 25,
@@ -5512,7 +5670,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-27",
+      "source_url": "#cite_note-:13-28",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -5541,7 +5699,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-27",
+      "source_url": "#cite_note-:13-28",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -5568,7 +5726,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-27",
+      "source_url": "#cite_note-:13-28",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -5586,7 +5744,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Folha /IPESPE",
       "collection_date": "2026-07-25",
@@ -5596,13 +5754,11 @@
       "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
       "candidates": {
         "Raquel Lyra": 46,
-        "João Campos": 44,
-        "Ivan Moraes": 1
+        "João Campos": 44
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -5697,7 +5853,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Allyson": 38.8,
         "Álvaro Dias": 24.9,
@@ -5749,7 +5905,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Fábio Mitidieri": 45.4,
         "Valmir de Francisquinho": 32.2,
@@ -5797,7 +5953,7 @@
       "sample_size": 3000,
       "margin_error": 1.79,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-28",
+      "source_url": "#cite_note-:11-30",
       "candidates": {
         "Omar Aziz": 27,
         "Maria do Carmo": 16.8,
@@ -5849,7 +6005,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-37",
+      "source_url": "#cite_note-:8-39",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 28,
@@ -6001,7 +6157,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -6030,7 +6186,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -6098,23 +6254,21 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Simplex",
       "collection_date": "2026-07-20",
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-42",
+      "source_url": "#cite_note-:13-43",
       "candidates": {
         "Raquel Lyra": 48.2,
-        "João Campos": 36.5,
-        "Ivan Moraes": 1.1
+        "João Campos": 36.5
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -6153,7 +6307,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
@@ -6176,7 +6330,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Fábio Mitidieri": 46.2,
         "Valmir de Francisquinho": 34,
@@ -6199,7 +6353,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Allyson": 41.7,
         "Álvaro Dias": 11.8,
@@ -6411,7 +6565,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-31",
+      "source_url": "#cite_note-:12-33",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
@@ -6434,7 +6588,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Fábio Mitidieri": 39.33,
         "Valmir de Francisquinho": 27.8,
@@ -6613,23 +6767,21 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Conecta",
       "collection_date": "2026-07-11",
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Raquel Lyra": 42.4,
-        "João Campos": 40.4,
-        "Ivan Moraes": 0.4
+        "João Campos": 40.4
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -6643,7 +6795,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Allyson": 35.27,
         "Álvaro Dias": 33.67,
@@ -6697,7 +6849,7 @@
       "sample_size": 2685,
       "margin_error": 1.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-29",
+      "source_url": "#cite_note-:10-31",
       "candidates": {
         "Omar Aziz": 30,
         "Maria do Carmo": 21,
@@ -6722,7 +6874,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-35",
+      "source_url": "#cite_note-:28-37",
       "candidates": {
         "Daniel Santos": 34.4,
         "Hana Ghassan": 22.5,
@@ -6747,7 +6899,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-35",
+      "source_url": "#cite_note-:28-37",
       "candidates": {
         "Daniel Santos": 37.1,
         "Hana Ghassan": 24.7,
@@ -6770,7 +6922,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-35",
+      "source_url": "#cite_note-:28-37",
       "candidates": {
         "Daniel Santos": 36.3,
         "Hana Ghassan": 25.6,
@@ -6793,7 +6945,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Allyson": 41.78,
         "Álvaro Dias": 26.05,
@@ -6813,7 +6965,7 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-07-09",
@@ -6823,13 +6975,11 @@
       "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
       "candidates": {
         "Raquel Lyra": 46.8,
-        "João Campos": 42.5,
-        "Ivan Moraes": 1.3
+        "João Campos": 42.5
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -6941,7 +7091,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Allyson": 27.5,
         "Álvaro Dias": 32.1,
@@ -6970,7 +7120,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 38.69,
@@ -7118,7 +7268,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-36",
+      "source_url": "#cite_note-:27-38",
       "candidates": {
         "Daniel Santos": 37.2,
         "Hana Ghassan": 31.6,
@@ -7143,7 +7293,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-36",
+      "source_url": "#cite_note-:27-38",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 29.2,
@@ -7191,7 +7341,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -7220,7 +7370,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -7247,7 +7397,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Allyson": 35.9,
         "Álvaro Dias": 24.7,
@@ -7276,7 +7426,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-30",
+      "source_url": "#cite_note-:7-32",
       "candidates": {
         "Omar Aziz": 27.2,
         "Maria do Carmo": 30.4,
@@ -7326,7 +7476,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Allyson": 34.59,
         "Álvaro Dias": 29,
@@ -7405,7 +7555,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-32",
+      "source_url": "#cite_note-:6-34",
       "candidates": {
         "Omar Aziz": 33.9,
         "Maria do Carmo": 18.3,
@@ -7461,7 +7611,7 @@
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-36",
+      "source_url": "#cite_note-:4-37",
       "candidates": {
         "Fábio Mitidieri": 40.67,
         "Valmir de Francisquinho": 29.22,
@@ -7661,7 +7811,7 @@
       "sample_size": 1200,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Fábio Mitidieri": 33.1,
         "Valmir de Francisquinho": 39.25,
@@ -7686,7 +7836,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-30",
+      "source_url": "#cite_note-:12-31",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -7715,7 +7865,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-30",
+      "source_url": "#cite_note-:12-31",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -7742,7 +7892,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-30",
+      "source_url": "#cite_note-:12-31",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -7769,7 +7919,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-30",
+      "source_url": "#cite_note-:12-31",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -7792,7 +7942,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-30",
+      "source_url": "#cite_note-:12-31",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -7836,7 +7986,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-34",
+      "source_url": "#cite_note-:5-36",
       "candidates": {
         "Omar Aziz": 33,
         "Maria do Carmo": 19,
@@ -7861,7 +8011,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-33",
+      "source_url": "#cite_note-:11-35",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 39,
@@ -7884,7 +8034,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-39",
+      "source_url": "#cite_note-:26-41",
       "candidates": {
         "Daniel Santos": 32,
         "Hana Ghassan": 29,
@@ -8011,7 +8161,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Allyson": 27.3,
         "Álvaro Dias": 32.5,
@@ -8111,7 +8261,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Omar Aziz": 28,
         "Maria do Carmo": 20,
@@ -8136,7 +8286,7 @@
       "sample_size": 780,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Daniel Santos": 22.4,
         "Hana Ghassan": 25.6,
@@ -8182,7 +8332,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Fábio Mitidieri": 41.2,
         "Valmir de Francisquinho": 26.7,
@@ -8232,7 +8382,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Fábio Mitidieri": 34.95,
         "Valmir de Francisquinho": 41.5,
@@ -8384,7 +8534,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 24.2,
@@ -8482,7 +8632,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-44",
+      "source_url": "#cite_note-:25-46",
       "candidates": {
         "Daniel Santos": 24.8,
         "Hana Ghassan": 30.4,
@@ -8511,7 +8661,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-44",
+      "source_url": "#cite_note-:25-46",
       "candidates": {
         "Daniel Santos": 24.5,
         "Hana Ghassan": 29.1,
@@ -8563,7 +8713,7 @@
       "sample_size": 1550,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Allyson": 34.8,
         "Álvaro Dias": 22.8,
@@ -8690,7 +8840,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-31",
+      "source_url": "#cite_note-:11-32",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -8719,7 +8869,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-31",
+      "source_url": "#cite_note-:11-32",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -8746,7 +8896,7 @@
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-43",
+      "source_url": "#cite_note-:3-44",
       "candidates": {
         "Fábio Mitidieri": 38.7,
         "Valmir de Francisquinho": 42.8,
@@ -8836,7 +8986,7 @@
       "sample_size": 1792,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-37",
+      "source_url": "#cite_note-:3-39",
       "candidates": {
         "Omar Aziz": 26.45,
         "Maria do Carmo": 21.82,
@@ -8980,7 +9130,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -9009,7 +9159,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -9107,7 +9257,7 @@
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Fábio Mitidieri": 40.8,
         "Valmir de Francisquinho": 30.3,
@@ -9157,7 +9307,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-35",
+      "source_url": "#cite_note-:10-36",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -9213,7 +9363,7 @@
       "sample_size": 1507,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-39",
+      "source_url": "#cite_note-:2-41",
       "candidates": {
         "Omar Aziz": 25.3,
         "Maria do Carmo": 18.8,
@@ -9238,7 +9388,7 @@
       "sample_size": 2996,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-40",
+      "source_url": "#cite_note-:1-42",
       "candidates": {
         "Omar Aziz": 25.1,
         "Maria do Carmo": 16.2,
@@ -9417,7 +9567,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-47",
+      "source_url": "#cite_note-:2-48",
       "candidates": {
         "Fábio Mitidieri": 44.7,
         "Valmir de Francisquinho": 38.7,
@@ -9442,7 +9592,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-37",
+      "source_url": "#cite_note-:8-39",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
@@ -9465,7 +9615,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-48",
+      "source_url": "#cite_note-Veritá3-50",
       "candidates": {
         "Daniel Santos": 52.5,
         "Hana Ghassan": 32,
@@ -9492,7 +9642,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-48",
+      "source_url": "#cite_note-:6-50",
       "candidates": {
         "Allyson": 39.8,
         "Álvaro Dias": 22.1,
@@ -9638,7 +9788,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Allyson": 41.01,
         "Álvaro Dias": 22.75,
@@ -9665,7 +9815,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-53",
       "candidates": {
         "Allyson": 38,
         "Álvaro Dias": 22.8,
@@ -9694,7 +9844,7 @@
       "sample_size": 3003,
       "margin_error": 1.79,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-41",
+      "source_url": "#cite_note-:8-43",
       "candidates": {
         "Maria do Carmo": 20.1,
         "Omar Aziz": 29.1,
@@ -9815,7 +9965,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Allyson": 27.9,
         "Álvaro Dias": 30.5,
@@ -9844,7 +9994,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-43",
+      "source_url": "#cite_note-:0-45",
       "candidates": {
         "Maria do Carmo": 41.4,
         "Omar Aziz": 32.6,
@@ -10036,7 +10186,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-49",
+      "source_url": "#cite_note-:1-50",
       "candidates": {
         "Fábio Mitidieri": 41,
         "Valmir de Francisquinho": 38,
@@ -10061,7 +10211,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-50",
+      "source_url": "#cite_note-:24-52",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -10088,7 +10238,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-50",
+      "source_url": "#cite_note-:24-52",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -10113,7 +10263,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-56",
       "candidates": {
         "Allyson": 38.5,
         "Álvaro Dias": 19.8,
@@ -10169,7 +10319,7 @@
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-51",
+      "source_url": "#cite_note-:0-52",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 39.72,
@@ -10194,7 +10344,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Maria do Carmo": 17.1,
         "Omar Aziz": 34.6,
@@ -10217,7 +10367,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Maria do Carmo": 15.6,
         "Omar Aziz": 29.8,
@@ -10242,7 +10392,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-AM06-48",
+      "source_url": "#cite_note-AM06-50",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 32,
@@ -10267,7 +10417,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-55",
+      "source_url": "#cite_note-:5-57",
       "candidates": {
         "Allyson": 37,
         "Álvaro Dias": 25.2,
@@ -10296,7 +10446,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Allyson": 28.6,
         "Álvaro Dias": 34.5,
@@ -10375,7 +10525,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-36",
+      "source_url": "#cite_note-:9-37",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -10404,7 +10554,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-36",
+      "source_url": "#cite_note-:9-37",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -10454,7 +10604,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-40",
+      "source_url": "#cite_note-:7-42",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
@@ -10477,7 +10627,7 @@
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-Action-52",
+      "source_url": "#cite_note-Action-54",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 31,
@@ -10602,7 +10752,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-49",
+      "source_url": "#cite_note-AM05-51",
       "candidates": {
         "Maria do Carmo": 38.4,
         "Omar Aziz": 27.5,
@@ -10627,7 +10777,7 @@
       "sample_size": 1244,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM05-49",
+      "source_url": "#cite_note-AM05-51",
       "candidates": {
         "Maria do Carmo": 45,
         "Omar Aziz": 30.1,
@@ -10652,7 +10802,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-53",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -10679,7 +10829,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-53",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -10871,7 +11021,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Maria do Carmo": 22,
         "Omar Aziz": 35,
@@ -10896,7 +11046,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -10925,7 +11075,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -10952,7 +11102,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-59",
       "candidates": {
         "Allyson": 35.5,
         "Álvaro Dias": 22.9,
@@ -11098,7 +11248,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-55",
+      "source_url": "#cite_note-:23-57",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -11181,7 +11331,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-38",
+      "source_url": "#cite_note-Veritá2-39",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -11302,7 +11452,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-57",
+      "source_url": "#cite_note-Veritá2-59",
       "candidates": {
         "Daniel Santos": 29.1,
         "Hana Ghassan": 26.6,
@@ -11371,7 +11521,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-59",
+      "source_url": "#cite_note-:22-61",
       "candidates": {
         "Daniel Santos": 35.2,
         "Hana Ghassan": 26,
@@ -11394,7 +11544,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -11423,7 +11573,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -11450,7 +11600,7 @@
       "sample_size": 1202,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-54",
+      "source_url": "#cite_note-Veritá2-56",
       "candidates": {
         "Maria do Carmo": 41,
         "Omar Aziz": 34.5,
@@ -11475,7 +11625,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-42",
+      "source_url": "#cite_note-Quaest-Abril-44",
       "candidates": {
         "Ciro Gomes": 41,
         "Elmano de Freitas": 32,
@@ -11498,7 +11648,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-42",
+      "source_url": "#cite_note-Quaest-Abril-44",
       "candidates": {
         "Ciro Gomes": 33,
         "Camilo Santana": 40,
@@ -11521,7 +11671,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-42",
+      "source_url": "#cite_note-Quaest-Abril-44",
       "candidates": {
         "Elmano de Freitas": 39,
         "Roberto Cláudio": 16,
@@ -11544,7 +11694,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-42",
+      "source_url": "#cite_note-Quaest-Abril-44",
       "candidates": {
         "Camilo Santana": 49,
         "Roberto Cláudio": 12,
@@ -11951,7 +12101,7 @@
       "sample_size": 1312,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-SE04-53",
+      "source_url": "#cite_note-SE04-54",
       "candidates": {
         "Fábio Mitidieri": 37.27,
         "Valmir de Francisquinho": 44.59,
@@ -12186,7 +12336,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-61",
+      "source_url": "#cite_note-:20-63",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 19,
@@ -12213,7 +12363,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-61",
+      "source_url": "#cite_note-:20-63",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 22,
@@ -12238,7 +12388,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-40",
+      "source_url": "#cite_note-:8-41",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -12267,7 +12417,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-40",
+      "source_url": "#cite_note-:8-41",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -12429,7 +12579,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-59",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Allyson": 40.4,
         "Álvaro Dias": 18.6,
@@ -12452,7 +12602,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-54",
+      "source_url": "#cite_note-SE05-55",
       "candidates": {
         "Fábio Mitidieri": 35.3,
         "Valmir de Francisquinho": 39.9,
@@ -12502,7 +12652,7 @@
       "sample_size": 1518,
       "margin_error": 2.51,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-63",
       "candidates": {
         "Allyson": 37.29,
         "Álvaro Dias": 24.91,
@@ -12629,7 +12779,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-64",
+      "source_url": "#cite_note-:19-66",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -12656,7 +12806,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-64",
+      "source_url": "#cite_note-:19-66",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -12731,7 +12881,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -12760,7 +12910,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -12787,7 +12937,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -12814,7 +12964,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -12866,7 +13016,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-65",
       "candidates": {
         "Allyson": 27.8,
         "Álvaro Dias": 32.6,
@@ -13243,7 +13393,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-56",
+      "source_url": "#cite_note-Veritá1-57",
       "candidates": {
         "Fábio Mitidieri": 44.2,
         "Valmir de Francisquinho": 34.5,
@@ -13341,7 +13491,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-49",
+      "source_url": "#cite_note-:6-51",
       "candidates": {
         "Ciro Gomes": 30,
         "Elmano de Freitas": 21,
@@ -13595,7 +13745,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-69",
+      "source_url": "#cite_note-71",
       "candidates": {
         "Daniel Santos": 43.4,
         "Hana Ghassan": 25.5,
@@ -13618,7 +13768,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-69",
+      "source_url": "#cite_note-71",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 18.7,
@@ -13662,7 +13812,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-42",
+      "source_url": "#cite_note-:7-43",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -13689,7 +13839,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-42",
+      "source_url": "#cite_note-:7-43",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -13716,7 +13866,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-42",
+      "source_url": "#cite_note-:7-43",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -13741,7 +13891,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-42",
+      "source_url": "#cite_note-:7-43",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -13960,7 +14110,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-53",
+      "source_url": "#cite_note-:1-55",
       "candidates": {
         "Ciro Gomes": 39,
         "Elmano de Freitas": 42,
@@ -13983,7 +14133,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-53",
+      "source_url": "#cite_note-:1-55",
       "candidates": {
         "Elmano de Freitas": 45,
         "Roberto Cláudio": 27,
@@ -14158,7 +14308,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-66",
       "candidates": {
         "Allyson": 28.8,
         "Álvaro Dias": 37.2,
@@ -14181,7 +14331,7 @@
       "sample_size": 1700,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-65",
+      "source_url": "#cite_note-:3-67",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 20.6,
@@ -14325,7 +14475,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM03-55",
+      "source_url": "#cite_note-AM03-57",
       "candidates": {
         "Maria do Carmo": 40.8,
         "Omar Aziz": 33.8,
@@ -14525,7 +14675,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-72",
+      "source_url": "#cite_note-:0-74",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -14552,7 +14702,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-72",
+      "source_url": "#cite_note-:0-74",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -14623,7 +14773,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-44",
+      "source_url": "#cite_note-:3-45",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -14650,7 +14800,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-44",
+      "source_url": "#cite_note-:3-45",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -14677,7 +14827,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-44",
+      "source_url": "#cite_note-:3-45",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -14775,7 +14925,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-AM04-56",
+      "source_url": "#cite_note-AM04-58",
       "candidates": {
         "Maria do Carmo": 27,
         "Omar Aziz": 39,
@@ -14798,7 +14948,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-AM04-56",
+      "source_url": "#cite_note-AM04-58",
       "candidates": {
         "Maria do Carmo": 26,
         "Omar Aziz": 37,
@@ -14952,7 +15102,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-66",
+      "source_url": "#cite_note-:2-68",
       "candidates": {
         "Allyson": 29.24,
         "Álvaro Dias": 31.18,
@@ -14975,7 +15125,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-58",
+      "source_url": "#cite_note-SE02-59",
       "candidates": {
         "Fábio Mitidieri": 42.88,
         "Valmir de Francisquinho": 35.03
@@ -14996,7 +15146,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-58",
+      "source_url": "#cite_note-SE02-59",
       "candidates": {
         "Fábio Mitidieri": 44.51,
         "Ricardo Marques": 21.63
@@ -15017,7 +15167,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-58",
+      "source_url": "#cite_note-SE02-59",
       "candidates": {
         "Fábio Mitidieri": 51.64,
         "Emanuel Cacho": 10.3
@@ -15190,7 +15340,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-57",
+      "source_url": "#cite_note-AM02-59",
       "candidates": {
         "Maria do Carmo": 41.8,
         "Omar Aziz": 40.4,
@@ -15215,7 +15365,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-57",
+      "source_url": "#cite_note-AM02-59",
       "candidates": {
         "Maria do Carmo": 42.2,
         "Omar Aziz": 40.6,
@@ -15238,7 +15388,7 @@
       "sample_size": 1138,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM02-57",
+      "source_url": "#cite_note-AM02-59",
       "candidates": {
         "Maria do Carmo": 42.8,
         "Omar Aziz": 40.5,
@@ -15511,7 +15661,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AM01-58",
+      "source_url": "#cite_note-AM01-60",
       "candidates": {
         "Maria do Carmo": 21,
         "Omar Aziz": 33,
@@ -15998,7 +16148,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-45",
+      "source_url": "#cite_note-:1-46",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -16027,7 +16177,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-45",
+      "source_url": "#cite_note-:1-46",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -16056,7 +16206,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-45",
+      "source_url": "#cite_note-:1-46",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -16561,7 +16711,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-81",
+      "source_url": "#cite_note-:3-83",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -16588,7 +16738,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-81",
+      "source_url": "#cite_note-:3-83",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -16696,7 +16846,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-85",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Daniel Santos": 32.1,
         "Hana Ghassan": 22.2,
@@ -16790,7 +16940,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-46",
+      "source_url": "#cite_note-:5-47",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -16817,7 +16967,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-46",
+      "source_url": "#cite_note-:5-47",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -16844,7 +16994,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-46",
+      "source_url": "#cite_note-:5-47",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -16969,7 +17119,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-87",
+      "source_url": "#cite_note-89",
       "candidates": {
         "Daniel Santos": 30.5,
         "Hana Ghassan": 20.3,
@@ -16994,7 +17144,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-87",
+      "source_url": "#cite_note-89",
       "candidates": {
         "Daniel Santos": 20.7,
         "Hana Ghassan": 19.8,
@@ -17019,7 +17169,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-87",
+      "source_url": "#cite_note-89",
       "candidates": {
         "Daniel Santos": 34.1,
         "Hana Ghassan": 19.2,
@@ -17044,7 +17194,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-87",
+      "source_url": "#cite_note-89",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 32,
@@ -17069,7 +17219,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-87",
+      "source_url": "#cite_note-89",
       "candidates": {
         "Daniel Santos": 23.2,
         "Hana Ghassan": 21.3,
@@ -17094,7 +17244,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-87",
+      "source_url": "#cite_note-89",
       "candidates": {
         "Daniel Santos": 47.8,
         "Hana Ghassan": 19.1,
@@ -17119,7 +17269,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-87",
+      "source_url": "#cite_note-89",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 23.2,
@@ -17244,7 +17394,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-68",
+      "source_url": "#cite_note-70",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 26,
@@ -17267,7 +17417,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-68",
+      "source_url": "#cite_note-70",
       "candidates": {
         "Allyson": 39,
         "Álvaro Dias": 15,
@@ -17290,7 +17440,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-68",
+      "source_url": "#cite_note-70",
       "candidates": {
         "Allyson": 34,
         "Rogério Marinho": 15,
@@ -17361,7 +17511,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-69",
+      "source_url": "#cite_note-:0-71",
       "candidates": {
         "Allyson": 38.6,
         "Rogério Marinho": 19,
@@ -17384,7 +17534,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-69",
+      "source_url": "#cite_note-:0-71",
       "candidates": {
         "Allyson": 38.2,
         "Álvaro Dias": 15.1,
@@ -17407,7 +17557,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-69",
+      "source_url": "#cite_note-:0-71",
       "candidates": {
         "Allyson": 35.9,
         "Rogério Marinho": 15.6,
@@ -17715,7 +17865,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-101",
+      "source_url": "#cite_note-:6-103",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -17738,7 +17888,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-101",
+      "source_url": "#cite_note-:6-103",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -17890,7 +18040,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-71",
+      "source_url": "#cite_note-:1-73",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 34,
@@ -17913,7 +18063,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-71",
+      "source_url": "#cite_note-:1-73",
       "candidates": {
         "Allyson": 42,
         "Álvaro Dias": 17,
@@ -17936,7 +18086,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-107",
+      "source_url": "#cite_note-:7-109",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
@@ -17961,7 +18111,7 @@
       "sample_size": 600,
       "margin_error": 4,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-105",
+      "source_url": "#cite_note-:9-107",
       "candidates": {
         "Daniel Santos": 29.4,
         "Hana Ghassan": 19.8,
@@ -18354,7 +18504,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-59",
+      "source_url": "#cite_note-SE01-60",
       "candidates": {
         "Fábio Mitidieri": 46,
         "Valmir de Francisquinho": 33
@@ -18375,7 +18525,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-59",
+      "source_url": "#cite_note-SE01-60",
       "candidates": {
         "Fábio Mitidieri": 49,
         "Thiago de Joaldo": 26
@@ -18396,7 +18546,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-59",
+      "source_url": "#cite_note-SE01-60",
       "candidates": {
         "Fábio Mitidieri": 48,
         "Emília Corrêa": 32
@@ -18417,7 +18567,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-59",
+      "source_url": "#cite_note-SE01-60",
       "candidates": {
         "Fábio Mitidieri": 50,
         "Eduardo Amorim": 28
@@ -18749,7 +18899,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-115",
+      "source_url": "#cite_note-117",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -18772,7 +18922,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-115",
+      "source_url": "#cite_note-117",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -19102,7 +19252,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-120",
+      "source_url": "#cite_note-122",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -19123,7 +19273,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-120",
+      "source_url": "#cite_note-122",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -19144,7 +19294,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-120",
+      "source_url": "#cite_note-122",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -19165,7 +19315,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-120",
+      "source_url": "#cite_note-122",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -19373,7 +19523,7 @@
       "sample_size": 1505,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-72",
+      "source_url": "#cite_note-:-1-74",
       "candidates": {
         "Allyson": 30,
         "Rogério Marinho": 28.2,
@@ -19848,7 +19998,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-129",
+      "source_url": "#cite_note-131",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -19871,7 +20021,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-129",
+      "source_url": "#cite_note-131",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -19986,7 +20136,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-138",
+      "source_url": "#cite_note-:11-140",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -20070,7 +20220,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-148",
+      "source_url": "#cite_note-:13-150",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -20091,7 +20241,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-151",
+      "source_url": "#cite_note-153",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -20112,7 +20262,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-151",
+      "source_url": "#cite_note-153",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -20133,7 +20283,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-156",
+      "source_url": "#cite_note-:14-158",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -20154,7 +20304,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-159",
+      "source_url": "#cite_note-:15-161",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -20361,7 +20511,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-162",
+      "source_url": "#cite_note-:16-164",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -20646,7 +20796,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-165",
+      "source_url": "#cite_note-:17-167",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10

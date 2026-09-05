@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-09-04T14:55:47.769Z",
+  "ultima_execucao": "2026-09-05T13:51:23.847Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 816,
-  "pesquisas_usadas": 816,
+  "pesquisas_extraidas_brutas": 824,
+  "pesquisas_usadas": 824,
   "estados_com_agregado": 26,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -57,7 +57,7 @@
           "Omar Aziz",
           "Roberto Cidade"
         ],
-        "pesquisas": 25
+        "pesquisas": 26
       },
       {
         "candidatos": [
@@ -136,19 +136,9 @@
       {
         "candidatos": [
           "Ciro Gomes",
-          "Delegado Huggo",
-          "Elmano de Freitas",
-          "Vera Lúcia"
-        ],
-        "pesquisas": 4
-      },
-      {
-        "candidatos": [
-          "Ciro Gomes",
-          "Delegado Huggo",
           "Elmano de Freitas"
         ],
-        "pesquisas": 2
+        "pesquisas": 7
       },
       {
         "candidatos": [
@@ -162,6 +152,14 @@
         "candidatos": [
           "Eduardo Girão",
           "Elmano de Freitas",
+          "Roberto Cláudio"
+        ],
+        "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Ciro Gomes",
+          "Eduardo Girão",
           "Roberto Cláudio"
         ],
         "pesquisas": 2
@@ -553,10 +551,10 @@
       {
         "candidatos": [
           "Luiz França",
-          "Rafael Greca",
           "Requião Filho",
           "Sandro Alex",
-          "Sergio Moro"
+          "Sergio Moro",
+          "Tayná Miessa"
         ],
         "pesquisas": 2
       }
@@ -564,11 +562,10 @@
     "PE": [
       {
         "candidatos": [
-          "Ivan Moraes",
           "João Campos",
           "Raquel Lyra"
         ],
-        "pesquisas": 23
+        "pesquisas": 19
       },
       {
         "candidatos": [
@@ -581,10 +578,11 @@
       },
       {
         "candidatos": [
+          "Ivan Moraes",
           "João Campos",
           "Raquel Lyra"
         ],
-        "pesquisas": 2
+        "pesquisas": 7
       }
     ],
     "PI": [
@@ -595,7 +593,7 @@
           "Joel Rodrigues",
           "Rafael Fonteles"
         ],
-        "pesquisas": 6
+        "pesquisas": 7
       },
       {
         "candidatos": [
@@ -678,7 +676,7 @@
           "Rodrigo Bolsonaro",
           "Álvaro Dias"
         ],
-        "pesquisas": 25
+        "pesquisas": 26
       },
       {
         "candidatos": [
@@ -965,7 +963,7 @@
           "Ricardo Marques",
           "Valmir de Francisquinho"
         ],
-        "pesquisas": 23
+        "pesquisas": 24
       },
       {
         "candidatos": [
@@ -1067,7 +1065,7 @@
     "AM": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "status": "ok",
-      "pesquisas": 34,
+      "pesquisas": 35,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
     },
     "BA": {
@@ -1079,7 +1077,7 @@
     "CE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "status": "ok",
-      "pesquisas": 30,
+      "pesquisas": 31,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Cear%C3%A1"
     },
     "DF": {
@@ -1127,7 +1125,7 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 75,
+      "pesquisas": 76,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
@@ -1139,19 +1137,19 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 57,
+      "pesquisas": 58,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "status": "ok",
-      "pesquisas": 37,
+      "pesquisas": 38,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
     },
     "PI": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
       "status": "ok",
-      "pesquisas": 7,
+      "pesquisas": 8,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Piau%C3%AD"
     },
     "RJ": {
@@ -1163,7 +1161,7 @@
     "RN": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "status": "ok",
-      "pesquisas": 56,
+      "pesquisas": 57,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
     },
     "RS": {
@@ -1199,7 +1197,7 @@
     "SE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "status": "ok",
-      "pesquisas": 33,
+      "pesquisas": 34,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
     },
     "TO": {

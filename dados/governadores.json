@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-04",
+  "atualizado_em": "2026-09-05",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -177,51 +177,59 @@
       "uf": "AM",
       "estado": "Amazonas",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-08-28",
+      "corte": "2026-09-03",
       "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Omar Aziz",
           "partido": "PSD",
-          "media": 28.6,
-          "ic_min": 27.1,
-          "ic_max": 30.1,
-          "pesquisas": 20
-        },
-        {
-          "nome": "Roberto Cidade",
-          "partido": "UNIÃO",
-          "media": 20.4,
-          "ic_min": 19,
-          "ic_max": 21.7,
+          "media": 28.8,
+          "ic_min": 27.3,
+          "ic_max": 30.3,
           "pesquisas": 20
         },
         {
           "nome": "Maria do Carmo",
           "partido": "PL",
-          "media": 20.4,
-          "ic_min": 18.1,
-          "ic_max": 22.6,
+          "media": 21,
+          "ic_min": 18.7,
+          "ic_max": 23.3,
+          "pesquisas": 20
+        },
+        {
+          "nome": "Roberto Cidade",
+          "partido": "UNIÃO",
+          "media": 20.3,
+          "ic_min": 19,
+          "ic_max": 21.6,
           "pesquisas": 20
         },
         {
           "nome": "David Almeida",
           "partido": "Avante",
-          "media": 16.2,
-          "ic_min": 15,
-          "ic_max": 17.3,
+          "media": 15.5,
+          "ic_min": 14,
+          "ic_max": 17,
           "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "AtlasIntel",
+          "coleta": "2026-09-03",
+          "amostra": 1185,
+          "margem": 3,
+          "tse": "",
+          "fonte_url": "#cite_note-:17-13"
+        },
         {
           "instituto": "Veritá",
           "coleta": "2026-08-28",
           "amostra": 1220,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:16-13"
+          "fonte_url": "#cite_note-:16-15"
         },
         {
           "instituto": "Eficaz",
@@ -229,7 +237,7 @@
           "amostra": 1517,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-15"
+          "fonte_url": "#cite_note-17"
         },
         {
           "instituto": "Real Time Big Data",
@@ -237,7 +245,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:15-17"
+          "fonte_url": "#cite_note-:15-19"
         },
         {
           "instituto": "Genial/Quaest",
@@ -245,7 +253,7 @@
           "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:14-19"
+          "fonte_url": "#cite_note-:14-21"
         },
         {
           "instituto": "Direto ao Ponto",
@@ -253,19 +261,11 @@
           "amostra": 1200,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-21"
-        },
-        {
-          "instituto": "Projeta",
-          "coleta": "2026-08-21",
-          "amostra": 3000,
-          "margem": 1.9,
-          "tse": "",
           "fonte_url": "#cite_note-23"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:16-13"
+      "fonte_url": "#cite_note-:17-13"
     },
     "BA": {
       "uf": "BA",
@@ -393,7 +393,7 @@
           "amostra": 1002,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:13-27"
+          "fonte_url": "#cite_note-:13-29"
         },
         {
           "instituto": "Ipsus/IPEC",
@@ -401,7 +401,7 @@
           "amostra": 800,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-29"
+          "fonte_url": "#cite_note-31"
         },
         {
           "instituto": "Real Time Big Data",
@@ -409,7 +409,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:12-31"
+          "fonte_url": "#cite_note-:12-33"
         },
         {
           "instituto": "DataTrends",
@@ -417,7 +417,7 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-:11-33"
+          "fonte_url": "#cite_note-:11-35"
         },
         {
           "instituto": "AtlasIntel /Focus",
@@ -433,11 +433,11 @@
           "amostra": 800,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:8-37"
+          "fonte_url": "#cite_note-:8-39"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:13-27"
+      "fonte_url": "#cite_note-:13-29"
     },
     "DF": {
       "uf": "DF",
@@ -458,17 +458,17 @@
         {
           "nome": "Arruda",
           "partido": "PSD",
-          "media": 24.5,
-          "ic_min": 22.8,
-          "ic_max": 26.3,
+          "media": 22.6,
+          "ic_min": 20.1,
+          "ic_max": 25.2,
           "pesquisas": 8
         },
         {
           "nome": "Leandro Grass",
           "partido": "PT",
-          "media": 11.4,
-          "ic_min": 10.3,
-          "ic_max": 12.5,
+          "media": 13.3,
+          "ic_min": 9,
+          "ic_max": 17.5,
           "pesquisas": 8
         },
         {
@@ -1133,103 +1133,95 @@
       "uf": "PA",
       "estado": "Pará",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-07-07",
-      "pesquisas_no_calculo": 6,
+      "corte": "2026-08-30",
+      "pesquisas_no_calculo": 5,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Daniel Santos",
           "partido": "PODE",
-          "media": 34.5,
-          "ic_min": 28,
-          "ic_max": 40.9,
-          "pesquisas": 6
+          "media": 37.7,
+          "ic_min": 31.6,
+          "ic_max": 43.9,
+          "pesquisas": 5
         },
         {
           "nome": "Hana Ghassan",
           "partido": "MDB",
-          "media": 28.2,
-          "ic_min": 25.8,
-          "ic_max": 30.6,
-          "pesquisas": 6
-        },
-        {
-          "nome": "Mário Couto",
-          "partido": "DC",
-          "media": 8.2,
-          "ic_min": 5.4,
-          "ic_max": 11.1,
-          "pesquisas": 6
-        },
-        {
-          "nome": "Cleber Rabelo",
-          "partido": "PSTU",
-          "media": 3,
-          "ic_min": 1.9,
-          "ic_max": 4.1,
-          "pesquisas": 6
+          "media": 37.2,
+          "ic_min": 31.4,
+          "ic_max": 43,
+          "pesquisas": 5
         },
         {
           "nome": "Araceli Lemos",
           "partido": "PSOL",
-          "media": 2.8,
-          "ic_min": 1.9,
-          "ic_max": 3.7,
-          "pesquisas": 6
+          "media": 2.5,
+          "ic_min": 1.3,
+          "ic_max": 3.8,
+          "pesquisas": 5
+        },
+        {
+          "nome": "Gal Leite",
+          "partido": "UP",
+          "media": 1.7,
+          "ic_min": 0.5,
+          "ic_max": 2.8,
+          "pesquisas": 5
+        },
+        {
+          "nome": "José Moita",
+          "partido": "Democrata",
+          "media": 1.6,
+          "ic_min": 0.3,
+          "ic_max": 2.8,
+          "pesquisas": 5
         }
       ],
       "ultimas_pesquisas": [
         {
-          "instituto": "Veritate",
-          "coleta": "2026-07-07",
-          "amostra": 1400,
-          "margem": 2.6,
-          "tse": "",
-          "fonte_url": "#cite_note-:27-36"
-        },
-        {
           "instituto": "Simetria",
-          "coleta": "2026-06-25",
+          "coleta": "2026-08-30",
           "amostra": 1200,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:26-39"
+          "fonte_url": "#cite_note-:35-11"
         },
         {
           "instituto": "Veritá",
-          "coleta": "2026-05-31",
+          "coleta": "2026-08-23",
           "amostra": 1525,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-Veritá3-48"
+          "fonte_url": "#cite_note-:33-16"
         },
         {
-          "instituto": "Ampla",
-          "coleta": "2026-05-24",
-          "amostra": 1500,
+          "instituto": "Veritate",
+          "coleta": "2026-08-22",
+          "amostra": 1400,
           "margem": 2.6,
           "tse": "",
-          "fonte_url": "#cite_note-:24-50"
+          "fonte_url": "#cite_note-:34-18"
+        },
+        {
+          "instituto": "AtlasIntel",
+          "coleta": "2026-08-19",
+          "amostra": 1197,
+          "margem": 3,
+          "tse": "",
+          "fonte_url": "#cite_note-:32-21"
         },
         {
           "instituto": "Doxa",
-          "coleta": "2026-05-14",
+          "coleta": "2026-08-15",
           "amostra": 2000,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-51"
-        },
-        {
-          "instituto": "Simetria",
-          "coleta": "2026-05-04",
-          "amostra": 1200,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-:23-55"
+          "fonte_url": "#cite_note-:31-26"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:27-36"
+      "fonte_url": "#cite_note-:35-11"
     },
     "PB": {
       "uf": "PB",
@@ -1263,7 +1255,7 @@
           "amostra": 1207,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-9"
+          "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
         },
         {
           "instituto": "TDL",
@@ -1307,7 +1299,7 @@
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-9"
+      "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
     },
     "PR": {
       "uf": "PR",
@@ -1373,7 +1365,7 @@
           "amostra": 2010,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-:14-24"
+          "fonte_url": "#cite_note-:14-25"
         },
         {
           "instituto": "IRG",
@@ -1381,7 +1373,7 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-26"
+          "fonte_url": "#cite_note-27"
         },
         {
           "instituto": "Genial/Quaest",
@@ -1389,7 +1381,7 @@
           "amostra": 1104,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:13-27"
+          "fonte_url": "#cite_note-:13-28"
         },
         {
           "instituto": "Neokemp",
@@ -1397,7 +1389,7 @@
           "amostra": 1008,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-28"
+          "fonte_url": "#cite_note-29"
         },
         {
           "instituto": "Paraná Pesquisas",
@@ -1405,7 +1397,7 @@
           "amostra": 1500,
           "margem": 2.6,
           "tse": "",
-          "fonte_url": "#cite_note-29"
+          "fonte_url": "#cite_note-30"
         },
         {
           "instituto": "Vox Brasil",
@@ -1413,61 +1405,45 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-:12-30"
+          "fonte_url": "#cite_note-:12-31"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:14-24"
+      "fonte_url": "#cite_note-:14-25"
     },
     "PE": {
       "uf": "PE",
       "estado": "Pernambuco",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-09-02",
-      "pesquisas_no_calculo": 20,
+      "corte": "2026-08-27",
+      "pesquisas_no_calculo": 19,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Raquel Lyra",
           "partido": "PSD",
-          "media": 44.2,
-          "ic_min": 43,
-          "ic_max": 45.5,
-          "pesquisas": 20
+          "media": 44.1,
+          "ic_min": 42.8,
+          "ic_max": 45.3,
+          "pesquisas": 19
         },
         {
           "nome": "João Campos",
           "partido": "PSB",
-          "media": 40.1,
-          "ic_min": 38.7,
-          "ic_max": 41.5,
-          "pesquisas": 20
-        },
-        {
-          "nome": "Ivan Moraes",
-          "partido": "PSOL",
-          "media": 1.2,
-          "ic_min": 0.9,
-          "ic_max": 1.5,
-          "pesquisas": 20
+          "media": 39.4,
+          "ic_min": 38,
+          "ic_max": 40.7,
+          "pesquisas": 19
         }
       ],
       "ultimas_pesquisas": [
-        {
-          "instituto": "Real Time Big Data",
-          "coleta": "2026-09-02",
-          "amostra": 1600,
-          "margem": 2,
-          "tse": "",
-          "fonte_url": "#cite_note-:23-14"
-        },
         {
           "instituto": "DataTrends",
           "coleta": "2026-08-27",
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-:4-16"
+          "fonte_url": "#cite_note-:4-15"
         },
         {
           "instituto": "Múltipla",
@@ -1476,6 +1452,22 @@
           "margem": 3.3,
           "tse": "",
           "fonte_url": "#cite_note-:22-17"
+        },
+        {
+          "instituto": "Genial/Quaest",
+          "coleta": "2026-08-24",
+          "amostra": 1302,
+          "margem": 3,
+          "tse": "",
+          "fonte_url": "#cite_note-:21-19"
+        },
+        {
+          "instituto": "Contextto",
+          "coleta": "2026-08-24",
+          "amostra": 1200,
+          "margem": 2.83,
+          "tse": "",
+          "fonte_url": "#cite_note-:21-A-21"
         },
         {
           "instituto": "Simplex",
@@ -1492,68 +1484,68 @@
           "margem": 3,
           "tse": "",
           "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
-        },
-        {
-          "instituto": "Real Time Big Data",
-          "coleta": "2026-08-15",
-          "amostra": 1600,
-          "margem": 2,
-          "tse": "",
-          "fonte_url": "#cite_note-:18-27"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:23-14"
+      "fonte_url": "#cite_note-:4-15"
     },
     "PI": {
       "uf": "PI",
       "estado": "Piauí",
       "cenario": "Governador · 1º turno",
       "corte": "2026-09-02",
-      "pesquisas_no_calculo": 6,
+      "pesquisas_no_calculo": 7,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Rafael Fonteles",
           "partido": "PT",
-          "media": 62.4,
-          "ic_min": 55.4,
-          "ic_max": 69.4,
-          "pesquisas": 6
+          "media": 64.4,
+          "ic_min": 57.7,
+          "ic_max": 71.1,
+          "pesquisas": 7
         },
         {
           "nome": "Joel Rodrigues",
           "partido": "PP",
-          "media": 20.5,
-          "ic_min": 18.2,
-          "ic_max": 22.8,
-          "pesquisas": 6
+          "media": 20.6,
+          "ic_min": 18.6,
+          "ic_max": 22.5,
+          "pesquisas": 7
         },
         {
           "nome": "Elizeu Aguiar",
           "partido": "NOVO",
           "media": 0.7,
           "ic_min": 0.6,
-          "ic_max": 0.9,
-          "pesquisas": 6
+          "ic_max": 0.8,
+          "pesquisas": 7
         },
         {
           "nome": "Gisvaldo Oliveira",
           "partido": "PSOL",
           "media": 0.6,
-          "ic_min": 0.3,
+          "ic_min": 0.4,
           "ic_max": 0.8,
-          "pesquisas": 6
+          "pesquisas": 7
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Amostragem",
+          "coleta": "2026-09-02",
+          "amostra": 1137,
+          "margem": 2.85,
+          "tse": "",
+          "fonte_url": "#cite_note-11"
+        },
         {
           "instituto": "AtlasIntel",
           "coleta": "2026-09-02",
           "amostra": 1622,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-11"
+          "fonte_url": "#cite_note-13"
         },
         {
           "instituto": "DataFolha",
@@ -1569,7 +1561,7 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-17"
+          "fonte_url": "#cite_note-19"
         },
         {
           "instituto": "Amostragem",
@@ -1577,18 +1569,10 @@
           "amostra": 1137,
           "margem": 2.85,
           "tse": "",
-          "fonte_url": "#cite_note-19"
+          "fonte_url": "#cite_note-21"
         },
         {
           "instituto": "Datamax",
-          "coleta": "2026-08-02",
-          "amostra": 1602,
-          "margem": 2.45,
-          "tse": "",
-          "fonte_url": "#cite_note-22"
-        },
-        {
-          "instituto": "Vetor3",
           "coleta": "2026-08-02",
           "amostra": 1602,
           "margem": 2.45,
@@ -1729,32 +1713,32 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-08-30",
+      "corte": "2026-09-03",
       "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Allyson",
           "partido": "UNIÃO",
-          "media": 34.2,
-          "ic_min": 32.1,
-          "ic_max": 36.3,
+          "media": 34.4,
+          "ic_min": 32.4,
+          "ic_max": 36.5,
           "pesquisas": 20
         },
         {
           "nome": "Álvaro Dias",
           "partido": "PL",
-          "media": 24.3,
-          "ic_min": 22.3,
-          "ic_max": 26.4,
+          "media": 24,
+          "ic_min": 22,
+          "ic_max": 26,
           "pesquisas": 20
         },
         {
           "nome": "Cadu de Lula",
           "partido": "PT",
-          "media": 16.5,
-          "ic_min": 15.3,
-          "ic_max": 17.6,
+          "media": 16.7,
+          "ic_min": 15.6,
+          "ic_max": 17.7,
           "pesquisas": 20
         },
         {
@@ -1769,14 +1753,14 @@
           "nome": "Robério Paulino",
           "partido": "PSOL",
           "media": 0.9,
-          "ic_min": 0.7,
+          "ic_min": 0.6,
           "ic_max": 1.1,
           "pesquisas": 20
         },
         {
           "nome": "Dário Barbosa",
           "partido": "PSTU",
-          "media": 0.4,
+          "media": 0.3,
           "ic_min": 0.2,
           "ic_max": 0.5,
           "pesquisas": 20
@@ -1784,12 +1768,20 @@
       ],
       "ultimas_pesquisas": [
         {
+          "instituto": "Exatus",
+          "coleta": "2026-09-03",
+          "amostra": 1500,
+          "margem": 2.53,
+          "tse": "",
+          "fonte_url": "#cite_note-9"
+        },
+        {
           "instituto": "Media/O Potengi",
           "coleta": "2026-08-30",
           "amostra": 2000,
           "margem": 2.1,
           "tse": "",
-          "fonte_url": "#cite_note-12"
+          "fonte_url": "#cite_note-14"
         },
         {
           "instituto": "BG/Perfil",
@@ -1797,7 +1789,7 @@
           "amostra": 1200,
           "margem": 2.8,
           "tse": "",
-          "fonte_url": "#cite_note-9"
+          "fonte_url": "#cite_note-11"
         },
         {
           "instituto": "DataVero",
@@ -1805,7 +1797,7 @@
           "amostra": 1500,
           "margem": 2.53,
           "tse": "",
-          "fonte_url": "#cite_note-16"
+          "fonte_url": "#cite_note-18"
         },
         {
           "instituto": "Quaest",
@@ -1813,7 +1805,7 @@
           "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:9-20"
+          "fonte_url": "#cite_note-:9-22"
         },
         {
           "instituto": "Mensury/Blog do Barreto",
@@ -1821,19 +1813,11 @@
           "amostra": 1500,
           "margem": 2.53,
           "tse": "",
-          "fonte_url": "#cite_note-22"
-        },
-        {
-          "instituto": "Difusora/Item",
-          "coleta": "2026-08-14",
-          "amostra": 1250,
-          "margem": 2.77,
-          "tse": "",
-          "fonte_url": "#cite_note-25"
+          "fonte_url": "#cite_note-24"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-12"
+      "fonte_url": "#cite_note-9"
     },
     "RS": {
       "uf": "RS",
@@ -2276,33 +2260,33 @@
         {
           "nome": "Fábio Mitidieri",
           "partido": "PSD",
-          "media": 40.5,
-          "ic_min": 38.4,
-          "ic_max": 42.6,
+          "media": 41,
+          "ic_min": 38.9,
+          "ic_max": 43,
           "pesquisas": 20
         },
         {
           "nome": "Valmir de Francisquinho",
           "partido": "Republicanos",
-          "media": 32,
-          "ic_min": 28.7,
-          "ic_max": 35.4,
+          "media": 32.5,
+          "ic_min": 29.2,
+          "ic_max": 35.8,
           "pesquisas": 20
         },
         {
           "nome": "Ricardo Marques",
           "partido": "PL",
-          "media": 5.8,
-          "ic_min": 4.8,
-          "ic_max": 6.9,
+          "media": 6.2,
+          "ic_min": 5.1,
+          "ic_max": 7.3,
           "pesquisas": 20
         },
         {
           "nome": "Emanuel Cacho",
           "partido": "PSDB",
-          "media": 0.9,
-          "ic_min": 0.7,
-          "ic_max": 1.2,
+          "media": 1,
+          "ic_min": 0.8,
+          "ic_max": 1.3,
           "pesquisas": 20
         }
       ],
@@ -2316,12 +2300,20 @@
           "fonte_url": "#cite_note-:8-10"
         },
         {
+          "instituto": "Real Time Big Data",
+          "coleta": "2026-09-03",
+          "amostra": 1600,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "#cite_note-:8-D-11"
+        },
+        {
           "instituto": "Quaest",
           "coleta": "2026-08-26",
           "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:7-11"
+          "fonte_url": "#cite_note-:7-12"
         },
         {
           "instituto": "IFP",
@@ -2329,7 +2321,7 @@
           "amostra": 1314,
           "margem": 2.7,
           "tse": "",
-          "fonte_url": "#cite_note-:7-S-13"
+          "fonte_url": "#cite_note-:7-S-14"
         },
         {
           "instituto": "CTAS",
@@ -2337,7 +2329,7 @@
           "amostra": 1224,
           "margem": 2.7,
           "tse": "",
-          "fonte_url": "#cite_note-15"
+          "fonte_url": "#cite_note-16"
         },
         {
           "instituto": "Veritá",
@@ -2345,15 +2337,7 @@
           "amostra": 1220,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:6-17"
-        },
-        {
-          "instituto": "INOR",
-          "coleta": "2026-08-16",
-          "amostra": 1070,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-20"
+          "fonte_url": "#cite_note-:6-18"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
