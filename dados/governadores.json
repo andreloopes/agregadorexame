@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-05",
+  "atualizado_em": "2026-09-06",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -177,7 +177,7 @@
       "uf": "AM",
       "estado": "Amazonas",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-09-03",
+      "corte": "2026-09-04",
       "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
@@ -185,43 +185,51 @@
           "nome": "Omar Aziz",
           "partido": "PSD",
           "media": 28.8,
-          "ic_min": 27.3,
-          "ic_max": 30.3,
+          "ic_min": 27.4,
+          "ic_max": 30.2,
           "pesquisas": 20
         },
         {
           "nome": "Maria do Carmo",
           "partido": "PL",
-          "media": 21,
+          "media": 20.7,
           "ic_min": 18.7,
-          "ic_max": 23.3,
+          "ic_max": 22.7,
           "pesquisas": 20
         },
         {
           "nome": "Roberto Cidade",
           "partido": "UNIÃO",
-          "media": 20.3,
-          "ic_min": 19,
-          "ic_max": 21.6,
+          "media": 20.5,
+          "ic_min": 19.3,
+          "ic_max": 21.7,
           "pesquisas": 20
         },
         {
           "nome": "David Almeida",
           "partido": "Avante",
-          "media": 15.5,
-          "ic_min": 14,
-          "ic_max": 17,
+          "media": 15.7,
+          "ic_min": 14.2,
+          "ic_max": 17.1,
           "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Paraná Pesquisas",
+          "coleta": "2026-09-04",
+          "amostra": 1350,
+          "margem": 2.7,
+          "tse": "",
+          "fonte_url": "#cite_note-13"
+        },
         {
           "instituto": "AtlasIntel",
           "coleta": "2026-09-03",
           "amostra": 1185,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:17-13"
+          "fonte_url": "#cite_note-:17-15"
         },
         {
           "instituto": "Veritá",
@@ -229,7 +237,7 @@
           "amostra": 1220,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:16-15"
+          "fonte_url": "#cite_note-:16-17"
         },
         {
           "instituto": "Eficaz",
@@ -237,7 +245,7 @@
           "amostra": 1517,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-17"
+          "fonte_url": "#cite_note-19"
         },
         {
           "instituto": "Real Time Big Data",
@@ -245,7 +253,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:15-19"
+          "fonte_url": "#cite_note-:15-21"
         },
         {
           "instituto": "Genial/Quaest",
@@ -253,19 +261,11 @@
           "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:14-21"
-        },
-        {
-          "instituto": "Direto ao Ponto",
-          "coleta": "2026-08-24",
-          "amostra": 1200,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-23"
+          "fonte_url": "#cite_note-:14-23"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:17-13"
+      "fonte_url": "#cite_note-13"
     },
     "BA": {
       "uf": "BA",
@@ -2089,43 +2089,51 @@
       "uf": "SC",
       "estado": "Santa Catarina",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-07-24",
-      "pesquisas_no_calculo": 8,
+      "corte": "2026-09-01",
+      "pesquisas_no_calculo": 9,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Jorginho Mello",
           "partido": "PL",
-          "media": 54.4,
-          "ic_min": 53,
-          "ic_max": 55.9,
-          "pesquisas": 8
+          "media": 56,
+          "ic_min": 54.3,
+          "ic_max": 57.7,
+          "pesquisas": 9
         },
         {
           "nome": "João Rodrigues",
           "partido": "PSD",
-          "media": 19.6,
-          "ic_min": 16.8,
-          "ic_max": 22.4,
-          "pesquisas": 8
+          "media": 18.7,
+          "ic_min": 16.5,
+          "ic_max": 20.9,
+          "pesquisas": 9
         },
         {
           "nome": "Gelson Merisio",
           "partido": "PSB",
-          "media": 7.1,
-          "ic_min": 5.6,
-          "ic_max": 8.6,
-          "pesquisas": 8
+          "media": 8.9,
+          "ic_min": 7,
+          "ic_max": 10.8,
+          "pesquisas": 9
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Veritá",
+          "coleta": "2026-09-01",
+          "amostra": 1525,
+          "margem": 2.5,
+          "tse": "",
+          "fonte_url": "#cite_note-14"
+        },
         {
           "instituto": "Neokemp",
           "coleta": "2026-07-24",
           "amostra": 1008,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-18"
+          "fonte_url": "#cite_note-20"
         },
         {
           "instituto": "IPC",
@@ -2133,7 +2141,7 @@
           "amostra": 1050,
           "margem": 3.3,
           "tse": "",
-          "fonte_url": "#cite_note-22"
+          "fonte_url": "#cite_note-24"
         },
         {
           "instituto": "Mapa/Jovem Pan",
@@ -2141,7 +2149,7 @@
           "amostra": 1008,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-20"
+          "fonte_url": "#cite_note-22"
         },
         {
           "instituto": "Neokemp/OCP News",
@@ -2149,7 +2157,7 @@
           "amostra": 1008,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-24"
+          "fonte_url": "#cite_note-26"
         },
         {
           "instituto": "Mapa/Jovem Pan",
@@ -2157,19 +2165,11 @@
           "amostra": 1008,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-26"
-        },
-        {
-          "instituto": "Futura Inteligência",
-          "coleta": "2026-06-03",
-          "amostra": 800,
-          "margem": 3.5,
-          "tse": "",
-          "fonte_url": "#cite_note-:3-28"
+          "fonte_url": "#cite_note-28"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-18"
+      "fonte_url": "#cite_note-14"
     },
     "SP": {
       "uf": "SP",
