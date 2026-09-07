@@ -1,6 +1,60 @@
 {
-  "atualizado_em": "2026-09-06",
+  "atualizado_em": "2026-09-07",
   "pesquisas": [
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Travessia Diagnóstico",
+      "collection_date": "2026-09-05",
+      "sample_size": 800,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-6",
+      "candidates": {
+        "Alan Rick": 36,
+        "Mailza Assis": 32,
+        "Tião Bocalom": 14,
+        "Thor Dantas": 6
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "IGAPE",
+      "collection_date": "2026-09-05",
+      "sample_size": 2000,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-11",
+      "candidates": {
+        "Celina Leão": 36.5,
+        "Arruda": 20.7,
+        "Leandro Grass": 13.8,
+        "Cappelli": 4.7,
+        "Paula Belmonte": 5.1,
+        "Kiko Caputo": 3.1
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
     {
       "uf": "AM",
       "estado": "Amazonas",
@@ -415,6 +469,27 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-02",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:23-15",
+      "candidates": {
+        "Raquel Lyra": 43,
+        "João Campos": 43
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "PI",
       "estado": "Piauí",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
@@ -552,6 +627,35 @@
       }
     },
     {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Correio/Opinião",
+      "collection_date": "2026-08-31",
+      "sample_size": 1121,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-17",
+      "candidates": {
+        "Celina Leão": 32,
+        "Arruda": 23.3,
+        "Leandro Grass": 12.5,
+        "Cappelli": 1.7,
+        "Paula Belmonte": 3.5,
+        "Kiko Caputo": 2.3
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -562,7 +666,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Allyson": 40.1,
         "Álvaro Dias": 18.3,
@@ -600,32 +704,24 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Correio/Opinião",
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Ranking",
       "collection_date": "2026-08-31",
-      "sample_size": 1121,
-      "margin_error": 3,
+      "sample_size": 1200,
+      "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-13",
+      "source_url": "#cite_note-17",
       "candidates": {
-        "Celina Leão": 32,
-        "Arruda": 23.3,
-        "Leandro Grass": 12.5,
-        "Cappelli": 1.7,
-        "Paula Belmonte": 3.5,
-        "Kiko Caputo": 2.3
+        "Raquel Lyra": 49.83,
+        "João Campos": 37.92
       },
       "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
       }
     },
     {
@@ -687,7 +783,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Allyson": 28.3,
         "Álvaro Dias": 27.1,
@@ -783,6 +879,64 @@
       }
     },
     {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "IGAPE",
+      "collection_date": "2026-08-29",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-19",
+      "candidates": {
+        "Celina Leão": 35.4,
+        "Arruda": 24.5,
+        "Leandro Grass": 10.7,
+        "Cappelli": 3.8,
+        "Paula Belmonte": 4.8,
+        "Kiko Caputo": 2.5
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataCapital",
+      "collection_date": "2026-08-29",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-11",
+      "candidates": {
+        "Allyson": 42.4,
+        "Álvaro Dias": 25.3,
+        "Cadu de Lula": 20,
+        "Robério Paulino": 1.5,
+        "Rodrigo Bolsonaro": 3,
+        "Dário Barbosa": 0.6
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -793,7 +947,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Allyson": 33.06,
         "Álvaro Dias": 21,
@@ -851,35 +1005,6 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "IGAPE",
-      "collection_date": "2026-08-29",
-      "sample_size": 2000,
-      "margin_error": 2.2,
-      "tse_registration": "",
-      "source_url": "#cite_note-15",
-      "candidates": {
-        "Celina Leão": 35.4,
-        "Arruda": 24.5,
-        "Leandro Grass": 10.7,
-        "Cappelli": 3.8,
-        "Paula Belmonte": 4.8,
-        "Kiko Caputo": 2.5
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
       }
     },
     {
@@ -1059,6 +1184,89 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Novo Perfil",
+      "collection_date": "2026-08-27",
+      "sample_size": 1430,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-8",
+      "candidates": {
+        "Alan Rick": 36.1,
+        "Mailza Assis": 33.1,
+        "Tião Bocalom": 16.2,
+        "Thor Dantas": 2.3
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "IFP",
+      "collection_date": "2026-08-27",
+      "sample_size": 1141,
+      "margin_error": 2.9,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-13",
+      "candidates": {
+        "Celina Leão": 34.5,
+        "Arruda": 20.93,
+        "Leandro Grass": 12.02,
+        "Cappelli": 1.55,
+        "Paula Belmonte": 3.49,
+        "Kiko Caputo": 1.94
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-08-27",
+      "sample_size": 1193,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-15",
+      "candidates": {
+        "Celina Leão": 30.7,
+        "Arruda": 14.2,
+        "Leandro Grass": 29,
+        "Cappelli": 5.8,
+        "Paula Belmonte": 8.2,
+        "Kiko Caputo": 4.3
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -1160,7 +1368,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Allyson": 39.1,
         "Álvaro Dias": 14.5,
@@ -1174,6 +1382,27 @@
         "Cadu de Lula": "PT",
         "Robério Paulino": "PSOL",
         "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataTrends",
+      "collection_date": "2026-08-27",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-19",
+      "candidates": {
+        "Raquel Lyra": 45,
+        "João Campos": 36
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
       }
     },
     {
@@ -1200,35 +1429,6 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-08-27",
-      "sample_size": 1193,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-11",
-      "candidates": {
-        "Celina Leão": 30.7,
-        "Arruda": 14.2,
-        "Leandro Grass": 29,
-        "Cappelli": 5.8,
-        "Paula Belmonte": 8.2,
-        "Kiko Caputo": 4.3
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
-      }
-    },
-    {
       "uf": "RS",
       "estado": "Rio Grande do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
@@ -1251,31 +1451,6 @@
         "Juliana Brizola": "PDT",
         "Gabriel Souza": "MDB",
         "Marcelo Maranata": "PSDB"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Novo Perfil",
-      "collection_date": "2026-08-27",
-      "sample_size": 1430,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-6",
-      "candidates": {
-        "Alan Rick": 36.1,
-        "Mailza Assis": 33.1,
-        "Tião Bocalom": 16.2,
-        "Thor Dantas": 2.3
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -1383,27 +1558,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "DataTrends",
-      "collection_date": "2026-08-27",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-15",
-      "candidates": {
-        "Raquel Lyra": 45,
-        "João Campos": 36
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
-      }
-    },
-    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -1447,6 +1601,31 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-08-26",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:7-10",
+      "candidates": {
+        "Alan Rick": 33,
+        "Mailza Assis": 24,
+        "Tião Bocalom": 15,
+        "Thor Dantas": 2
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -1621,31 +1800,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Quaest",
-      "collection_date": "2026-08-26",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-8",
-      "candidates": {
-        "Alan Rick": 33,
-        "Mailza Assis": 24,
-        "Tião Bocalom": 15,
-        "Thor Dantas": 2
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -1729,7 +1883,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Allyson": 37.21,
         "Álvaro Dias": 24.07,
@@ -1758,7 +1912,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Allyson": 34.94,
         "Álvaro Dias": 25.85,
@@ -1913,6 +2067,60 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-08-24",
+      "sample_size": 1006,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-12",
+      "candidates": {
+        "Alan Rick": 32.5,
+        "Mailza Assis": 29.32,
+        "Tião Bocalom": 15.01,
+        "Thor Dantas": 3.38
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Quaest",
+      "collection_date": "2026-08-24",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-21",
+      "candidates": {
+        "Celina Leão": 34,
+        "Arruda": 20,
+        "Leandro Grass": 13,
+        "Cappelli": 3,
+        "Paula Belmonte": 3,
+        "Kiko Caputo": 2
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -2028,6 +2236,69 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Múltipla",
+      "collection_date": "2026-08-24",
+      "sample_size": 900,
+      "margin_error": 3.3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:22-21",
+      "candidates": {
+        "Raquel Lyra": 43,
+        "João Campos": 37
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Genial/Quaest",
+      "collection_date": "2026-08-24",
+      "sample_size": 1302,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:21-23",
+      "candidates": {
+        "Raquel Lyra": 44,
+        "João Campos": 36
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Contextto",
+      "collection_date": "2026-08-24",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:21-A-25",
+      "candidates": {
+        "Raquel Lyra": 39,
+        "João Campos": 41
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
@@ -2131,35 +2402,6 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-08-24",
-      "sample_size": 1104,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-17",
-      "candidates": {
-        "Celina Leão": 34,
-        "Arruda": 20,
-        "Leandro Grass": 13,
-        "Cappelli": 3,
-        "Paula Belmonte": 3,
-        "Kiko Caputo": 2
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
-      }
-    },
-    {
       "uf": "RS",
       "estado": "Rio Grande do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
@@ -2212,31 +2454,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-08-24",
-      "sample_size": 1006,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-10",
-      "candidates": {
-        "Alan Rick": 32.5,
-        "Mailza Assis": 29.32,
-        "Tião Bocalom": 15.01,
-        "Thor Dantas": 3.38
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -2261,69 +2478,6 @@
         "João Henrique Catan": "NOVO",
         "Delcídio do Amaral": "PRD",
         "Economista Renato Gomes": "DC"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Múltipla",
-      "collection_date": "2026-08-24",
-      "sample_size": 900,
-      "margin_error": 3.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:22-17",
-      "candidates": {
-        "Raquel Lyra": 43,
-        "João Campos": 37
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-08-24",
-      "sample_size": 1302,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:21-19",
-      "candidates": {
-        "Raquel Lyra": 44,
-        "João Campos": 36
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Contextto",
-      "collection_date": "2026-08-24",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-:21-A-21",
-      "candidates": {
-        "Raquel Lyra": 39,
-        "João Campos": 41
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
       }
     },
     {
@@ -2393,7 +2547,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-22",
+      "source_url": "#cite_note-:9-24",
       "candidates": {
         "Allyson": 25,
         "Álvaro Dias": 19,
@@ -2664,6 +2818,60 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataControl",
+      "collection_date": "2026-08-22",
+      "sample_size": 1620,
+      "margin_error": 2.43,
+      "tse_registration": "",
+      "source_url": "#cite_note-14",
+      "candidates": {
+        "Alan Rick": 27.5,
+        "Mailza Assis": 34.9,
+        "Tião Bocalom": 15.3,
+        "Thor Dantas": 2
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "IGAPE",
+      "collection_date": "2026-08-22",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-23",
+      "candidates": {
+        "Celina Leão": 33.9,
+        "Arruda": 24.1,
+        "Leandro Grass": 10.3,
+        "Cappelli": 3.7,
+        "Paula Belmonte": 4.1,
+        "Kiko Caputo": 2.5
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -2790,19 +2998,19 @@
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "IGAPE",
-      "collection_date": "2026-08-22",
-      "sample_size": 2000,
-      "margin_error": 2.2,
+      "institute": "Datafolha",
+      "collection_date": "2026-08-21",
+      "sample_size": 910,
+      "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
-        "Celina Leão": 33.9,
-        "Arruda": 24.1,
-        "Leandro Grass": 10.3,
-        "Cappelli": 3.7,
-        "Paula Belmonte": 4.1,
-        "Kiko Caputo": 2.5
+        "Celina Leão": 30,
+        "Arruda": 28,
+        "Leandro Grass": 11,
+        "Cappelli": 3,
+        "Paula Belmonte": 4,
+        "Kiko Caputo": 2
       },
       "parties": {
         "Celina Leão": "PP",
@@ -2811,31 +3019,6 @@
         "Cappelli": "PSB",
         "Paula Belmonte": "PSDB",
         "Kiko Caputo": "NOVO"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "DataControl",
-      "collection_date": "2026-08-22",
-      "sample_size": 1620,
-      "margin_error": 2.43,
-      "tse_registration": "",
-      "source_url": "#cite_note-12",
-      "candidates": {
-        "Alan Rick": 27.5,
-        "Mailza Assis": 34.9,
-        "Tião Bocalom": 15.3,
-        "Thor Dantas": 2
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -2935,6 +3118,48 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Simplex",
+      "collection_date": "2026-08-21",
+      "sample_size": 1067,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-27",
+      "candidates": {
+        "Raquel Lyra": 46.2,
+        "João Campos": 36.1
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-08-21",
+      "sample_size": 1204,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Raquel Lyra": 47,
+        "João Campos": 40
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "PI",
       "estado": "Piauí",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
@@ -2995,35 +3220,6 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Datafolha",
-      "collection_date": "2026-08-21",
-      "sample_size": 910,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Celina Leão": 30,
-        "Arruda": 28,
-        "Leandro Grass": 11,
-        "Cappelli": 3,
-        "Paula Belmonte": 4,
-        "Kiko Caputo": 2
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -3046,48 +3242,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Simplex",
-      "collection_date": "2026-08-21",
-      "sample_size": 1067,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-23",
-      "candidates": {
-        "Raquel Lyra": 46.2,
-        "João Campos": 36.1
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Datafolha",
-      "collection_date": "2026-08-21",
-      "sample_size": 1204,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Raquel Lyra": 47,
-        "João Campos": 40
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
       }
     },
     {
@@ -3199,7 +3353,7 @@
       "sample_size": 1204,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Cleitinho": 32,
         "Patrus Ananias": 12,
@@ -3324,6 +3478,58 @@
       }
     },
     {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-18",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-27",
+      "candidates": {
+        "Celina Leão": 34,
+        "Arruda": 32,
+        "Leandro Grass": 18,
+        "Cappelli": 5,
+        "Paula Belmonte": 6
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-18",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-27",
+      "candidates": {
+        "Celina Leão": 45,
+        "Leandro Grass": 20,
+        "Cappelli": 10,
+        "Paula Belmonte": 6
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -3355,7 +3561,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Allyson": 31.33,
         "Álvaro Dias": 17.93,
@@ -3384,7 +3590,7 @@
       "sample_size": 2100,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Allyson": 41.8,
         "Álvaro Dias": 26.3,
@@ -3394,58 +3600,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-18",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
-      "candidates": {
-        "Celina Leão": 34,
-        "Arruda": 32,
-        "Leandro Grass": 18,
-        "Cappelli": 5,
-        "Paula Belmonte": 6
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-18",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-23",
-      "candidates": {
-        "Celina Leão": 45,
-        "Leandro Grass": 20,
-        "Cappelli": 10,
-        "Paula Belmonte": 6
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Leandro Grass": "PT",
-        "Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
       }
     },
     {
@@ -3673,6 +3827,35 @@
       }
     },
     {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "IGAPE",
+      "collection_date": "2026-08-15",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-29",
+      "candidates": {
+        "Celina Leão": 33.4,
+        "Arruda": 23.7,
+        "Leandro Grass": 9.4,
+        "Cappelli": 3.5,
+        "Paula Belmonte": 4.3,
+        "Kiko Caputo": 2.8
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -3700,32 +3883,24 @@
       }
     },
     {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "IGAPE",
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
       "collection_date": "2026-08-15",
-      "sample_size": 2000,
-      "margin_error": 2.2,
+      "sample_size": 1600,
+      "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-25",
+      "source_url": "#cite_note-:18-31",
       "candidates": {
-        "Celina Leão": 33.4,
-        "Arruda": 23.7,
-        "Leandro Grass": 9.4,
-        "Cappelli": 3.5,
-        "Paula Belmonte": 4.3,
-        "Kiko Caputo": 2.8
+        "Raquel Lyra": 43,
+        "João Campos": 43
       },
       "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Cappelli": "PSB",
-        "Paula Belmonte": "PSDB",
-        "Kiko Caputo": "NOVO"
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
       }
     },
     {
@@ -3751,27 +3926,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-15",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:18-27",
-      "candidates": {
-        "Raquel Lyra": 43,
-        "João Campos": 43
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
       }
     },
     {
@@ -3833,7 +3987,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 26.4,
@@ -3862,7 +4016,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-29",
+      "source_url": "#cite_note-:19-33",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 35
@@ -3962,7 +4116,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Allyson": 37.31,
         "Álvaro Dias": 26.48,
@@ -4185,6 +4339,27 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Múltipla",
+      "collection_date": "2026-08-11",
+      "sample_size": 900,
+      "margin_error": 3.3,
+      "tse_registration": "",
+      "source_url": "#cite_note-34",
+      "candidates": {
+        "Raquel Lyra": 45,
+        "João Campos": 41
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -4212,27 +4387,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Múltipla",
-      "collection_date": "2026-08-11",
-      "sample_size": 900,
-      "margin_error": 3.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-30",
-      "candidates": {
-        "Raquel Lyra": 45,
-        "João Campos": 41
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
-      }
-    },
-    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -4243,7 +4397,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Allyson": 30.18,
         "Álvaro Dias": 27.65,
@@ -4358,35 +4512,6 @@
       }
     },
     {
-      "uf": "RN",
-      "estado": "Rio Grande do Norte",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
-      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Seta",
-      "collection_date": "2026-08-09",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-33",
-      "candidates": {
-        "Allyson": 39.5,
-        "Álvaro Dias": 23.7,
-        "Cadu de Lula": 19.6,
-        "Robério Paulino": 0.4,
-        "Rodrigo Bolsonaro": 1.7,
-        "Dário Barbosa": 0.9
-      },
-      "parties": {
-        "Allyson": "UNIÃO",
-        "Álvaro Dias": "PL",
-        "Cadu de Lula": "PT",
-        "Robério Paulino": "PSOL",
-        "Rodrigo Bolsonaro": "Agir",
-        "Dário Barbosa": "PSTU"
-      }
-    },
-    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -4397,7 +4522,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Alan Rick": 38.23,
         "Mailza Assis": 25.55,
@@ -4417,12 +4542,41 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Seta",
+      "collection_date": "2026-08-09",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-35",
+      "candidates": {
+        "Allyson": 39.5,
+        "Álvaro Dias": 23.7,
+        "Cadu de Lula": 19.6,
+        "Robério Paulino": 0.4,
+        "Rodrigo Bolsonaro": 1.7,
+        "Dário Barbosa": 0.9
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
       "institute": "Metadata/Grupo Dial",
       "collection_date": "2026-08-08",
       "sample_size": 1536,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Allyson": 34.2,
         "Álvaro Dias": 24,
@@ -4438,6 +4592,31 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Travessia Diagnóstico",
+      "collection_date": "2026-08-06",
+      "sample_size": 800,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-18",
+      "candidates": {
+        "Alan Rick": 37,
+        "Mailza Assis": 29,
+        "Tião Bocalom": 13,
+        "Thor Dantas": 7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -4470,31 +4649,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Travessia Diagnóstico",
-      "collection_date": "2026-08-06",
-      "sample_size": 800,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-16",
-      "candidates": {
-        "Alan Rick": 37,
-        "Mailza Assis": 29,
-        "Tião Bocalom": 13,
-        "Thor Dantas": 7
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -4505,7 +4659,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Allyson": 26.2,
         "Álvaro Dias": 16.3,
@@ -4573,6 +4727,31 @@
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU",
         "Raquel Brício": "UP"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-08-02",
+      "sample_size": 997,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Alan Rick": 33.1,
+        "Mailza Assis": 35.2,
+        "Tião Bocalom": 18.5,
+        "Thor Dantas": 9.7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -4646,31 +4825,6 @@
         "Joel Rodrigues": "PP",
         "Elizeu Aguiar": "NOVO",
         "Gisvaldo Oliveira": "PSOL"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-08-02",
-      "sample_size": 997,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Alan Rick": 33.1,
-        "Mailza Assis": 35.2,
-        "Tião Bocalom": 18.5,
-        "Thor Dantas": 9.7
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -4776,35 +4930,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-30",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:0-22",
-      "candidates": {
-        "Eduardo Paes": 48.6,
-        "Douglas Ruas": 11.1,
-        "André Marinho": 3.4,
-        "Wilson Witzel": 1.9,
-        "William Siri": 0.8,
-        "Anthony Garotinho": 11
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
@@ -4815,7 +4940,7 @@
       "sample_size": 1109,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-27",
+      "source_url": "#cite_note-:2-31",
       "candidates": {
         "Celina Leão": 32.4,
         "Arruda": 24,
@@ -4865,7 +4990,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-34",
+      "source_url": "#cite_note-:17-38",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 42
@@ -4873,6 +4998,35 @@
       "parties": {
         "Raquel Lyra": "PSD",
         "João Campos": "PSB"
+      }
+    },
+    {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Douglas Ruas|Eduardo Paes|William Siri|Wilson Witzel",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-07-30",
+      "sample_size": 1600,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:0-22",
+      "candidates": {
+        "Eduardo Paes": 48.6,
+        "Douglas Ruas": 11.1,
+        "André Marinho": 3.4,
+        "Wilson Witzel": 1.9,
+        "William Siri": 0.8,
+        "Anthony Garotinho": 11
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "André Marinho": "NOVO",
+        "Wilson Witzel": "Democrata",
+        "William Siri": "PSOL",
+        "Anthony Garotinho": "Republicanos"
       }
     },
     {
@@ -4919,6 +5073,27 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Badra",
+      "collection_date": "2026-07-29",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-40",
+      "candidates": {
+        "Raquel Lyra": 37.2,
+        "João Campos": 44.6
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
       }
     },
     {
@@ -5082,27 +5257,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Badra",
-      "collection_date": "2026-07-29",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-36",
-      "candidates": {
-        "Raquel Lyra": 37.2,
-        "João Campos": 44.6
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
-      }
-    },
-    {
       "uf": "MG",
       "estado": "Minas Gerais",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
@@ -5113,7 +5267,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-18",
+      "source_url": "#cite_note-:9-20",
       "candidates": {
         "Cleitinho": 36,
         "Alexandre Kalil": 15,
@@ -5142,7 +5296,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-18",
+      "source_url": "#cite_note-:9-20",
       "candidates": {
         "Cleitinho": 37,
         "Alexandre Kalil": 15,
@@ -5171,7 +5325,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-18",
+      "source_url": "#cite_note-:9-20",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 15,
@@ -5200,7 +5354,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-18",
+      "source_url": "#cite_note-:9-20",
       "candidates": {
         "Alexandre Kalil": 20,
         "Mateus Simões": 10,
@@ -5306,7 +5460,7 @@
       "sample_size": 2050,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 26,
@@ -5433,7 +5587,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-38",
+      "source_url": "#cite_note-:16-42",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37
@@ -5454,7 +5608,7 @@
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-42",
+      "source_url": "#cite_note-:14-46",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 40
@@ -5475,7 +5629,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-24",
+      "source_url": "#cite_note-:8-26",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -5502,7 +5656,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-24",
+      "source_url": "#cite_note-:8-26",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 12,
@@ -5531,7 +5685,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-24",
+      "source_url": "#cite_note-:8-26",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -5560,7 +5714,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-24",
+      "source_url": "#cite_note-:8-26",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -5587,7 +5741,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-24",
+      "source_url": "#cite_note-:8-26",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -5601,6 +5755,31 @@
         "Gabriel Azevedo": "MDB",
         "Ben Mendes": "MISSÃO",
         "Patrus Ananias": "PT"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-25",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-20",
+      "candidates": {
+        "Alan Rick": 38,
+        "Mailza Assis": 28,
+        "Tião Bocalom": 17,
+        "Thor Dantas": 7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -5695,7 +5874,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Allyson": 38.8,
         "Álvaro Dias": 24.9,
@@ -5793,6 +5972,27 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Folha /IPESPE",
+      "collection_date": "2026-07-25",
+      "sample_size": 1000,
+      "margin_error": 3.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
+      "candidates": {
+        "Raquel Lyra": 46,
+        "João Campos": 44
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
@@ -5871,52 +6071,6 @@
         "Douglas Ruas": "PL",
         "André Marinho": "NOVO",
         "William Siri": "PSOL"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-25",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-18",
-      "candidates": {
-        "Alan Rick": 38,
-        "Mailza Assis": 28,
-        "Tião Bocalom": 17,
-        "Thor Dantas": 7
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Folha /IPESPE",
-      "collection_date": "2026-07-25",
-      "sample_size": 1000,
-      "margin_error": 3.2,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
-      "candidates": {
-        "Raquel Lyra": 46,
-        "João Campos": 44
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
       }
     },
     {
@@ -6053,7 +6207,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-39",
+      "source_url": "#cite_note-:8-41",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 28,
@@ -6309,7 +6463,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-43",
+      "source_url": "#cite_note-:13-47",
       "candidates": {
         "Raquel Lyra": 48.2,
         "João Campos": 36.5
@@ -6401,7 +6555,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Allyson": 41.7,
         "Álvaro Dias": 11.8,
@@ -6493,6 +6647,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-07-15",
+      "sample_size": 1006,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-22",
+      "candidates": {
+        "Alan Rick": 38.27,
+        "Mailza Assis": 19.48,
+        "Tião Bocalom": 19.28,
+        "Thor Dantas": 1.79
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
@@ -6575,31 +6754,6 @@
         "Expedito Netto": "",
         "Hildon Chaves": "",
         "Samuel Costa": ""
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-07-15",
-      "sample_size": 1006,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-20",
-      "candidates": {
-        "Alan Rick": 38.27,
-        "Mailza Assis": 19.48,
-        "Tião Bocalom": 19.28,
-        "Thor Dantas": 1.79
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -6801,7 +6955,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Allyson": 35.27,
         "Álvaro Dias": 33.67,
@@ -6841,6 +6995,27 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Conecta",
+      "collection_date": "2026-07-11",
+      "sample_size": 2100,
+      "margin_error": 2.14,
+      "tse_registration": "",
+      "source_url": "#cite_note-48",
+      "candidates": {
+        "Raquel Lyra": 42.4,
+        "João Campos": 40.4
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "RS",
       "estado": "Rio Grande do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
@@ -6863,27 +7038,6 @@
         "Juliana Brizola": "PDT",
         "Gabriel Souza": "MDB",
         "Marcelo Maranata": "PSDB"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Conecta",
-      "collection_date": "2026-07-11",
-      "sample_size": 2100,
-      "margin_error": 2.14,
-      "tse_registration": "",
-      "source_url": "#cite_note-44",
-      "candidates": {
-        "Raquel Lyra": 42.4,
-        "João Campos": 40.4
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
       }
     },
     {
@@ -6922,7 +7076,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Allyson": 41.78,
         "Álvaro Dias": 26.05,
@@ -7010,6 +7164,27 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-07-09",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
+      "candidates": {
+        "Raquel Lyra": 46.8,
+        "João Campos": 42.5
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "RO",
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
@@ -7037,27 +7212,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-09",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Raquel Lyra": 46.8,
-        "João Campos": 42.5
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
-      }
-    },
-    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -7068,7 +7222,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Allyson": 27.5,
         "Álvaro Dias": 32.1,
@@ -7445,7 +7599,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Allyson": 35.9,
         "Álvaro Dias": 24.7,
@@ -7499,7 +7653,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Allyson": 34.59,
         "Álvaro Dias": 29,
@@ -7755,6 +7909,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/Acre em Dia",
+      "collection_date": "2026-06-30",
+      "sample_size": 800,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-23",
+      "candidates": {
+        "Alan Rick": 41.25,
+        "Mailza Assis": 19.25,
+        "Tião Bocalom": 19.5,
+        "Thor Dantas": 2.5
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -7821,31 +8000,6 @@
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT",
         "Ronaldo Mansur": "PSOL"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/Acre em Dia",
-      "collection_date": "2026-06-30",
-      "sample_size": 800,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-21",
-      "candidates": {
-        "Alan Rick": 41.25,
-        "Mailza Assis": 19.25,
-        "Tião Bocalom": 19.5,
-        "Thor Dantas": 2.5
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -8099,6 +8253,29 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Numen Data/Revista Total Brasil",
+      "collection_date": "2026-06-24",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-Numen_Data2-51",
+      "candidates": {
+        "Raquel Lyra": 51.17,
+        "João Campos": 41.75,
+        "Ivan Moraes": 0.42
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
       "uf": "RO",
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
@@ -8126,29 +8303,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Numen Data/Revista Total Brasil",
-      "collection_date": "2026-06-24",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data2-47",
-      "candidates": {
-        "Raquel Lyra": 51.17,
-        "João Campos": 41.75,
-        "Ivan Moraes": 0.42
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
-      }
-    },
-    {
       "uf": "MG",
       "estado": "Minas Gerais",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
@@ -8159,7 +8313,7 @@
       "sample_size": 1600,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Cleitinho": 37.56,
         "Alexandre Kalil": 11.06,
@@ -8188,7 +8342,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Allyson": 27.3,
         "Álvaro Dias": 32.5,
@@ -8491,6 +8645,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-06-17",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:2-24",
+      "candidates": {
+        "Alan Rick": 39,
+        "Mailza Assis": 26,
+        "Tião Bocalom": 18,
+        "Thor Dantas": 5
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -8501,7 +8680,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 24.2,
@@ -8520,31 +8699,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-06-17",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-22",
-      "candidates": {
-        "Alan Rick": 39,
-        "Mailza Assis": 26,
-        "Tião Bocalom": 18,
-        "Thor Dantas": 5
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "MG",
       "estado": "Minas Gerais",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
@@ -8555,7 +8709,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-32",
+      "source_url": "#cite_note-:7-34",
       "candidates": {
         "Cleitinho": 27.7,
         "Alexandre Kalil": 18.3,
@@ -8584,7 +8738,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-32",
+      "source_url": "#cite_note-:7-34",
       "candidates": {
         "Cleitinho": 28.8,
         "Alexandre Kalil": 20.5,
@@ -8598,6 +8752,29 @@
         "Mateus Simões": "PSD",
         "Gabriel Azevedo": "MDB",
         "Ben Mendes": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Múltipla",
+      "collection_date": "2026-06-16",
+      "sample_size": 1070,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-53",
+      "candidates": {
+        "Raquel Lyra": 38,
+        "João Campos": 43,
+        "Ivan Moraes": 1
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -8621,29 +8798,6 @@
         "Jorginho Mello": "PL",
         "João Rodrigues": "PSD",
         "Gelson Merisio": "PSB"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Múltipla",
-      "collection_date": "2026-06-16",
-      "sample_size": 1070,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-49",
-      "candidates": {
-        "Raquel Lyra": 38,
-        "João Campos": 43,
-        "Ivan Moraes": 1
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -8680,7 +8834,7 @@
       "sample_size": 1550,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Allyson": 34.8,
         "Álvaro Dias": 22.8,
@@ -9049,33 +9203,6 @@
       }
     },
     {
-      "uf": "MS",
-      "estado": "Mato Grosso do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Ipems/JD1",
-      "collection_date": "2026-06-10",
-      "sample_size": 950,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-26",
-      "candidates": {
-        "Eduardo Riedel": 45.24,
-        "Fábio Trad": 12.53,
-        "João Henrique Catan": 8.52,
-        "Delcídio do Amaral": 12.3,
-        "Economista Renato Gomes": 1.74
-      },
-      "parties": {
-        "Eduardo Riedel": "PP",
-        "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD",
-        "Economista Renato Gomes": "DC"
-      }
-    },
-    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -9086,7 +9213,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-51",
+      "source_url": "#cite_note-:10-55",
       "candidates": {
         "Raquel Lyra": 40,
         "João Campos": 45,
@@ -9111,7 +9238,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-A-52",
+      "source_url": "#cite_note-:9-A-56",
       "candidates": {
         "Raquel Lyra": 41.1,
         "João Campos": 44.2,
@@ -9121,6 +9248,33 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Ipems/JD1",
+      "collection_date": "2026-06-10",
+      "sample_size": 950,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-26",
+      "candidates": {
+        "Eduardo Riedel": 45.24,
+        "Fábio Trad": 12.53,
+        "João Henrique Catan": 8.52,
+        "Delcídio do Amaral": 12.3,
+        "Economista Renato Gomes": 1.74
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Delcídio do Amaral": "PRD",
+        "Economista Renato Gomes": "DC"
       }
     },
     {
@@ -9320,6 +9474,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-06-06",
+      "sample_size": 1201,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-26",
+      "candidates": {
+        "Alan Rick": 39.55,
+        "Mailza Assis": 19.4,
+        "Tião Bocalom": 17.07,
+        "Thor Dantas": 2
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "PR",
       "estado": "Paraná",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
@@ -9346,31 +9525,6 @@
         "Rafael Greca": "MDB",
         "Tony Garcia": "DC",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-06-06",
-      "sample_size": 1201,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-24",
-      "candidates": {
-        "Alan Rick": 39.55,
-        "Mailza Assis": 19.4,
-        "Tião Bocalom": 17.07,
-        "Thor Dantas": 2
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -9557,31 +9711,6 @@
       }
     },
     {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "W1",
-      "collection_date": "2026-06-02",
-      "sample_size": 1000,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-48",
-      "candidates": {
-        "Fábio Mitidieri": 44.7,
-        "Valmir de Francisquinho": 38.7,
-        "Ricardo Marques": 5.7,
-        "Emanuel Cacho": 0.4
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
-      }
-    },
-    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -9604,6 +9733,31 @@
         "Mailza Assis": "PP",
         "Tião Bocalom": "PSDB",
         "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "W1",
+      "collection_date": "2026-06-02",
+      "sample_size": 1000,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:2-48",
+      "candidates": {
+        "Fábio Mitidieri": 44.7,
+        "Valmir de Francisquinho": 38.7,
+        "Ricardo Marques": 5.7,
+        "Emanuel Cacho": 0.4
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -9663,7 +9817,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-50",
+      "source_url": "#cite_note-:6-52",
       "candidates": {
         "Allyson": 39.8,
         "Álvaro Dias": 22.1,
@@ -9765,7 +9919,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Allyson": 41.01,
         "Álvaro Dias": 22.75,
@@ -9863,7 +10017,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Allyson": 38,
         "Álvaro Dias": 22.8,
@@ -9969,7 +10123,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-55",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Allyson": 27.9,
         "Álvaro Dias": 30.5,
@@ -10311,7 +10465,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Allyson": 38.5,
         "Álvaro Dias": 19.8,
@@ -10465,7 +10619,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-57",
+      "source_url": "#cite_note-:5-59",
       "candidates": {
         "Allyson": 37,
         "Álvaro Dias": 25.2,
@@ -10494,7 +10648,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Allyson": 28.6,
         "Álvaro Dias": 34.5,
@@ -10573,7 +10727,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-55",
+      "source_url": "#cite_note-59",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 39,
@@ -10596,7 +10750,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 15,
@@ -10625,7 +10779,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Cleitinho": 39,
         "Mateus Simões": 17,
@@ -10750,7 +10904,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-26",
+      "source_url": "#cite_note-:-1-28",
       "candidates": {
         "Alan Rick": 42,
         "Mailza Assis": 16.12,
@@ -11150,7 +11304,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-59",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Allyson": 35.5,
         "Álvaro Dias": 22.9,
@@ -11350,7 +11504,7 @@
       "sample_size": 4000,
       "margin_error": 1.6,
       "tse_registration": "",
-      "source_url": "#cite_note-DataTrends1-56",
+      "source_url": "#cite_note-DataTrends1-60",
       "candidates": {
         "Raquel Lyra": 36,
         "João Campos": 42,
@@ -11373,7 +11527,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-39",
+      "source_url": "#cite_note-:6-41",
       "candidates": {
         "Cleitinho": 28,
         "Alexandre Kalil": 6,
@@ -11402,7 +11556,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-39",
+      "source_url": "#cite_note-:6-41",
       "candidates": {
         "Cleitinho": 30,
         "Mateus Simões": 24,
@@ -11437,6 +11591,31 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta",
+      "collection_date": "2026-04-30",
+      "sample_size": 1006,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-2-29",
+      "candidates": {
+        "Alan Rick": 39.6,
+        "Mailza Assis": 16.5,
+        "Tião Bocalom": 18.9,
+        "Thor Dantas": 1.79
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -11488,28 +11667,24 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
       "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta",
+      "institute": "Veritá",
       "collection_date": "2026-04-30",
-      "sample_size": 1006,
-      "margin_error": 3.1,
+      "sample_size": 2010,
+      "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:-2-27",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
-        "Alan Rick": 39.6,
-        "Mailza Assis": 16.5,
-        "Tião Bocalom": 18.9,
-        "Thor Dantas": 1.79
+        "Raquel Lyra": 49.6,
+        "João Campos": 39.8
       },
       "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
       }
     },
     {
@@ -11535,27 +11710,6 @@
         "Marconi Perillo": "PSDB",
         "Adriana Accorsi": "PT",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-04-30",
-      "sample_size": 2010,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Raquel Lyra": 49.6,
-        "João Campos": 39.8
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB"
       }
     },
     {
@@ -11972,6 +12126,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-04-27",
+      "sample_size": 1030,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Alan Rick": 38.1,
+        "Mailza Assis": 32.9,
+        "Tião Bocalom": 22.1,
+        "Thor Dantas": 6.9
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -12061,31 +12240,6 @@
         "Jerônimo": "PT",
         "José Carlos Aleluia": "NOVO",
         "Ronaldo Mansur": "PSOL"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-04-27",
-      "sample_size": 1030,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Alan Rick": 38.1,
-        "Mailza Assis": 32.9,
-        "Tião Bocalom": 22.1,
-        "Thor Dantas": 6.9
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -12210,6 +12364,31 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-04-26",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-63",
+      "candidates": {
+        "Raquel Lyra": 34,
+        "João Campos": 42,
+        "Eduardo Moura": 3,
+        "Ivan Moraes": 1
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Eduardo Moura": "NOVO",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
       "uf": "RJ",
       "estado": "Rio de Janeiro",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
@@ -12239,31 +12418,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Quaest",
-      "collection_date": "2026-04-26",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-59",
-      "candidates": {
-        "Raquel Lyra": 34,
-        "João Campos": 42,
-        "Eduardo Moura": 3,
-        "Ivan Moraes": 1
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
-      }
-    },
-    {
       "uf": "MG",
       "estado": "Minas Gerais",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
@@ -12274,7 +12428,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-42",
+      "source_url": "#cite_note-:5-44",
       "candidates": {
         "Cleitinho": 30,
         "Alexandre Kalil": 8,
@@ -12303,7 +12457,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-42",
+      "source_url": "#cite_note-:5-44",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 11,
@@ -12330,7 +12484,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-42",
+      "source_url": "#cite_note-:5-44",
       "candidates": {
         "Cleitinho": 37,
         "Mateus Simões": 16,
@@ -12357,7 +12511,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-42",
+      "source_url": "#cite_note-:5-44",
       "candidates": {
         "Alexandre Kalil": 12,
         "Mateus Simões": 18,
@@ -12627,7 +12781,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-63",
       "candidates": {
         "Allyson": 40.4,
         "Álvaro Dias": 18.6,
@@ -12675,7 +12829,7 @@
       "sample_size": 1100,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data1-60",
+      "source_url": "#cite_note-Numen_Data1-64",
       "candidates": {
         "Raquel Lyra": 45.1,
         "João Campos": 37.1,
@@ -12700,7 +12854,7 @@
       "sample_size": 1518,
       "margin_error": 2.51,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-65",
       "candidates": {
         "Allyson": 37.29,
         "Álvaro Dias": 24.91,
@@ -13064,7 +13218,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-65",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Allyson": 27.8,
         "Álvaro Dias": 32.6,
@@ -13177,6 +13331,56 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-04-07",
+      "sample_size": 1600,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-66",
+      "candidates": {
+        "Raquel Lyra": 33,
+        "João Campos": 50,
+        "Eduardo Moura": 8,
+        "Ivan Moraes": 2
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Eduardo Moura": "NOVO",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Instituto Simplex",
+      "collection_date": "2026-04-07",
+      "sample_size": 1067,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Simplex1-67",
+      "candidates": {
+        "Raquel Lyra": 42.3,
+        "João Campos": 42.6,
+        "Eduardo Moura": 2.5,
+        "Ivan Moraes": 1
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Eduardo Moura": "NOVO",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
       "uf": "RS",
       "estado": "Rio Grande do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
@@ -13247,56 +13451,6 @@
         "Luciano Zucco": "PL",
         "Juliana Brizola": "PDT",
         "Gabriel Souza": "MDB"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-04-07",
-      "sample_size": 1600,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-62",
-      "candidates": {
-        "Raquel Lyra": 33,
-        "João Campos": 50,
-        "Eduardo Moura": 8,
-        "Ivan Moraes": 2
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Instituto Simplex",
-      "collection_date": "2026-04-07",
-      "sample_size": 1067,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-Simplex1-63",
-      "candidates": {
-        "Raquel Lyra": 42.3,
-        "João Campos": 42.6,
-        "Eduardo Moura": 2.5,
-        "Ivan Moraes": 1
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -13821,6 +13975,31 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-30",
+      "sample_size": 2010,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Raquel Lyra": 41.4,
+        "João Campos": 41.4,
+        "Eduardo Moura": 2.9,
+        "Ivan Moraes": 4
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Eduardo Moura": "NOVO",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
       "uf": "SC",
       "estado": "Santa Catarina",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
@@ -13888,31 +14067,6 @@
       }
     },
     {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-03-30",
-      "sample_size": 2010,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Raquel Lyra": 41.4,
-        "João Campos": 41.4,
-        "Eduardo Moura": 2.9,
-        "Ivan Moraes": 4
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
-      }
-    },
-    {
       "uf": "MG",
       "estado": "Minas Gerais",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
@@ -13923,7 +14077,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-47",
+      "source_url": "#cite_note-:3-49",
       "candidates": {
         "Cleitinho": 32.7,
         "Alexandre Kalil": 28.6,
@@ -13952,7 +14106,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-47",
+      "source_url": "#cite_note-:3-49",
       "candidates": {
         "Cleitinho": 40.5,
         "Mateus Simões": 29.4,
@@ -13977,7 +14131,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-47",
+      "source_url": "#cite_note-:3-49",
       "candidates": {
         "Cleitinho": 34.2,
         "Alexandre Kalil": 37.9,
@@ -14004,7 +14158,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-49",
+      "source_url": "#cite_note-Veritá1-51",
       "candidates": {
         "Cleitinho": 50.3,
         "Alexandre Kalil": 13.1,
@@ -14204,7 +14358,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-66",
+      "source_url": "#cite_note-68",
       "candidates": {
         "Allyson": 28.8,
         "Álvaro Dias": 37.2,
@@ -14248,7 +14402,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-50",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Cleitinho": 41.3,
         "Alexandre Kalil": 11.7,
@@ -14277,7 +14431,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-50",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Alexandre Kalil": 21.4,
         "Gabriel Azevedo": 11.1,
@@ -14302,7 +14456,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-50",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Mateus Simões": 29.7,
         "Gabriel Azevedo": 10.1,
@@ -14327,7 +14481,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-50",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Cleitinho": 44.1,
         "Alexandre Kalil": 17.5,
@@ -14354,7 +14508,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-50",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Cleitinho": 43.3,
         "Gabriel Azevedo": 5.7,
@@ -14379,7 +14533,7 @@
       "sample_size": 1700,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-67",
+      "source_url": "#cite_note-:3-69",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 20.6,
@@ -14488,6 +14642,31 @@
       }
     },
     {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-24",
+      "sample_size": 1030,
+      "margin_error": 3.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Alan Rick": 41.3,
+        "Mailza Assis": 25,
+        "Tião Bocalom": 26,
+        "Thor Dantas": 7.7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -14588,31 +14767,6 @@
       }
     },
     {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Veritá",
-      "collection_date": "2026-03-24",
-      "sample_size": 1030,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Alan Rick": 41.3,
-        "Mailza Assis": 25,
-        "Tião Bocalom": 26,
-        "Thor Dantas": 7.7
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
-      }
-    },
-    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -14685,6 +14839,31 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Delta/TV Gazeta",
+      "collection_date": "2026-03-21",
+      "sample_size": 1006,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:-3-33",
+      "candidates": {
+        "Alan Rick": 40.36,
+        "Mailza Assis": 20.78,
+        "Tião Bocalom": 15.6,
+        "Thor Dantas": 2.68
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -14783,31 +14962,6 @@
         "Daniel Santos": "PODE",
         "Hana Ghassan": "MDB",
         "Araceli Lemos": "PSOL"
-      }
-    },
-    {
-      "uf": "AC",
-      "estado": "Acre",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
-      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Delta/TV Gazeta",
-      "collection_date": "2026-03-21",
-      "sample_size": 1006,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:-3-31",
-      "candidates": {
-        "Alan Rick": 40.36,
-        "Mailza Assis": 20.78,
-        "Tião Bocalom": 15.6,
-        "Thor Dantas": 2.68
-      },
-      "parties": {
-        "Alan Rick": "Republicanos",
-        "Mailza Assis": "PP",
-        "Tião Bocalom": "PSDB",
-        "Thor Dantas": "PSB"
       }
     },
     {
@@ -15067,7 +15221,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-68",
+      "source_url": "#cite_note-:2-70",
       "candidates": {
         "Allyson": 29.24,
         "Álvaro Dias": 31.18,
@@ -15153,7 +15307,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-55",
+      "source_url": "#cite_note-:-1-57",
       "candidates": {
         "Cleitinho": 25.5,
         "Mateus Simões": 13.5,
@@ -15180,7 +15334,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-55",
+      "source_url": "#cite_note-:-1-57",
       "candidates": {
         "Cleitinho": 29.6,
         "Alexandre Kalil": 6,
@@ -15209,7 +15363,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-55",
+      "source_url": "#cite_note-:-1-57",
       "candidates": {
         "Cleitinho": 30.8,
         "Mateus Simões": 17,
@@ -15534,7 +15688,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-59",
+      "source_url": "#cite_note-:1-61",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 19,
@@ -15565,7 +15719,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-59",
+      "source_url": "#cite_note-:1-61",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 19,
@@ -15592,7 +15746,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-59",
+      "source_url": "#cite_note-:1-61",
       "candidates": {
         "Cleitinho": 39,
         "Alexandre Kalil": 24,
@@ -15617,7 +15771,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-59",
+      "source_url": "#cite_note-:1-61",
       "candidates": {
         "Cleitinho": 40,
         "Mateus Simões": 19,
@@ -15642,7 +15796,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-59",
+      "source_url": "#cite_note-:1-61",
       "candidates": {
         "Alexandre Kalil": 30,
         "Gabriel Azevedo": 18,
@@ -15665,7 +15819,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-59",
+      "source_url": "#cite_note-:1-61",
       "candidates": {
         "Mateus Simões": 25,
         "Gabriel Azevedo": 19,
@@ -15688,7 +15842,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-59",
+      "source_url": "#cite_note-:1-61",
       "candidates": {
         "Alexandre Kalil": 34,
         "Gabriel Azevedo": 21
@@ -15884,7 +16038,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-61",
+      "source_url": "#cite_note-:2-63",
       "candidates": {
         "Cleitinho": 45.6,
         "Alexandre Kalil": 18.4,
@@ -15909,7 +16063,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-61",
+      "source_url": "#cite_note-:2-63",
       "candidates": {
         "Cleitinho": 45.8,
         "Mateus Simões": 22.6,
@@ -16362,7 +16516,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-66",
+      "source_url": "#cite_note-:-1-70",
       "candidates": {
         "Raquel Lyra": 35,
         "João Campos": 48,
@@ -16420,6 +16574,56 @@
         "Jerônimo": "PT",
         "José Carlos Aleluia": "NOVO",
         "Ronaldo Mansur": "PSOL"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-02-10",
+      "sample_size": 2000,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-72",
+      "candidates": {
+        "Raquel Lyra": 31,
+        "João Campos": 51,
+        "Eduardo Moura": 8,
+        "Ivan Moraes": 3
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Eduardo Moura": "NOVO",
+        "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Múltipla",
+      "collection_date": "2026-02-10",
+      "sample_size": 2000,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-73",
+      "candidates": {
+        "Raquel Lyra": 29,
+        "João Campos": 42,
+        "Eduardo Moura": 4,
+        "Ivan Moraes": 2
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB",
+        "Eduardo Moura": "NOVO",
+        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -16509,56 +16713,6 @@
         "Gabriel Souza": "MDB",
         "Marcelo Maranata": "PSDB",
         "Evandro Augusto": "MISSÃO"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-02-10",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-68",
-      "candidates": {
-        "Raquel Lyra": 31,
-        "João Campos": 51,
-        "Eduardo Moura": 8,
-        "Ivan Moraes": 3
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "PE",
-      "estado": "Pernambuco",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Múltipla",
-      "collection_date": "2026-02-10",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-69",
-      "candidates": {
-        "Raquel Lyra": 29,
-        "João Campos": 42,
-        "Eduardo Moura": 4,
-        "Ivan Moraes": 2
-      },
-      "parties": {
-        "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
       }
     },
     {
@@ -17142,7 +17296,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-71",
+      "source_url": "#cite_note-:2-75",
       "candidates": {
         "Raquel Lyra": 27,
         "João Campos": 56,
@@ -17394,7 +17548,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-70",
+      "source_url": "#cite_note-72",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 26,
@@ -17417,7 +17571,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-70",
+      "source_url": "#cite_note-72",
       "candidates": {
         "Allyson": 39,
         "Álvaro Dias": 15,
@@ -17440,7 +17594,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-70",
+      "source_url": "#cite_note-72",
       "candidates": {
         "Allyson": 34,
         "Rogério Marinho": 15,
@@ -17559,7 +17713,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-71",
+      "source_url": "#cite_note-:0-73",
       "candidates": {
         "Allyson": 38.6,
         "Rogério Marinho": 19,
@@ -17582,7 +17736,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-71",
+      "source_url": "#cite_note-:0-73",
       "candidates": {
         "Allyson": 38.2,
         "Álvaro Dias": 15.1,
@@ -17605,7 +17759,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-71",
+      "source_url": "#cite_note-:0-73",
       "candidates": {
         "Allyson": 35.9,
         "Rogério Marinho": 15.6,
@@ -17628,7 +17782,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-32",
+      "source_url": "#cite_note-AC01-34",
       "candidates": {
         "Alan Rick": 40,
         "Tião Bocalom": 24,
@@ -17653,7 +17807,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-32",
+      "source_url": "#cite_note-AC01-34",
       "candidates": {
         "Alan Rick": 51,
         "Mailza Assis": 21,
@@ -17676,7 +17830,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-32",
+      "source_url": "#cite_note-AC01-34",
       "candidates": {
         "Alan Rick": 46,
         "Tião Bocalom": 30,
@@ -17809,6 +17963,58 @@
       }
     },
     {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2025 › Janeiro – Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2025-12-08",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-DF01-48",
+      "candidates": {
+        "Celina Leão": 40,
+        "Arruda": 21,
+        "Leandro Grass": 13,
+        "Cappelli": 6,
+        "Paula Belmonte": 6
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2025 › Janeiro – Julho",
+      "institute": "Real Time Big Data",
+      "collection_date": "2025-12-08",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-DF01-48",
+      "candidates": {
+        "Celina Leão": 50,
+        "Leandro Grass": 16,
+        "Cappelli": 7,
+        "Paula Belmonte": 7
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB"
+      }
+    },
+    {
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
@@ -17848,58 +18054,6 @@
       "parties": {
         "Renan Filho": "MDB",
         "Alfredo Gaspar": "UNIÃO"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Arruda|Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
-      "secao": "Primeiro turno (governador) › 2025 › Janeiro – Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-12-08",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-DF01-44",
-      "candidates": {
-        "Celina Leão": 40,
-        "Arruda": 21,
-        "Leandro Grass": 13,
-        "Cappelli": 6,
-        "Paula Belmonte": 6
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Arruda": "PSD",
-        "Leandro Grass": "PT",
-        "Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
-      }
-    },
-    {
-      "uf": "DF",
-      "estado": "Distrito Federal",
-      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
-      "cenario": "Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
-      "secao": "Primeiro turno (governador) › 2025 › Janeiro – Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-12-08",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-DF01-44",
-      "candidates": {
-        "Celina Leão": 50,
-        "Leandro Grass": 16,
-        "Cappelli": 7,
-        "Paula Belmonte": 7
-      },
-      "parties": {
-        "Celina Leão": "PP",
-        "Leandro Grass": "PT",
-        "Cappelli": "PSB",
-        "Paula Belmonte": "PSDB"
       }
     },
     {
@@ -18088,7 +18242,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-73",
+      "source_url": "#cite_note-:1-75",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 34,
@@ -18111,7 +18265,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-73",
+      "source_url": "#cite_note-:1-75",
       "candidates": {
         "Allyson": 42,
         "Álvaro Dias": 17,
@@ -19571,7 +19725,7 @@
       "sample_size": 1505,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-74",
+      "source_url": "#cite_note-:-1-76",
       "candidates": {
         "Allyson": 30,
         "Rogério Marinho": 28.2,
@@ -19911,33 +20065,6 @@
       }
     },
     {
-      "uf": "BA",
-      "estado": "Bahia",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
-      "cenario": "ACM Neto|Jerônimo|José Carlos Aleluia|João Roma|Kleber Rosa",
-      "secao": "Primeiro turno (governador) › 2025 › Fevereiro – Abril",
-      "institute": "Genial/Quaest",
-      "collection_date": "2025-08-17",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-51",
-      "candidates": {
-        "ACM Neto": 41,
-        "Jerônimo": 34,
-        "João Roma": 4,
-        "Kleber Rosa": 2,
-        "José Carlos Aleluia": 1
-      },
-      "parties": {
-        "ACM Neto": "UNIÃO",
-        "Jerônimo": "PT",
-        "João Roma": "PL",
-        "Kleber Rosa": "PSOL",
-        "José Carlos Aleluia": "NOVO"
-      }
-    },
-    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -19948,7 +20075,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Alan Rick": 35,
         "Tião Bocalom": 23,
@@ -19973,7 +20100,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Alan Rick": 44,
         "Mailza Assis": 18,
@@ -19996,7 +20123,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Alan Rick": 38,
         "Tião Bocalom": 27,
@@ -20006,6 +20133,33 @@
         "Alan Rick": "Republicanos",
         "Tião Bocalom": "PL",
         "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "BA",
+      "estado": "Bahia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
+      "cenario": "ACM Neto|Jerônimo|José Carlos Aleluia|João Roma|Kleber Rosa",
+      "secao": "Primeiro turno (governador) › 2025 › Fevereiro – Abril",
+      "institute": "Genial/Quaest",
+      "collection_date": "2025-08-17",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-51",
+      "candidates": {
+        "ACM Neto": 41,
+        "Jerônimo": 34,
+        "João Roma": 4,
+        "Kleber Rosa": 2,
+        "José Carlos Aleluia": 1
+      },
+      "parties": {
+        "ACM Neto": "UNIÃO",
+        "Jerônimo": "PT",
+        "João Roma": "PL",
+        "Kleber Rosa": "PSOL",
+        "José Carlos Aleluia": "NOVO"
       }
     },
     {
