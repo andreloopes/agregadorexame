@@ -1,9 +1,9 @@
 {
-  "ultima_execucao": "2026-09-07T16:26:14.255Z",
+  "ultima_execucao": "2026-09-09T15:05:37.405Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 832,
-  "pesquisas_usadas": 832,
-  "estados_com_agregado": 26,
+  "pesquisas_extraidas_brutas": 773,
+  "pesquisas_usadas": 773,
+  "estados_com_agregado": 25,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
     "AC": [
@@ -31,6 +31,14 @@
           "Tião Bocalom"
         ],
         "pesquisas": 2
+      },
+      {
+        "candidatos": [
+          "Alan Rick",
+          "Mailza Assis",
+          "Tião Bocalom"
+        ],
+        "pesquisas": 1
       }
     ],
     "AL": [
@@ -138,7 +146,7 @@
           "Ciro Gomes",
           "Elmano de Freitas"
         ],
-        "pesquisas": 7
+        "pesquisas": 8
       },
       {
         "candidatos": [
@@ -204,7 +212,7 @@
           "Lorenzo Pazolini",
           "Ricardo Ferraço"
         ],
-        "pesquisas": 15
+        "pesquisas": 16
       },
       {
         "candidatos": [
@@ -267,7 +275,7 @@
           "Marconi Perillo",
           "Wilder Morais"
         ],
-        "pesquisas": 6
+        "pesquisas": 7
       },
       {
         "candidatos": [
@@ -296,7 +304,7 @@
           "Orleans Brandão",
           "Roberto Rocha"
         ],
-        "pesquisas": 10
+        "pesquisas": 11
       },
       {
         "candidatos": [
@@ -492,7 +500,7 @@
           "Efraim Filho",
           "Lucas Ribeiro"
         ],
-        "pesquisas": 21
+        "pesquisas": 22
       },
       {
         "candidatos": [
@@ -526,7 +534,7 @@
           "Sergio Moro",
           "Tayná Miessa"
         ],
-        "pesquisas": 10
+        "pesquisas": 11
       },
       {
         "candidatos": [
@@ -617,7 +625,7 @@
           "Luan Monteiro",
           "William Siri"
         ],
-        "pesquisas": 5
+        "pesquisas": 6
       },
       {
         "candidatos": [
@@ -629,6 +637,19 @@
           "Wilson Witzel"
         ],
         "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "André Marinho",
+          "Coronel Busnello",
+          "Cyro Garcia",
+          "Douglas Ruas",
+          "Eduardo Paes",
+          "Juliete Pantoja",
+          "Luan Monteiro",
+          "William Siri"
+        ],
+        "pesquisas": 3
       },
       {
         "candidatos": [
@@ -651,19 +672,6 @@
           "Wilson Witzel"
         ],
         "pesquisas": 3
-      },
-      {
-        "candidatos": [
-          "André Marinho",
-          "Coronel Busnello",
-          "Cyro Garcia",
-          "Douglas Ruas",
-          "Eduardo Paes",
-          "Juliete Pantoja",
-          "Luan Monteiro",
-          "William Siri"
-        ],
-        "pesquisas": 2
       }
     ],
     "RN": [
@@ -906,55 +914,6 @@
         "pesquisas": 1
       }
     ],
-    "SP": [
-      {
-        "candidatos": [
-          "Haddad",
-          "Kataguiri",
-          "Serra",
-          "Tarcísio"
-        ],
-        "pesquisas": 4
-      },
-      {
-        "candidatos": [
-          "Alckmin",
-          "Hilton",
-          "Serra",
-          "Tarcísio",
-          "d'Avila"
-        ],
-        "pesquisas": 4
-      },
-      {
-        "candidatos": [
-          "Haddad",
-          "Kataguiri",
-          "Serra",
-          "Tarcísio",
-          "d'Avila"
-        ],
-        "pesquisas": 3
-      },
-      {
-        "candidatos": [
-          "Kataguiri",
-          "Serra",
-          "Tarcísio",
-          "Tebet"
-        ],
-        "pesquisas": 2
-      },
-      {
-        "candidatos": [
-          "França",
-          "Kataguiri",
-          "Serra",
-          "Tarcísio"
-        ],
-        "pesquisas": 2
-      }
-    ],
     "SE": [
       {
         "candidatos": [
@@ -963,7 +922,7 @@
           "Ricardo Marques",
           "Valmir de Francisquinho"
         ],
-        "pesquisas": 24
+        "pesquisas": 25
       },
       {
         "candidatos": [
@@ -1002,7 +961,7 @@
           "Laurez Moreira",
           "Professora Dorinha"
         ],
-        "pesquisas": 16
+        "pesquisas": 17
       },
       {
         "candidatos": [
@@ -1047,7 +1006,7 @@
     "AC": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
       "status": "ok",
-      "pesquisas": 25,
+      "pesquisas": 26,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Acre"
     },
     "AL": {
@@ -1077,7 +1036,7 @@
     "CE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "status": "ok",
-      "pesquisas": 31,
+      "pesquisas": 32,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Cear%C3%A1"
     },
     "DF": {
@@ -1089,19 +1048,19 @@
     "ES": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
       "status": "ok",
-      "pesquisas": 37,
+      "pesquisas": 38,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Esp%C3%ADrito_Santo"
     },
     "GO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "status": "ok",
-      "pesquisas": 44,
+      "pesquisas": 45,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
     },
     "MA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "status": "ok",
-      "pesquisas": 13,
+      "pesquisas": 14,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Maranh%C3%A3o"
     },
     "MT": {
@@ -1125,19 +1084,19 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 76,
+      "pesquisas": 77,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
       "status": "ok",
-      "pesquisas": 22,
+      "pesquisas": 23,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Para%C3%ADba"
     },
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 58,
+      "pesquisas": 59,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
@@ -1155,7 +1114,7 @@
     "RJ": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
       "status": "ok",
-      "pesquisas": 35,
+      "pesquisas": 37,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_de_Janeiro"
     },
     "RN": {
@@ -1190,20 +1149,20 @@
     },
     "SP": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em São Paulo",
-      "status": "ok",
-      "pesquisas": 71,
+      "status": "sem_pesquisas_validas",
+      "pesquisas": 0,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_S%C3%A3o_Paulo"
     },
     "SE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "status": "ok",
-      "pesquisas": 34,
+      "pesquisas": 35,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
     },
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 21,
+      "pesquisas": 22,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
