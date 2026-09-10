@@ -1,6 +1,339 @@
 {
-  "atualizado_em": "2026-09-09",
+  "atualizado_em": "2026-09-10",
   "pesquisas": [
+    {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-09-09",
+      "sample_size": 1208,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-12",
+      "candidates": {
+        "JHC": 49.3,
+        "Renan Filho": 46.3
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-09",
+      "sample_size": 1600,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-14",
+      "candidates": {
+        "Eduardo Braide": 45,
+        "Orleans Brandão": 32,
+        "Felipe Camarão": 11,
+        "Roberto Rocha": 5
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-09",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-8",
+      "candidates": {
+        "Eduardo Riedel": 42,
+        "Fábio Trad": 26,
+        "João Henrique Catan": 13,
+        "Delcídio do Amaral": 5,
+        "Economista Renato Gomes": 3
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Delcídio do Amaral": "PRD",
+        "Economista Renato Gomes": "DC"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Instituto Ranking Brasil",
+      "collection_date": "2026-09-09",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-10",
+      "candidates": {
+        "Eduardo Riedel": 48,
+        "Fábio Trad": 20,
+        "João Henrique Catan": 4.2,
+        "Delcídio do Amaral": 10,
+        "Economista Renato Gomes": 2.6
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Delcídio do Amaral": "PRD",
+        "Economista Renato Gomes": "DC"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Neokemp/OCP News",
+      "collection_date": "2026-09-09",
+      "sample_size": 1008,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Sergio Moro": 48.8,
+        "Requião Filho": 23.3,
+        "Sandro Alex": 20.4,
+        "Luiz França": 0.9,
+        "Samuel de Mattos": 0,
+        "Adriano Teixeira": 0,
+        "Tayná Miessa": 0.1,
+        "Alexandre Salomão": 0.5
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-09",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-9",
+      "candidates": {
+        "Allyson": 30,
+        "Álvaro Dias": 23,
+        "Cadu de Lula": 25,
+        "Robério Paulino": 1,
+        "Rodrigo Bolsonaro": 3
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir"
+      }
+    },
+    {
+      "uf": "RR",
+      "estado": "Roraima",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
+      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-09",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:2-13",
+      "candidates": {
+        "Arthur Henrique": 62,
+        "Soldado Sampaio": 28,
+        "Rosi Aires PSOL": 1,
+        "Clébio Genuíno": 0,
+        "Farah Mesquita": 0
+      },
+      "parties": {
+        "Arthur Henrique": "",
+        "Soldado Sampaio": "",
+        "Rosi Aires PSOL": "",
+        "Clébio Genuíno": "",
+        "Farah Mesquita": ""
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-09-09",
+      "sample_size": 1260,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-10",
+      "candidates": {
+        "Fábio Mitidieri": 41.3,
+        "Valmir de Francisquinho": 34.2,
+        "Ricardo Marques": 14.4,
+        "Emanuel Cacho": 0.5
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-09-09",
+      "sample_size": 1260,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:9-10",
+      "candidates": {
+        "Fábio Mitidieri": 44.6,
+        "Ricardo Marques": 25.1,
+        "Emanuel Cacho": 1.2
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
+      "uf": "BA",
+      "estado": "Bahia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
+      "cenario": "ACM Neto|Jerônimo|Ronaldo Mansur",
+      "secao": "Primeiro turno (governador) › 2026 › Maio – Agosto",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-08",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:15-18",
+      "candidates": {
+        "ACM Neto": 44,
+        "Jerônimo": 45,
+        "Ronaldo Mansur": 1
+      },
+      "parties": {
+        "ACM Neto": "UNIÃO",
+        "Jerônimo": "PT",
+        "Ronaldo Mansur": "PSOL"
+      }
+    },
+    {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-09-08",
+      "sample_size": 1352,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-7",
+      "candidates": {
+        "Wellington Fagundes": 30,
+        "Otaviano Pivetta": 40.8,
+        "Doutora Natasha": 12
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Doutora Natasha": "PSD"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataVero",
+      "collection_date": "2026-09-08",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-11",
+      "candidates": {
+        "Allyson": 37.56,
+        "Álvaro Dias": 21.4,
+        "Cadu de Lula": 21.14,
+        "Robério Paulino": 0.86,
+        "Rodrigo Bolsonaro": 1.57,
+        "Dário Barbosa": 0.1
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataVero",
+      "collection_date": "2026-09-08",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-11",
+      "candidates": {
+        "Allyson": 35.18,
+        "Álvaro Dias": 23.11,
+        "Cadu de Lula": 28.28
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT"
+      }
+    },
     {
       "uf": "CE",
       "estado": "Ceará",
@@ -49,6 +382,48 @@
         "Well Macêdo": "PSTU",
         "Gal Leite": "UP",
         "Ruth Reis": "Democrata"
+      }
+    },
+    {
+      "uf": "PB",
+      "estado": "Paraíba",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
+      "cenario": "Efraim Filho|Lucas Ribeiro",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Data Ranking/Fonte83",
+      "collection_date": "2026-09-07",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Lucas Ribeiro": 41.3,
+        "Efraim Filho": 13.1
+      },
+      "parties": {
+        "Lucas Ribeiro": "PP",
+        "Efraim Filho": "PL"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-09-07",
+      "sample_size": 1302,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:24-15",
+      "candidates": {
+        "Raquel Lyra": 43,
+        "João Campos": 37
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
       }
     },
     {
@@ -123,8 +498,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "VK Skala",
       "collection_date": "2026-09-06",
       "sample_size": 1600,
@@ -178,7 +553,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Celina Leão": 36.5,
         "Arruda": 20.7,
@@ -207,7 +582,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-:0-11",
       "candidates": {
         "Lucas Ribeiro": 43.4,
         "Efraim Filho": 12.1
@@ -215,6 +590,35 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Seta",
+      "collection_date": "2026-09-05",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-:10-14",
+      "candidates": {
+        "Allyson": 39.7,
+        "Álvaro Dias": 22.4,
+        "Cadu de Lula": 20.7,
+        "Robério Paulino": 0.3,
+        "Rodrigo Bolsonaro": 0.2,
+        "Dário Barbosa": 0.1
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
       }
     },
     {
@@ -276,7 +680,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-9",
+      "source_url": "#cite_note-:24-10",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 20.1,
@@ -355,7 +759,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Sergio Moro": 38.8,
         "Requião Filho": 21.8,
@@ -382,7 +786,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Allyson": 37.42,
         "Álvaro Dias": 20.56,
@@ -411,7 +815,7 @@
       "sample_size": 1300,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-10",
+      "source_url": "#cite_note-:8-13",
       "candidates": {
         "Fábio Mitidieri": 42.93,
         "Valmir de Francisquinho": 27.83,
@@ -436,7 +840,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-D-11",
+      "source_url": "#cite_note-:8-D-14",
       "candidates": {
         "Fábio Mitidieri": 45,
         "Valmir de Francisquinho": 37,
@@ -461,7 +865,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "JHC": 44.2,
         "Renan Filho": 31.9
@@ -482,7 +886,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-14",
+      "source_url": "#cite_note-:12-16",
       "candidates": {
         "JHC": 43,
         "Renan Filho": 43
@@ -503,7 +907,7 @@
       "sample_size": 1804,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-18",
+      "source_url": "#cite_note-:13-20",
       "candidates": {
         "ACM Neto": 49.1,
         "Jerônimo": 47.9,
@@ -526,7 +930,7 @@
       "sample_size": 1804,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-18",
+      "source_url": "#cite_note-:13-20",
       "candidates": {
         "ACM Neto": 48.8,
         "Jerônimo": 47.5,
@@ -581,30 +985,53 @@
       }
     },
     {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Outubro",
+      "institute": "DataRD",
+      "collection_date": "2026-09-02",
+      "sample_size": 1495,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-8",
+      "candidates": {
+        "Daniel Vilela": 36.3,
+        "Marconi Perillo": 25.1,
+        "Wilder Morais": 17.4,
+        "Luis Cesar Bueno": 9.8
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "IPPI",
       "collection_date": "2026-09-02",
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Eduardo Braide": 44.8,
         "Orleans Brandão": 24.5,
         "Felipe Camarão": 7.8,
-        "Roberto Rocha": 3.4,
-        "André Luís": 1.5
+        "Roberto Rocha": 3.4
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -612,13 +1039,13 @@
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Real Time Big Data",
       "collection_date": "2026-09-02",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-7",
+      "source_url": "#cite_note-:12-9",
       "candidates": {
         "Wellington Fagundes": 34,
         "Otaviano Pivetta": 27,
@@ -689,7 +1116,7 @@
       "sample_size": 1280,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-11",
+      "source_url": "#cite_note-:23-12",
       "candidates": {
         "Sergio Moro": 45,
         "Requião Filho": 24,
@@ -857,7 +1284,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Fábio Mitidieri": 46.13,
         "Valmir de Francisquinho": 24.87,
@@ -928,7 +1355,7 @@
       "sample_size": 1121,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-19",
+      "source_url": "#cite_note-:6-22",
       "candidates": {
         "Celina Leão": 32,
         "Arruda": 23.3,
@@ -957,7 +1384,7 @@
       "sample_size": 1194,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-16",
+      "source_url": "#cite_note-:12-18",
       "candidates": {
         "Ricardo Ferraço": 28.7,
         "Lorenzo Pazolini": 41,
@@ -980,7 +1407,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-13",
+      "source_url": "#cite_note-:12-15",
       "candidates": {
         "Lucas Ribeiro": 35,
         "Efraim Filho": 17
@@ -1022,7 +1449,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Allyson": 40.1,
         "Álvaro Dias": 18.3,
@@ -1039,31 +1466,6 @@
       }
     },
     {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Brasmarket",
-      "collection_date": "2026-08-31",
-      "sample_size": 1200,
-      "margin_error": 2.84,
-      "tse_registration": "",
-      "source_url": "#cite_note-16",
-      "candidates": {
-        "Luciano Zucco": 39.2,
-        "Juliana Brizola": 23.8,
-        "Gabriel Souza": 7.3,
-        "Marcelo Maranata": 1.4
-      },
-      "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Gabriel Souza": "MDB",
-        "Marcelo Maranata": "PSDB"
-      }
-    },
-    {
       "uf": "ES",
       "estado": "Espírito Santo",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
@@ -1074,7 +1476,7 @@
       "sample_size": 1800,
       "margin_error": 2.31,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Ricardo Ferraço": 32,
         "Lorenzo Pazolini": 35.06,
@@ -1124,7 +1526,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Allyson": 28.3,
         "Álvaro Dias": 27.1,
@@ -1153,7 +1555,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Arthur Henrique": 54.99,
         "Soldado Sampaio": 28.42,
@@ -1180,7 +1582,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "JHC": 47.6,
         "Renan Filho": 35.6
@@ -1201,7 +1603,7 @@
       "sample_size": 1400,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-18",
+      "source_url": "#cite_note-:11-20",
       "candidates": {
         "JHC": 47.2,
         "Renan Filho": 41.3
@@ -1222,7 +1624,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Celina Leão": 35.4,
         "Arruda": 24.5,
@@ -1244,27 +1646,25 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "IPSensus",
       "collection_date": "2026-08-29",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Eduardo Braide": 36.4,
         "Orleans Brandão": 42.3,
         "Felipe Camarão": 6.3,
-        "Roberto Rocha": 4.4,
-        "André Luís": 1.3
+        "Roberto Rocha": 4.4
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -1278,7 +1678,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Allyson": 42.4,
         "Álvaro Dias": 25.3,
@@ -1307,7 +1707,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Allyson": 33.06,
         "Álvaro Dias": 21,
@@ -1448,6 +1848,29 @@
       }
     },
     {
+      "uf": "RJ",
+      "estado": "Rio de Janeiro",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
+      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Veritá",
+      "collection_date": "2026-08-28",
+      "sample_size": 2030,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-17",
+      "candidates": {
+        "Eduardo Paes": 35.7,
+        "Douglas Ruas": 34.2,
+        "Anthony Garotinho": 5.3
+      },
+      "parties": {
+        "Eduardo Paes": "PSD",
+        "Douglas Ruas": "PL",
+        "Anthony Garotinho": "Republicanos"
+      }
+    },
+    {
       "uf": "RO",
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
@@ -1535,7 +1958,7 @@
       "sample_size": 1141,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-15",
+      "source_url": "#cite_note-:8-18",
       "candidates": {
         "Celina Leão": 34.5,
         "Arruda": 20.93,
@@ -1564,7 +1987,7 @@
       "sample_size": 1193,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-17",
+      "source_url": "#cite_note-:7-20",
       "candidates": {
         "Celina Leão": 30.7,
         "Arruda": 14.2,
@@ -1593,7 +2016,7 @@
       "sample_size": 1214,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:18-8",
+      "source_url": "#cite_note-:18-10",
       "candidates": {
         "Daniel Vilela": 43.5,
         "Marconi Perillo": 16.1,
@@ -1618,7 +2041,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-10",
+      "source_url": "#cite_note-:17-12",
       "candidates": {
         "Daniel Vilela": 46,
         "Marconi Perillo": 22,
@@ -1643,7 +2066,7 @@
       "sample_size": 1204,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-8",
+      "source_url": "#cite_note-:7-12",
       "candidates": {
         "Eduardo Riedel": 49,
         "Fábio Trad": 29,
@@ -1670,7 +2093,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Eduardo Riedel": 47,
         "Fábio Trad": 20,
@@ -1697,7 +2120,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Sergio Moro": 46.9,
         "Requião Filho": 23.3,
@@ -1730,7 +2153,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-13",
+      "source_url": "#cite_note-:22-14",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 20,
@@ -1807,7 +2230,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Allyson": 39.1,
         "Álvaro Dias": 14.5,
@@ -1824,36 +2247,11 @@
       }
     },
     {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-08-27",
-      "sample_size": 1783,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:16-14",
-      "candidates": {
-        "Luciano Zucco": 44.3,
-        "Juliana Brizola": 37.5,
-        "Gabriel Souza": 10.4,
-        "Marcelo Maranata": 2.3
-      },
-      "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Gabriel Souza": "MDB",
-        "Marcelo Maranata": "PSDB"
-      }
-    },
-    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "O Girassol",
       "collection_date": "2026-08-27",
       "sample_size": 1200,
@@ -1875,8 +2273,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-08-27",
       "sample_size": 1504,
@@ -1930,7 +2328,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-21",
+      "source_url": "#cite_note-:12-23",
       "candidates": {
         "ACM Neto": 39,
         "Jerônimo": 37,
@@ -1953,7 +2351,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-21",
+      "source_url": "#cite_note-:12-23",
       "candidates": {
         "ACM Neto": 40,
         "Jerônimo": 37,
@@ -1976,7 +2374,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-20",
+      "source_url": "#cite_note-:11-22",
       "candidates": {
         "Ricardo Ferraço": 35,
         "Lorenzo Pazolini": 28,
@@ -1999,7 +2397,7 @@
       "sample_size": 1504,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-A-22",
+      "source_url": "#cite_note-:11-A-24",
       "candidates": {
         "Ricardo Ferraço": 38.2,
         "Lorenzo Pazolini": 39,
@@ -2022,7 +2420,7 @@
       "sample_size": 1326,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Ricardo Ferraço": 22.27,
         "Lorenzo Pazolini": 16.36,
@@ -2045,7 +2443,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-12",
+      "source_url": "#cite_note-:16-14",
       "candidates": {
         "Daniel Vilela": 37,
         "Marconi Perillo": 20,
@@ -2063,27 +2461,25 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "INOP",
       "collection_date": "2026-08-26",
       "sample_size": 2600,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Eduardo Braide": 42.54,
         "Orleans Brandão": 42.08,
         "Felipe Camarão": 5.44,
-        "Roberto Rocha": 3.88,
-        "André Luís": 0.15
+        "Roberto Rocha": 3.88
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -2097,7 +2493,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-14",
+      "source_url": "#cite_note-:1-15",
       "candidates": {
         "Arthur Henrique": 60,
         "Soldado Sampaio": 27,
@@ -2124,7 +2520,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-14",
+      "source_url": "#cite_note-:7-17",
       "candidates": {
         "Fábio Mitidieri": 40,
         "Valmir de Francisquinho": 20,
@@ -2142,8 +2538,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "VÓPE/Primeira Página",
       "collection_date": "2026-08-26",
       "sample_size": 1250,
@@ -2172,7 +2568,7 @@
       "sample_size": 5000,
       "margin_error": 1.39,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-V-20",
+      "source_url": "#cite_note-:11-V-22",
       "candidates": {
         "JHC": 37.5,
         "Renan Filho": 41.25
@@ -2257,27 +2653,25 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Qualitativa",
       "collection_date": "2026-08-25",
       "sample_size": 900,
       "margin_error": 3.27,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Eduardo Braide": 36.6,
         "Orleans Brandão": 41.1,
         "Felipe Camarão": 4.2,
-        "Roberto Rocha": 3.9,
-        "André Luís": 1
+        "Roberto Rocha": 3.9
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -2291,7 +2685,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Allyson": 37.21,
         "Álvaro Dias": 24.07,
@@ -2320,7 +2714,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Allyson": 34.94,
         "Álvaro Dias": 25.85,
@@ -2361,8 +2755,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-25",
       "sample_size": 1600,
@@ -2416,7 +2810,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "JHC": 46.41,
         "Renan Filho": 33.88
@@ -2487,7 +2881,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-23",
+      "source_url": "#cite_note-:5-26",
       "candidates": {
         "Celina Leão": 34,
         "Arruda": 20,
@@ -2510,13 +2904,13 @@
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Quaest",
       "collection_date": "2026-08-24",
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-9",
+      "source_url": "#cite_note-:11-11",
       "candidates": {
         "Wellington Fagundes": 27,
         "Otaviano Pivetta": 23,
@@ -2539,7 +2933,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-12",
+      "source_url": "#cite_note-:6-16",
       "candidates": {
         "Eduardo Riedel": 40,
         "Fábio Trad": 13,
@@ -2566,7 +2960,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-15",
+      "source_url": "#cite_note-:11-17",
       "candidates": {
         "Lucas Ribeiro": 38,
         "Efraim Filho": 18
@@ -2650,7 +3044,7 @@
       "sample_size": 1302,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-17",
+      "source_url": "#cite_note-:13-18",
       "candidates": {
         "Eduardo Paes": 37,
         "Douglas Ruas": 14,
@@ -2685,7 +3079,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-18",
+      "source_url": "#cite_note-:12-19",
       "candidates": {
         "Eduardo Paes": 44.5,
         "Douglas Ruas": 15.5,
@@ -2720,7 +3114,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-18",
+      "source_url": "#cite_note-:12-19",
       "candidates": {
         "Eduardo Paes": 48.3,
         "Douglas Ruas": 18.6,
@@ -2740,31 +3134,6 @@
         "Cyro Garcia": "PSTU",
         "Juliete Pantoja": "UP",
         "Luan Monteiro": "PCO"
-      }
-    },
-    {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-24",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:15-18",
-      "candidates": {
-        "Luciano Zucco": 38,
-        "Juliana Brizola": 32,
-        "Gabriel Souza": 19,
-        "Marcelo Maranata": 4
-      },
-      "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Gabriel Souza": "MDB",
-        "Marcelo Maranata": "PSDB"
       }
     },
     {
@@ -2798,8 +3167,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Quaest",
       "collection_date": "2026-08-24",
       "sample_size": 804,
@@ -2828,7 +3197,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "JHC": 55,
         "Renan Filho": 42.6
@@ -2849,7 +3218,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-26",
+      "source_url": "#cite_note-:10-28",
       "candidates": {
         "JHC": 40,
         "Renan Filho": 42
@@ -2870,7 +3239,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Daniel Vilela": 34.5,
         "Marconi Perillo": 18.6,
@@ -2888,27 +3257,25 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Quaest",
       "collection_date": "2026-08-23",
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25,
         "Felipe Camarão": 6,
-        "Roberto Rocha": 3,
-        "André Luís": 1
+        "Roberto Rocha": 3
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -2916,7 +3283,7 @@
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-08-23",
       "sample_size": 2600,
@@ -2939,13 +3306,13 @@
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Veritá",
       "collection_date": "2026-08-23",
       "sample_size": 1220,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:Veritá3-13",
+      "source_url": "#cite_note-:Veritá3-15",
       "candidates": {
         "Wellington Fagundes": 28.8,
         "Otaviano Pivetta": 32.1,
@@ -2995,7 +3362,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:21-15",
+      "source_url": "#cite_note-:21-16",
       "candidates": {
         "Sergio Moro": 37,
         "Requião Filho": 21,
@@ -3028,7 +3395,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Eduardo Paes": 34.9,
         "Douglas Ruas": 14.7,
@@ -3063,7 +3430,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-24",
+      "source_url": "#cite_note-:9-31",
       "candidates": {
         "Allyson": 25,
         "Álvaro Dias": 19,
@@ -3079,31 +3446,6 @@
         "Robério Paulino": "PSOL",
         "Rodrigo Bolsonaro": "Agir",
         "Dário Barbosa": "PSTU"
-      }
-    },
-    {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-08-23",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:14-20",
-      "candidates": {
-        "Luciano Zucco": 26,
-        "Juliana Brizola": 23,
-        "Gabriel Souza": 9,
-        "Marcelo Maranata": 2
-      },
-      "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Gabriel Souza": "MDB",
-        "Marcelo Maranata": "PSDB"
       }
     },
     {
@@ -3167,7 +3509,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-27",
+      "source_url": "#cite_note-:10-29",
       "candidates": {
         "ACM Neto": 40,
         "Jerônimo": 43,
@@ -3190,7 +3532,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-27",
+      "source_url": "#cite_note-:10-29",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 42,
@@ -3213,7 +3555,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Celina Leão": 33.9,
         "Arruda": 24.1,
@@ -3269,7 +3611,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-17",
+      "source_url": "#cite_note-:10-19",
       "candidates": {
         "Lucas Ribeiro": 35,
         "Efraim Filho": 21
@@ -3290,7 +3632,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-16",
+      "source_url": "#cite_note-:20-17",
       "candidates": {
         "Sergio Moro": 38,
         "Requião Filho": 20,
@@ -3371,7 +3713,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-L-17",
+      "source_url": "#cite_note-:16-L-19",
       "candidates": {
         "Daniel Vilela": 44.2,
         "Marconi Perillo": 23.8,
@@ -3396,7 +3738,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Lucas Ribeiro": 34.1,
         "Efraim Filho": 21.5
@@ -3484,7 +3826,7 @@
       "sample_size": 1204,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-20",
+      "source_url": "#cite_note-:11-21",
       "candidates": {
         "Eduardo Paes": 41,
         "Douglas Ruas": 19,
@@ -3519,7 +3861,7 @@
       "sample_size": 1314,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-S-16",
+      "source_url": "#cite_note-:7-S-19",
       "candidates": {
         "Fábio Mitidieri": 39.69,
         "Valmir de Francisquinho": 28.43,
@@ -3544,7 +3886,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Fábio Mitidieri": 44.4,
         "Valmir de Francisquinho": 25.5,
@@ -3562,27 +3904,25 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "IPSensus",
       "collection_date": "2026-08-20",
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Eduardo Braide": 37.84,
         "Orleans Brandão": 41.01,
         "Felipe Camarão": 4.19,
-        "Roberto Rocha": 4.86,
-        "André Luís": 1.42
+        "Roberto Rocha": 4.86
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -3590,13 +3930,13 @@
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "MT Dados",
       "collection_date": "2026-08-20",
       "sample_size": 3080,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-15",
+      "source_url": "#cite_note-:9-17",
       "candidates": {
         "Wellington Fagundes": 27,
         "Otaviano Pivetta": 27,
@@ -3640,36 +3980,11 @@
       }
     },
     {
-      "uf": "RS",
-      "estado": "Rio Grande do Sul",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
-      "cenario": "Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-08-20",
-      "sample_size": 1504,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "#cite_note-:13-22",
-      "candidates": {
-        "Luciano Zucco": 34.4,
-        "Juliana Brizola": 31.4,
-        "Gabriel Souza": 11.3,
-        "Marcelo Maranata": 4.1
-      },
-      "parties": {
-        "Luciano Zucco": "PL",
-        "Juliana Brizola": "PDT",
-        "Gabriel Souza": "MDB",
-        "Marcelo Maranata": "PSDB"
-      }
-    },
-    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Promotion/Portal Stylo",
       "collection_date": "2026-08-20",
       "sample_size": 1200,
@@ -3769,7 +4084,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-17",
+      "source_url": "#cite_note-:19-18",
       "candidates": {
         "Sergio Moro": 36.81,
         "Requião Filho": 21.02,
@@ -3823,7 +4138,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-29",
+      "source_url": "#cite_note-:4-32",
       "candidates": {
         "Celina Leão": 34,
         "Arruda": 32,
@@ -3850,7 +4165,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-29",
+      "source_url": "#cite_note-:4-32",
       "candidates": {
         "Celina Leão": 45,
         "Leandro Grass": 20,
@@ -3875,7 +4190,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Allyson": 31.33,
         "Álvaro Dias": 17.93,
@@ -3904,7 +4219,7 @@
       "sample_size": 2100,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Allyson": 41.8,
         "Álvaro Dias": 26.3,
@@ -3954,7 +4269,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-32",
+      "source_url": "#cite_note-:9-34",
       "candidates": {
         "ACM Neto": 43,
         "Jerônimo": 41,
@@ -4002,7 +4317,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-18",
+      "source_url": "#cite_note-:17-19",
       "candidates": {
         "Sergio Moro": 37,
         "Requião Filho": 20,
@@ -4035,7 +4350,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-20",
+      "source_url": "#cite_note-:6-23",
       "candidates": {
         "Fábio Mitidieri": 51,
         "Valmir de Francisquinho": 33.7,
@@ -4060,7 +4375,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-19",
+      "source_url": "#cite_note-:0-20",
       "candidates": {
         "Sergio Moro": 37.33,
         "Requião Filho": 20.56,
@@ -4093,7 +4408,7 @@
       "sample_size": 1520,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-21",
+      "source_url": "#cite_note-:16-22",
       "candidates": {
         "Sergio Moro": 46.1,
         "Requião Filho": 23.4,
@@ -4126,7 +4441,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Fábio Mitidieri": 31.59,
         "Valmir de Francisquinho": 46.73,
@@ -4151,7 +4466,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-31",
+      "source_url": "#cite_note-:3-34",
       "candidates": {
         "Celina Leão": 33.4,
         "Arruda": 23.7,
@@ -4180,7 +4495,7 @@
       "sample_size": 3200,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-D-21",
+      "source_url": "#cite_note-:16-D-23",
       "candidates": {
         "Daniel Vilela": 27.75,
         "Marconi Perillo": 36.78,
@@ -4246,8 +4561,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Lucro Ativo",
       "collection_date": "2026-08-15",
       "sample_size": 1500,
@@ -4322,7 +4637,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 26.4,
@@ -4397,7 +4712,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Daniel Vilela": 37.2,
         "Marconi Perillo": 18.8,
@@ -4422,7 +4737,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Eduardo Riedel": 46.4,
         "Fábio Trad": 21.7,
@@ -4449,7 +4764,7 @@
       "sample_size": 1350,
       "margin_error": 2.67,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-22",
+      "source_url": "#cite_note-:15-23",
       "candidates": {
         "Sergio Moro": 40.2,
         "Requião Filho": 21,
@@ -4507,7 +4822,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Allyson": 37.31,
         "Álvaro Dias": 26.48,
@@ -4536,7 +4851,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Fábio Mitidieri": 38.94,
         "Valmir de Francisquinho": 28.76,
@@ -4561,7 +4876,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Fábio Mitidieri": 37,
         "Valmir de Francisquinho": 23.8,
@@ -4600,27 +4915,25 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Véritas",
       "collection_date": "2026-08-11",
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Eduardo Braide": 39.1,
         "Orleans Brandão": 47.5,
         "Felipe Camarão": 4.3,
-        "Roberto Rocha": 3.3,
-        "André Luís": 1.6
+        "Roberto Rocha": 3.3
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -4628,13 +4941,13 @@
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-11",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-17",
+      "source_url": "#cite_note-:8-19",
       "candidates": {
         "Wellington Fagundes": 34,
         "Otaviano Pivetta": 26,
@@ -4657,7 +4970,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Sergio Moro": 45.7,
         "Requião Filho": 23.2,
@@ -4711,7 +5024,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-34",
+      "source_url": "#cite_note-:7-36",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 42,
@@ -4734,7 +5047,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-34",
+      "source_url": "#cite_note-:7-36",
       "candidates": {
         "ACM Neto": 45,
         "Jerônimo": 42,
@@ -4750,27 +5063,25 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "IPPI",
       "collection_date": "2026-08-10",
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-27",
+      "source_url": "#cite_note-:0-30",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25.9,
         "Felipe Camarão": 5.1,
-        "Roberto Rocha": 5,
-        "André Luís": 1.1
+        "Roberto Rocha": 5
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -4778,13 +5089,13 @@
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Percent Brasil",
       "collection_date": "2026-08-10",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Wellington Fagundes": 32,
         "Otaviano Pivetta": 21,
@@ -4807,7 +5118,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Allyson": 30.18,
         "Álvaro Dias": 27.65,
@@ -4861,7 +5172,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Allyson": 39.5,
         "Álvaro Dias": 23.7,
@@ -4890,7 +5201,7 @@
       "sample_size": 1536,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Allyson": 34.2,
         "Álvaro Dias": 24,
@@ -4944,7 +5255,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 19.5,
@@ -4973,7 +5284,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-16",
+      "source_url": "#cite_note-:4-20",
       "candidates": {
         "Eduardo Riedel": 44,
         "Fábio Trad": 25,
@@ -4998,7 +5309,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Allyson": 26.2,
         "Álvaro Dias": 16.3,
@@ -5152,7 +5463,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-26",
+      "source_url": "#cite_note-:14-27",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -5181,7 +5492,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-29",
+      "source_url": "#cite_note-:5-32",
       "candidates": {
         "Fábio Mitidieri": 43,
         "Valmir de Francisquinho": 40,
@@ -5206,7 +5517,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Daniel Vilela": 45.8,
         "Marconi Perillo": 24.5,
@@ -5224,8 +5535,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Brasmarketing",
       "collection_date": "2026-07-31",
       "sample_size": 1200,
@@ -5254,7 +5565,7 @@
       "sample_size": 1109,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-33",
+      "source_url": "#cite_note-:2-36",
       "candidates": {
         "Celina Leão": 32.4,
         "Arruda": 24,
@@ -5325,7 +5636,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-24",
+      "source_url": "#cite_note-:0-25",
       "candidates": {
         "Eduardo Paes": 48.6,
         "Douglas Ruas": 11.1,
@@ -5347,7 +5658,7 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
@@ -5359,22 +5670,20 @@
         "Eduardo Braide": 56.2,
         "Orleans Brandão": 16.4,
         "Felipe Camarão": 8.2,
-        "Roberto Rocha": 0.9,
-        "André Luís": 4.2
+        "Roberto Rocha": 0.9
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
@@ -5386,22 +5695,20 @@
         "Eduardo Braide": 60.7,
         "Orleans Brandão": 17,
         "Felipe Camarão": 8.5,
-        "Roberto Rocha": 0.9,
-        "André Luís": 5
+        "Roberto Rocha": 0.9
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Veritá",
       "collection_date": "2026-07-29",
@@ -5431,7 +5738,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Eduardo Riedel": 46.1,
         "Fábio Trad": 18.2,
@@ -5572,7 +5879,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-21",
+      "source_url": "#cite_note-:9-23",
       "candidates": {
         "Lucas Ribeiro": 34,
         "Efraim Filho": 15
@@ -5614,7 +5921,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Eduardo Paes": 34.5,
         "Douglas Ruas": 10.9,
@@ -5643,7 +5950,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Eduardo Paes": 34.5,
         "Douglas Ruas": 10.9,
@@ -5672,7 +5979,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Fábio Mitidieri": 37.94,
         "Valmir de Francisquinho": 46.07,
@@ -5745,7 +6052,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-26",
+      "source_url": "#cite_note-:14-28",
       "candidates": {
         "Daniel Vilela": 37,
         "Marconi Perillo": 21,
@@ -5770,7 +6077,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -5799,7 +6106,7 @@
       "sample_size": 2050,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 26,
@@ -5826,7 +6133,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-24",
+      "source_url": "#cite_note-:12-26",
       "candidates": {
         "Luciano Zucco": 22,
         "Juliana Brizola": 24,
@@ -5851,7 +6158,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-39",
+      "source_url": "#cite_note-:4-41",
       "candidates": {
         "ACM Neto": 39,
         "Jerônimo": 38,
@@ -5874,7 +6181,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-28",
+      "source_url": "#cite_note-:10-29",
       "candidates": {
         "Eduardo Paes": 37,
         "Douglas Ruas": 16,
@@ -6107,7 +6414,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-40",
+      "source_url": "#cite_note-:6-42",
       "candidates": {
         "ACM Neto": 53,
         "Jerônimo": 39.8,
@@ -6186,7 +6493,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-29",
+      "source_url": "#cite_note-:13-30",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -6215,7 +6522,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-29",
+      "source_url": "#cite_note-:13-30",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -6242,7 +6549,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-29",
+      "source_url": "#cite_note-:13-30",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -6288,7 +6595,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-30",
+      "source_url": "#cite_note-:9-31",
       "candidates": {
         "Eduardo Paes": 38,
         "Douglas Ruas": 10,
@@ -6317,7 +6624,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-30",
+      "source_url": "#cite_note-:9-31",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -6344,7 +6651,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-30",
+      "source_url": "#cite_note-:9-31",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -6369,7 +6676,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Allyson": 38.8,
         "Álvaro Dias": 24.9,
@@ -6421,7 +6728,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Fábio Mitidieri": 45.4,
         "Valmir de Francisquinho": 32.2,
@@ -6439,8 +6746,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-07-24",
       "sample_size": 1300,
@@ -6494,7 +6801,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Eduardo Riedel": 46.2,
         "Fábio Trad": 21.6,
@@ -6521,7 +6828,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-41",
+      "source_url": "#cite_note-:8-48",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 28,
@@ -6550,7 +6857,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-29",
+      "source_url": "#cite_note-:9-31",
       "candidates": {
         "Lorenzo Pazolini": 30,
         "Ricardo Ferraço": 41,
@@ -6573,7 +6880,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-29",
+      "source_url": "#cite_note-:9-31",
       "candidates": {
         "Lorenzo Pazolini": 27,
         "Magno Malta": 13,
@@ -6598,7 +6905,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-29",
+      "source_url": "#cite_note-:9-31",
       "candidates": {
         "Lorenzo Pazolini": 25,
         "Paulo Hartung": 27,
@@ -6623,7 +6930,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-29",
+      "source_url": "#cite_note-:9-31",
       "candidates": {
         "Lorenzo Pazolini": 22,
         "Magno Malta": 10,
@@ -6643,14 +6950,14 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Véritas",
       "collection_date": "2026-07-21",
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-A-32",
+      "source_url": "#cite_note-:5-A-35",
       "candidates": {
         "Eduardo Braide": 42.5,
         "Orleans Brandão": 48.7,
@@ -6673,7 +6980,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -6702,7 +7009,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -6756,7 +7063,7 @@
       "sample_size": 5000,
       "margin_error": 1.38,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-28",
+      "source_url": "#cite_note-:8-30",
       "candidates": {
         "JHC": 40,
         "Renan Filho": 40
@@ -6798,7 +7105,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-26",
+      "source_url": "#cite_note-:11-28",
       "candidates": {
         "Luciano Zucco": 34.2,
         "Juliana Brizola": 30.1,
@@ -6846,7 +7153,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Fábio Mitidieri": 46.2,
         "Valmir de Francisquinho": 34,
@@ -6869,7 +7176,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Allyson": 41.7,
         "Álvaro Dias": 11.8,
@@ -6916,33 +7223,31 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "INOP",
       "collection_date": "2026-07-16",
       "sample_size": 2610,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
-        "Felipe Camarão": 3.41,
-        "André Luís": 0.35
+        "Felipe Camarão": 3.41
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "André Luís": "MISSÃO"
+        "Felipe Camarão": "PT"
       }
     },
     {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "VÓPE/Primeira Página",
       "collection_date": "2026-07-16",
       "sample_size": 1250,
@@ -6996,7 +7301,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 9,
@@ -7027,7 +7332,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Eduardo Paes": 47,
         "Douglas Ruas": 11,
@@ -7104,7 +7409,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Fábio Mitidieri": 39.33,
         "Valmir de Francisquinho": 27.8,
@@ -7127,7 +7432,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-30",
+      "source_url": "#cite_note-:8-32",
       "candidates": {
         "Lorenzo Pazolini": 25,
         "Ricardo Ferraço": 37,
@@ -7150,7 +7455,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-30",
+      "source_url": "#cite_note-:8-32",
       "candidates": {
         "Magno Malta": 22,
         "Ricardo Ferraço": 37,
@@ -7173,7 +7478,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-30",
+      "source_url": "#cite_note-:8-32",
       "candidates": {
         "Lorenzo Pazolini": 21,
         "Magno Malta": 15,
@@ -7198,7 +7503,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-30",
+      "source_url": "#cite_note-:8-32",
       "candidates": {
         "Lorenzo Pazolini": 19,
         "Magno Malta": 12,
@@ -7248,7 +7553,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-22",
+      "source_url": "#cite_note-:8-24",
       "candidates": {
         "Lucas Ribeiro": 28.3,
         "Efraim Filho": 16.5
@@ -7269,7 +7574,7 @@
       "sample_size": 1201,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-30",
+      "source_url": "#cite_note-:7-32",
       "candidates": {
         "JHC": 47,
         "Renan Filho": 38
@@ -7311,7 +7616,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Allyson": 35.27,
         "Álvaro Dias": 33.67,
@@ -7340,7 +7645,7 @@
       "sample_size": 2002,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-28",
+      "source_url": "#cite_note-:10-30",
       "candidates": {
         "Luciano Zucco": 37.5,
         "Juliana Brizola": 24.8,
@@ -7461,7 +7766,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Allyson": 41.78,
         "Álvaro Dias": 26.05,
@@ -7536,7 +7841,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "JHC": 43.5,
         "Renan Filho": 49.3
@@ -7557,7 +7862,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-30",
+      "source_url": "#cite_note-:12-32",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 26,
@@ -7582,7 +7887,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-30",
+      "source_url": "#cite_note-:12-32",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 24,
@@ -7607,7 +7912,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-53",
       "candidates": {
         "Allyson": 27.5,
         "Álvaro Dias": 32.1,
@@ -7636,7 +7941,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 38.69,
@@ -7661,7 +7966,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-31",
+      "source_url": "#cite_note-:7-33",
       "candidates": {
         "Lorenzo Pazolini": 29.71,
         "Magno Malta": 13.3,
@@ -7686,7 +7991,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-31",
+      "source_url": "#cite_note-:7-33",
       "candidates": {
         "Lorenzo Pazolini": 34.27,
         "Ricardo Ferraço": 30.6,
@@ -7709,7 +8014,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-31",
+      "source_url": "#cite_note-:7-33",
       "candidates": {
         "Magno Malta": 21.51,
         "Paulo Hartung": 20.62,
@@ -7734,7 +8039,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-31",
+      "source_url": "#cite_note-:7-33",
       "candidates": {
         "Lorenzo Pazolini": 41.91,
         "Ricardo Ferraço": 28.82,
@@ -7750,27 +8055,25 @@
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "André Luís|Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Primeiro turno (governador) › 2026 › Julho – Agosto",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-07",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-36",
+      "source_url": "#cite_note-:4-39",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
         "Felipe Camarão": 9,
-        "Roberto Rocha": 9,
-        "André Luís": 1
+        "Roberto Rocha": 9
       },
       "parties": {
         "Eduardo Braide": "PSD",
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB",
-        "André Luís": "MISSÃO"
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -7836,7 +8139,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-24",
+      "source_url": "#cite_note-:7-26",
       "candidates": {
         "Lucas Ribeiro": 32,
         "Efraim Filho": 18
@@ -7857,7 +8160,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -7886,7 +8189,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -7913,7 +8216,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Allyson": 35.9,
         "Álvaro Dias": 24.7,
@@ -7992,7 +8295,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Allyson": 34.59,
         "Álvaro Dias": 29,
@@ -8019,7 +8322,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Eduardo Riedel": 46.4,
         "Fábio Trad": 20.8,
@@ -8046,7 +8349,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-30",
+      "source_url": "#cite_note-:9-32",
       "candidates": {
         "Luciano Zucco": 39,
         "Juliana Brizola": 20.4,
@@ -8096,7 +8399,7 @@
       "sample_size": 2500,
       "margin_error": 1.96,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Eduardo Paes": 33.9,
         "Douglas Ruas": 10.3,
@@ -8127,7 +8430,7 @@
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-39",
+      "source_url": "#cite_note-:4-42",
       "candidates": {
         "Fábio Mitidieri": 40.67,
         "Valmir de Francisquinho": 29.22,
@@ -8152,7 +8455,7 @@
       "sample_size": 1400,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "JHC": 45.9,
         "Renan Filho": 41
@@ -8173,7 +8476,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-38",
+      "source_url": "#cite_note-:7-39",
       "candidates": {
         "Eduardo Paes": 54.2,
         "Douglas Ruas": 14.6,
@@ -8202,7 +8505,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-38",
+      "source_url": "#cite_note-:7-39",
       "candidates": {
         "Eduardo Paes": 50.7,
         "Douglas Ruas": 13.8,
@@ -8258,7 +8561,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-34",
+      "source_url": "#cite_note-:6-36",
       "candidates": {
         "JHC": 46,
         "Renan Filho": 46
@@ -8302,7 +8605,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-33",
+      "source_url": "#cite_note-:10-35",
       "candidates": {
         "Daniel Vilela": 31,
         "Marconi Perillo": 33,
@@ -8327,7 +8630,7 @@
       "sample_size": 1200,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Fábio Mitidieri": 33.1,
         "Valmir de Francisquinho": 39.25,
@@ -8352,7 +8655,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-32",
+      "source_url": "#cite_note-:12-33",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -8381,7 +8684,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-32",
+      "source_url": "#cite_note-:12-33",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -8408,7 +8711,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-32",
+      "source_url": "#cite_note-:12-33",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -8435,7 +8738,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-32",
+      "source_url": "#cite_note-:12-33",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -8458,7 +8761,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-32",
+      "source_url": "#cite_note-:12-33",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -8481,7 +8784,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Lucas Ribeiro": 32.7,
         "Efraim Filho": 18.5
@@ -8656,7 +8959,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-36",
+      "source_url": "#cite_note-:4-38",
       "candidates": {
         "JHC": 52,
         "Renan Filho": 37
@@ -8677,7 +8980,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-56",
       "candidates": {
         "Allyson": 27.3,
         "Álvaro Dias": 32.5,
@@ -8706,7 +9009,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-31",
+      "source_url": "#cite_note-:8-33",
       "candidates": {
         "Luciano Zucco": 32,
         "Juliana Brizola": 37,
@@ -8747,8 +9050,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-06-22",
       "sample_size": 1340,
@@ -8827,7 +9130,7 @@
       "sample_size": 783,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Lucas Ribeiro": 18.3,
         "Efraim Filho": 13.5
@@ -8848,7 +9151,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Fábio Mitidieri": 41.2,
         "Valmir de Francisquinho": 26.7,
@@ -8873,7 +9176,7 @@
       "sample_size": 1100,
       "margin_error": 4.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-34",
+      "source_url": "#cite_note-:9-36",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 22.7,
@@ -8898,7 +9201,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Fábio Mitidieri": 34.95,
         "Valmir de Francisquinho": 41.5,
@@ -8916,8 +9219,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Real Time Big Data",
       "collection_date": "2026-06-18",
       "sample_size": 1600,
@@ -8939,8 +9242,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Real Time Big Data",
       "collection_date": "2026-06-18",
       "sample_size": 1600,
@@ -9050,7 +9353,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 24.2,
@@ -9229,7 +9532,7 @@
       "sample_size": 1550,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Allyson": 34.8,
         "Álvaro Dias": 22.8,
@@ -9258,7 +9561,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Lorenzo Pazolini": 35,
         "Magno Malta": 9.17,
@@ -9283,7 +9586,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Lorenzo Pazolini": 37.78,
         "Ricardo Ferraço": 31.94,
@@ -9306,7 +9609,7 @@
       "sample_size": 3600,
       "margin_error": 1.63,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-35",
+      "source_url": "#cite_note-:8-37",
       "candidates": {
         "Daniel Vilela": 28.5,
         "Marconi Perillo": 33.8,
@@ -9331,7 +9634,7 @@
       "sample_size": 950,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Eduardo Riedel": 46.6,
         "Fábio Trad": 17.5,
@@ -9356,7 +9659,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-33",
+      "source_url": "#cite_note-:11-34",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -9385,7 +9688,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-33",
+      "source_url": "#cite_note-:11-34",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -9412,7 +9715,7 @@
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-46",
+      "source_url": "#cite_note-:3-49",
       "candidates": {
         "Fábio Mitidieri": 38.7,
         "Valmir de Francisquinho": 42.8,
@@ -9437,7 +9740,7 @@
       "sample_size": 782,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Lucas Ribeiro": 42.1,
         "Efraim Filho": 6.6
@@ -9458,7 +9761,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-35",
+      "source_url": "#cite_note-:5-37",
       "candidates": {
         "JHC": 45.1,
         "Renan Filho": 48.6
@@ -9527,7 +9830,7 @@
       "sample_size": 950,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Eduardo Riedel": 45.24,
         "Fábio Trad": 12.53,
@@ -9602,7 +9905,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-44",
       "candidates": {
         "ACM Neto": 49,
         "Jerônimo": 39,
@@ -9625,7 +9928,7 @@
       "sample_size": 1200,
       "margin_error": 2.86,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-32",
+      "source_url": "#cite_note-:5-34",
       "candidates": {
         "Lucas Ribeiro": 33,
         "Efraim Filho": 19
@@ -9646,7 +9949,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -9675,7 +9978,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -9695,8 +9998,8 @@
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
-      "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Vox Tocantins",
       "collection_date": "2026-06-09",
       "sample_size": 1314,
@@ -9725,7 +10028,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-34",
+      "source_url": "#cite_note-:6-36",
       "candidates": {
         "Lorenzo Pazolini": 33,
         "Ricardo Ferraço": 39,
@@ -9748,7 +10051,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-34",
+      "source_url": "#cite_note-:6-36",
       "candidates": {
         "Lorenzo Pazolini": 28,
         "Magno Malta": 14,
@@ -9773,7 +10076,7 @@
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Fábio Mitidieri": 40.8,
         "Valmir de Francisquinho": 30.3,
@@ -9823,7 +10126,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-37",
+      "source_url": "#cite_note-:10-38",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -9852,7 +10155,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Eduardo Riedel": 46,
         "Fábio Trad": 20.4,
@@ -9929,7 +10232,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-40",
+      "source_url": "#cite_note-:6-41",
       "candidates": {
         "Eduardo Paes": 48.3,
         "Douglas Ruas": 12.6,
@@ -9960,7 +10263,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-34",
       "candidates": {
         "Luciano Zucco": 37.8,
         "Juliana Brizola": 19,
@@ -10060,7 +10363,7 @@
       "sample_size": 1507,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-37",
+      "source_url": "#cite_note-:7-39",
       "candidates": {
         "Daniel Vilela": 27.8,
         "Marconi Perillo": 17.5,
@@ -10083,7 +10386,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-50",
+      "source_url": "#cite_note-:2-53",
       "candidates": {
         "Fábio Mitidieri": 44.7,
         "Valmir de Francisquinho": 38.7,
@@ -10158,7 +10461,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-52",
+      "source_url": "#cite_note-:6-59",
       "candidates": {
         "Allyson": 39.8,
         "Álvaro Dias": 22.1,
@@ -10233,7 +10536,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-39",
+      "source_url": "#cite_note-:6-41",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -10258,7 +10561,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -10283,7 +10586,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-34",
+      "source_url": "#cite_note-:6-36",
       "candidates": {
         "Lucas Ribeiro": 26.6,
         "Efraim Filho": 15.1
@@ -10304,7 +10607,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Allyson": 41.01,
         "Álvaro Dias": 22.75,
@@ -10331,7 +10634,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-55",
+      "source_url": "#cite_note-62",
       "candidates": {
         "Allyson": 38,
         "Álvaro Dias": 22.8,
@@ -10385,7 +10688,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Lucas Ribeiro": 30.2,
         "Efraim Filho": 21.4
@@ -10481,7 +10784,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Allyson": 27.9,
         "Álvaro Dias": 30.5,
@@ -10581,7 +10884,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-35",
+      "source_url": "#cite_note-:5-37",
       "candidates": {
         "Lorenzo Pazolini": 29,
         "Magno Malta": 27.8,
@@ -10606,7 +10909,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-43",
+      "source_url": "#cite_note--2-45",
       "candidates": {
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
@@ -10631,7 +10934,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-43",
+      "source_url": "#cite_note--2-45",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
@@ -10656,7 +10959,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-37",
+      "source_url": "#cite_note-:4-39",
       "candidates": {
         "Lucas Ribeiro": 30,
         "Efraim Filho": 19
@@ -10677,7 +10980,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Eduardo Riedel": 46.6,
         "Fábio Trad": 17.5,
@@ -10702,7 +11005,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-52",
+      "source_url": "#cite_note-:1-55",
       "candidates": {
         "Fábio Mitidieri": 41,
         "Valmir de Francisquinho": 38,
@@ -10779,7 +11082,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-65",
       "candidates": {
         "Allyson": 38.5,
         "Álvaro Dias": 19.8,
@@ -10835,7 +11138,7 @@
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-54",
+      "source_url": "#cite_note-:0-57",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 39.72,
@@ -10933,7 +11236,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-59",
+      "source_url": "#cite_note-:5-66",
       "candidates": {
         "Allyson": 37,
         "Álvaro Dias": 25.2,
@@ -10962,7 +11265,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Allyson": 28.6,
         "Álvaro Dias": 34.5,
@@ -11041,7 +11344,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-38",
+      "source_url": "#cite_note-:9-39",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -11070,7 +11373,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-38",
+      "source_url": "#cite_note-:9-39",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -11243,7 +11546,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--1-49",
+      "source_url": "#cite_note--1-51",
       "candidates": {
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
@@ -11393,7 +11696,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-53",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -11418,7 +11721,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-53",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -11441,7 +11744,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-53",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -11466,7 +11769,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-53",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -11489,7 +11792,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-32",
+      "source_url": "#cite_note-:3-36",
       "candidates": {
         "Eduardo Riedel": 43,
         "Fábio Trad": 21,
@@ -11516,7 +11819,7 @@
       "sample_size": 5000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "JHC": 37,
         "Renan Filho": 41.75
@@ -11562,7 +11865,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -11591,7 +11894,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -11618,7 +11921,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-68",
       "candidates": {
         "Allyson": 35.5,
         "Álvaro Dias": 22.9,
@@ -11647,7 +11950,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2A-41",
+      "source_url": "#cite_note-Veritá2A-42",
       "candidates": {
         "Eduardo Paes": 50,
         "Douglas Ruas": 32.3,
@@ -11693,7 +11996,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2B-33",
+      "source_url": "#cite_note-Veritá2B-35",
       "candidates": {
         "Luciano Zucco": 49.7,
         "Juliana Brizola": 23.2,
@@ -11847,7 +12150,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-40",
+      "source_url": "#cite_note-Veritá2-41",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -11897,7 +12200,7 @@
       "sample_size": 1220,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "JHC": 51,
         "Renan Filho": 35
@@ -11943,7 +12246,7 @@
       "sample_size": 3300,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-55",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Daniel Vilela": 29.6,
         "Marconi Perillo": 30.2,
@@ -12060,7 +12363,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -12089,7 +12392,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -12233,7 +12536,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-37",
+      "source_url": "#cite_note-:4-39",
       "candidates": {
         "Lorenzo Pazolini": 18,
         "Magno Malta": 15,
@@ -12260,7 +12563,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-37",
+      "source_url": "#cite_note-:4-39",
       "candidates": {
         "Lorenzo Pazolini": 20,
         "Magno Malta": 18,
@@ -12285,7 +12588,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-37",
+      "source_url": "#cite_note-:4-39",
       "candidates": {
         "Magno Malta": 24,
         "Ricardo Ferraço": 32,
@@ -12308,7 +12611,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-37",
+      "source_url": "#cite_note-:4-39",
       "candidates": {
         "Lorenzo Pazolini": 24,
         "Ricardo Ferraço": 32,
@@ -12331,7 +12634,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-56",
+      "source_url": "#cite_note-Genial/Quaest-Abril-58",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -12356,7 +12659,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-56",
+      "source_url": "#cite_note-Genial/Quaest-Abril-58",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -12381,7 +12684,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-56",
+      "source_url": "#cite_note-Genial/Quaest-Abril-58",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 21,
@@ -12404,7 +12707,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Lucas Ribeiro": 28,
         "Efraim Filho": 18.7
@@ -12425,7 +12728,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-34",
+      "source_url": "#cite_note-Genial/Quaest-Abril-36",
       "candidates": {
         "Luciano Zucco": 21,
         "Juliana Brizola": 24,
@@ -12544,7 +12847,7 @@
       "sample_size": 784,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Eduardo Riedel": 47.32,
         "Fábio Trad": 16.45,
@@ -12569,7 +12872,7 @@
       "sample_size": 1312,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-SE04-56",
+      "source_url": "#cite_note-SE04-59",
       "candidates": {
         "Fábio Mitidieri": 37.27,
         "Valmir de Francisquinho": 44.59,
@@ -12775,7 +13078,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-42",
+      "source_url": "#cite_note-:4-43",
       "candidates": {
         "Eduardo Paes": 53,
         "Douglas Ruas": 13.2,
@@ -12856,7 +13159,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-42",
+      "source_url": "#cite_note-:8-43",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -12885,7 +13188,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-42",
+      "source_url": "#cite_note-:8-43",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -12910,7 +13213,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-44",
+      "source_url": "#cite_note-:5-45",
       "candidates": {
         "Eduardo Paes": 34,
         "Douglas Ruas": 9,
@@ -12941,7 +13244,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-44",
+      "source_url": "#cite_note-:5-45",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 10,
@@ -12968,7 +13271,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-44",
+      "source_url": "#cite_note-:5-45",
       "candidates": {
         "Eduardo Paes": 39,
         "Douglas Ruas": 11,
@@ -12995,7 +13298,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-Brasmarket1-36",
+      "source_url": "#cite_note-Brasmarket1-38",
       "candidates": {
         "Luciano Zucco": 35.5,
         "Juliana Brizola": 20.6,
@@ -13020,7 +13323,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-70",
       "candidates": {
         "Allyson": 40.4,
         "Álvaro Dias": 18.6,
@@ -13043,7 +13346,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-57",
+      "source_url": "#cite_note-SE05-60",
       "candidates": {
         "Fábio Mitidieri": 35.3,
         "Valmir de Francisquinho": 39.9,
@@ -13093,7 +13396,7 @@
       "sample_size": 1518,
       "margin_error": 2.51,
       "tse_registration": "",
-      "source_url": "#cite_note-65",
+      "source_url": "#cite_note-72",
       "candidates": {
         "Allyson": 37.29,
         "Álvaro Dias": 24.91,
@@ -13147,7 +13450,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Lorenzo Pazolini": 35.67,
         "Magno Malta": 12.61,
@@ -13172,7 +13475,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Lorenzo Pazolini": 39.11,
         "Ricardo Ferraço": 26.83,
@@ -13297,7 +13600,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -13326,7 +13629,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -13353,7 +13656,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -13380,7 +13683,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -13401,7 +13704,7 @@
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Abril",
       "institute": "Lucro Ativo",
       "collection_date": "2026-04-12",
       "sample_size": 1600,
@@ -13432,7 +13735,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-67",
+      "source_url": "#cite_note-74",
       "candidates": {
         "Allyson": 27.8,
         "Álvaro Dias": 32.6,
@@ -13455,7 +13758,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-59",
+      "source_url": "#cite_note-:3-61",
       "candidates": {
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
@@ -13480,7 +13783,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-59",
+      "source_url": "#cite_note-:3-61",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
@@ -13505,7 +13808,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-59",
+      "source_url": "#cite_note-:3-61",
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
@@ -13528,7 +13831,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Eduardo Riedel": 43,
         "Fábio Trad": 19.4,
@@ -13605,7 +13908,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-38",
+      "source_url": "#cite_note-:3-40",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -13632,7 +13935,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-38",
+      "source_url": "#cite_note-:3-40",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Edegar Pretto": 24.6,
@@ -13655,7 +13958,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-38",
+      "source_url": "#cite_note-:3-40",
       "candidates": {
         "Luciano Zucco": 26.9,
         "Juliana Brizola": 35.2,
@@ -13678,7 +13981,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-49",
+      "source_url": "#cite_note-Veritá1-50",
       "candidates": {
         "Eduardo Paes": 49.7,
         "Douglas Ruas": 32.7,
@@ -13730,7 +14033,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-37",
+      "source_url": "#cite_note-Veritá1-39",
       "candidates": {
         "Luciano Zucco": 45.3,
         "Juliana Brizola": 11.6,
@@ -13759,7 +14062,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-RO4-15",
+      "source_url": "#cite_note-RO4-16",
       "candidates": {
         "Arthur Henrique": 42.6,
         "Edilson Damião": 22.5,
@@ -13809,7 +14112,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-59",
+      "source_url": "#cite_note-Veritá1-62",
       "candidates": {
         "Fábio Mitidieri": 44.2,
         "Valmir de Francisquinho": 34.5,
@@ -14228,7 +14531,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-44",
+      "source_url": "#cite_note-:7-45",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -14255,7 +14558,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-44",
+      "source_url": "#cite_note-:7-45",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -14282,7 +14585,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-44",
+      "source_url": "#cite_note-:7-45",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -14307,7 +14610,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-44",
+      "source_url": "#cite_note-:7-45",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -14403,7 +14706,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Eduardo Riedel": 46.2,
         "Fábio Trad": 15.7,
@@ -14603,7 +14906,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Lucas Ribeiro": 25.3,
         "Efraim Filho": 17.6
@@ -14624,7 +14927,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-68",
+      "source_url": "#cite_note-75",
       "candidates": {
         "Allyson": 28.8,
         "Álvaro Dias": 37.2,
@@ -14647,7 +14950,7 @@
       "sample_size": 1700,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-69",
+      "source_url": "#cite_note-:3-76",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 20.6,
@@ -14670,7 +14973,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-40",
+      "source_url": "#cite_note-:2-42",
       "candidates": {
         "Lorenzo Pazolini": 17,
         "Magno Malta": 18,
@@ -14695,7 +14998,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-40",
+      "source_url": "#cite_note-:2-42",
       "candidates": {
         "Lorenzo Pazolini": 21,
         "Ricardo Ferraço": 33,
@@ -14718,7 +15021,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-40",
+      "source_url": "#cite_note-:2-42",
       "candidates": {
         "Ricardo Ferraço": 36,
         "Arnaldinho Borgo": 11,
@@ -14741,7 +15044,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-40",
+      "source_url": "#cite_note-:2-42",
       "candidates": {
         "Magno Malta": 22,
         "Ricardo Ferraço": 25,
@@ -14864,7 +15167,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-38",
+      "source_url": "#cite_note-Veritá1-40",
       "candidates": {
         "Lorenzo Pazolini": 32,
         "Magno Malta": 19.3,
@@ -14885,7 +15188,7 @@
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Abril",
       "institute": "Real Time Big Data",
       "collection_date": "2026-03-24",
       "sample_size": 1600,
@@ -14912,7 +15215,7 @@
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Abril",
       "institute": "Real Time Big Data",
       "collection_date": "2026-03-24",
       "sample_size": 1600,
@@ -14937,7 +15240,7 @@
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Abril",
       "institute": "Real Time Big Data",
       "collection_date": "2026-03-24",
       "sample_size": 1600,
@@ -15089,7 +15392,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-46",
+      "source_url": "#cite_note-:3-47",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -15116,7 +15419,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-46",
+      "source_url": "#cite_note-:3-47",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -15143,7 +15446,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-46",
+      "source_url": "#cite_note-:3-47",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -15393,7 +15696,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-70",
+      "source_url": "#cite_note-:2-77",
       "candidates": {
         "Allyson": 29.24,
         "Álvaro Dias": 31.18,
@@ -15416,7 +15719,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-61",
+      "source_url": "#cite_note-SE02-64",
       "candidates": {
         "Fábio Mitidieri": 42.88,
         "Valmir de Francisquinho": 35.03
@@ -15437,7 +15740,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-61",
+      "source_url": "#cite_note-SE02-64",
       "candidates": {
         "Fábio Mitidieri": 44.51,
         "Ricardo Marques": 21.63
@@ -15458,7 +15761,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-61",
+      "source_url": "#cite_note-SE02-64",
       "candidates": {
         "Fábio Mitidieri": 51.64,
         "Emanuel Cacho": 10.3
@@ -15479,7 +15782,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-62",
+      "source_url": "#cite_note-:1-64",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -15504,7 +15807,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-62",
+      "source_url": "#cite_note-:1-64",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -15529,7 +15832,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-62",
+      "source_url": "#cite_note-:1-64",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -15552,7 +15855,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-39",
+      "source_url": "#cite_note-:2-41",
       "candidates": {
         "Luciano Zucco": 31,
         "Juliana Brizola": 24,
@@ -15581,7 +15884,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-39",
+      "source_url": "#cite_note-:2-41",
       "candidates": {
         "Luciano Zucco": 35,
         "Juliana Brizola": 30,
@@ -15606,7 +15909,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-39",
+      "source_url": "#cite_note-:2-41",
       "candidates": {
         "Luciano Zucco": 36,
         "Edegar Pretto": 27,
@@ -15704,7 +16007,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-41",
+      "source_url": "#cite_note-:3-43",
       "candidates": {
         "Lorenzo Pazolini": 35,
         "Ricardo Ferraço": 35,
@@ -15727,7 +16030,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-41",
+      "source_url": "#cite_note-:3-43",
       "candidates": {
         "Lorenzo Pazolini": 27,
         "Magno Malta": 15,
@@ -15752,7 +16055,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-41",
+      "source_url": "#cite_note-:3-43",
       "candidates": {
         "Magno Malta": 17,
         "Ricardo Ferraço": 34,
@@ -16000,7 +16303,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-42",
+      "source_url": "#cite_note-:1-44",
       "candidates": {
         "Lorenzo Pazolini": 42,
         "Ricardo Ferraço": 36.1,
@@ -16023,7 +16326,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-42",
+      "source_url": "#cite_note-:1-44",
       "candidates": {
         "Ricardo Ferraço": 45.3,
         "Arnaldinho Borgo": 19.1,
@@ -16046,7 +16349,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-51",
+      "source_url": "#cite_note-:1-52",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 13,
@@ -16075,7 +16378,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-51",
+      "source_url": "#cite_note-:1-52",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -16106,7 +16409,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-51",
+      "source_url": "#cite_note-:1-52",
       "candidates": {
         "Eduardo Paes": 51,
         "Douglas Ruas": 19
@@ -16177,7 +16480,7 @@
       "sample_size": 1200,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-52",
+      "source_url": "#cite_note-:2-53",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 4,
@@ -16206,7 +16509,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-47",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -16235,7 +16538,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-47",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -16264,7 +16567,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-47",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -16397,7 +16700,7 @@
       "sample_size": 2045,
       "margin_error": 2.17,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-49",
       "candidates": {
         "ACM Neto": 37.7,
         "Jerônimo": 54.24
@@ -16418,7 +16721,7 @@
       "sample_size": 2045,
       "margin_error": 2.17,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-49",
       "candidates": {
         "ACM Neto": 35.65,
         "Jerônimo": 52.51,
@@ -16493,7 +16796,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-40",
+      "source_url": "#cite_note-:1-42",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Juliana Brizola": 17,
@@ -16524,7 +16827,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-40",
+      "source_url": "#cite_note-:1-42",
       "candidates": {
         "Luciano Zucco": 27.5,
         "Juliana Brizola": 19.5,
@@ -16553,7 +16856,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-40",
+      "source_url": "#cite_note-:1-42",
       "candidates": {
         "Luciano Zucco": 28.9,
         "Juliana Brizola": 20.9,
@@ -16582,7 +16885,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Eduardo Riedel": 40,
         "Fábio Trad": 17,
@@ -16684,7 +16987,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-53",
+      "source_url": "#cite_note-:3-54",
       "candidates": {
         "Eduardo Paes": 42.5,
         "Douglas Ruas": 1.6,
@@ -16715,7 +17018,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-53",
+      "source_url": "#cite_note-:3-54",
       "candidates": {
         "Eduardo Paes": 50.5,
         "Douglas Ruas": 2.3,
@@ -16742,7 +17045,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-53",
+      "source_url": "#cite_note-:3-54",
       "candidates": {
         "Eduardo Paes": 50.3,
         "Ítalo Marsili": 0.7,
@@ -16794,7 +17097,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Lucas Ribeiro": 23.7,
         "Efraim Filho": 15.3
@@ -16809,7 +17112,7 @@
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Abril",
       "institute": "Exata GO",
       "collection_date": "2026-01-30",
       "sample_size": 22820,
@@ -16834,7 +17137,7 @@
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2026",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Abril",
       "institute": "Lucro Ativo",
       "collection_date": "2026-01-27",
       "sample_size": 1600,
@@ -16863,7 +17166,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-48",
+      "source_url": "#cite_note-:5-49",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -16890,7 +17193,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-48",
+      "source_url": "#cite_note-:5-49",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -16917,7 +17220,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-48",
+      "source_url": "#cite_note-:5-49",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -16992,7 +17295,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-64",
+      "source_url": "#cite_note-:2-66",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
@@ -17317,7 +17620,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-72",
+      "source_url": "#cite_note-79",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 26,
@@ -17340,7 +17643,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-72",
+      "source_url": "#cite_note-79",
       "candidates": {
         "Allyson": 39,
         "Álvaro Dias": 15,
@@ -17363,7 +17666,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-72",
+      "source_url": "#cite_note-79",
       "candidates": {
         "Allyson": 34,
         "Rogério Marinho": 15,
@@ -17434,7 +17737,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-73",
+      "source_url": "#cite_note-:0-80",
       "candidates": {
         "Allyson": 38.6,
         "Rogério Marinho": 19,
@@ -17457,7 +17760,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-73",
+      "source_url": "#cite_note-:0-80",
       "candidates": {
         "Allyson": 38.2,
         "Álvaro Dias": 15.1,
@@ -17480,7 +17783,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-73",
+      "source_url": "#cite_note-:0-80",
       "candidates": {
         "Allyson": 35.9,
         "Rogério Marinho": 15.6,
@@ -17736,7 +18039,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-50",
+      "source_url": "#cite_note-DF01-53",
       "candidates": {
         "Celina Leão": 40,
         "Arruda": 21,
@@ -17763,7 +18066,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-50",
+      "source_url": "#cite_note-DF01-53",
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
@@ -17834,7 +18137,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-16",
+      "source_url": "#cite_note-RR01-17",
       "candidates": {
         "Arthur Henrique": 33,
         "Edilson Damião": 28,
@@ -17861,7 +18164,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-16",
+      "source_url": "#cite_note-RR01-17",
       "candidates": {
         "Arthur Henrique": 37,
         "Edilson Damião": 35,
@@ -17884,7 +18187,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-16",
+      "source_url": "#cite_note-RR01-17",
       "candidates": {
         "Teresa Surita": 42,
         "Edilson Damião": 33,
@@ -17963,7 +18266,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-82",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 34,
@@ -17986,7 +18289,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-82",
       "candidates": {
         "Allyson": 42,
         "Álvaro Dias": 17,
@@ -18059,7 +18362,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-46",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Lucas Ribeiro": 16,
         "Efraim Filho": 13,
@@ -18082,7 +18385,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-46",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Lucas Ribeiro": 20,
         "Efraim Filho": 18
@@ -18103,7 +18406,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-44",
+      "source_url": "#cite_note-:2-48",
       "candidates": {
         "Eduardo Riedel": 55,
         "Fábio Trad": 16,
@@ -18126,7 +18429,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-42",
+      "source_url": "#cite_note-:3-44",
       "candidates": {
         "Wellington Fagundes": 43,
         "Otaviano Pivetta": 17
@@ -18147,7 +18450,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-42",
+      "source_url": "#cite_note-:3-44",
       "candidates": {
         "Wellington Fagundes": 44,
         "Otaviano Pivetta": 18,
@@ -18170,7 +18473,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-42",
+      "source_url": "#cite_note-:3-44",
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 15,
@@ -18193,7 +18496,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-62",
+      "source_url": "#cite_note-SE01-65",
       "candidates": {
         "Fábio Mitidieri": 46,
         "Valmir de Francisquinho": 33
@@ -18214,7 +18517,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-62",
+      "source_url": "#cite_note-SE01-65",
       "candidates": {
         "Fábio Mitidieri": 49,
         "Thiago de Joaldo": 26
@@ -18235,7 +18538,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-62",
+      "source_url": "#cite_note-SE01-65",
       "candidates": {
         "Fábio Mitidieri": 48,
         "Emília Corrêa": 32
@@ -18256,7 +18559,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-62",
+      "source_url": "#cite_note-SE01-65",
       "candidates": {
         "Fábio Mitidieri": 50,
         "Eduardo Amorim": 28
@@ -18277,7 +18580,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Rui Costa": 46,
         "Kleber Rosa": 1,
@@ -18300,7 +18603,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Jerônimo": 39,
         "Kleber Rosa": 2,
@@ -18323,7 +18626,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-50",
       "candidates": {
         "ACM Neto": 42,
         "Rui Costa": 43,
@@ -18348,7 +18651,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-50",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 35,
@@ -18373,7 +18676,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-41",
+      "source_url": "#cite_note-:6-43",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -18400,7 +18703,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-41",
+      "source_url": "#cite_note-:6-43",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -18425,7 +18728,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-41",
+      "source_url": "#cite_note-:6-43",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -18450,7 +18753,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-41",
+      "source_url": "#cite_note-:6-43",
       "candidates": {
         "Luciano Zucco": 29,
         "Juliana Brizola": 31,
@@ -18473,7 +18776,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-41",
+      "source_url": "#cite_note-:6-43",
       "candidates": {
         "Luciano Zucco": 29,
         "Edegar Pretto": 29,
@@ -18496,7 +18799,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-44",
+      "source_url": "#cite_note-:7-46",
       "candidates": {
         "Luciano Zucco": 21.1,
         "Juliana Brizola": 11,
@@ -18521,7 +18824,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-44",
+      "source_url": "#cite_note-:7-46",
       "candidates": {
         "Luciano Zucco": 24.1,
         "Juliana Brizola": 15,
@@ -18628,7 +18931,7 @@
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "cenario": "Amélio Cayres|Ataídes Oliveira|Carlos Amastha|Eduardo Gomes|Laurez Moreira|Professora Dorinha",
-      "secao": "Primeiro Turno (Governador) › 2025",
+      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Abril",
       "institute": "Real Time Big Data",
       "collection_date": "2025-10-15",
       "sample_size": 1200,
@@ -18659,7 +18962,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-17",
+      "source_url": "#cite_note-RR02-18",
       "candidates": {
         "Teresa Surita": 33,
         "Edilson Damião": 23,
@@ -18686,7 +18989,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-17",
+      "source_url": "#cite_note-RR02-18",
       "candidates": {
         "Arthur Henrique": 31,
         "Edilson Damião": 25,
@@ -18713,7 +19016,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-17",
+      "source_url": "#cite_note-RR02-18",
       "candidates": {
         "Edilson Damião": 28,
         "Soldado Sampaio": 14,
@@ -18876,7 +19179,7 @@
       "sample_size": 1505,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-76",
+      "source_url": "#cite_note-:-1-83",
       "candidates": {
         "Allyson": 30,
         "Rogério Marinho": 28.2,
@@ -18972,7 +19275,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-53",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 34,
@@ -19372,7 +19675,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-54",
+      "source_url": "#cite_note-:0-56",
       "candidates": {
         "ACM Neto": 42,
         "Jerônimo": 38,
@@ -19418,7 +19721,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-55",
+      "source_url": "#cite_note-57",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 37,
