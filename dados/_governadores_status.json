@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-09-10T14:57:46.310Z",
+  "ultima_execucao": "2026-09-11T14:58:41.312Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 786,
-  "pesquisas_usadas": 786,
+  "pesquisas_extraidas_brutas": 791,
+  "pesquisas_usadas": 791,
   "estados_com_agregado": 25,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -65,7 +65,7 @@
           "Omar Aziz",
           "Roberto Cidade"
         ],
-        "pesquisas": 27
+        "pesquisas": 28
       },
       {
         "candidatos": [
@@ -146,7 +146,7 @@
           "Ciro Gomes",
           "Elmano de Freitas"
         ],
-        "pesquisas": 8
+        "pesquisas": 9
       },
       {
         "candidatos": [
@@ -258,7 +258,7 @@
           "Marconi Perillo",
           "Wilder Morais"
         ],
-        "pesquisas": 27
+        "pesquisas": 28
       },
       {
         "candidatos": [
@@ -504,17 +504,6 @@
     "PR": [
       {
         "candidatos": [
-          "Luiz França",
-          "Rafael Greca",
-          "Requião Filho",
-          "Sandro Alex",
-          "Sergio Moro",
-          "Tony Garcia"
-        ],
-        "pesquisas": 13
-      },
-      {
-        "candidatos": [
           "Adriano Teixeira",
           "Alexandre Salomão",
           "Luiz França",
@@ -524,7 +513,18 @@
           "Sergio Moro",
           "Tayná Miessa"
         ],
-        "pesquisas": 12
+        "pesquisas": 13
+      },
+      {
+        "candidatos": [
+          "Luiz França",
+          "Rafael Greca",
+          "Requião Filho",
+          "Sandro Alex",
+          "Sergio Moro",
+          "Tony Garcia"
+        ],
+        "pesquisas": 13
       },
       {
         "candidatos": [
@@ -875,7 +875,7 @@
           "João Rodrigues",
           "Ralf Zimmer"
         ],
-        "pesquisas": 2
+        "pesquisas": 3
       },
       {
         "candidatos": [
@@ -1015,7 +1015,7 @@
     "AM": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "status": "ok",
-      "pesquisas": 36,
+      "pesquisas": 37,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
     },
     "BA": {
@@ -1027,7 +1027,7 @@
     "CE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "status": "ok",
-      "pesquisas": 32,
+      "pesquisas": 33,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Cear%C3%A1"
     },
     "DF": {
@@ -1045,7 +1045,7 @@
     "GO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "status": "ok",
-      "pesquisas": 46,
+      "pesquisas": 47,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
     },
     "MA": {
@@ -1087,7 +1087,7 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 60,
+      "pesquisas": 61,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
@@ -1135,7 +1135,7 @@
     "SC": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
       "status": "ok",
-      "pesquisas": 19,
+      "pesquisas": 20,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Santa_Catarina"
     },
     "SP": {
