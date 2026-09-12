@@ -1,6 +1,31 @@
 {
-  "atualizado_em": "2026-09-11",
+  "atualizado_em": "2026-09-12",
   "pesquisas": [
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-09-11",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-10",
+      "candidates": {
+        "Fábio Mitidieri": 47.3,
+        "Valmir de Francisquinho": 35.7,
+        "Ricardo Marques": 12.2,
+        "Emanuel Cacho": 0.1
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
     {
       "uf": "GO",
       "estado": "Goiás",
@@ -24,6 +49,77 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Outubro",
+      "institute": "Veritá",
+      "collection_date": "2026-09-10",
+      "sample_size": 1525,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Daniel Vilela": 36.4,
+        "Marconi Perillo": 15.8,
+        "Wilder Morais": 27.6
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|Ruth Reis|Well Macêdo",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-09-10",
+      "sample_size": 1212,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:38-9",
+      "candidates": {
+        "Hana Ghassan": 48.5,
+        "Daniel Santos": 41.7,
+        "Araceli Lemos": 1.5,
+        "Well Macêdo": 0,
+        "Gal Leite": 0
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Well Macêdo": "PSTU",
+        "Gal Leite": "UP"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-09-10",
+      "sample_size": 1204,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:26-15",
+      "candidates": {
+        "Raquel Lyra": 47,
+        "João Campos": 42
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
       }
     },
     {
@@ -206,6 +302,27 @@
       }
     },
     {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataTrends",
+      "collection_date": "2026-09-09",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:25-17",
+      "candidates": {
+        "Raquel Lyra": 46,
+        "João Campos": 36
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -295,7 +412,7 @@
       "sample_size": 1260,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-10",
+      "source_url": "#cite_note-:9-13",
       "candidates": {
         "Fábio Mitidieri": 41.3,
         "Valmir de Francisquinho": 34.2,
@@ -320,7 +437,7 @@
       "sample_size": 1260,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-10",
+      "source_url": "#cite_note-:9-13",
       "candidates": {
         "Fábio Mitidieri": 44.6,
         "Ricardo Marques": 25.1,
@@ -495,7 +612,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:37-9",
+      "source_url": "#cite_note-:37-12",
       "candidates": {
         "Hana Ghassan": 37,
         "Daniel Santos": 35,
@@ -545,7 +662,7 @@
       "sample_size": 1302,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-15",
+      "source_url": "#cite_note-:24-19",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37
@@ -566,7 +683,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-15",
+      "source_url": "#cite_note-:16-16",
       "candidates": {
         "Eduardo Paes": 43.5,
         "Douglas Ruas": 20.3,
@@ -601,7 +718,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-15",
+      "source_url": "#cite_note-:16-16",
       "candidates": {
         "Eduardo Paes": 47.4,
         "Douglas Ruas": 22.7,
@@ -682,7 +799,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Celina Leão": 36.5,
         "Arruda": 20.7,
@@ -786,7 +903,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Daniel Vilela": 42.6,
         "Marconi Perillo": 17.3,
@@ -944,7 +1061,7 @@
       "sample_size": 1300,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-13",
+      "source_url": "#cite_note-:8-16",
       "candidates": {
         "Fábio Mitidieri": 42.93,
         "Valmir de Francisquinho": 27.83,
@@ -969,7 +1086,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-D-14",
+      "source_url": "#cite_note-:8-D-17",
       "candidates": {
         "Fábio Mitidieri": 45,
         "Valmir de Francisquinho": 37,
@@ -1124,7 +1241,7 @@
       "sample_size": 1495,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Daniel Vilela": 36.3,
         "Marconi Perillo": 25.1,
@@ -1197,7 +1314,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:36-11",
+      "source_url": "#cite_note-:36-14",
       "candidates": {
         "Hana Ghassan": 35.7,
         "Daniel Santos": 38,
@@ -1278,7 +1395,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-17",
+      "source_url": "#cite_note-:23-21",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 43
@@ -1349,7 +1466,7 @@
       "sample_size": 1207,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-16",
+      "source_url": "#cite_note-:15-17",
       "candidates": {
         "Eduardo Paes": 43.6,
         "Douglas Ruas": 27.6,
@@ -1382,7 +1499,7 @@
       "sample_size": 1207,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-16",
+      "source_url": "#cite_note-:15-17",
       "candidates": {
         "Eduardo Paes": 43.9,
         "Douglas Ruas": 32.6,
@@ -1413,7 +1530,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Fábio Mitidieri": 46.13,
         "Valmir de Francisquinho": 24.87,
@@ -1484,7 +1601,7 @@
       "sample_size": 1121,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-22",
+      "source_url": "#cite_note-:6-24",
       "candidates": {
         "Celina Leão": 32,
         "Arruda": 23.3,
@@ -1557,7 +1674,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Raquel Lyra": 49.83,
         "João Campos": 37.92
@@ -1628,7 +1745,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:35-15",
+      "source_url": "#cite_note-:35-18",
       "candidates": {
         "Hana Ghassan": 34,
         "Daniel Santos": 33,
@@ -1753,7 +1870,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Celina Leão": 35.4,
         "Arruda": 24.5,
@@ -1890,7 +2007,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Hana Ghassan": 27,
         "Daniel Santos": 28,
@@ -1919,7 +2036,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-17",
+      "source_url": "#cite_note-:14-18",
       "candidates": {
         "Eduardo Paes": 35,
         "Douglas Ruas": 21,
@@ -1954,7 +2071,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-17",
+      "source_url": "#cite_note-:14-18",
       "candidates": {
         "Eduardo Paes": 36,
         "Douglas Ruas": 23,
@@ -1987,7 +2104,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Eduardo Paes": 35.7,
         "Douglas Ruas": 34.2,
@@ -2087,7 +2204,7 @@
       "sample_size": 1141,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-18",
+      "source_url": "#cite_note-:8-20",
       "candidates": {
         "Celina Leão": 34.5,
         "Arruda": 20.93,
@@ -2116,7 +2233,7 @@
       "sample_size": 1193,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-20",
+      "source_url": "#cite_note-:7-22",
       "candidates": {
         "Celina Leão": 30.7,
         "Arruda": 14.2,
@@ -2145,7 +2262,7 @@
       "sample_size": 1214,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:18-12",
+      "source_url": "#cite_note-:18-14",
       "candidates": {
         "Daniel Vilela": 43.5,
         "Marconi Perillo": 16.1,
@@ -2170,7 +2287,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-14",
+      "source_url": "#cite_note-:17-16",
       "candidates": {
         "Daniel Vilela": 46,
         "Marconi Perillo": 22,
@@ -2315,7 +2432,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-21",
+      "source_url": "#cite_note-:4-25",
       "candidates": {
         "Raquel Lyra": 45,
         "João Campos": 36
@@ -2572,7 +2689,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-16",
+      "source_url": "#cite_note-:16-18",
       "candidates": {
         "Daniel Vilela": 37,
         "Marconi Perillo": 20,
@@ -2649,7 +2766,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-17",
+      "source_url": "#cite_note-:7-20",
       "candidates": {
         "Fábio Mitidieri": 40,
         "Valmir de Francisquinho": 20,
@@ -3010,7 +3127,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-26",
+      "source_url": "#cite_note-:5-28",
       "candidates": {
         "Celina Leão": 34,
         "Arruda": 20,
@@ -3110,7 +3227,7 @@
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-23",
+      "source_url": "#cite_note-:22-27",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37
@@ -3131,7 +3248,7 @@
       "sample_size": 1302,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:21-25",
+      "source_url": "#cite_note-:21-29",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 36
@@ -3152,7 +3269,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:21-A-27",
+      "source_url": "#cite_note-:21-A-31",
       "candidates": {
         "Raquel Lyra": 39,
         "João Campos": 41
@@ -3173,7 +3290,7 @@
       "sample_size": 1302,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-19",
+      "source_url": "#cite_note-:13-20",
       "candidates": {
         "Eduardo Paes": 37,
         "Douglas Ruas": 14,
@@ -3208,7 +3325,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-20",
+      "source_url": "#cite_note-:12-21",
       "candidates": {
         "Eduardo Paes": 44.5,
         "Douglas Ruas": 15.5,
@@ -3243,7 +3360,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-20",
+      "source_url": "#cite_note-:12-21",
       "candidates": {
         "Eduardo Paes": 48.3,
         "Douglas Ruas": 18.6,
@@ -3368,7 +3485,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Daniel Vilela": 34.5,
         "Marconi Perillo": 18.6,
@@ -3464,7 +3581,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:33-20",
+      "source_url": "#cite_note-:33-23",
       "candidates": {
         "Hana Ghassan": 41.4,
         "Daniel Santos": 49.7,
@@ -3524,7 +3641,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Eduardo Paes": 34.9,
         "Douglas Ruas": 14.7,
@@ -3684,7 +3801,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Celina Leão": 33.9,
         "Arruda": 24.1,
@@ -3713,7 +3830,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:34-22",
+      "source_url": "#cite_note-:34-25",
       "candidates": {
         "Hana Ghassan": 28.6,
         "Daniel Santos": 35.6,
@@ -3842,7 +3959,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-L-21",
+      "source_url": "#cite_note-:16-L-23",
       "candidates": {
         "Daniel Vilela": 44.2,
         "Marconi Perillo": 23.8,
@@ -3888,7 +4005,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Raquel Lyra": 46.2,
         "João Campos": 36.1
@@ -3955,7 +4072,7 @@
       "sample_size": 1204,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-22",
+      "source_url": "#cite_note-:11-23",
       "candidates": {
         "Eduardo Paes": 41,
         "Douglas Ruas": 19,
@@ -3990,7 +4107,7 @@
       "sample_size": 1314,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-S-19",
+      "source_url": "#cite_note-:7-S-22",
       "candidates": {
         "Fábio Mitidieri": 39.69,
         "Valmir de Francisquinho": 28.43,
@@ -4015,7 +4132,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Fábio Mitidieri": 44.4,
         "Valmir de Francisquinho": 25.5,
@@ -4088,7 +4205,7 @@
       "sample_size": 1204,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Cleitinho": 32,
         "Patrus Ananias": 12,
@@ -4186,7 +4303,7 @@
       "sample_size": 1197,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:32-25",
+      "source_url": "#cite_note-:32-28",
       "candidates": {
         "Hana Ghassan": 48.6,
         "Daniel Santos": 40.5,
@@ -4267,7 +4384,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-34",
       "candidates": {
         "Celina Leão": 34,
         "Arruda": 32,
@@ -4294,7 +4411,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-32",
+      "source_url": "#cite_note-:4-34",
       "candidates": {
         "Celina Leão": 45,
         "Leandro Grass": 20,
@@ -4479,7 +4596,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-23",
+      "source_url": "#cite_note-:6-26",
       "candidates": {
         "Fábio Mitidieri": 51,
         "Valmir de Francisquinho": 33.7,
@@ -4570,7 +4687,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Fábio Mitidieri": 31.59,
         "Valmir de Francisquinho": 46.73,
@@ -4595,7 +4712,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-34",
+      "source_url": "#cite_note-:3-36",
       "candidates": {
         "Celina Leão": 33.4,
         "Arruda": 23.7,
@@ -4624,7 +4741,7 @@
       "sample_size": 3200,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-D-25",
+      "source_url": "#cite_note-:16-D-27",
       "candidates": {
         "Daniel Vilela": 27.75,
         "Marconi Perillo": 36.78,
@@ -4649,7 +4766,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:31-30",
+      "source_url": "#cite_note-:31-33",
       "candidates": {
         "Hana Ghassan": 35.1,
         "Daniel Santos": 30.2,
@@ -4676,7 +4793,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:18-33",
+      "source_url": "#cite_note-:18-37",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 43
@@ -4745,7 +4862,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-35",
+      "source_url": "#cite_note-:19-39",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 35
@@ -4841,7 +4958,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Daniel Vilela": 37.2,
         "Marconi Perillo": 18.8,
@@ -4980,7 +5097,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Fábio Mitidieri": 38.94,
         "Valmir de Francisquinho": 28.76,
@@ -5005,7 +5122,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Fábio Mitidieri": 37,
         "Valmir de Francisquinho": 23.8,
@@ -5132,7 +5249,7 @@
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Raquel Lyra": 45,
         "João Campos": 41
@@ -5465,7 +5582,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:30-36",
+      "source_url": "#cite_note-:30-39",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 31,
@@ -5621,7 +5738,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-32",
+      "source_url": "#cite_note-:5-35",
       "candidates": {
         "Fábio Mitidieri": 43,
         "Valmir de Francisquinho": 40,
@@ -5646,7 +5763,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Daniel Vilela": 45.8,
         "Marconi Perillo": 24.5,
@@ -5694,7 +5811,7 @@
       "sample_size": 1109,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-36",
+      "source_url": "#cite_note-:2-38",
       "candidates": {
         "Celina Leão": 32.4,
         "Arruda": 24,
@@ -5744,7 +5861,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-40",
+      "source_url": "#cite_note-:17-44",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 42
@@ -5765,7 +5882,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-26",
+      "source_url": "#cite_note-:0-27",
       "candidates": {
         "Eduardo Paes": 48.6,
         "Douglas Ruas": 11.1,
@@ -5892,7 +6009,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-26",
+      "source_url": "#cite_note-:9-28",
       "candidates": {
         "Cleitinho": 36,
         "Alexandre Kalil": 15,
@@ -5921,7 +6038,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-26",
+      "source_url": "#cite_note-:9-28",
       "candidates": {
         "Cleitinho": 37,
         "Alexandre Kalil": 15,
@@ -5950,7 +6067,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-26",
+      "source_url": "#cite_note-:9-28",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 15,
@@ -5979,7 +6096,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-26",
+      "source_url": "#cite_note-:9-28",
       "candidates": {
         "Alexandre Kalil": 20,
         "Mateus Simões": 10,
@@ -6029,7 +6146,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Raquel Lyra": 37.2,
         "João Campos": 44.6
@@ -6050,7 +6167,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Eduardo Paes": 34.5,
         "Douglas Ruas": 10.9,
@@ -6079,7 +6196,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Eduardo Paes": 34.5,
         "Douglas Ruas": 10.9,
@@ -6108,7 +6225,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Fábio Mitidieri": 37.94,
         "Valmir de Francisquinho": 46.07,
@@ -6181,7 +6298,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-30",
+      "source_url": "#cite_note-:14-32",
       "candidates": {
         "Daniel Vilela": 37,
         "Marconi Perillo": 21,
@@ -6310,7 +6427,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-30",
+      "source_url": "#cite_note-:10-31",
       "candidates": {
         "Eduardo Paes": 37,
         "Douglas Ruas": 16,
@@ -6337,7 +6454,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-32",
+      "source_url": "#cite_note-:8-34",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -6364,7 +6481,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-32",
+      "source_url": "#cite_note-:8-34",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 12,
@@ -6393,7 +6510,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-32",
+      "source_url": "#cite_note-:8-34",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -6422,7 +6539,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-32",
+      "source_url": "#cite_note-:8-34",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -6449,7 +6566,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-32",
+      "source_url": "#cite_note-:8-34",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -6476,7 +6593,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-44",
+      "source_url": "#cite_note-:16-48",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37
@@ -6497,7 +6614,7 @@
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-48",
+      "source_url": "#cite_note-:14-52",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 40
@@ -6566,7 +6683,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-38",
+      "source_url": "#cite_note-:29-41",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -6595,7 +6712,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-38",
+      "source_url": "#cite_note-:29-41",
       "candidates": {
         "Daniel Santos": 23,
         "Hana Ghassan": 25,
@@ -6724,7 +6841,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-32",
+      "source_url": "#cite_note-:9-33",
       "candidates": {
         "Eduardo Paes": 38,
         "Douglas Ruas": 10,
@@ -6753,7 +6870,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-32",
+      "source_url": "#cite_note-:9-33",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -6780,7 +6897,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-32",
+      "source_url": "#cite_note-:9-33",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -6857,7 +6974,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Fábio Mitidieri": 45.4,
         "Valmir de Francisquinho": 32.2,
@@ -7213,7 +7330,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-49",
+      "source_url": "#cite_note-:13-53",
       "candidates": {
         "Raquel Lyra": 48.2,
         "João Campos": 36.5
@@ -7282,7 +7399,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Fábio Mitidieri": 46.2,
         "Valmir de Francisquinho": 34,
@@ -7430,7 +7547,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 9,
@@ -7461,7 +7578,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Eduardo Paes": 47,
         "Douglas Ruas": 11,
@@ -7538,7 +7655,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Fábio Mitidieri": 39.33,
         "Valmir de Francisquinho": 27.8,
@@ -7724,7 +7841,7 @@
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Raquel Lyra": 42.4,
         "João Campos": 40.4
@@ -7824,7 +7941,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-41",
+      "source_url": "#cite_note-:28-44",
       "candidates": {
         "Daniel Santos": 34.4,
         "Hana Ghassan": 22.5,
@@ -7849,7 +7966,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-41",
+      "source_url": "#cite_note-:28-44",
       "candidates": {
         "Daniel Santos": 37.1,
         "Hana Ghassan": 24.7,
@@ -7872,7 +7989,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-41",
+      "source_url": "#cite_note-:28-44",
       "candidates": {
         "Daniel Santos": 36.3,
         "Hana Ghassan": 25.6,
@@ -7991,7 +8108,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-34",
+      "source_url": "#cite_note-:12-36",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 26,
@@ -8016,7 +8133,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-34",
+      "source_url": "#cite_note-:12-36",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 24,
@@ -8070,7 +8187,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 38.69,
@@ -8216,7 +8333,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-42",
+      "source_url": "#cite_note-:27-45",
       "candidates": {
         "Daniel Santos": 37.2,
         "Hana Ghassan": 31.6,
@@ -8241,7 +8358,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-42",
+      "source_url": "#cite_note-:27-45",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 29.2,
@@ -8528,7 +8645,7 @@
       "sample_size": 2500,
       "margin_error": 1.96,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Eduardo Paes": 33.9,
         "Douglas Ruas": 10.3,
@@ -8559,7 +8676,7 @@
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-42",
+      "source_url": "#cite_note-:4-45",
       "candidates": {
         "Fábio Mitidieri": 40.67,
         "Valmir de Francisquinho": 29.22,
@@ -8605,7 +8722,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-40",
+      "source_url": "#cite_note-:7-41",
       "candidates": {
         "Eduardo Paes": 54.2,
         "Douglas Ruas": 14.6,
@@ -8634,7 +8751,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-40",
+      "source_url": "#cite_note-:7-41",
       "candidates": {
         "Eduardo Paes": 50.7,
         "Douglas Ruas": 13.8,
@@ -8734,7 +8851,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-37",
+      "source_url": "#cite_note-:10-39",
       "candidates": {
         "Daniel Vilela": 31,
         "Marconi Perillo": 33,
@@ -8759,7 +8876,7 @@
       "sample_size": 1200,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Fábio Mitidieri": 33.1,
         "Valmir de Francisquinho": 39.25,
@@ -8982,7 +9099,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-45",
+      "source_url": "#cite_note-:26-48",
       "candidates": {
         "Daniel Santos": 32,
         "Hana Ghassan": 29,
@@ -9009,7 +9126,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data2-53",
+      "source_url": "#cite_note-Numen_Data2-57",
       "candidates": {
         "Raquel Lyra": 51.17,
         "João Campos": 41.75,
@@ -9059,7 +9176,7 @@
       "sample_size": 1600,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Cleitinho": 37.56,
         "Alexandre Kalil": 11.06,
@@ -9234,7 +9351,7 @@
       "sample_size": 780,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Daniel Santos": 22.4,
         "Hana Ghassan": 25.6,
@@ -9280,7 +9397,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Fábio Mitidieri": 41.2,
         "Valmir de Francisquinho": 26.7,
@@ -9305,7 +9422,7 @@
       "sample_size": 1100,
       "margin_error": 4.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-38",
+      "source_url": "#cite_note-:9-40",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 22.7,
@@ -9330,7 +9447,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Fábio Mitidieri": 34.95,
         "Valmir de Francisquinho": 41.5,
@@ -9426,7 +9543,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-40",
+      "source_url": "#cite_note-:7-42",
       "candidates": {
         "Cleitinho": 27.7,
         "Alexandre Kalil": 18.3,
@@ -9455,7 +9572,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-40",
+      "source_url": "#cite_note-:7-42",
       "candidates": {
         "Cleitinho": 28.8,
         "Alexandre Kalil": 20.5,
@@ -9511,7 +9628,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-55",
+      "source_url": "#cite_note-59",
       "candidates": {
         "Raquel Lyra": 38,
         "João Campos": 43,
@@ -9580,7 +9697,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-50",
+      "source_url": "#cite_note-:25-53",
       "candidates": {
         "Daniel Santos": 24.8,
         "Hana Ghassan": 30.4,
@@ -9609,7 +9726,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-50",
+      "source_url": "#cite_note-:25-53",
       "candidates": {
         "Daniel Santos": 24.5,
         "Hana Ghassan": 29.1,
@@ -9738,7 +9855,7 @@
       "sample_size": 3600,
       "margin_error": 1.63,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-39",
+      "source_url": "#cite_note-:8-41",
       "candidates": {
         "Daniel Vilela": 28.5,
         "Marconi Perillo": 33.8,
@@ -9844,7 +9961,7 @@
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-49",
+      "source_url": "#cite_note-:3-52",
       "candidates": {
         "Fábio Mitidieri": 38.7,
         "Valmir de Francisquinho": 42.8,
@@ -9986,7 +10103,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-57",
+      "source_url": "#cite_note-:10-61",
       "candidates": {
         "Raquel Lyra": 40,
         "João Campos": 45,
@@ -10011,7 +10128,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-A-58",
+      "source_url": "#cite_note-:9-A-62",
       "candidates": {
         "Raquel Lyra": 41.1,
         "João Campos": 44.2,
@@ -10205,7 +10322,7 @@
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Fábio Mitidieri": 40.8,
         "Valmir de Francisquinho": 30.3,
@@ -10361,7 +10478,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-42",
+      "source_url": "#cite_note-:6-43",
       "candidates": {
         "Eduardo Paes": 48.3,
         "Douglas Ruas": 12.6,
@@ -10492,7 +10609,7 @@
       "sample_size": 1507,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-41",
+      "source_url": "#cite_note-:7-43",
       "candidates": {
         "Daniel Vilela": 27.8,
         "Marconi Perillo": 17.5,
@@ -10515,7 +10632,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-53",
+      "source_url": "#cite_note-:2-56",
       "candidates": {
         "Fábio Mitidieri": 44.7,
         "Valmir de Francisquinho": 38.7,
@@ -10563,7 +10680,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-54",
+      "source_url": "#cite_note-Veritá3-57",
       "candidates": {
         "Daniel Santos": 52.5,
         "Hana Ghassan": 32,
@@ -10665,7 +10782,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-43",
+      "source_url": "#cite_note-:6-45",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -10690,7 +10807,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -11038,7 +11155,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-47",
+      "source_url": "#cite_note--2-49",
       "candidates": {
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
@@ -11063,7 +11180,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-47",
+      "source_url": "#cite_note--2-49",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
@@ -11134,7 +11251,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-55",
+      "source_url": "#cite_note-:1-58",
       "candidates": {
         "Fábio Mitidieri": 41,
         "Valmir de Francisquinho": 38,
@@ -11159,7 +11276,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-56",
+      "source_url": "#cite_note-:24-59",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -11186,7 +11303,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-56",
+      "source_url": "#cite_note-:24-59",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -11267,7 +11384,7 @@
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-57",
+      "source_url": "#cite_note-:0-60",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 39.72,
@@ -11417,7 +11534,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 15,
@@ -11446,7 +11563,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Cleitinho": 39,
         "Mateus Simões": 17,
@@ -11529,7 +11646,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-65",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 39,
@@ -11675,7 +11792,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--1-53",
+      "source_url": "#cite_note--1-55",
       "candidates": {
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
@@ -11750,7 +11867,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -11777,7 +11894,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -11825,7 +11942,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-55",
+      "source_url": "#cite_note-:4-57",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -11850,7 +11967,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-55",
+      "source_url": "#cite_note-:4-57",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -11873,7 +11990,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-55",
+      "source_url": "#cite_note-:4-57",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -11898,7 +12015,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-55",
+      "source_url": "#cite_note-:4-57",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -12079,7 +12196,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2A-43",
+      "source_url": "#cite_note-Veritá2A-44",
       "candidates": {
         "Eduardo Paes": 50,
         "Douglas Ruas": 32.3,
@@ -12196,7 +12313,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-61",
+      "source_url": "#cite_note-:23-64",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -12223,7 +12340,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-47",
+      "source_url": "#cite_note-:6-49",
       "candidates": {
         "Cleitinho": 28,
         "Alexandre Kalil": 6,
@@ -12252,7 +12369,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-47",
+      "source_url": "#cite_note-:6-49",
       "candidates": {
         "Cleitinho": 30,
         "Mateus Simões": 24,
@@ -12306,7 +12423,7 @@
       "sample_size": 4000,
       "margin_error": 1.6,
       "tse_registration": "",
-      "source_url": "#cite_note-DataTrends1-62",
+      "source_url": "#cite_note-DataTrends1-66",
       "candidates": {
         "Raquel Lyra": 36,
         "João Campos": 42,
@@ -12375,7 +12492,7 @@
       "sample_size": 3300,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-59",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Daniel Vilela": 29.6,
         "Marconi Perillo": 30.2,
@@ -12400,7 +12517,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-63",
+      "source_url": "#cite_note-Veritá2-66",
       "candidates": {
         "Daniel Santos": 29.1,
         "Hana Ghassan": 26.6,
@@ -12469,7 +12586,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-65",
+      "source_url": "#cite_note-:22-68",
       "candidates": {
         "Daniel Santos": 35.2,
         "Hana Ghassan": 26,
@@ -12763,7 +12880,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-60",
+      "source_url": "#cite_note-Genial/Quaest-Abril-62",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -12788,7 +12905,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-60",
+      "source_url": "#cite_note-Genial/Quaest-Abril-62",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -12813,7 +12930,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-60",
+      "source_url": "#cite_note-Genial/Quaest-Abril-62",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 21,
@@ -13001,7 +13118,7 @@
       "sample_size": 1312,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-SE04-59",
+      "source_url": "#cite_note-SE04-62",
       "candidates": {
         "Fábio Mitidieri": 37.27,
         "Valmir de Francisquinho": 44.59,
@@ -13072,7 +13189,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-50",
+      "source_url": "#cite_note-:5-52",
       "candidates": {
         "Cleitinho": 30,
         "Alexandre Kalil": 8,
@@ -13101,7 +13218,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-50",
+      "source_url": "#cite_note-:5-52",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 11,
@@ -13128,7 +13245,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-50",
+      "source_url": "#cite_note-:5-52",
       "candidates": {
         "Cleitinho": 37,
         "Mateus Simões": 16,
@@ -13155,7 +13272,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-50",
+      "source_url": "#cite_note-:5-52",
       "candidates": {
         "Alexandre Kalil": 12,
         "Mateus Simões": 18,
@@ -13182,7 +13299,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-65",
+      "source_url": "#cite_note-:8-69",
       "candidates": {
         "Raquel Lyra": 34,
         "João Campos": 42,
@@ -13207,7 +13324,7 @@
       "sample_size": 1680,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-44",
+      "source_url": "#cite_note-:4-45",
       "candidates": {
         "Eduardo Paes": 53,
         "Douglas Ruas": 13.2,
@@ -13236,7 +13353,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-67",
+      "source_url": "#cite_note-:20-70",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 19,
@@ -13263,7 +13380,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-67",
+      "source_url": "#cite_note-:20-70",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 22,
@@ -13342,7 +13459,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-46",
+      "source_url": "#cite_note-:5-47",
       "candidates": {
         "Eduardo Paes": 34,
         "Douglas Ruas": 9,
@@ -13373,7 +13490,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-46",
+      "source_url": "#cite_note-:5-47",
       "candidates": {
         "Eduardo Paes": 40,
         "Douglas Ruas": 10,
@@ -13400,7 +13517,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-46",
+      "source_url": "#cite_note-:5-47",
       "candidates": {
         "Eduardo Paes": 39,
         "Douglas Ruas": 11,
@@ -13475,7 +13592,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-60",
+      "source_url": "#cite_note-SE05-63",
       "candidates": {
         "Fábio Mitidieri": 35.3,
         "Valmir de Francisquinho": 39.9,
@@ -13500,7 +13617,7 @@
       "sample_size": 1100,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data1-66",
+      "source_url": "#cite_note-Numen_Data1-70",
       "candidates": {
         "Raquel Lyra": 45.1,
         "João Campos": 37.1,
@@ -13652,7 +13769,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-70",
+      "source_url": "#cite_note-:19-73",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -13679,7 +13796,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-70",
+      "source_url": "#cite_note-:19-73",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -13887,7 +14004,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-63",
+      "source_url": "#cite_note-:3-65",
       "candidates": {
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
@@ -13912,7 +14029,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-63",
+      "source_url": "#cite_note-:3-65",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
@@ -13937,7 +14054,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-63",
+      "source_url": "#cite_note-:3-65",
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
@@ -13987,7 +14104,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-68",
+      "source_url": "#cite_note-:6-72",
       "candidates": {
         "Raquel Lyra": 33,
         "João Campos": 50,
@@ -14012,7 +14129,7 @@
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Simplex1-69",
+      "source_url": "#cite_note-Simplex1-73",
       "candidates": {
         "Raquel Lyra": 42.3,
         "João Campos": 42.6,
@@ -14110,7 +14227,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-51",
+      "source_url": "#cite_note-Veritá1-52",
       "candidates": {
         "Eduardo Paes": 49.7,
         "Douglas Ruas": 32.7,
@@ -14241,7 +14358,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-62",
+      "source_url": "#cite_note-Veritá1-65",
       "candidates": {
         "Fábio Mitidieri": 44.2,
         "Valmir de Francisquinho": 34.5,
@@ -14481,7 +14598,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-57",
       "candidates": {
         "Cleitinho": 32.7,
         "Alexandre Kalil": 28.6,
@@ -14510,7 +14627,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-57",
       "candidates": {
         "Cleitinho": 40.5,
         "Mateus Simões": 29.4,
@@ -14535,7 +14652,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-57",
       "candidates": {
         "Cleitinho": 34.2,
         "Alexandre Kalil": 37.9,
@@ -14562,7 +14679,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-57",
+      "source_url": "#cite_note-Veritá1-59",
       "candidates": {
         "Cleitinho": 50.3,
         "Alexandre Kalil": 13.1,
@@ -14593,7 +14710,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-75",
+      "source_url": "#cite_note-78",
       "candidates": {
         "Daniel Santos": 43.4,
         "Hana Ghassan": 25.5,
@@ -14616,7 +14733,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-75",
+      "source_url": "#cite_note-78",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 18.7,
@@ -14904,7 +15021,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-58",
+      "source_url": "#cite_note-:4-60",
       "candidates": {
         "Cleitinho": 41.3,
         "Alexandre Kalil": 11.7,
@@ -14933,7 +15050,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-58",
+      "source_url": "#cite_note-:4-60",
       "candidates": {
         "Alexandre Kalil": 21.4,
         "Gabriel Azevedo": 11.1,
@@ -14958,7 +15075,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-58",
+      "source_url": "#cite_note-:4-60",
       "candidates": {
         "Mateus Simões": 29.7,
         "Gabriel Azevedo": 10.1,
@@ -14983,7 +15100,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-58",
+      "source_url": "#cite_note-:4-60",
       "candidates": {
         "Cleitinho": 44.1,
         "Alexandre Kalil": 17.5,
@@ -15010,7 +15127,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-58",
+      "source_url": "#cite_note-:4-60",
       "candidates": {
         "Cleitinho": 43.3,
         "Gabriel Azevedo": 5.7,
@@ -15423,7 +15540,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-78",
+      "source_url": "#cite_note-:0-81",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -15450,7 +15567,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-78",
+      "source_url": "#cite_note-:0-81",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -15742,7 +15859,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-63",
+      "source_url": "#cite_note-:-1-65",
       "candidates": {
         "Cleitinho": 25.5,
         "Mateus Simões": 13.5,
@@ -15769,7 +15886,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-63",
+      "source_url": "#cite_note-:-1-65",
       "candidates": {
         "Cleitinho": 29.6,
         "Alexandre Kalil": 6,
@@ -15798,7 +15915,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-63",
+      "source_url": "#cite_note-:-1-65",
       "candidates": {
         "Cleitinho": 30.8,
         "Mateus Simões": 17,
@@ -15848,7 +15965,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-64",
+      "source_url": "#cite_note-SE02-67",
       "candidates": {
         "Fábio Mitidieri": 42.88,
         "Valmir de Francisquinho": 35.03
@@ -15869,7 +15986,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-64",
+      "source_url": "#cite_note-SE02-67",
       "candidates": {
         "Fábio Mitidieri": 44.51,
         "Ricardo Marques": 21.63
@@ -15890,7 +16007,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-64",
+      "source_url": "#cite_note-SE02-67",
       "candidates": {
         "Fábio Mitidieri": 51.64,
         "Emanuel Cacho": 10.3
@@ -15911,7 +16028,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-66",
+      "source_url": "#cite_note-:1-68",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -15936,7 +16053,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-66",
+      "source_url": "#cite_note-:1-68",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -15961,7 +16078,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-66",
+      "source_url": "#cite_note-:1-68",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -16209,7 +16326,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-67",
+      "source_url": "#cite_note-:1-69",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 19,
@@ -16240,7 +16357,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-67",
+      "source_url": "#cite_note-:1-69",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 19,
@@ -16267,7 +16384,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-67",
+      "source_url": "#cite_note-:1-69",
       "candidates": {
         "Cleitinho": 39,
         "Alexandre Kalil": 24,
@@ -16292,7 +16409,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-67",
+      "source_url": "#cite_note-:1-69",
       "candidates": {
         "Cleitinho": 40,
         "Mateus Simões": 19,
@@ -16317,7 +16434,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-67",
+      "source_url": "#cite_note-:1-69",
       "candidates": {
         "Alexandre Kalil": 30,
         "Gabriel Azevedo": 18,
@@ -16340,7 +16457,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-67",
+      "source_url": "#cite_note-:1-69",
       "candidates": {
         "Mateus Simões": 25,
         "Gabriel Azevedo": 19,
@@ -16363,7 +16480,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-67",
+      "source_url": "#cite_note-:1-69",
       "candidates": {
         "Alexandre Kalil": 34,
         "Gabriel Azevedo": 21
@@ -16478,7 +16595,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-53",
+      "source_url": "#cite_note-:1-54",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 13,
@@ -16507,7 +16624,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-53",
+      "source_url": "#cite_note-:1-54",
       "candidates": {
         "Eduardo Paes": 42,
         "Douglas Ruas": 11,
@@ -16538,7 +16655,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-53",
+      "source_url": "#cite_note-:1-54",
       "candidates": {
         "Eduardo Paes": 51,
         "Douglas Ruas": 19
@@ -16559,7 +16676,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-69",
+      "source_url": "#cite_note-:2-71",
       "candidates": {
         "Cleitinho": 45.6,
         "Alexandre Kalil": 18.4,
@@ -16584,7 +16701,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-69",
+      "source_url": "#cite_note-:2-71",
       "candidates": {
         "Cleitinho": 45.8,
         "Mateus Simões": 22.6,
@@ -16609,7 +16726,7 @@
       "sample_size": 1200,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-54",
+      "source_url": "#cite_note-:2-55",
       "candidates": {
         "Eduardo Paes": 46,
         "Douglas Ruas": 4,
@@ -16804,7 +16921,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-72",
+      "source_url": "#cite_note-:-1-76",
       "candidates": {
         "Raquel Lyra": 35,
         "João Campos": 48,
@@ -16875,7 +16992,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-74",
+      "source_url": "#cite_note-:3-78",
       "candidates": {
         "Raquel Lyra": 31,
         "João Campos": 51,
@@ -16900,7 +17017,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-75",
+      "source_url": "#cite_note-79",
       "candidates": {
         "Raquel Lyra": 29,
         "João Campos": 42,
@@ -17066,7 +17183,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-87",
+      "source_url": "#cite_note-:3-90",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -17093,7 +17210,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-87",
+      "source_url": "#cite_note-:3-90",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -17116,7 +17233,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-56",
       "candidates": {
         "Eduardo Paes": 42.5,
         "Douglas Ruas": 1.6,
@@ -17147,7 +17264,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-56",
       "candidates": {
         "Eduardo Paes": 50.5,
         "Douglas Ruas": 2.3,
@@ -17174,7 +17291,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-56",
       "candidates": {
         "Eduardo Paes": 50.3,
         "Ítalo Marsili": 0.7,
@@ -17201,7 +17318,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-91",
+      "source_url": "#cite_note-:1-94",
       "candidates": {
         "Daniel Santos": 32.1,
         "Hana Ghassan": 22.2,
@@ -17424,7 +17541,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-68",
+      "source_url": "#cite_note-:2-70",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
@@ -17449,7 +17566,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-77",
+      "source_url": "#cite_note-:2-81",
       "candidates": {
         "Raquel Lyra": 27,
         "João Campos": 56,
@@ -17474,7 +17591,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-93",
+      "source_url": "#cite_note-96",
       "candidates": {
         "Daniel Santos": 30.5,
         "Hana Ghassan": 20.3,
@@ -17499,7 +17616,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-93",
+      "source_url": "#cite_note-96",
       "candidates": {
         "Daniel Santos": 20.7,
         "Hana Ghassan": 19.8,
@@ -17524,7 +17641,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-93",
+      "source_url": "#cite_note-96",
       "candidates": {
         "Daniel Santos": 34.1,
         "Hana Ghassan": 19.2,
@@ -17549,7 +17666,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-93",
+      "source_url": "#cite_note-96",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 32,
@@ -17574,7 +17691,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-93",
+      "source_url": "#cite_note-96",
       "candidates": {
         "Daniel Santos": 23.2,
         "Hana Ghassan": 21.3,
@@ -17599,7 +17716,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-93",
+      "source_url": "#cite_note-96",
       "candidates": {
         "Daniel Santos": 47.8,
         "Hana Ghassan": 19.1,
@@ -17624,7 +17741,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-93",
+      "source_url": "#cite_note-96",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 23.2,
@@ -18168,7 +18285,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-53",
+      "source_url": "#cite_note-DF01-55",
       "candidates": {
         "Celina Leão": 40,
         "Arruda": 21,
@@ -18195,7 +18312,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-53",
+      "source_url": "#cite_note-DF01-55",
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
@@ -18220,7 +18337,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-107",
+      "source_url": "#cite_note-:6-110",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -18243,7 +18360,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-107",
+      "source_url": "#cite_note-:6-110",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -18441,7 +18558,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-113",
+      "source_url": "#cite_note-:7-116",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
@@ -18466,7 +18583,7 @@
       "sample_size": 600,
       "margin_error": 4,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-111",
+      "source_url": "#cite_note-:9-114",
       "candidates": {
         "Daniel Santos": 29.4,
         "Hana Ghassan": 19.8,
@@ -18625,7 +18742,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-65",
+      "source_url": "#cite_note-SE01-68",
       "candidates": {
         "Fábio Mitidieri": 46,
         "Valmir de Francisquinho": 33
@@ -18646,7 +18763,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-65",
+      "source_url": "#cite_note-SE01-68",
       "candidates": {
         "Fábio Mitidieri": 49,
         "Thiago de Joaldo": 26
@@ -18667,7 +18784,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-65",
+      "source_url": "#cite_note-SE01-68",
       "candidates": {
         "Fábio Mitidieri": 48,
         "Emília Corrêa": 32
@@ -18688,7 +18805,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-65",
+      "source_url": "#cite_note-SE01-68",
       "candidates": {
         "Fábio Mitidieri": 50,
         "Eduardo Amorim": 28
@@ -19020,7 +19137,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-121",
+      "source_url": "#cite_note-124",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -19043,7 +19160,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-121",
+      "source_url": "#cite_note-124",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -19172,7 +19289,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-126",
+      "source_url": "#cite_note-129",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -19193,7 +19310,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-126",
+      "source_url": "#cite_note-129",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -19214,7 +19331,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-126",
+      "source_url": "#cite_note-129",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -19235,7 +19352,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-126",
+      "source_url": "#cite_note-129",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -19431,7 +19548,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-135",
+      "source_url": "#cite_note-138",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -19454,7 +19571,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-135",
+      "source_url": "#cite_note-138",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -19569,7 +19686,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-144",
+      "source_url": "#cite_note-:11-147",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -19653,7 +19770,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-154",
+      "source_url": "#cite_note-:13-157",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -19674,7 +19791,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-157",
+      "source_url": "#cite_note-160",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -19695,7 +19812,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-157",
+      "source_url": "#cite_note-160",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -19716,7 +19833,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-162",
+      "source_url": "#cite_note-:14-165",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -19737,7 +19854,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-165",
+      "source_url": "#cite_note-:15-168",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -19758,7 +19875,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-168",
+      "source_url": "#cite_note-:16-171",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -19829,7 +19946,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-171",
+      "source_url": "#cite_note-:17-174",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10

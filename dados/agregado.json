@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-09-11",
-  "corte": "2026-09-10",
+  "atualizado_em": "2026-09-12",
+  "corte": "2026-09-11",
   "cenario": "Brasil (nacional) — 1º turno · Augusto Cury | Flávio Bolsonaro | Lula | Renan Santos | Ronaldo Caiado",
   "criterio_cenario": "grupo mais frequente entre os candidatos centrais (Lula, Flávio Bolsonaro, Augusto Cury, Renan Santos, Ronaldo Caiado)",
   "pesquisas_no_calculo": 24,
-  "indecisos": 6.909,
+  "indecisos": 7.048,
   "fonte": "Wikipédia em português — pesquisas presidenciais de 2026",
   "fonte_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
   "licenca_dados": "CC BY-SA — preservar atribuição e consultar as fontes originais",
@@ -13,52 +13,52 @@
     {
       "nome": "Lula",
       "partido": "PT",
-      "media": 38.835,
-      "ic_min": 38.442,
-      "ic_max": 39.23,
+      "media": 38.788,
+      "ic_min": 38.405,
+      "ic_max": 39.185,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": -0.715
+      "tendencia_14d": -0.762
     },
     {
       "nome": "Flávio Bolsonaro",
       "partido": "PL",
-      "media": 35.174,
-      "ic_min": 34.806,
-      "ic_max": 35.56,
+      "media": 35.146,
+      "ic_min": 34.77,
+      "ic_max": 35.525,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": -0.146
+      "tendencia_14d": -0.174
     },
     {
       "nome": "Augusto Cury",
       "partido": "Avante",
-      "media": 6.672,
-      "ic_min": 6.393,
-      "ic_max": 6.958,
+      "media": 6.783,
+      "ic_min": 6.495,
+      "ic_max": 7.071,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": 4.972
+      "tendencia_14d": 5.083
     },
     {
       "nome": "Renan Santos",
       "partido": "Missão",
-      "media": 4.522,
-      "ic_min": 4.234,
-      "ic_max": 4.803,
+      "media": 4.466,
+      "ic_min": 4.184,
+      "ic_max": 4.746,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": 0.302
+      "tendencia_14d": 0.246
     },
     {
       "nome": "Ronaldo Caiado",
       "partido": "PSD",
-      "media": 3.257,
-      "ic_min": 2.976,
-      "ic_max": 3.549,
+      "media": 3.248,
+      "ic_min": 2.969,
+      "ic_max": 3.535,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": -1.083
+      "tendencia_14d": -1.092
     },
     {
       "nome": "Marçal",
@@ -73,9 +73,9 @@
     {
       "nome": "Romeu Zema",
       "partido": "Novo",
-      "media": 1.415,
-      "ic_min": 1.214,
-      "ic_max": 1.711,
+      "media": 1.377,
+      "ic_min": 1.171,
+      "ic_max": 1.666,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": 0
@@ -83,9 +83,9 @@
     {
       "nome": "Samara Martins",
       "partido": "UP",
-      "media": 0.549,
-      "ic_min": 0.475,
-      "ic_max": 0.904,
+      "media": 0.558,
+      "ic_min": 0.483,
+      "ic_max": 0.911,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": 0
@@ -93,9 +93,9 @@
     {
       "nome": "Hertz Dias",
       "partido": "PSTU",
-      "media": 0.454,
-      "ic_min": 0.438,
-      "ic_max": 0.884,
+      "media": 0.443,
+      "ic_min": 0.431,
+      "ic_max": 0.869,
       "cobertura": 0.875,
       "pesquisas_com_candidato": 21,
       "tendencia_14d": 0
@@ -103,9 +103,9 @@
     {
       "nome": "Costa",
       "partido": "",
-      "media": 0.338,
-      "ic_min": 0.314,
-      "ic_max": 0.763,
+      "media": 0.384,
+      "ic_min": 0.346,
+      "ic_max": 0.803,
       "cobertura": 0.875,
       "pesquisas_com_candidato": 21,
       "tendencia_14d": 0
@@ -113,9 +113,9 @@
     {
       "nome": "Rui Costa Pimenta",
       "partido": "PCO",
-      "media": 0.318,
-      "ic_min": 0.311,
-      "ic_max": 0.71,
+      "media": 0.359,
+      "ic_min": 0.337,
+      "ic_max": 0.745,
       "cobertura": 0.958,
       "pesquisas_com_candidato": 23,
       "tendencia_14d": 0
@@ -123,9 +123,9 @@
     {
       "nome": "Clariana Barão",
       "partido": "DC",
-      "media": 0.21,
-      "ic_min": 0.23,
-      "ic_max": 0.634,
+      "media": 0.258,
+      "ic_min": 0.265,
+      "ic_max": 0.68,
       "cobertura": 0.875,
       "pesquisas_com_candidato": 21,
       "tendencia_14d": 0
@@ -133,9 +133,9 @@
     {
       "nome": "Grassi",
       "partido": "",
-      "media": 0.122,
-      "ic_min": 0.179,
-      "ic_max": 0.566,
+      "media": 0.12,
+      "ic_min": 0.18,
+      "ic_max": 0.558,
       "cobertura": 0.917,
       "pesquisas_com_candidato": 22,
       "tendencia_14d": 0
@@ -143,13 +143,22 @@
   ],
   "ultimas_pesquisas": [
     {
+      "instituto": "DataFolha",
+      "coleta": "2026-09-11",
+      "tse": "",
+      "amostra": 2002,
+      "margem": 2,
+      "tipo": "Intenção de voto estimulada · 1º turno",
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:148-12"
+    },
+    {
       "instituto": "Apex/Futura",
       "coleta": "2026-09-10",
       "tse": "",
       "amostra": 2000,
       "margem": 2.2,
       "tipo": "Intenção de voto estimulada · 1º turno",
-      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:147-12"
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:147-14"
     },
     {
       "instituto": "AtlasIntel",
@@ -158,7 +167,7 @@
       "amostra": 5000,
       "margem": 1,
       "tipo": "Intenção de voto estimulada · 1º turno",
-      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:146-13"
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:146-15"
     },
     {
       "instituto": "PoderData/Aya",
@@ -167,7 +176,7 @@
       "amostra": 3000,
       "margem": 1.8,
       "tipo": "Intenção de voto estimulada · 1º turno",
-      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:145-14"
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:145-16"
     },
     {
       "instituto": "Gerp",
@@ -176,7 +185,7 @@
       "amostra": 2400,
       "margem": 2,
       "tipo": "Intenção de voto estimulada · 1º turno",
-      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-GerpSet-15"
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-GerpSet-17"
     },
     {
       "instituto": "Palver",
@@ -185,7 +194,7 @@
       "amostra": 5000,
       "margem": 3,
       "tipo": "Intenção de voto estimulada · 1º turno",
-      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-PalverSet-16"
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-PalverSet-18"
     },
     {
       "instituto": "Meio/Ideia",
@@ -194,7 +203,7 @@
       "amostra": 1500,
       "margem": 2.5,
       "tipo": "Intenção de voto estimulada · 1º turno",
-      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-IdeiaSet-19"
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-IdeiaSet-21"
     },
     {
       "instituto": "Nexus/BTG Pactual",
@@ -203,16 +212,7 @@
       "amostra": 2002,
       "margem": 2,
       "tipo": "Intenção de voto estimulada · 1º turno",
-      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-NEXUS8Set-20"
-    },
-    {
-      "instituto": "Quaest",
-      "coleta": "2026-09-06",
-      "tse": "",
-      "amostra": 2004,
-      "margem": 2,
-      "tipo": "Intenção de voto estimulada · 1º turno",
-      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-21"
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-NEXUS8Set-22"
     }
   ],
   "_cenario_assinatura": "Augusto Cury | Flávio Bolsonaro | Lula | Renan Santos | Ronaldo Caiado"
