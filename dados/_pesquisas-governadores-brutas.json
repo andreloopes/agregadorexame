@@ -1,6 +1,33 @@
 {
-  "atualizado_em": "2026-09-12",
+  "atualizado_em": "2026-09-13",
   "pesquisas": [
+    {
+      "uf": "RO",
+      "estado": "Rondônia",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
+      "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
+      "institute": "Veritá",
+      "collection_date": "2026-09-12",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-8",
+      "candidates": {
+        "Marcos Rogério": 47.8,
+        "Adaílton Fúria": 19.7,
+        "Expedito Netto": 10.4,
+        "Hildon Chaves": 11.8,
+        "Samuel Costa": 0.8
+      },
+      "parties": {
+        "Marcos Rogério": "",
+        "Adaílton Fúria": "",
+        "Expedito Netto": "",
+        "Hildon Chaves": "",
+        "Samuel Costa": ""
+      }
+    },
     {
       "uf": "SE",
       "estado": "Sergipe",
@@ -80,12 +107,39 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|Ruth Reis|Well Macêdo",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Veritá",
+      "collection_date": "2026-09-10",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:39-9",
+      "candidates": {
+        "Hana Ghassan": 38.5,
+        "Daniel Santos": 48.1,
+        "Araceli Lemos": 3.6,
+        "Well Macêdo": 1.3,
+        "Gal Leite": 0.5
+      },
+      "parties": {
+        "Hana Ghassan": "MDB",
+        "Daniel Santos": "PODE",
+        "Araceli Lemos": "PSOL",
+        "Well Macêdo": "PSTU",
+        "Gal Leite": "UP"
+      }
+    },
+    {
+      "uf": "PA",
+      "estado": "Pará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
+      "cenario": "Araceli Lemos|Daniel Santos|Gal Leite|Hana Ghassan|Ruth Reis|Well Macêdo",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
       "institute": "AtlasIntel",
       "collection_date": "2026-09-10",
       "sample_size": 1212,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:38-9",
+      "source_url": "#cite_note-:38-12",
       "candidates": {
         "Hana Ghassan": 48.5,
         "Daniel Santos": 41.7,
@@ -99,6 +153,39 @@
         "Araceli Lemos": "PSOL",
         "Well Macêdo": "PSTU",
         "Gal Leite": "UP"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Neokemp/OCP News",
+      "collection_date": "2026-09-10",
+      "sample_size": 1008,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Sergio Moro": 48.8,
+        "Requião Filho": 23.3,
+        "Sandro Alex": 20.4,
+        "Luiz França": 0.9,
+        "Samuel de Mattos": 0,
+        "Adriano Teixeira": 0,
+        "Tayná Miessa": 0.1,
+        "Alexandre Salomão": 0.5
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
       }
     },
     {
@@ -215,6 +302,29 @@
       }
     },
     {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-09-09",
+      "sample_size": 1209,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:14-7",
+      "candidates": {
+        "Wellington Fagundes": 34.4,
+        "Otaviano Pivetta": 30.8,
+        "Doutora Natasha": 23.2
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Doutora Natasha": "PSD"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -247,12 +357,39 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
       "secao": "Primeiro turno (governador) › 2026",
+      "institute": "IPEMS",
+      "collection_date": "2026-09-09",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-10",
+      "candidates": {
+        "Eduardo Riedel": 57.7,
+        "Fábio Trad": 11.59,
+        "João Henrique Catan": 5.06,
+        "Delcídio do Amaral": 5.67,
+        "Economista Renato Gomes": 1.03
+      },
+      "parties": {
+        "Eduardo Riedel": "PP",
+        "Fábio Trad": "PT",
+        "João Henrique Catan": "NOVO",
+        "Delcídio do Amaral": "PRD",
+        "Economista Renato Gomes": "DC"
+      }
+    },
+    {
+      "uf": "MS",
+      "estado": "Mato Grosso do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
+      "cenario": "Delcídio do Amaral|Economista Renato Gomes|Eduardo Riedel|Fábio Trad|João Henrique Catan",
+      "secao": "Primeiro turno (governador) › 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-09-09",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Eduardo Riedel": 48,
         "Fábio Trad": 20,
@@ -266,39 +403,6 @@
         "João Henrique Catan": "NOVO",
         "Delcídio do Amaral": "PRD",
         "Economista Renato Gomes": "DC"
-      }
-    },
-    {
-      "uf": "PR",
-      "estado": "Paraná",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
-      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Neokemp/OCP News",
-      "collection_date": "2026-09-09",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-11",
-      "candidates": {
-        "Sergio Moro": 48.8,
-        "Requião Filho": 23.3,
-        "Sandro Alex": 20.4,
-        "Luiz França": 0.9,
-        "Samuel de Mattos": 0,
-        "Adriano Teixeira": 0,
-        "Tayná Miessa": 0.1,
-        "Alexandre Salomão": 0.5
-      },
-      "parties": {
-        "Sergio Moro": "PL",
-        "Requião Filho": "PDT",
-        "Sandro Alex": "PSD",
-        "Luiz França": "MISSÃO",
-        "Samuel de Mattos": "PSTU",
-        "Adriano Teixeira": "PCO",
-        "Tayná Miessa": "UP",
-        "Alexandre Salomão": "MOBILIZA"
       }
     },
     {
@@ -328,12 +432,41 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
       "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Exatus",
+      "collection_date": "2026-09-09",
+      "sample_size": 1500,
+      "margin_error": 2.53,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Allyson": 41.9,
+        "Álvaro Dias": 22.2,
+        "Cadu de Lula": 17.59,
+        "Robério Paulino": 0.43,
+        "Rodrigo Bolsonaro": 1.12,
+        "Dário Barbosa": 0.02
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT",
+        "Robério Paulino": "PSOL",
+        "Rodrigo Bolsonaro": "Agir",
+        "Dário Barbosa": "PSTU"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Dário Barbosa|Robério Paulino|Rodrigo Bolsonaro|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-09-09",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-9",
+      "source_url": "#cite_note-:11-11",
       "candidates": {
         "Allyson": 30,
         "Álvaro Dias": 23,
@@ -367,6 +500,33 @@
         "Rosi Aires PSOL": 1,
         "Clébio Genuíno": 0,
         "Farah Mesquita": 0
+      },
+      "parties": {
+        "Arthur Henrique": "",
+        "Soldado Sampaio": "",
+        "Rosi Aires PSOL": "",
+        "Clébio Genuíno": "",
+        "Farah Mesquita": ""
+      }
+    },
+    {
+      "uf": "RR",
+      "estado": "Roraima",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
+      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-09-09",
+      "sample_size": 1200,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-14",
+      "candidates": {
+        "Arthur Henrique": 60.7,
+        "Soldado Sampaio": 32.4,
+        "Rosi Aires PSOL": 2.2,
+        "Clébio Genuíno": 0,
+        "Farah Mesquita": 0.1
       },
       "parties": {
         "Arthur Henrique": "",
@@ -483,7 +643,7 @@
       "sample_size": 1352,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-7",
+      "source_url": "#cite_note-:13-9",
       "candidates": {
         "Wellington Fagundes": 30,
         "Otaviano Pivetta": 40.8,
@@ -506,7 +666,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-9",
+      "source_url": "#cite_note-:25-10",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 21,
@@ -539,7 +699,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Allyson": 37.56,
         "Álvaro Dias": 21.4,
@@ -568,7 +728,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Allyson": 35.18,
         "Álvaro Dias": 23.11,
@@ -612,7 +772,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:37-12",
+      "source_url": "#cite_note-:37-15",
       "candidates": {
         "Hana Ghassan": 37,
         "Daniel Santos": 35,
@@ -849,7 +1009,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-14",
+      "source_url": "#cite_note-:10-16",
       "candidates": {
         "Allyson": 39.7,
         "Álvaro Dias": 22.4,
@@ -1032,7 +1192,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Allyson": 37.42,
         "Álvaro Dias": 20.56,
@@ -1291,7 +1451,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-9",
+      "source_url": "#cite_note-:12-11",
       "candidates": {
         "Wellington Fagundes": 34,
         "Otaviano Pivetta": 27,
@@ -1314,7 +1474,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:36-14",
+      "source_url": "#cite_note-:36-17",
       "candidates": {
         "Hana Ghassan": 35.7,
         "Daniel Santos": 38,
@@ -1695,7 +1855,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Allyson": 40.1,
         "Álvaro Dias": 18.3,
@@ -1745,7 +1905,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:35-18",
+      "source_url": "#cite_note-:35-21",
       "candidates": {
         "Hana Ghassan": 34,
         "Daniel Santos": 33,
@@ -1772,7 +1932,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Allyson": 28.3,
         "Álvaro Dias": 27.1,
@@ -1801,7 +1961,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Arthur Henrique": 54.99,
         "Soldado Sampaio": 28.42,
@@ -1924,7 +2084,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Allyson": 42.4,
         "Álvaro Dias": 25.3,
@@ -1953,7 +2113,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Allyson": 33.06,
         "Álvaro Dias": 21,
@@ -2007,7 +2167,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Hana Ghassan": 27,
         "Daniel Santos": 28,
@@ -2121,13 +2281,13 @@
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Veritá",
       "collection_date": "2026-08-28",
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-8",
+      "source_url": "#cite_note-:3-10",
       "candidates": {
         "Marcos Rogério": 40.7,
         "Adaílton Fúria": 22.4,
@@ -2312,7 +2472,7 @@
       "sample_size": 1204,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-12",
+      "source_url": "#cite_note-:7-14",
       "candidates": {
         "Eduardo Riedel": 49,
         "Fábio Trad": 29,
@@ -2339,7 +2499,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Eduardo Riedel": 47,
         "Fábio Trad": 20,
@@ -2476,7 +2636,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Allyson": 39.1,
         "Álvaro Dias": 14.5,
@@ -2739,7 +2899,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-15",
+      "source_url": "#cite_note-:1-16",
       "candidates": {
         "Arthur Henrique": 60,
         "Soldado Sampaio": 27,
@@ -2931,7 +3091,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Allyson": 37.21,
         "Álvaro Dias": 24.07,
@@ -2960,7 +3120,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Allyson": 34.94,
         "Álvaro Dias": 25.85,
@@ -3156,7 +3316,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-11",
+      "source_url": "#cite_note-:11-13",
       "candidates": {
         "Wellington Fagundes": 27,
         "Otaviano Pivetta": 23,
@@ -3179,7 +3339,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-16",
+      "source_url": "#cite_note-:6-18",
       "candidates": {
         "Eduardo Riedel": 40,
         "Fábio Trad": 13,
@@ -3387,13 +3547,13 @@
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Quaest",
       "collection_date": "2026-08-24",
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-10",
+      "source_url": "#cite_note-:2-11",
       "candidates": {
         "Marcos Rogério": 24,
         "Adaílton Fúria": 21,
@@ -3558,7 +3718,7 @@
       "sample_size": 1220,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:Veritá3-15",
+      "source_url": "#cite_note-:Veritá3-17",
       "candidates": {
         "Wellington Fagundes": 28.8,
         "Otaviano Pivetta": 32.1,
@@ -3581,7 +3741,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:33-23",
+      "source_url": "#cite_note-:33-26",
       "candidates": {
         "Hana Ghassan": 41.4,
         "Daniel Santos": 49.7,
@@ -3676,7 +3836,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-31",
+      "source_url": "#cite_note-:9-33",
       "candidates": {
         "Allyson": 25,
         "Álvaro Dias": 19,
@@ -3830,7 +3990,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:34-25",
+      "source_url": "#cite_note-:34-28",
       "candidates": {
         "Hana Ghassan": 28.6,
         "Daniel Santos": 35.6,
@@ -4182,7 +4342,7 @@
       "sample_size": 3080,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-17",
+      "source_url": "#cite_note-:9-19",
       "candidates": {
         "Wellington Fagundes": 27,
         "Otaviano Pivetta": 27,
@@ -4192,37 +4352,6 @@
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
         "Doutora Natasha": "PSD"
-      }
-    },
-    {
-      "uf": "MG",
-      "estado": "Minas Gerais",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
-      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Flávio Roscoe|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Datafolha",
-      "collection_date": "2026-08-20",
-      "sample_size": 1204,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-25",
-      "candidates": {
-        "Cleitinho": 32,
-        "Patrus Ananias": 12,
-        "Alexandre Kalil": 12,
-        "Mateus Simões": 4,
-        "Gabriel Azevedo": 4,
-        "Flávio Roscoe": 4,
-        "Ben Mendes": 1
-      },
-      "parties": {
-        "Cleitinho": "Republicanos",
-        "Patrus Ananias": "PT",
-        "Alexandre Kalil": "PDT",
-        "Mateus Simões": "PSD",
-        "Gabriel Azevedo": "MDB",
-        "Flávio Roscoe": "PL",
-        "Ben Mendes": "MISSÃO"
       }
     },
     {
@@ -4303,7 +4432,7 @@
       "sample_size": 1197,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:32-28",
+      "source_url": "#cite_note-:32-31",
       "candidates": {
         "Hana Ghassan": 48.6,
         "Daniel Santos": 40.5,
@@ -4436,7 +4565,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Allyson": 31.33,
         "Álvaro Dias": 17.93,
@@ -4465,7 +4594,7 @@
       "sample_size": 2100,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Allyson": 41.8,
         "Álvaro Dias": 26.3,
@@ -4482,13 +4611,13 @@
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Phoenix",
       "collection_date": "2026-08-18",
       "sample_size": 961,
       "margin_error": 3.2,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Marcos Rogério": 28.2,
         "Adaílton Fúria": 19.35,
@@ -4766,7 +4895,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:31-33",
+      "source_url": "#cite_note-:31-36",
       "candidates": {
         "Hana Ghassan": 35.1,
         "Daniel Santos": 30.2,
@@ -4883,7 +5012,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 26.4,
@@ -4983,7 +5112,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Eduardo Riedel": 46.4,
         "Fábio Trad": 21.7,
@@ -5068,7 +5197,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Allyson": 37.31,
         "Álvaro Dias": 26.48,
@@ -5193,7 +5322,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-19",
+      "source_url": "#cite_note-:8-21",
       "candidates": {
         "Wellington Fagundes": 34,
         "Otaviano Pivetta": 26,
@@ -5341,7 +5470,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "Wellington Fagundes": 32,
         "Otaviano Pivetta": 21,
@@ -5364,7 +5493,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Allyson": 30.18,
         "Álvaro Dias": 27.65,
@@ -5418,7 +5547,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Allyson": 39.5,
         "Álvaro Dias": 23.7,
@@ -5447,7 +5576,7 @@
       "sample_size": 1536,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Allyson": 34.2,
         "Álvaro Dias": 24,
@@ -5530,7 +5659,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-20",
+      "source_url": "#cite_note-:4-22",
       "candidates": {
         "Eduardo Riedel": 44,
         "Fábio Trad": 25,
@@ -5555,7 +5684,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Allyson": 26.2,
         "Álvaro Dias": 16.3,
@@ -5582,7 +5711,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:30-39",
+      "source_url": "#cite_note-:30-42",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 31,
@@ -5984,7 +6113,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Eduardo Riedel": 46.1,
         "Fábio Trad": 18.2,
@@ -6352,7 +6481,7 @@
       "sample_size": 2050,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 26,
@@ -6379,7 +6508,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-26",
+      "source_url": "#cite_note-:12-27",
       "candidates": {
         "Luciano Zucco": 22,
         "Juliana Brizola": 24,
@@ -6683,7 +6812,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-41",
+      "source_url": "#cite_note-:29-44",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -6712,7 +6841,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-41",
+      "source_url": "#cite_note-:29-44",
       "candidates": {
         "Daniel Santos": 23,
         "Hana Ghassan": 25,
@@ -6922,7 +7051,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Allyson": 38.8,
         "Álvaro Dias": 24.9,
@@ -7047,7 +7176,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Eduardo Riedel": 46.2,
         "Fábio Trad": 21.6,
@@ -7074,7 +7203,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-48",
+      "source_url": "#cite_note-:8-50",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 28,
@@ -7351,7 +7480,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-28",
+      "source_url": "#cite_note-:11-29",
       "candidates": {
         "Luciano Zucco": 34.2,
         "Juliana Brizola": 30.1,
@@ -7422,7 +7551,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Allyson": 41.7,
         "Álvaro Dias": 11.8,
@@ -7599,13 +7728,13 @@
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-15",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-13",
+      "source_url": "#cite_note-:1-14",
       "candidates": {
         "Marcos Rogério": 36,
         "Adaílton Fúria": 28,
@@ -7862,7 +7991,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-53",
       "candidates": {
         "Allyson": 35.27,
         "Álvaro Dias": 33.67,
@@ -7891,7 +8020,7 @@
       "sample_size": 2002,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-30",
+      "source_url": "#cite_note-:10-31",
       "candidates": {
         "Luciano Zucco": 37.5,
         "Juliana Brizola": 24.8,
@@ -7941,7 +8070,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-44",
+      "source_url": "#cite_note-:28-47",
       "candidates": {
         "Daniel Santos": 34.4,
         "Hana Ghassan": 22.5,
@@ -7966,7 +8095,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-44",
+      "source_url": "#cite_note-:28-47",
       "candidates": {
         "Daniel Santos": 37.1,
         "Hana Ghassan": 24.7,
@@ -7989,7 +8118,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-44",
+      "source_url": "#cite_note-:28-47",
       "candidates": {
         "Daniel Santos": 36.3,
         "Hana Ghassan": 25.6,
@@ -8012,7 +8141,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Allyson": 41.78,
         "Álvaro Dias": 26.05,
@@ -8054,13 +8183,13 @@
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "IAP",
       "collection_date": "2026-07-09",
       "sample_size": 2500,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-B-15",
+      "source_url": "#cite_note-:0-B-16",
       "candidates": {
         "Marcos Rogério": 39.79,
         "Adaílton Fúria": 28.28,
@@ -8158,7 +8287,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Allyson": 27.5,
         "Álvaro Dias": 32.1,
@@ -8333,7 +8462,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-45",
+      "source_url": "#cite_note-:27-48",
       "candidates": {
         "Daniel Santos": 37.2,
         "Hana Ghassan": 31.6,
@@ -8358,7 +8487,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-45",
+      "source_url": "#cite_note-:27-48",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 29.2,
@@ -8462,7 +8591,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-56",
       "candidates": {
         "Allyson": 35.9,
         "Álvaro Dias": 24.7,
@@ -8541,7 +8670,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-55",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Allyson": 34.59,
         "Álvaro Dias": 29,
@@ -8568,7 +8697,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Eduardo Riedel": 46.4,
         "Fábio Trad": 20.8,
@@ -8595,7 +8724,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-32",
+      "source_url": "#cite_note-:9-33",
       "candidates": {
         "Luciano Zucco": 39,
         "Juliana Brizola": 20.4,
@@ -9099,7 +9228,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-48",
+      "source_url": "#cite_note-:26-51",
       "candidates": {
         "Daniel Santos": 32,
         "Hana Ghassan": 29,
@@ -9143,13 +9272,13 @@
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "IHPEC",
       "collection_date": "2026-06-24",
       "sample_size": 3197,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-17",
+      "source_url": "#cite_note-:0-18",
       "candidates": {
         "Marcos Rogério": 31.54,
         "Adaílton Fúria": 27.48,
@@ -9226,7 +9355,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Allyson": 27.3,
         "Álvaro Dias": 32.5,
@@ -9255,7 +9384,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-33",
+      "source_url": "#cite_note-:8-34",
       "candidates": {
         "Luciano Zucco": 32,
         "Juliana Brizola": 37,
@@ -9351,7 +9480,7 @@
       "sample_size": 780,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-53",
       "candidates": {
         "Daniel Santos": 22.4,
         "Hana Ghassan": 25.6,
@@ -9599,7 +9728,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-59",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 24.2,
@@ -9697,7 +9826,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-53",
+      "source_url": "#cite_note-:25-56",
       "candidates": {
         "Daniel Santos": 24.8,
         "Hana Ghassan": 30.4,
@@ -9726,7 +9855,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-53",
+      "source_url": "#cite_note-:25-56",
       "candidates": {
         "Daniel Santos": 24.5,
         "Hana Ghassan": 29.1,
@@ -9778,7 +9907,7 @@
       "sample_size": 1550,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Allyson": 34.8,
         "Álvaro Dias": 22.8,
@@ -9880,7 +10009,7 @@
       "sample_size": 950,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Eduardo Riedel": 46.6,
         "Fábio Trad": 17.5,
@@ -10076,7 +10205,7 @@
       "sample_size": 950,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Eduardo Riedel": 45.24,
         "Fábio Trad": 12.53,
@@ -10401,7 +10530,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Eduardo Riedel": 46,
         "Fábio Trad": 20.4,
@@ -10509,7 +10638,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-34",
+      "source_url": "#cite_note-:4-35",
       "candidates": {
         "Luciano Zucco": 37.8,
         "Juliana Brizola": 19,
@@ -10528,13 +10657,13 @@
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Perfil",
       "collection_date": "2026-06-03",
       "sample_size": 1301,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Marcos Rogério": 41.3,
         "Adaílton Fúria": 28.1,
@@ -10680,7 +10809,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá3-57",
+      "source_url": "#cite_note-Veritá3-60",
       "candidates": {
         "Daniel Santos": 52.5,
         "Hana Ghassan": 32,
@@ -10707,7 +10836,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-59",
+      "source_url": "#cite_note-:6-61",
       "candidates": {
         "Allyson": 39.8,
         "Álvaro Dias": 22.1,
@@ -10853,7 +10982,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-63",
       "candidates": {
         "Allyson": 41.01,
         "Álvaro Dias": 22.75,
@@ -10880,7 +11009,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-62",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Allyson": 38,
         "Álvaro Dias": 22.8,
@@ -11030,7 +11159,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-66",
       "candidates": {
         "Allyson": 27.9,
         "Álvaro Dias": 30.5,
@@ -11226,7 +11355,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Eduardo Riedel": 46.6,
         "Fábio Trad": 17.5,
@@ -11276,7 +11405,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-59",
+      "source_url": "#cite_note-:24-62",
       "candidates": {
         "Daniel Santos": 29.7,
         "Hana Ghassan": 21.9,
@@ -11303,7 +11432,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-59",
+      "source_url": "#cite_note-:24-62",
       "candidates": {
         "Daniel Santos": 33.9,
         "Hana Ghassan": 27,
@@ -11328,7 +11457,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-65",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Allyson": 38.5,
         "Álvaro Dias": 19.8,
@@ -11351,13 +11480,13 @@
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "IAP",
       "collection_date": "2026-05-23",
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Marcos Rogério": 35.4,
         "Adaílton Fúria": 23.2,
@@ -11482,7 +11611,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-66",
+      "source_url": "#cite_note-:5-68",
       "candidates": {
         "Allyson": 37,
         "Álvaro Dias": 25.2,
@@ -11511,7 +11640,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-67",
+      "source_url": "#cite_note-69",
       "candidates": {
         "Allyson": 28.6,
         "Álvaro Dias": 34.5,
@@ -11867,7 +11996,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-63",
       "candidates": {
         "Daniel Santos": 26.5,
         "Hana Ghassan": 29.1,
@@ -11894,7 +12023,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-63",
       "candidates": {
         "Daniel Santos": 27.5,
         "Hana Ghassan": 29.1,
@@ -12038,7 +12167,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-36",
+      "source_url": "#cite_note-:3-38",
       "candidates": {
         "Eduardo Riedel": 43,
         "Fábio Trad": 21,
@@ -12167,7 +12296,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-68",
+      "source_url": "#cite_note-70",
       "candidates": {
         "Allyson": 35.5,
         "Álvaro Dias": 22.9,
@@ -12242,7 +12371,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2B-35",
+      "source_url": "#cite_note-Veritá2B-36",
       "candidates": {
         "Luciano Zucco": 49.7,
         "Juliana Brizola": 23.2,
@@ -12261,13 +12390,13 @@
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Veritá",
       "collection_date": "2026-05-08",
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Marcos Rogério": 42.5,
         "Adaílton Fúria": 22.2,
@@ -12313,7 +12442,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-64",
+      "source_url": "#cite_note-:23-67",
       "candidates": {
         "Daniel Santos": 28,
         "Hana Ghassan": 24,
@@ -12517,7 +12646,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-66",
+      "source_url": "#cite_note-Veritá2-69",
       "candidates": {
         "Daniel Santos": 29.1,
         "Hana Ghassan": 26.6,
@@ -12586,7 +12715,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-68",
+      "source_url": "#cite_note-:22-71",
       "candidates": {
         "Daniel Santos": 35.2,
         "Hana Ghassan": 26,
@@ -12974,7 +13103,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-36",
+      "source_url": "#cite_note-Genial/Quaest-Abril-37",
       "candidates": {
         "Luciano Zucco": 21,
         "Juliana Brizola": 24,
@@ -13093,7 +13222,7 @@
       "sample_size": 784,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Eduardo Riedel": 47.32,
         "Fábio Trad": 16.45,
@@ -13353,7 +13482,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-70",
+      "source_url": "#cite_note-:20-73",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 19,
@@ -13380,7 +13509,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-70",
+      "source_url": "#cite_note-:20-73",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 22,
@@ -13544,7 +13673,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-Brasmarket1-38",
+      "source_url": "#cite_note-Brasmarket1-39",
       "candidates": {
         "Luciano Zucco": 35.5,
         "Juliana Brizola": 20.6,
@@ -13569,7 +13698,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-70",
+      "source_url": "#cite_note-72",
       "candidates": {
         "Allyson": 40.4,
         "Álvaro Dias": 18.6,
@@ -13642,7 +13771,7 @@
       "sample_size": 1518,
       "margin_error": 2.51,
       "tse_registration": "",
-      "source_url": "#cite_note-72",
+      "source_url": "#cite_note-74",
       "candidates": {
         "Allyson": 37.29,
         "Álvaro Dias": 24.91,
@@ -13663,13 +13792,13 @@
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "cenario": "Adaílton Fúria|Expedito Netto|Hildon Chaves|Marcos Rogério|Samuel Costa",
-      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Agosto",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
       "institute": "Phoenix",
       "collection_date": "2026-04-17",
       "sample_size": 1355,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Marcos Rogério": 29.45,
         "Adaílton Fúria": 16.61,
@@ -13769,7 +13898,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-73",
+      "source_url": "#cite_note-:19-76",
       "candidates": {
         "Daniel Santos": 27.7,
         "Hana Ghassan": 25.4,
@@ -13796,7 +13925,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-73",
+      "source_url": "#cite_note-:19-76",
       "candidates": {
         "Daniel Santos": 29.3,
         "Hana Ghassan": 27,
@@ -13981,7 +14110,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-74",
+      "source_url": "#cite_note-76",
       "candidates": {
         "Allyson": 27.8,
         "Álvaro Dias": 32.6,
@@ -14077,7 +14206,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Eduardo Riedel": 43,
         "Fábio Trad": 19.4,
@@ -14154,7 +14283,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-41",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -14181,7 +14310,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-41",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Edegar Pretto": 24.6,
@@ -14204,7 +14333,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-40",
+      "source_url": "#cite_note-:3-41",
       "candidates": {
         "Luciano Zucco": 26.9,
         "Juliana Brizola": 35.2,
@@ -14279,7 +14408,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-39",
+      "source_url": "#cite_note-Veritá1-40",
       "candidates": {
         "Luciano Zucco": 45.3,
         "Juliana Brizola": 11.6,
@@ -14308,7 +14437,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-RO4-16",
+      "source_url": "#cite_note-RO4-17",
       "candidates": {
         "Arthur Henrique": 42.6,
         "Edilson Damião": 22.5,
@@ -14710,7 +14839,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-78",
+      "source_url": "#cite_note-81",
       "candidates": {
         "Daniel Santos": 43.4,
         "Hana Ghassan": 25.5,
@@ -14733,7 +14862,7 @@
       "sample_size": 1525,
       "margin_error": null,
       "tse_registration": "",
-      "source_url": "#cite_note-78",
+      "source_url": "#cite_note-81",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 18.7,
@@ -14952,7 +15081,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Eduardo Riedel": 46.2,
         "Fábio Trad": 15.7,
@@ -15173,7 +15302,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-75",
+      "source_url": "#cite_note-77",
       "candidates": {
         "Allyson": 28.8,
         "Álvaro Dias": 37.2,
@@ -15196,7 +15325,7 @@
       "sample_size": 1700,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-76",
+      "source_url": "#cite_note-:3-78",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 20.6,
@@ -15540,7 +15669,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-81",
+      "source_url": "#cite_note-:0-84",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 26,
@@ -15567,7 +15696,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-81",
+      "source_url": "#cite_note-:0-84",
       "candidates": {
         "Daniel Santos": 29,
         "Hana Ghassan": 28,
@@ -15736,7 +15865,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO2-26",
+      "source_url": "#cite_note-RO2-27",
       "candidates": {
         "Marcos Rogério": 31.8,
         "Léo Moraes": 16.5,
@@ -15942,7 +16071,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-77",
+      "source_url": "#cite_note-:2-79",
       "candidates": {
         "Allyson": 29.24,
         "Álvaro Dias": 31.18,
@@ -16101,7 +16230,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-41",
+      "source_url": "#cite_note-:2-42",
       "candidates": {
         "Luciano Zucco": 31,
         "Juliana Brizola": 24,
@@ -16130,7 +16259,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-41",
+      "source_url": "#cite_note-:2-42",
       "candidates": {
         "Luciano Zucco": 35,
         "Juliana Brizola": 30,
@@ -16155,7 +16284,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-41",
+      "source_url": "#cite_note-:2-42",
       "candidates": {
         "Luciano Zucco": 36,
         "Edegar Pretto": 27,
@@ -16865,7 +16994,7 @@
       "sample_size": 1201,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Marcos Rogério": 16.7,
         "Adaílton Fúria": 26.9,
@@ -17042,7 +17171,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-42",
+      "source_url": "#cite_note-:1-43",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Juliana Brizola": 17,
@@ -17073,7 +17202,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-42",
+      "source_url": "#cite_note-:1-43",
       "candidates": {
         "Luciano Zucco": 27.5,
         "Juliana Brizola": 19.5,
@@ -17102,7 +17231,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-42",
+      "source_url": "#cite_note-:1-43",
       "candidates": {
         "Luciano Zucco": 28.9,
         "Juliana Brizola": 20.9,
@@ -17131,7 +17260,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Eduardo Riedel": 40,
         "Fábio Trad": 17,
@@ -17183,7 +17312,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-90",
+      "source_url": "#cite_note-:3-93",
       "candidates": {
         "Daniel Santos": 22,
         "Hana Ghassan": 26,
@@ -17210,7 +17339,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-90",
+      "source_url": "#cite_note-:3-93",
       "candidates": {
         "Daniel Santos": 25,
         "Hana Ghassan": 29,
@@ -17318,7 +17447,7 @@
       "sample_size": 2000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-94",
+      "source_url": "#cite_note-:1-97",
       "candidates": {
         "Daniel Santos": 32.1,
         "Hana Ghassan": 22.2,
@@ -17516,7 +17645,7 @@
       "sample_size": 1602,
       "margin_error": 3.45,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Marcos Rogério": 18.7,
         "Adaílton Fúria": 21.3,
@@ -17591,7 +17720,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-96",
+      "source_url": "#cite_note-99",
       "candidates": {
         "Daniel Santos": 30.5,
         "Hana Ghassan": 20.3,
@@ -17616,7 +17745,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-96",
+      "source_url": "#cite_note-99",
       "candidates": {
         "Daniel Santos": 20.7,
         "Hana Ghassan": 19.8,
@@ -17641,7 +17770,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-96",
+      "source_url": "#cite_note-99",
       "candidates": {
         "Daniel Santos": 34.1,
         "Hana Ghassan": 19.2,
@@ -17666,7 +17795,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-96",
+      "source_url": "#cite_note-99",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 32,
@@ -17691,7 +17820,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-96",
+      "source_url": "#cite_note-99",
       "candidates": {
         "Daniel Santos": 23.2,
         "Hana Ghassan": 21.3,
@@ -17716,7 +17845,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-96",
+      "source_url": "#cite_note-99",
       "candidates": {
         "Daniel Santos": 47.8,
         "Hana Ghassan": 19.1,
@@ -17741,7 +17870,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-96",
+      "source_url": "#cite_note-99",
       "candidates": {
         "Daniel Santos": 18.8,
         "Hana Ghassan": 23.2,
@@ -17866,7 +17995,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-79",
+      "source_url": "#cite_note-81",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 26,
@@ -17889,7 +18018,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-79",
+      "source_url": "#cite_note-81",
       "candidates": {
         "Allyson": 39,
         "Álvaro Dias": 15,
@@ -17912,7 +18041,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-79",
+      "source_url": "#cite_note-81",
       "candidates": {
         "Allyson": 34,
         "Rogério Marinho": 15,
@@ -17983,7 +18112,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-80",
+      "source_url": "#cite_note-:0-82",
       "candidates": {
         "Allyson": 38.6,
         "Rogério Marinho": 19,
@@ -18006,7 +18135,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-80",
+      "source_url": "#cite_note-:0-82",
       "candidates": {
         "Allyson": 38.2,
         "Álvaro Dias": 15.1,
@@ -18029,7 +18158,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-80",
+      "source_url": "#cite_note-:0-82",
       "candidates": {
         "Allyson": 35.9,
         "Rogério Marinho": 15.6,
@@ -18123,7 +18252,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-31",
+      "source_url": "#cite_note-RO1-32",
       "candidates": {
         "Fernando Máximo": 22,
         "Ivo Cassol": 22,
@@ -18154,7 +18283,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-31",
+      "source_url": "#cite_note-RO1-32",
       "candidates": {
         "Ivo Cassol": 23,
         "Marcos Rogério": 19,
@@ -18185,7 +18314,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-31",
+      "source_url": "#cite_note-RO1-32",
       "candidates": {
         "Fernando Máximo": 26,
         "Adaílton Fúria": 22,
@@ -18214,7 +18343,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RO1-31",
+      "source_url": "#cite_note-RO1-32",
       "candidates": {
         "Marcos Rogério": 23,
         "Adaílton Fúria": 23,
@@ -18337,7 +18466,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-110",
+      "source_url": "#cite_note-:6-113",
       "candidates": {
         "Daniel Santos": 24,
         "Hana Ghassan": 28,
@@ -18360,7 +18489,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-110",
+      "source_url": "#cite_note-:6-113",
       "candidates": {
         "Daniel Santos": 20,
         "Hana Ghassan": 24,
@@ -18383,7 +18512,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-17",
+      "source_url": "#cite_note-RR01-18",
       "candidates": {
         "Arthur Henrique": 33,
         "Edilson Damião": 28,
@@ -18410,7 +18539,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-17",
+      "source_url": "#cite_note-RR01-18",
       "candidates": {
         "Arthur Henrique": 37,
         "Edilson Damião": 35,
@@ -18433,7 +18562,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-17",
+      "source_url": "#cite_note-RR01-18",
       "candidates": {
         "Teresa Surita": 42,
         "Edilson Damião": 33,
@@ -18512,7 +18641,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-82",
+      "source_url": "#cite_note-:1-84",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 34,
@@ -18535,7 +18664,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-82",
+      "source_url": "#cite_note-:1-84",
       "candidates": {
         "Allyson": 42,
         "Álvaro Dias": 17,
@@ -18558,7 +18687,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-116",
+      "source_url": "#cite_note-:7-119",
       "candidates": {
         "Daniel Santos": 12.01,
         "Hana Ghassan": 20.06,
@@ -18583,7 +18712,7 @@
       "sample_size": 600,
       "margin_error": 4,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-114",
+      "source_url": "#cite_note-:9-117",
       "candidates": {
         "Daniel Santos": 29.4,
         "Hana Ghassan": 19.8,
@@ -18652,7 +18781,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-48",
+      "source_url": "#cite_note-:2-50",
       "candidates": {
         "Eduardo Riedel": 55,
         "Fábio Trad": 16,
@@ -18675,7 +18804,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-44",
+      "source_url": "#cite_note-:3-46",
       "candidates": {
         "Wellington Fagundes": 43,
         "Otaviano Pivetta": 17
@@ -18696,7 +18825,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-44",
+      "source_url": "#cite_note-:3-46",
       "candidates": {
         "Wellington Fagundes": 44,
         "Otaviano Pivetta": 18,
@@ -18719,7 +18848,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-44",
+      "source_url": "#cite_note-:3-46",
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 15,
@@ -18922,7 +19051,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-43",
+      "source_url": "#cite_note-:6-44",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -18949,7 +19078,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-43",
+      "source_url": "#cite_note-:6-44",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -18974,7 +19103,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-43",
+      "source_url": "#cite_note-:6-44",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -18999,7 +19128,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-43",
+      "source_url": "#cite_note-:6-44",
       "candidates": {
         "Luciano Zucco": 29,
         "Juliana Brizola": 31,
@@ -19022,7 +19151,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-43",
+      "source_url": "#cite_note-:6-44",
       "candidates": {
         "Luciano Zucco": 29,
         "Edegar Pretto": 29,
@@ -19045,7 +19174,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-46",
+      "source_url": "#cite_note-:7-47",
       "candidates": {
         "Luciano Zucco": 21.1,
         "Juliana Brizola": 11,
@@ -19070,7 +19199,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-46",
+      "source_url": "#cite_note-:7-47",
       "candidates": {
         "Luciano Zucco": 24.1,
         "Juliana Brizola": 15,
@@ -19137,7 +19266,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-124",
+      "source_url": "#cite_note-127",
       "candidates": {
         "Daniel Santos": 39.3,
         "Hana Ghassan": 21.3,
@@ -19160,7 +19289,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-124",
+      "source_url": "#cite_note-127",
       "candidates": {
         "Daniel Santos": 32.6,
         "Hana Ghassan": 18.8,
@@ -19208,7 +19337,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-18",
+      "source_url": "#cite_note-RR02-19",
       "candidates": {
         "Teresa Surita": 33,
         "Edilson Damião": 23,
@@ -19235,7 +19364,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-18",
+      "source_url": "#cite_note-RR02-19",
       "candidates": {
         "Arthur Henrique": 31,
         "Edilson Damião": 25,
@@ -19262,7 +19391,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-18",
+      "source_url": "#cite_note-RR02-19",
       "candidates": {
         "Edilson Damião": 28,
         "Soldado Sampaio": 14,
@@ -19289,7 +19418,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-129",
+      "source_url": "#cite_note-132",
       "candidates": {
         "Daniel Santos": 18,
         "Hana Ghassan": 21
@@ -19310,7 +19439,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-129",
+      "source_url": "#cite_note-132",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 23
@@ -19331,7 +19460,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-129",
+      "source_url": "#cite_note-132",
       "candidates": {
         "Daniel Santos": 26,
         "Hana Ghassan": 28
@@ -19352,7 +19481,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-129",
+      "source_url": "#cite_note-132",
       "candidates": {
         "Daniel Santos": 19,
         "Hana Ghassan": 24
@@ -19425,7 +19554,7 @@
       "sample_size": 1505,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-83",
+      "source_url": "#cite_note-:-1-85",
       "candidates": {
         "Allyson": 30,
         "Rogério Marinho": 28.2,
@@ -19548,7 +19677,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-138",
+      "source_url": "#cite_note-141",
       "candidates": {
         "Daniel Santos": 42.3,
         "Hana Ghassan": 22.4,
@@ -19571,7 +19700,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-138",
+      "source_url": "#cite_note-141",
       "candidates": {
         "Daniel Santos": 34.2,
         "Hana Ghassan": 18.2,
@@ -19686,7 +19815,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-147",
+      "source_url": "#cite_note-:11-150",
       "candidates": {
         "Daniel Santos": 22.1,
         "Hana Ghassan": 14.8
@@ -19770,7 +19899,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-157",
+      "source_url": "#cite_note-:13-160",
       "candidates": {
         "Daniel Santos": 16.4,
         "Hana Ghassan": 9.8
@@ -19791,7 +19920,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-160",
+      "source_url": "#cite_note-163",
       "candidates": {
         "Daniel Santos": 30.26,
         "Hana Ghassan": 19.28
@@ -19812,7 +19941,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-160",
+      "source_url": "#cite_note-163",
       "candidates": {
         "Daniel Santos": 35.21,
         "Hana Ghassan": 22.28
@@ -19833,7 +19962,7 @@
       "sample_size": 1200,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-165",
+      "source_url": "#cite_note-:14-168",
       "candidates": {
         "Daniel Santos": 31.8,
         "Hana Ghassan": 6.9
@@ -19854,7 +19983,7 @@
       "sample_size": 600,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-168",
+      "source_url": "#cite_note-:15-171",
       "candidates": {
         "Daniel Santos": 18.2,
         "Hana Ghassan": 9.1
@@ -19875,7 +20004,7 @@
       "sample_size": 1000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-171",
+      "source_url": "#cite_note-:16-174",
       "candidates": {
         "Daniel Santos": 19.7,
         "Hana Ghassan": 11.6
@@ -19946,7 +20075,7 @@
       "sample_size": 2000,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-174",
+      "source_url": "#cite_note-:17-177",
       "candidates": {
         "Daniel Santos": 20.8,
         "Hana Ghassan": 10
