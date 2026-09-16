@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-09-15T15:32:43.589Z",
+  "ultima_execucao": "2026-09-16T15:24:42.884Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 813,
-  "pesquisas_usadas": 813,
+  "pesquisas_extraidas_brutas": 823,
+  "pesquisas_usadas": 823,
   "estados_com_agregado": 25,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -237,7 +237,7 @@
           "Marconi Perillo",
           "Wilder Morais"
         ],
-        "pesquisas": 30
+        "pesquisas": 32
       },
       {
         "candidatos": [
@@ -282,7 +282,7 @@
           "Orleans Brandão",
           "Roberto Rocha"
         ],
-        "pesquisas": 13
+        "pesquisas": 14
       },
       {
         "candidatos": [
@@ -517,6 +517,16 @@
       },
       {
         "candidatos": [
+          "Luiz França",
+          "Requião Filho",
+          "Sandro Alex",
+          "Sergio Moro",
+          "Tayná Miessa"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
           "Guto Silva",
           "Luiz França",
           "Rafael Greca",
@@ -524,16 +534,6 @@
           "Sergio Moro"
         ],
         "pesquisas": 3
-      },
-      {
-        "candidatos": [
-          "Luiz França",
-          "Requião Filho",
-          "Sandro Alex",
-          "Sergio Moro",
-          "Tayná Miessa"
-        ],
-        "pesquisas": 2
       }
     ],
     "PE": [
@@ -542,7 +542,7 @@
           "João Campos",
           "Raquel Lyra"
         ],
-        "pesquisas": 25
+        "pesquisas": 27
       },
       {
         "candidatos": [
@@ -738,7 +738,7 @@
           "Marcos Rogério",
           "Samuel Costa"
         ],
-        "pesquisas": 10
+        "pesquisas": 11
       },
       {
         "candidatos": [
@@ -790,7 +790,7 @@
           "Rosi Aires PSOL",
           "Soldado Sampaio"
         ],
-        "pesquisas": 4
+        "pesquisas": 5
       },
       {
         "candidatos": [
@@ -881,7 +881,7 @@
           "Ricardo Marques",
           "Valmir de Francisquinho"
         ],
-        "pesquisas": 27
+        "pesquisas": 28
       },
       {
         "candidatos": [
@@ -921,7 +921,7 @@
           "Laurez Moreira",
           "Professora Dorinha"
         ],
-        "pesquisas": 20
+        "pesquisas": 21
       },
       {
         "candidatos": [
@@ -1014,13 +1014,13 @@
     "GO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "status": "ok",
-      "pesquisas": 48,
+      "pesquisas": 50,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
     },
     "MA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "status": "ok",
-      "pesquisas": 16,
+      "pesquisas": 17,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Maranh%C3%A3o"
     },
     "MT": {
@@ -1056,13 +1056,13 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 61,
+      "pesquisas": 62,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "status": "ok",
-      "pesquisas": 44,
+      "pesquisas": 46,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
     },
     "PI": {
@@ -1092,13 +1092,13 @@
     "RO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "status": "ok",
-      "pesquisas": 18,
+      "pesquisas": 19,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Rond%C3%B4nia"
     },
     "RR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
       "status": "ok",
-      "pesquisas": 11,
+      "pesquisas": 12,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Roraima"
     },
     "SC": {
@@ -1116,13 +1116,13 @@
     "SE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "status": "ok",
-      "pesquisas": 39,
+      "pesquisas": 40,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
     },
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 25,
+      "pesquisas": 26,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
