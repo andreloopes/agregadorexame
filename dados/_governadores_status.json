@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-09-16T15:24:42.884Z",
+  "ultima_execucao": "2026-09-17T15:31:44.090Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 823,
-  "pesquisas_usadas": 823,
+  "pesquisas_extraidas_brutas": 834,
+  "pesquisas_usadas": 834,
   "estados_com_agregado": 25,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -99,7 +99,7 @@
           "ACM Neto",
           "Jerônimo"
         ],
-        "pesquisas": 1
+        "pesquisas": 4
       },
       {
         "candidatos": [
@@ -237,7 +237,7 @@
           "Marconi Perillo",
           "Wilder Morais"
         ],
-        "pesquisas": 32
+        "pesquisas": 33
       },
       {
         "candidatos": [
@@ -492,7 +492,7 @@
           "Sergio Moro",
           "Tayná Miessa"
         ],
-        "pesquisas": 13
+        "pesquisas": 15
       },
       {
         "candidatos": [
@@ -520,18 +520,17 @@
           "Luiz França",
           "Requião Filho",
           "Sandro Alex",
-          "Sergio Moro",
-          "Tayná Miessa"
+          "Sergio Moro"
         ],
         "pesquisas": 3
       },
       {
         "candidatos": [
-          "Guto Silva",
           "Luiz França",
-          "Rafael Greca",
           "Requião Filho",
-          "Sergio Moro"
+          "Sandro Alex",
+          "Sergio Moro",
+          "Tayná Miessa"
         ],
         "pesquisas": 3
       }
@@ -542,7 +541,7 @@
           "João Campos",
           "Raquel Lyra"
         ],
-        "pesquisas": 27
+        "pesquisas": 28
       },
       {
         "candidatos": [
@@ -638,40 +637,9 @@
         "candidatos": [
           "Allyson",
           "Cadu de Lula",
-          "Dário Barbosa",
-          "Robério Paulino",
-          "Rodrigo Bolsonaro",
           "Álvaro Dias"
         ],
-        "pesquisas": 30
-      },
-      {
-        "candidatos": [
-          "Allyson",
-          "Cadu de Lula",
-          "Álvaro Dias"
-        ],
-        "pesquisas": 14
-      },
-      {
-        "candidatos": [
-          "Allyson",
-          "Cadu de Lula",
-          "Dário Barbosa",
-          "Robério Paulino",
-          "Álvaro Dias"
-        ],
-        "pesquisas": 7
-      },
-      {
-        "candidatos": [
-          "Allyson",
-          "Cadu de Lula",
-          "Robério Paulino",
-          "Rodrigo Bolsonaro",
-          "Álvaro Dias"
-        ],
-        "pesquisas": 4
+        "pesquisas": 57
       },
       {
         "candidatos": [
@@ -680,6 +648,15 @@
           "Rogério Marinho"
         ],
         "pesquisas": 4
+      },
+      {
+        "candidatos": [
+          "Allyson",
+          "Cadu de Lula",
+          "Rogério Marinho",
+          "Álvaro Dias"
+        ],
+        "pesquisas": 2
       }
     ],
     "RS": [
@@ -844,7 +821,7 @@
           "João Rodrigues",
           "Ralf Zimmer"
         ],
-        "pesquisas": 4
+        "pesquisas": 5
       },
       {
         "candidatos": [
@@ -921,7 +898,7 @@
           "Laurez Moreira",
           "Professora Dorinha"
         ],
-        "pesquisas": 21
+        "pesquisas": 22
       },
       {
         "candidatos": [
@@ -990,7 +967,7 @@
     "BA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "status": "ok",
-      "pesquisas": 29,
+      "pesquisas": 32,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Bahia"
     },
     "CE": {
@@ -1014,7 +991,7 @@
     "GO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "status": "ok",
-      "pesquisas": 50,
+      "pesquisas": 51,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
     },
     "MA": {
@@ -1044,7 +1021,7 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 81,
+      "pesquisas": 82,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
@@ -1056,13 +1033,13 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 62,
+      "pesquisas": 65,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "status": "ok",
-      "pesquisas": 46,
+      "pesquisas": 47,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
     },
     "PI": {
@@ -1104,7 +1081,7 @@
     "SC": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
       "status": "ok",
-      "pesquisas": 21,
+      "pesquisas": 22,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Santa_Catarina"
     },
     "SP": {
@@ -1122,7 +1099,7 @@
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 26,
+      "pesquisas": 27,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
