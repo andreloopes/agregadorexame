@@ -1,6 +1,96 @@
 {
-  "atualizado_em": "2026-09-17",
+  "atualizado_em": "2026-09-18",
   "pesquisas": [
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-09-17",
+      "sample_size": 1352,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-:21-15",
+      "candidates": {
+        "Ciro Gomes": 47.4,
+        "Elmano de Freitas": 39.9
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-17",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:20-17",
+      "candidates": {
+        "Ciro Gomes": 42,
+        "Elmano de Freitas": 47
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Primeiro turno (governador) › 2026 › Junho – Outubro",
+      "institute": "Veritá",
+      "collection_date": "2026-09-17",
+      "sample_size": 1525,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Daniel Vilela": 40.5,
+        "Marconi Perillo": 15,
+        "Wilder Morais": 28.3,
+        "Luis Cesar Bueno": 14.9
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-09-17",
+      "sample_size": 1352,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
+      "candidates": {
+        "Wellington Fagundes": 29.6,
+        "Otaviano Pivetta": 42.4,
+        "Doutora Natasha": 13.5
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Doutora Natasha": "PSD"
+      }
+    },
     {
       "uf": "PA",
       "estado": "Pará",
@@ -32,12 +122,45 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
       "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-09-17",
+      "sample_size": 1280,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Sergio Moro": 44.7,
+        "Requião Filho": 23,
+        "Sandro Alex": 19.7,
+        "Luiz França": 0.7,
+        "Samuel de Mattos": 0.3,
+        "Adriano Teixeira": 0.3,
+        "Tayná Miessa": 0.4,
+        "Alexandre Salomão": 0.4
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
       "institute": "Neokemp",
       "collection_date": "2026-09-16",
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Sergio Moro": 49.8,
         "Requião Filho": 19.4,
@@ -70,7 +193,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-10",
+      "source_url": "#cite_note-:28-11",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 23,
@@ -95,7 +218,7 @@
       "sample_size": 1794,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-11",
+      "source_url": "#cite_note-:27-12",
       "candidates": {
         "Sergio Moro": 49.1,
         "Requião Filho": 28.2,
@@ -136,6 +259,27 @@
       "parties": {
         "Raquel Lyra": "PSD",
         "João Campos": "PSB"
+      }
+    },
+    {
+      "uf": "PI",
+      "estado": "Piauí",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
+      "cenario": "Joel Rodrigues|Rafael Fonteles",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "DataFolha",
+      "collection_date": "2026-09-16",
+      "sample_size": 826,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-10",
+      "candidates": {
+        "Rafael Fonteles": 55,
+        "Joel Rodrigues": 25
+      },
+      "parties": {
+        "Rafael Fonteles": "PT",
+        "Joel Rodrigues": "PP"
       }
     },
     {
@@ -216,7 +360,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-7",
+      "source_url": "#cite_note-9",
       "candidates": {
         "Daniel Vilela": 43.9,
         "Marconi Perillo": 16.9,
@@ -262,7 +406,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Daniel Vilela": 39.2,
         "Marconi Perillo": 29.4,
@@ -468,6 +612,33 @@
         "João Henrique Catan": "NOVO",
         "Delcídio do Amaral": "PRD",
         "Economista Renato Gomes": "DC"
+      }
+    },
+    {
+      "uf": "RR",
+      "estado": "Roraima",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
+      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
+      "secao": "Primeiro Turno (Governador) › 2026 › Junho - Outubro",
+      "institute": "Census",
+      "collection_date": "2026-09-13",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-13",
+      "candidates": {
+        "Arthur Henrique": 50.04,
+        "Soldado Sampaio": 38.08,
+        "Rosi Aires PSOL": 0.62,
+        "Clébio Genuíno": 0.23,
+        "Farah Mesquita": 0
+      },
+      "parties": {
+        "Arthur Henrique": "",
+        "Soldado Sampaio": "",
+        "Rosi Aires PSOL": "",
+        "Clébio Genuíno": "",
+        "Farah Mesquita": ""
       }
     },
     {
@@ -860,7 +1031,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Sergio Moro": 48.8,
         "Requião Filho": 23.3,
@@ -914,7 +1085,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Rafael Fonteles": 68,
         "Joel Rodrigues": 25
@@ -1027,7 +1198,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Ciro Gomes": 47.8,
         "Elmano de Freitas": 47.6
@@ -1177,7 +1348,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-13",
+      "source_url": "#cite_note-:26-14",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 20,
@@ -1271,7 +1442,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-13",
+      "source_url": "#cite_note-:2-14",
       "candidates": {
         "Arthur Henrique": 62,
         "Soldado Sampaio": 28,
@@ -1298,7 +1469,7 @@
       "sample_size": 1200,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Arthur Henrique": 60.7,
         "Soldado Sampaio": 32.4,
@@ -1517,7 +1688,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-14",
+      "source_url": "#cite_note-:25-15",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 21,
@@ -1619,7 +1790,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-17",
+      "source_url": "#cite_note-:19-21",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 46
@@ -1835,7 +2006,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Arthur Henrique": 53.45,
         "Soldado Sampaio": 31.37,
@@ -1960,7 +2131,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Daniel Vilela": 38.2,
         "Marconi Perillo": 28.5,
@@ -2077,7 +2248,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Daniel Vilela": 42.6,
         "Marconi Perillo": 17.3,
@@ -2102,7 +2273,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-16",
+      "source_url": "#cite_note-:24-17",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 20.1,
@@ -2160,7 +2331,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:18-19",
+      "source_url": "#cite_note-:18-23",
       "candidates": {
         "Ciro Gomes": 45,
         "Elmano de Freitas": 34
@@ -2181,7 +2352,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Sergio Moro": 38.8,
         "Requião Filho": 21.8,
@@ -2432,7 +2603,7 @@
       "sample_size": 1495,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-20",
+      "source_url": "#cite_note-:19-22",
       "candidates": {
         "Daniel Vilela": 36.3,
         "Marconi Perillo": 17.4,
@@ -2482,7 +2653,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-11",
+      "source_url": "#cite_note-:12-13",
       "candidates": {
         "Wellington Fagundes": 34,
         "Otaviano Pivetta": 27,
@@ -2553,7 +2724,7 @@
       "sample_size": 1280,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-18",
+      "source_url": "#cite_note-:23-19",
       "candidates": {
         "Sergio Moro": 45,
         "Requião Filho": 24,
@@ -2607,7 +2778,7 @@
       "sample_size": 1137,
       "margin_error": 2.85,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Rafael Fonteles": 73.48,
         "Joel Rodrigues": 20.89
@@ -2974,7 +3145,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Arthur Henrique": 54.99,
         "Soldado Sampaio": 28.42,
@@ -3448,7 +3619,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-24",
+      "source_url": "#cite_note-:17-26",
       "candidates": {
         "Daniel Vilela": 46,
         "Marconi Perillo": 22,
@@ -3527,7 +3698,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Sergio Moro": 46.9,
         "Requião Filho": 23.3,
@@ -3560,7 +3731,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-20",
+      "source_url": "#cite_note-:22-21",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 20,
@@ -3614,7 +3785,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-16",
+      "source_url": "#cite_note-:8-18",
       "candidates": {
         "Rafael Fonteles": 57,
         "Joel Rodrigues": 23
@@ -3844,7 +4015,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-26",
+      "source_url": "#cite_note-:16-28",
       "candidates": {
         "Daniel Vilela": 37,
         "Marconi Perillo": 20,
@@ -3894,7 +4065,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-17",
+      "source_url": "#cite_note-:1-18",
       "candidates": {
         "Arthur Henrique": 60,
         "Soldado Sampaio": 27,
@@ -4305,7 +4476,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-13",
+      "source_url": "#cite_note-:11-15",
       "candidates": {
         "Wellington Fagundes": 27,
         "Otaviano Pivetta": 23,
@@ -4707,7 +4878,7 @@
       "sample_size": 1220,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:Veritá3-17",
+      "source_url": "#cite_note-:Veritá3-19",
       "candidates": {
         "Wellington Fagundes": 28.8,
         "Otaviano Pivetta": 32.1,
@@ -4784,7 +4955,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:21-21",
+      "source_url": "#cite_note-:21-22",
       "candidates": {
         "Sergio Moro": 37,
         "Requião Filho": 21,
@@ -5048,7 +5219,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-22",
+      "source_url": "#cite_note-:20-23",
       "candidates": {
         "Sergio Moro": 38,
         "Requião Filho": 20,
@@ -5129,7 +5300,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-L-30",
+      "source_url": "#cite_note-:16-L-32",
       "candidates": {
         "Daniel Vilela": 44.2,
         "Marconi Perillo": 23.8,
@@ -5348,7 +5519,7 @@
       "sample_size": 3080,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-19",
+      "source_url": "#cite_note-:9-21",
       "candidates": {
         "Wellington Fagundes": 27,
         "Otaviano Pivetta": 27,
@@ -5417,7 +5588,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-25",
+      "source_url": "#cite_note-:16-29",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 44
@@ -5465,7 +5636,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-23",
+      "source_url": "#cite_note-:19-24",
       "candidates": {
         "Sergio Moro": 36.81,
         "Requião Filho": 21.02,
@@ -5498,7 +5669,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-27",
+      "source_url": "#cite_note-:17-31",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 35
@@ -5692,7 +5863,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-24",
+      "source_url": "#cite_note-:17-25",
       "candidates": {
         "Sergio Moro": 37,
         "Requião Filho": 20,
@@ -5750,7 +5921,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-25",
+      "source_url": "#cite_note-:0-26",
       "candidates": {
         "Sergio Moro": 37.33,
         "Requião Filho": 20.56,
@@ -5783,7 +5954,7 @@
       "sample_size": 1520,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-27",
+      "source_url": "#cite_note-:16-28",
       "candidates": {
         "Sergio Moro": 46.1,
         "Requião Filho": 23.4,
@@ -5870,7 +6041,7 @@
       "sample_size": 3200,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-D-34",
+      "source_url": "#cite_note-:16-D-36",
       "candidates": {
         "Daniel Vilela": 27.75,
         "Marconi Perillo": 36.78,
@@ -6035,7 +6206,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Rafael Fonteles": 50.6,
         "Joel Rodrigues": 16.3
@@ -6077,7 +6248,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Daniel Vilela": 37.2,
         "Marconi Perillo": 18.8,
@@ -6129,7 +6300,7 @@
       "sample_size": 1350,
       "margin_error": 2.67,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-28",
+      "source_url": "#cite_note-:15-29",
       "candidates": {
         "Sergio Moro": 40.2,
         "Requião Filho": 21,
@@ -6162,7 +6333,7 @@
       "sample_size": 1137,
       "margin_error": 2.85,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Rafael Fonteles": 73.84,
         "Joel Rodrigues": 19.21
@@ -6302,7 +6473,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-21",
+      "source_url": "#cite_note-:8-23",
       "candidates": {
         "Wellington Fagundes": 34,
         "Otaviano Pivetta": 26,
@@ -6325,7 +6496,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Sergio Moro": 45.7,
         "Requião Filho": 23.2,
@@ -6450,7 +6621,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Wellington Fagundes": 32,
         "Otaviano Pivetta": 21,
@@ -6592,7 +6763,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 19.5,
@@ -6746,7 +6917,7 @@
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Rafael Fonteles": 75.69,
         "Joel Rodrigues": 18.99
@@ -6767,7 +6938,7 @@
       "sample_size": 1602,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Rafael Fonteles": 56.53,
         "Joel Rodrigues": 26.5
@@ -6788,7 +6959,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-32",
+      "source_url": "#cite_note-:14-33",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -6842,7 +7013,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Daniel Vilela": 45.8,
         "Marconi Perillo": 24.5,
@@ -7088,7 +7259,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-32",
+      "source_url": "#cite_note-:9-34",
       "candidates": {
         "Cleitinho": 36,
         "Alexandre Kalil": 15,
@@ -7117,7 +7288,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-32",
+      "source_url": "#cite_note-:9-34",
       "candidates": {
         "Cleitinho": 37,
         "Alexandre Kalil": 15,
@@ -7146,7 +7317,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-32",
+      "source_url": "#cite_note-:9-34",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 15,
@@ -7175,7 +7346,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-32",
+      "source_url": "#cite_note-:9-34",
       "candidates": {
         "Alexandre Kalil": 20,
         "Mateus Simões": 10,
@@ -7354,7 +7525,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-33",
+      "source_url": "#cite_note-:13-37",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 33,
@@ -7377,7 +7548,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-39",
+      "source_url": "#cite_note-:14-41",
       "candidates": {
         "Daniel Vilela": 37,
         "Marconi Perillo": 21,
@@ -7402,7 +7573,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -7529,7 +7700,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-38",
+      "source_url": "#cite_note-:8-40",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -7556,7 +7727,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-38",
+      "source_url": "#cite_note-:8-40",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 12,
@@ -7585,7 +7756,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-38",
+      "source_url": "#cite_note-:8-40",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -7614,7 +7785,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-38",
+      "source_url": "#cite_note-:8-40",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -7641,7 +7812,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-38",
+      "source_url": "#cite_note-:8-40",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -7814,7 +7985,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-35",
+      "source_url": "#cite_note-:13-36",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -7843,7 +8014,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-35",
+      "source_url": "#cite_note-:13-36",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -7870,7 +8041,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-35",
+      "source_url": "#cite_note-:13-36",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -8289,7 +8460,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -8318,7 +8489,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -8435,7 +8606,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
@@ -8685,7 +8856,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-37",
+      "source_url": "#cite_note-:12-41",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
@@ -9151,7 +9322,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-43",
+      "source_url": "#cite_note-:12-45",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 26,
@@ -9176,7 +9347,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-43",
+      "source_url": "#cite_note-:12-45",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 24,
@@ -9443,7 +9614,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -9472,7 +9643,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -9878,7 +10049,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-46",
+      "source_url": "#cite_note-:10-48",
       "candidates": {
         "Daniel Vilela": 31,
         "Marconi Perillo": 33,
@@ -9928,7 +10099,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-38",
+      "source_url": "#cite_note-:12-39",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -9957,7 +10128,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-38",
+      "source_url": "#cite_note-:12-39",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -9984,7 +10155,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-38",
+      "source_url": "#cite_note-:12-39",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -10011,7 +10182,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-38",
+      "source_url": "#cite_note-:12-39",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -10034,7 +10205,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-38",
+      "source_url": "#cite_note-:12-39",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -10103,7 +10274,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-39",
+      "source_url": "#cite_note-:11-43",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 39,
@@ -10203,7 +10374,7 @@
       "sample_size": 1600,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Cleitinho": 37.56,
         "Alexandre Kalil": 11.06,
@@ -10443,7 +10614,7 @@
       "sample_size": 1100,
       "margin_error": 4.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-47",
+      "source_url": "#cite_note-:9-49",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 22.7,
@@ -10564,7 +10735,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-46",
+      "source_url": "#cite_note-:7-48",
       "candidates": {
         "Cleitinho": 27.7,
         "Alexandre Kalil": 18.3,
@@ -10593,7 +10764,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-46",
+      "source_url": "#cite_note-:7-48",
       "candidates": {
         "Cleitinho": 28.8,
         "Alexandre Kalil": 20.5,
@@ -10864,7 +11035,7 @@
       "sample_size": 3600,
       "margin_error": 1.63,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-48",
+      "source_url": "#cite_note-:8-50",
       "candidates": {
         "Daniel Vilela": 28.5,
         "Marconi Perillo": 33.8,
@@ -10914,7 +11085,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-39",
+      "source_url": "#cite_note-:11-40",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -10943,7 +11114,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-39",
+      "source_url": "#cite_note-:11-40",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -11204,7 +11375,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -11233,7 +11404,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -11381,7 +11552,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-43",
+      "source_url": "#cite_note-:10-44",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -11618,7 +11789,7 @@
       "sample_size": 1507,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-50",
+      "source_url": "#cite_note-:7-52",
       "candidates": {
         "Daniel Vilela": 27.8,
         "Marconi Perillo": 17.5,
@@ -11666,7 +11837,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-43",
+      "source_url": "#cite_note-:8-47",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
@@ -11785,7 +11956,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-52",
+      "source_url": "#cite_note-:6-54",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -11810,7 +11981,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-56",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -12136,7 +12307,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-56",
+      "source_url": "#cite_note--2-58",
       "candidates": {
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
@@ -12161,7 +12332,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-56",
+      "source_url": "#cite_note--2-58",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
@@ -12503,7 +12674,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 15,
@@ -12532,7 +12703,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Cleitinho": 39,
         "Mateus Simões": 17,
@@ -12559,7 +12730,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-44",
+      "source_url": "#cite_note-:9-45",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -12588,7 +12759,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-44",
+      "source_url": "#cite_note-:9-45",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -12638,7 +12809,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-46",
+      "source_url": "#cite_note-:7-50",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
@@ -12761,7 +12932,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--1-62",
+      "source_url": "#cite_note--1-64",
       "candidates": {
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
@@ -12911,7 +13082,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-64",
+      "source_url": "#cite_note-:4-66",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -12936,7 +13107,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-64",
+      "source_url": "#cite_note-:4-66",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -12959,7 +13130,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-64",
+      "source_url": "#cite_note-:4-66",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -12984,7 +13155,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-64",
+      "source_url": "#cite_note-:4-66",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -13080,7 +13251,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -13109,7 +13280,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -13303,7 +13474,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-53",
+      "source_url": "#cite_note-:6-55",
       "candidates": {
         "Cleitinho": 28,
         "Alexandre Kalil": 6,
@@ -13332,7 +13503,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-53",
+      "source_url": "#cite_note-:6-55",
       "candidates": {
         "Cleitinho": 30,
         "Mateus Simões": 24,
@@ -13359,7 +13530,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-46",
+      "source_url": "#cite_note-Veritá2-47",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -13455,7 +13626,7 @@
       "sample_size": 3300,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-68",
+      "source_url": "#cite_note-70",
       "candidates": {
         "Daniel Vilela": 29.6,
         "Marconi Perillo": 30.2,
@@ -13572,7 +13743,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -13601,7 +13772,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -13653,7 +13824,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-48",
+      "source_url": "#cite_note-Quaest-Abril-52",
       "candidates": {
         "Ciro Gomes": 41,
         "Elmano de Freitas": 32,
@@ -13676,7 +13847,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-48",
+      "source_url": "#cite_note-Quaest-Abril-52",
       "candidates": {
         "Ciro Gomes": 33,
         "Camilo Santana": 40,
@@ -13699,7 +13870,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-48",
+      "source_url": "#cite_note-Quaest-Abril-52",
       "candidates": {
         "Elmano de Freitas": 39,
         "Roberto Cláudio": 16,
@@ -13722,7 +13893,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-48",
+      "source_url": "#cite_note-Quaest-Abril-52",
       "candidates": {
         "Camilo Santana": 49,
         "Roberto Cláudio": 12,
@@ -13843,7 +14014,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-69",
+      "source_url": "#cite_note-Genial/Quaest-Abril-71",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -13868,7 +14039,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-69",
+      "source_url": "#cite_note-Genial/Quaest-Abril-71",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -13893,7 +14064,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-69",
+      "source_url": "#cite_note-Genial/Quaest-Abril-71",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 21,
@@ -14148,7 +14319,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-56",
+      "source_url": "#cite_note-:5-58",
       "candidates": {
         "Cleitinho": 30,
         "Alexandre Kalil": 8,
@@ -14177,7 +14348,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-56",
+      "source_url": "#cite_note-:5-58",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 11,
@@ -14204,7 +14375,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-56",
+      "source_url": "#cite_note-:5-58",
       "candidates": {
         "Cleitinho": 37,
         "Mateus Simões": 16,
@@ -14231,7 +14402,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-56",
+      "source_url": "#cite_note-:5-58",
       "candidates": {
         "Alexandre Kalil": 12,
         "Mateus Simões": 18,
@@ -14364,7 +14535,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-48",
+      "source_url": "#cite_note-:8-49",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -14393,7 +14564,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-48",
+      "source_url": "#cite_note-:8-49",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -14801,7 +14972,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -14830,7 +15001,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -14857,7 +15028,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -14884,7 +15055,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -14959,7 +15130,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-72",
+      "source_url": "#cite_note-:3-74",
       "candidates": {
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
@@ -14984,7 +15155,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-72",
+      "source_url": "#cite_note-:3-74",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
@@ -15009,7 +15180,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-72",
+      "source_url": "#cite_note-:3-74",
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
@@ -15261,7 +15432,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-RO4-20",
+      "source_url": "#cite_note-RO4-21",
       "candidates": {
         "Arthur Henrique": 42.6,
         "Edilson Damião": 22.5,
@@ -15409,7 +15580,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-55",
+      "source_url": "#cite_note-:6-59",
       "candidates": {
         "Ciro Gomes": 30,
         "Elmano de Freitas": 21,
@@ -15551,7 +15722,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-61",
+      "source_url": "#cite_note-:3-63",
       "candidates": {
         "Cleitinho": 32.7,
         "Alexandre Kalil": 28.6,
@@ -15580,7 +15751,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-61",
+      "source_url": "#cite_note-:3-63",
       "candidates": {
         "Cleitinho": 40.5,
         "Mateus Simões": 29.4,
@@ -15605,7 +15776,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-61",
+      "source_url": "#cite_note-:3-63",
       "candidates": {
         "Cleitinho": 34.2,
         "Alexandre Kalil": 37.9,
@@ -15632,7 +15803,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-63",
+      "source_url": "#cite_note-Veritá1-65",
       "candidates": {
         "Cleitinho": 50.3,
         "Alexandre Kalil": 13.1,
@@ -15730,7 +15901,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-50",
+      "source_url": "#cite_note-:7-51",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -15757,7 +15928,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-50",
+      "source_url": "#cite_note-:7-51",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -15784,7 +15955,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-50",
+      "source_url": "#cite_note-:7-51",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -15809,7 +15980,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-50",
+      "source_url": "#cite_note-:7-51",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -15848,6 +16019,35 @@
         "João Campos": "PSB",
         "Eduardo Moura": "NOVO",
         "Ivan Moraes": "PSOL"
+      }
+    },
+    {
+      "uf": "RS",
+      "estado": "Rio Grande do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
+      "cenario": "Covatti Filho|Edegar Pretto|Evandro Augusto|Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Methodus",
+      "collection_date": "2026-03-30",
+      "sample_size": 1000,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Methodusmarco-42",
+      "candidates": {
+        "Luciano Zucco": 19.4,
+        "Juliana Brizola": 18.2,
+        "Edegar Pretto": 21.3,
+        "Gabriel Souza": 8.4,
+        "Marcelo Maranata": 4,
+        "Evandro Augusto": 2.6
+      },
+      "parties": {
+        "Luciano Zucco": "PL",
+        "Juliana Brizola": "PDT",
+        "Edegar Pretto": "PT",
+        "Gabriel Souza": "MDB",
+        "Marcelo Maranata": "PSDB",
+        "Evandro Augusto": "MISSÃO"
       }
     },
     {
@@ -15928,7 +16128,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-59",
+      "source_url": "#cite_note-:1-63",
       "candidates": {
         "Ciro Gomes": 39,
         "Elmano de Freitas": 42,
@@ -15951,7 +16151,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-59",
+      "source_url": "#cite_note-:1-63",
       "candidates": {
         "Elmano de Freitas": 45,
         "Roberto Cláudio": 27,
@@ -15974,7 +16174,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-64",
+      "source_url": "#cite_note-:4-66",
       "candidates": {
         "Cleitinho": 41.3,
         "Alexandre Kalil": 11.7,
@@ -16003,7 +16203,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-64",
+      "source_url": "#cite_note-:4-66",
       "candidates": {
         "Alexandre Kalil": 21.4,
         "Gabriel Azevedo": 11.1,
@@ -16028,7 +16228,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-64",
+      "source_url": "#cite_note-:4-66",
       "candidates": {
         "Mateus Simões": 29.7,
         "Gabriel Azevedo": 10.1,
@@ -16053,7 +16253,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-64",
+      "source_url": "#cite_note-:4-66",
       "candidates": {
         "Cleitinho": 44.1,
         "Alexandre Kalil": 17.5,
@@ -16080,7 +16280,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-64",
+      "source_url": "#cite_note-:4-66",
       "candidates": {
         "Cleitinho": 43.3,
         "Gabriel Azevedo": 5.7,
@@ -16589,7 +16789,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-52",
+      "source_url": "#cite_note-:3-53",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -16616,7 +16816,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-52",
+      "source_url": "#cite_note-:3-53",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -16643,7 +16843,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-52",
+      "source_url": "#cite_note-:3-53",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -16810,7 +17010,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-69",
+      "source_url": "#cite_note-:-1-71",
       "candidates": {
         "Cleitinho": 25.5,
         "Mateus Simões": 13.5,
@@ -16837,7 +17037,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-69",
+      "source_url": "#cite_note-:-1-71",
       "candidates": {
         "Cleitinho": 29.6,
         "Alexandre Kalil": 6,
@@ -16866,7 +17066,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-69",
+      "source_url": "#cite_note-:-1-71",
       "candidates": {
         "Cleitinho": 30.8,
         "Mateus Simões": 17,
@@ -16979,7 +17179,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-77",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -17004,7 +17204,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-77",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -17029,7 +17229,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-77",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -17052,7 +17252,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-42",
+      "source_url": "#cite_note-:2-43",
       "candidates": {
         "Luciano Zucco": 31,
         "Juliana Brizola": 24,
@@ -17081,7 +17281,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-42",
+      "source_url": "#cite_note-:2-43",
       "candidates": {
         "Luciano Zucco": 35,
         "Juliana Brizola": 30,
@@ -17106,7 +17306,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-42",
+      "source_url": "#cite_note-:2-43",
       "candidates": {
         "Luciano Zucco": 36,
         "Edegar Pretto": 27,
@@ -17277,7 +17477,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-73",
+      "source_url": "#cite_note-:1-75",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 19,
@@ -17308,7 +17508,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-73",
+      "source_url": "#cite_note-:1-75",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 19,
@@ -17335,7 +17535,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-73",
+      "source_url": "#cite_note-:1-75",
       "candidates": {
         "Cleitinho": 39,
         "Alexandre Kalil": 24,
@@ -17360,7 +17560,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-73",
+      "source_url": "#cite_note-:1-75",
       "candidates": {
         "Cleitinho": 40,
         "Mateus Simões": 19,
@@ -17385,7 +17585,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-73",
+      "source_url": "#cite_note-:1-75",
       "candidates": {
         "Alexandre Kalil": 30,
         "Gabriel Azevedo": 18,
@@ -17408,7 +17608,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-73",
+      "source_url": "#cite_note-:1-75",
       "candidates": {
         "Mateus Simões": 25,
         "Gabriel Azevedo": 19,
@@ -17431,7 +17631,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-73",
+      "source_url": "#cite_note-:1-75",
       "candidates": {
         "Alexandre Kalil": 34,
         "Gabriel Azevedo": 21
@@ -17625,7 +17825,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-75",
+      "source_url": "#cite_note-:2-77",
       "candidates": {
         "Cleitinho": 45.6,
         "Alexandre Kalil": 18.4,
@@ -17650,7 +17850,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-75",
+      "source_url": "#cite_note-:2-77",
       "candidates": {
         "Cleitinho": 45.8,
         "Mateus Simões": 22.6,
@@ -17704,7 +17904,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-53",
+      "source_url": "#cite_note-:1-54",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -17733,7 +17933,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-53",
+      "source_url": "#cite_note-:1-54",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -17762,7 +17962,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-53",
+      "source_url": "#cite_note-:1-54",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -17883,6 +18083,35 @@
       }
     },
     {
+      "uf": "RS",
+      "estado": "Rio Grande do Sul",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
+      "cenario": "Covatti Filho|Edegar Pretto|Evandro Augusto|Gabriel Souza|Juliana Brizola|Luciano Zucco|Marcelo Maranata",
+      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
+      "institute": "Methodus",
+      "collection_date": "2026-02-24",
+      "sample_size": 1010,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-Methodusfev-44",
+      "candidates": {
+        "Luciano Zucco": 19.9,
+        "Juliana Brizola": 16.7,
+        "Edegar Pretto": 22.4,
+        "Gabriel Souza": 5.9,
+        "Marcelo Maranata": 4,
+        "Evandro Augusto": 2.2
+      },
+      "parties": {
+        "Luciano Zucco": "PL",
+        "Juliana Brizola": "PDT",
+        "Edegar Pretto": "PT",
+        "Gabriel Souza": "MDB",
+        "Marcelo Maranata": "PSDB",
+        "Evandro Augusto": "MISSÃO"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -17987,7 +18216,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-46",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Juliana Brizola": 17,
@@ -18018,7 +18247,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-46",
       "candidates": {
         "Luciano Zucco": 27.5,
         "Juliana Brizola": 19.5,
@@ -18047,7 +18276,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-43",
+      "source_url": "#cite_note-:1-46",
       "candidates": {
         "Luciano Zucco": 28.9,
         "Juliana Brizola": 20.9,
@@ -18357,7 +18586,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-54",
+      "source_url": "#cite_note-:5-55",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -18384,7 +18613,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-54",
+      "source_url": "#cite_note-:5-55",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -18411,7 +18640,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-54",
+      "source_url": "#cite_note-:5-55",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -18486,7 +18715,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-77",
+      "source_url": "#cite_note-:2-79",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
@@ -19328,7 +19557,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-21",
+      "source_url": "#cite_note-RR01-22",
       "candidates": {
         "Arthur Henrique": 33,
         "Edilson Damião": 28,
@@ -19355,7 +19584,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-21",
+      "source_url": "#cite_note-RR01-22",
       "candidates": {
         "Arthur Henrique": 37,
         "Edilson Damião": 35,
@@ -19378,7 +19607,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR01-21",
+      "source_url": "#cite_note-RR01-22",
       "candidates": {
         "Teresa Surita": 42,
         "Edilson Damião": 33,
@@ -19620,7 +19849,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-46",
+      "source_url": "#cite_note-:3-48",
       "candidates": {
         "Wellington Fagundes": 43,
         "Otaviano Pivetta": 17
@@ -19641,7 +19870,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-46",
+      "source_url": "#cite_note-:3-48",
       "candidates": {
         "Wellington Fagundes": 44,
         "Otaviano Pivetta": 18,
@@ -19664,7 +19893,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-46",
+      "source_url": "#cite_note-:3-48",
       "candidates": {
         "Wellington Fagundes": 35,
         "Otaviano Pivetta": 15,
@@ -19771,7 +20000,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-44",
+      "source_url": "#cite_note-:6-47",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -19798,7 +20027,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-44",
+      "source_url": "#cite_note-:6-47",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -19823,7 +20052,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-44",
+      "source_url": "#cite_note-:6-47",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -19848,7 +20077,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-44",
+      "source_url": "#cite_note-:6-47",
       "candidates": {
         "Luciano Zucco": 29,
         "Juliana Brizola": 31,
@@ -19871,7 +20100,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-44",
+      "source_url": "#cite_note-:6-47",
       "candidates": {
         "Luciano Zucco": 29,
         "Edegar Pretto": 29,
@@ -19894,7 +20123,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-47",
+      "source_url": "#cite_note-:7-50",
       "candidates": {
         "Luciano Zucco": 21.1,
         "Juliana Brizola": 11,
@@ -19919,7 +20148,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-47",
+      "source_url": "#cite_note-:7-50",
       "candidates": {
         "Luciano Zucco": 24.1,
         "Juliana Brizola": 15,
@@ -20057,7 +20286,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-22",
+      "source_url": "#cite_note-RR02-23",
       "candidates": {
         "Teresa Surita": 33,
         "Edilson Damião": 23,
@@ -20084,7 +20313,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-22",
+      "source_url": "#cite_note-RR02-23",
       "candidates": {
         "Arthur Henrique": 31,
         "Edilson Damião": 25,
@@ -20111,7 +20340,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-RR02-22",
+      "source_url": "#cite_note-RR02-23",
       "candidates": {
         "Edilson Damião": 28,
         "Soldado Sampaio": 14,
