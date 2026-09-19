@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-18",
+  "atualizado_em": "2026-09-19",
   "pesquisas": [
     {
       "uf": "CE",
@@ -28,12 +28,33 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "DataFolha",
+      "collection_date": "2026-09-17",
+      "sample_size": 1204,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-17",
+      "candidates": {
+        "Ciro Gomes": 47,
+        "Elmano de Freitas": 40
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "Real Time Big Data",
       "collection_date": "2026-09-17",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-17",
+      "source_url": "#cite_note-:20-19",
       "candidates": {
         "Ciro Gomes": 42,
         "Elmano de Freitas": 47
@@ -147,6 +168,31 @@
         "Adriano Teixeira": "PCO",
         "Tayná Miessa": "UP",
         "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "DataControl",
+      "collection_date": "2026-09-16",
+      "sample_size": 1356,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-6",
+      "candidates": {
+        "Alan Rick": 26.1,
+        "Mailza Assis": 40.4,
+        "Tião Bocalom": 13.2,
+        "Thor Dantas": 2.7
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
       }
     },
     {
@@ -283,31 +329,6 @@
       }
     },
     {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Gelson Merisio|Jorginho Mello|João Rodrigues|Ralf Zimmer",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-09-16",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-14",
-      "candidates": {
-        "Jorginho Mello": 49,
-        "João Rodrigues": 15,
-        "Gelson Merisio": 8,
-        "Ralf Zimmer": 1
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB",
-        "Ralf Zimmer": "PRD"
-      }
-    },
-    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -372,6 +393,54 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "RN",
+      "estado": "Rio Grande do Norte",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
+      "cenario": "Allyson|Cadu de Lula|Álvaro Dias",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Perfil",
+      "collection_date": "2026-09-15",
+      "sample_size": 1600,
+      "margin_error": 2.45,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Allyson": 36.05,
+        "Álvaro Dias": 20.06,
+        "Cadu de Lula": 23.31
+      },
+      "parties": {
+        "Allyson": "UNIÃO",
+        "Álvaro Dias": "PL",
+        "Cadu de Lula": "PT"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Global",
+      "collection_date": "2026-09-15",
+      "sample_size": 1224,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-10",
+      "candidates": {
+        "Fábio Mitidieri": 56.7,
+        "Valmir de Francisquinho": 35.7,
+        "Ricardo Marques": 5.9,
+        "Emanuel Cacho": 1
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -615,30 +684,28 @@
       }
     },
     {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
-      "secao": "Primeiro Turno (Governador) › 2026 › Junho - Outubro",
-      "institute": "Census",
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "INOR",
       "collection_date": "2026-09-13",
-      "sample_size": 1500,
-      "margin_error": 2.5,
+      "sample_size": 1070,
+      "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-12",
       "candidates": {
-        "Arthur Henrique": 50.04,
-        "Soldado Sampaio": 38.08,
-        "Rosi Aires PSOL": 0.62,
-        "Clébio Genuíno": 0.23,
-        "Farah Mesquita": 0
+        "Fábio Mitidieri": 37.29,
+        "Valmir de Francisquinho": 44.67,
+        "Ricardo Marques": 4.86,
+        "Emanuel Cacho": 0.84
       },
       "parties": {
-        "Arthur Henrique": "",
-        "Soldado Sampaio": "",
-        "Rosi Aires PSOL": "",
-        "Clébio Genuíno": "",
-        "Farah Mesquita": ""
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -668,12 +735,12 @@
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Correio /Opinião",
+      "institute": "IGAPE",
       "collection_date": "2026-09-12",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Correio_Braziliense",
+      "source_url": "#cite_note-:11-11",
       "candidates": {
         "Celina Leão": 41,
         "Arruda": 15.7,
@@ -792,31 +859,6 @@
       }
     },
     {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Gelson Merisio|Jorginho Mello|João Rodrigues|Ralf Zimmer",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Neokemp/OCP",
-      "collection_date": "2026-09-11",
-      "sample_size": 1008,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-16",
-      "candidates": {
-        "Jorginho Mello": 51.2,
-        "João Rodrigues": 24,
-        "Gelson Merisio": 15.1,
-        "Ralf Zimmer": 0.6
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB",
-        "Ralf Zimmer": "PRD"
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -827,7 +869,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Fábio Mitidieri": 47.3,
         "Valmir de Francisquinho": 35.7,
@@ -852,7 +894,7 @@
       "sample_size": 615,
       "margin_error": 3.95,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Alan Rick": 28.6,
         "Mailza Assis": 24.1,
@@ -1106,7 +1148,7 @@
       "sample_size": 1300,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-13",
+      "source_url": "#cite_note-:11-17",
       "candidates": {
         "Fábio Mitidieri": 42.41,
         "Valmir de Francisquinho": 27.07,
@@ -1198,7 +1240,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Ciro Gomes": 47.8,
         "Elmano de Freitas": 47.6
@@ -1396,7 +1438,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Allyson": 41.9,
         "Álvaro Dias": 22.2,
@@ -1419,7 +1461,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-11",
+      "source_url": "#cite_note-:11-13",
       "candidates": {
         "Allyson": 30,
         "Álvaro Dias": 23,
@@ -1429,85 +1471,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
-      "secao": "Primeiro Turno (Governador) › 2026 › Junho - Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-09-09",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-14",
-      "candidates": {
-        "Arthur Henrique": 62,
-        "Soldado Sampaio": 28,
-        "Rosi Aires PSOL": 1,
-        "Clébio Genuíno": 0,
-        "Farah Mesquita": 0
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Soldado Sampaio": "",
-        "Rosi Aires PSOL": "",
-        "Clébio Genuíno": "",
-        "Farah Mesquita": ""
-      }
-    },
-    {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
-      "secao": "Primeiro Turno (Governador) › 2026 › Junho - Outubro",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-09-09",
-      "sample_size": 1200,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-15",
-      "candidates": {
-        "Arthur Henrique": 60.7,
-        "Soldado Sampaio": 32.4,
-        "Rosi Aires PSOL": 2.2,
-        "Clébio Genuíno": 0,
-        "Farah Mesquita": 0.1
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Soldado Sampaio": "",
-        "Rosi Aires PSOL": "",
-        "Clébio Genuíno": "",
-        "Farah Mesquita": ""
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Gelson Merisio|Jorginho Mello|João Rodrigues|Ralf Zimmer",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-09-09",
-      "sample_size": 1211,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-18",
-      "candidates": {
-        "Jorginho Mello": 51.6,
-        "João Rodrigues": 18.5,
-        "Gelson Merisio": 17.6,
-        "Ralf Zimmer": 0.4
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB",
-        "Ralf Zimmer": "PRD"
       }
     },
     {
@@ -1521,7 +1484,7 @@
       "sample_size": 1260,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-15",
+      "source_url": "#cite_note-:9-19",
       "candidates": {
         "Fábio Mitidieri": 41.3,
         "Valmir de Francisquinho": 34.2,
@@ -1546,7 +1509,7 @@
       "sample_size": 1260,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-15",
+      "source_url": "#cite_note-:9-19",
       "candidates": {
         "Fábio Mitidieri": 44.6,
         "Ricardo Marques": 25.1,
@@ -1721,7 +1684,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Allyson": 37.56,
         "Álvaro Dias": 21.4,
@@ -1744,7 +1707,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Allyson": 35.18,
         "Álvaro Dias": 23.11,
@@ -1790,7 +1753,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-21",
+      "source_url": "#cite_note-:19-23",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 46
@@ -1901,74 +1864,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-09-07",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:16-18",
-      "candidates": {
-        "Eduardo Paes": 43.5,
-        "Douglas Ruas": 20.3,
-        "Anthony Garotinho": 9.8,
-        "André Marinho": 3.4,
-        "Coronel Busnello": 1.6,
-        "William Siri": 1.1,
-        "Cyro Garcia": 2.3,
-        "Juliete Pantoja": 1.4,
-        "Luan Monteiro": 0.3
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Anthony Garotinho": "Republicanos",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP",
-        "Luan Monteiro": "PCO"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-09-07",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:16-18",
-      "candidates": {
-        "Eduardo Paes": 47.4,
-        "Douglas Ruas": 22.7,
-        "André Marinho": 3.6,
-        "Coronel Busnello": 1.9,
-        "William Siri": 1.3,
-        "Cyro Garcia": 2.6,
-        "Juliete Pantoja": 1.7,
-        "Luan Monteiro": 0.4
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP",
-        "Luan Monteiro": "PCO"
-      }
-    },
-    {
       "uf": "RO",
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
@@ -1993,33 +1888,6 @@
         "Expedito Netto": "",
         "Hildon Chaves": "",
         "Samuel Costa": ""
-      }
-    },
-    {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
-      "secao": "Primeiro Turno (Governador) › 2026 › Junho - Outubro",
-      "institute": "Census",
-      "collection_date": "2026-09-06",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-16",
-      "candidates": {
-        "Arthur Henrique": 53.45,
-        "Soldado Sampaio": 31.37,
-        "Rosi Aires PSOL": 0.56,
-        "Clébio Genuíno": 0.23,
-        "Farah Mesquita": 0.24
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Soldado Sampaio": "",
-        "Rosi Aires PSOL": "",
-        "Clébio Genuíno": "",
-        "Farah Mesquita": ""
       }
     },
     {
@@ -2056,7 +1924,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-8",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Alan Rick": 36,
         "Mailza Assis": 32,
@@ -2177,7 +2045,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-16",
+      "source_url": "#cite_note-:10-18",
       "candidates": {
         "Allyson": 39.7,
         "Álvaro Dias": 22.4,
@@ -2331,7 +2199,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:18-23",
+      "source_url": "#cite_note-:18-25",
       "candidates": {
         "Ciro Gomes": 45,
         "Elmano de Freitas": 34
@@ -2379,7 +2247,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Allyson": 37.42,
         "Álvaro Dias": 20.56,
@@ -2402,7 +2270,7 @@
       "sample_size": 1300,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-18",
+      "source_url": "#cite_note-:8-22",
       "candidates": {
         "Fábio Mitidieri": 42.93,
         "Valmir de Francisquinho": 27.83,
@@ -2427,7 +2295,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-D-19",
+      "source_url": "#cite_note-:8-D-23",
       "candidates": {
         "Fábio Mitidieri": 45,
         "Valmir de Francisquinho": 37,
@@ -2452,7 +2320,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Fábio Mitidieri": 48.28,
         "Valmir de Francisquinho": 27.28
@@ -2810,70 +2678,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-09-02",
-      "sample_size": 1207,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:15-19",
-      "candidates": {
-        "Eduardo Paes": 43.6,
-        "Douglas Ruas": 27.6,
-        "Anthony Garotinho": 10.7,
-        "André Marinho": 4.3,
-        "Coronel Busnello": 5.6,
-        "William Siri": 3.2,
-        "Cyro Garcia": 0.7,
-        "Juliete Pantoja": 0.2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Anthony Garotinho": "Republicanos",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-09-02",
-      "sample_size": 1207,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:15-19",
-      "candidates": {
-        "Eduardo Paes": 43.9,
-        "Douglas Ruas": 32.6,
-        "André Marinho": 4.9,
-        "Coronel Busnello": 6.1,
-        "William Siri": 5.1,
-        "Cyro Garcia": 0.7,
-        "Juliete Pantoja": 0.6
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP"
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -2884,7 +2688,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Fábio Mitidieri": 46.13,
         "Valmir de Francisquinho": 24.87,
@@ -2909,7 +2713,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Alan Rick": 39.8,
         "Mailza Assis": 27.9,
@@ -2919,29 +2723,6 @@
         "Alan Rick": "Republicanos",
         "Mailza Assis": "PP",
         "Tião Bocalom": "PSDB"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Gelson Merisio|Jorginho Mello|João Rodrigues|Ralf Zimmer",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-09-01",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-20",
-      "candidates": {
-        "Jorginho Mello": 58.5,
-        "João Rodrigues": 17.2,
-        "Gelson Merisio": 11.8
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB"
       }
     },
     {
@@ -2984,7 +2765,7 @@
       "sample_size": 1194,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-18",
+      "source_url": "#cite_note-:12-22",
       "candidates": {
         "Ricardo Ferraço": 28.7,
         "Lorenzo Pazolini": 41,
@@ -3049,7 +2830,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Allyson": 40.1,
         "Álvaro Dias": 18.3,
@@ -3072,7 +2853,7 @@
       "sample_size": 1800,
       "margin_error": 2.31,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Ricardo Ferraço": 32,
         "Lorenzo Pazolini": 35.06,
@@ -3122,7 +2903,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Allyson": 28.3,
         "Álvaro Dias": 27.1,
@@ -3132,33 +2913,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
-      "secao": "Primeiro Turno (Governador) › 2026 › Junho - Outubro",
-      "institute": "Census",
-      "collection_date": "2026-08-30",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-17",
-      "candidates": {
-        "Arthur Henrique": 54.99,
-        "Soldado Sampaio": 28.42,
-        "Rosi Aires PSOL": 0.83,
-        "Clébio Genuíno": 0.12,
-        "Farah Mesquita": 0.33
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Soldado Sampaio": "",
-        "Rosi Aires PSOL": "",
-        "Clébio Genuíno": "",
-        "Farah Mesquita": ""
       }
     },
     {
@@ -3268,7 +3022,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Allyson": 42.4,
         "Álvaro Dias": 25.3,
@@ -3291,7 +3045,7 @@
       "sample_size": 1200,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Allyson": 33.06,
         "Álvaro Dias": 21,
@@ -3358,97 +3112,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-28",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:14-20",
-      "candidates": {
-        "Eduardo Paes": 35,
-        "Douglas Ruas": 21,
-        "Anthony Garotinho": 7,
-        "André Marinho": 1,
-        "Coronel Busnello": 4,
-        "William Siri": 5,
-        "Cyro Garcia": 1,
-        "Juliete Pantoja": 1,
-        "Luan Monteiro": 0
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Anthony Garotinho": "Republicanos",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP",
-        "Luan Monteiro": "PCO"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-28",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:14-20",
-      "candidates": {
-        "Eduardo Paes": 36,
-        "Douglas Ruas": 23,
-        "André Marinho": 4,
-        "Coronel Busnello": 5,
-        "William Siri": 5,
-        "Cyro Garcia": 1,
-        "Juliete Pantoja": 1,
-        "Luan Monteiro": 0
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP",
-        "Luan Monteiro": "PCO"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-08-28",
-      "sample_size": 2030,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-21",
-      "candidates": {
-        "Eduardo Paes": 35.7,
-        "Douglas Ruas": 34.2,
-        "Anthony Garotinho": 5.3
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
       "uf": "RO",
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
@@ -3486,7 +3149,7 @@
       "sample_size": 1430,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Alan Rick": 36.1,
         "Mailza Assis": 33.1,
@@ -3806,7 +3469,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Allyson": 39.1,
         "Álvaro Dias": 14.5,
@@ -3875,7 +3538,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-14",
+      "source_url": "#cite_note-:7-16",
       "candidates": {
         "Alan Rick": 33,
         "Mailza Assis": 24,
@@ -3946,7 +3609,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-22",
+      "source_url": "#cite_note-:11-26",
       "candidates": {
         "Ricardo Ferraço": 35,
         "Lorenzo Pazolini": 28,
@@ -3969,7 +3632,7 @@
       "sample_size": 1504,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-A-24",
+      "source_url": "#cite_note-:11-A-28",
       "candidates": {
         "Ricardo Ferraço": 38.2,
         "Lorenzo Pazolini": 39,
@@ -3992,7 +3655,7 @@
       "sample_size": 1326,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Ricardo Ferraço": 22.27,
         "Lorenzo Pazolini": 16.36,
@@ -4055,33 +3718,6 @@
       }
     },
     {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Clébio Genuíno|Farah Mesquita|Rosi Aires PSOL|Soldado Sampaio",
-      "secao": "Primeiro Turno (Governador) › 2026 › Junho - Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-08-26",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-18",
-      "candidates": {
-        "Arthur Henrique": 60,
-        "Soldado Sampaio": 27,
-        "Rosi Aires PSOL": 1,
-        "Clébio Genuíno": 0,
-        "Farah Mesquita": 0
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Soldado Sampaio": "",
-        "Rosi Aires PSOL": "",
-        "Clébio Genuíno": "",
-        "Farah Mesquita": ""
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -4092,7 +3728,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-23",
+      "source_url": "#cite_note-:7-27",
       "candidates": {
         "Fábio Mitidieri": 40,
         "Valmir de Francisquinho": 20,
@@ -4257,7 +3893,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Allyson": 37.21,
         "Álvaro Dias": 24.07,
@@ -4280,7 +3916,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Allyson": 34.94,
         "Álvaro Dias": 25.85,
@@ -4290,31 +3926,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Gelson Merisio|Jorginho Mello|João Rodrigues|Ralf Zimmer",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Neokemp/OCP",
-      "collection_date": "2026-08-25",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-22",
-      "candidates": {
-        "Jorginho Mello": 51.6,
-        "João Rodrigues": 22.4,
-        "Gelson Merisio": 12.3,
-        "Ralf Zimmer": 0.8
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB",
-        "Ralf Zimmer": "PRD"
       }
     },
     {
@@ -4351,7 +3962,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-16",
+      "source_url": "#cite_note-:6-18",
       "candidates": {
         "Alan Rick": 32.5,
         "Mailza Assis": 29.32,
@@ -4597,109 +4208,6 @@
       "parties": {
         "Raquel Lyra": "PSD",
         "João Campos": "PSB"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-08-24",
-      "sample_size": 1302,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:13-22",
-      "candidates": {
-        "Eduardo Paes": 37,
-        "Douglas Ruas": 14,
-        "Anthony Garotinho": 7,
-        "André Marinho": 0,
-        "Coronel Busnello": 1,
-        "William Siri": 3,
-        "Cyro Garcia": 1,
-        "Juliete Pantoja": 1,
-        "Luan Monteiro": 0
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Anthony Garotinho": "Republicanos",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP",
-        "Luan Monteiro": "PCO"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-08-24",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:12-23",
-      "candidates": {
-        "Eduardo Paes": 44.5,
-        "Douglas Ruas": 15.5,
-        "Anthony Garotinho": 11.6,
-        "André Marinho": 3.1,
-        "Coronel Busnello": 2.3,
-        "William Siri": 1.3,
-        "Cyro Garcia": 2.9,
-        "Juliete Pantoja": 1.3,
-        "Luan Monteiro": 0.4
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Anthony Garotinho": "Republicanos",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP",
-        "Luan Monteiro": "PCO"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-08-24",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:12-23",
-      "candidates": {
-        "Eduardo Paes": 48.3,
-        "Douglas Ruas": 18.6,
-        "André Marinho": 3.8,
-        "Coronel Busnello": 2.7,
-        "William Siri": 1.6,
-        "Cyro Garcia": 3.6,
-        "Juliete Pantoja": 1.4,
-        "Luan Monteiro": 0.8
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP",
-        "Luan Monteiro": "PCO"
       }
     },
     {
@@ -4978,41 +4486,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Prefab Future",
-      "collection_date": "2026-08-23",
-      "sample_size": 2000,
-      "margin_error": 2.19,
-      "tse_registration": "",
-      "source_url": "#cite_note-24",
-      "candidates": {
-        "Eduardo Paes": 34.9,
-        "Douglas Ruas": 14.7,
-        "Anthony Garotinho": 9.5,
-        "André Marinho": 2.9,
-        "Coronel Busnello": 2.6,
-        "William Siri": 2.8,
-        "Cyro Garcia": 1.7,
-        "Juliete Pantoja": 1,
-        "Luan Monteiro": 1.1
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Anthony Garotinho": "Republicanos",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP",
-        "Luan Monteiro": "PCO"
-      }
-    },
-    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -5023,7 +4496,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-33",
+      "source_url": "#cite_note-:9-35",
       "candidates": {
         "Allyson": 25,
         "Álvaro Dias": 19,
@@ -5033,31 +4506,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Gelson Merisio|Jorginho Mello|João Rodrigues|Ralf Zimmer",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-08-23",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-24",
-      "candidates": {
-        "Jorginho Mello": 50,
-        "João Rodrigues": 17,
-        "Gelson Merisio": 4,
-        "Ralf Zimmer": 0
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB",
-        "Ralf Zimmer": "PRD"
       }
     },
     {
@@ -5071,7 +4519,7 @@
       "sample_size": 1620,
       "margin_error": 2.43,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Alan Rick": 27.5,
         "Mailza Assis": 34.9,
@@ -5399,41 +4847,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Marinho|Anthony Garotinho|Coronel Busnello|Cyro Garcia|Douglas Ruas|Eduardo Paes|Juliete Pantoja|Luan Monteiro|William Siri",
-      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
-      "institute": "Datafolha",
-      "collection_date": "2026-08-21",
-      "sample_size": 1204,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:11-25",
-      "candidates": {
-        "Eduardo Paes": 41,
-        "Douglas Ruas": 19,
-        "Anthony Garotinho": 9,
-        "André Marinho": 2,
-        "Coronel Busnello": 2,
-        "William Siri": 2,
-        "Cyro Garcia": 2,
-        "Juliete Pantoja": 2,
-        "Luan Monteiro": 1
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Anthony Garotinho": "Republicanos",
-        "André Marinho": "NOVO",
-        "Coronel Busnello": "MISSÃO",
-        "William Siri": "PSOL",
-        "Cyro Garcia": "PSTU",
-        "Juliete Pantoja": "UP",
-        "Luan Monteiro": "PCO"
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -5444,7 +4857,7 @@
       "sample_size": 1314,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-S-25",
+      "source_url": "#cite_note-:7-S-29",
       "candidates": {
         "Fábio Mitidieri": 39.69,
         "Valmir de Francisquinho": 28.43,
@@ -5469,7 +4882,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Fábio Mitidieri": 44.4,
         "Valmir de Francisquinho": 25.5,
@@ -5588,7 +5001,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-29",
+      "source_url": "#cite_note-:16-31",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 44
@@ -5669,7 +5082,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-31",
+      "source_url": "#cite_note-:17-33",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 35
@@ -5742,7 +5155,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Allyson": 31.33,
         "Álvaro Dias": 17.93,
@@ -5765,7 +5178,7 @@
       "sample_size": 2100,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Allyson": 41.8,
         "Álvaro Dias": 26.3,
@@ -5896,7 +5309,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-29",
+      "source_url": "#cite_note-:6-33",
       "candidates": {
         "Fábio Mitidieri": 51,
         "Valmir de Francisquinho": 33.7,
@@ -5987,7 +5400,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Fábio Mitidieri": 31.59,
         "Valmir de Francisquinho": 46.73,
@@ -6183,7 +5596,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 26.4,
@@ -6354,7 +5767,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Allyson": 37.31,
         "Álvaro Dias": 26.48,
@@ -6377,7 +5790,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Fábio Mitidieri": 38.94,
         "Valmir de Francisquinho": 28.76,
@@ -6402,7 +5815,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Fábio Mitidieri": 37,
         "Valmir de Francisquinho": 23.8,
@@ -6644,7 +6057,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Allyson": 30.18,
         "Álvaro Dias": 27.65,
@@ -6667,7 +6080,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Alan Rick": 38.23,
         "Mailza Assis": 25.55,
@@ -6692,7 +6105,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Allyson": 39.5,
         "Álvaro Dias": 23.7,
@@ -6715,7 +6128,7 @@
       "sample_size": 1536,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Allyson": 34.2,
         "Álvaro Dias": 24,
@@ -6738,7 +6151,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Alan Rick": 37,
         "Mailza Assis": 29,
@@ -6817,7 +6230,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Allyson": 26.2,
         "Álvaro Dias": 16.3,
@@ -6988,7 +6401,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-38",
+      "source_url": "#cite_note-:5-42",
       "candidates": {
         "Fábio Mitidieri": 43,
         "Valmir de Francisquinho": 40,
@@ -7122,35 +6535,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-30",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:0-29",
-      "candidates": {
-        "Eduardo Paes": 48.6,
-        "Douglas Ruas": 11.1,
-        "André Marinho": 3.4,
-        "Wilson Witzel": 1.9,
-        "William Siri": 0.8,
-        "Anthony Garotinho": 11
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -7259,7 +6643,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-34",
+      "source_url": "#cite_note-:9-36",
       "candidates": {
         "Cleitinho": 36,
         "Alexandre Kalil": 15,
@@ -7288,7 +6672,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-34",
+      "source_url": "#cite_note-:9-36",
       "candidates": {
         "Cleitinho": 37,
         "Alexandre Kalil": 15,
@@ -7317,7 +6701,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-34",
+      "source_url": "#cite_note-:9-36",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 15,
@@ -7346,7 +6730,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-34",
+      "source_url": "#cite_note-:9-36",
       "candidates": {
         "Alexandre Kalil": 20,
         "Mateus Simões": 10,
@@ -7407,64 +6791,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Prefab",
-      "collection_date": "2026-07-29",
-      "sample_size": 2000,
-      "margin_error": 2.19,
-      "tse_registration": "",
-      "source_url": "#cite_note-27",
-      "candidates": {
-        "Eduardo Paes": 34.5,
-        "Douglas Ruas": 10.9,
-        "André Marinho": 1.8,
-        "Wilson Witzel": 3.6,
-        "William Siri": 1.8,
-        "Anthony Garotinho": 10.8
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Prefab Future",
-      "collection_date": "2026-07-29",
-      "sample_size": 2000,
-      "margin_error": 2.19,
-      "tse_registration": "",
-      "source_url": "#cite_note-31",
-      "candidates": {
-        "Eduardo Paes": 34.5,
-        "Douglas Ruas": 10.9,
-        "André Marinho": 1.8,
-        "Wilson Witzel": 3.6,
-        "William Siri": 1.8,
-        "Anthony Garotinho": 10.8
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -7475,7 +6801,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Fábio Mitidieri": 37.94,
         "Valmir de Francisquinho": 46.07,
@@ -7525,7 +6851,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-37",
+      "source_url": "#cite_note-:13-39",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 33,
@@ -7602,7 +6928,7 @@
       "sample_size": 2050,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-53",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 26,
@@ -7625,7 +6951,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-27",
+      "source_url": "#cite_note-:12-31",
       "candidates": {
         "Luciano Zucco": 22,
         "Juliana Brizola": 24,
@@ -7663,33 +6989,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-27",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:10-33",
-      "candidates": {
-        "Eduardo Paes": 37,
-        "Douglas Ruas": 16,
-        "André Marinho": 2,
-        "William Siri": 3,
-        "Anthony Garotinho": 12
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "William Siri": "PSOL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
       "uf": "MG",
       "estado": "Minas Gerais",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
@@ -7700,7 +6999,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-40",
+      "source_url": "#cite_note-:8-42",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -7727,7 +7026,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-40",
+      "source_url": "#cite_note-:8-42",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 12,
@@ -7756,7 +7055,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-40",
+      "source_url": "#cite_note-:8-42",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -7785,7 +7084,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-40",
+      "source_url": "#cite_note-:8-42",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -7812,7 +7111,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-40",
+      "source_url": "#cite_note-:8-42",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -7881,7 +7180,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-24",
+      "source_url": "#cite_note-:4-26",
       "candidates": {
         "Alan Rick": 38,
         "Mailza Assis": 28,
@@ -8077,87 +7376,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-35",
-      "candidates": {
-        "Eduardo Paes": 38,
-        "Douglas Ruas": 10,
-        "André Marinho": 1,
-        "Wilson Witzel": 1,
-        "William Siri": 2,
-        "Anthony Garotinho": 10
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-35",
-      "candidates": {
-        "Eduardo Paes": 42,
-        "Douglas Ruas": 11,
-        "André Marinho": 1,
-        "Wilson Witzel": 2,
-        "William Siri": 2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Genial/Quaest",
-      "collection_date": "2026-07-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:9-35",
-      "candidates": {
-        "Eduardo Paes": 42,
-        "Douglas Ruas": 11,
-        "André Marinho": 1,
-        "William Siri": 2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "William Siri": "PSOL"
-      }
-    },
-    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -8168,7 +7386,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Allyson": 38.8,
         "Álvaro Dias": 24.9,
@@ -8178,29 +7396,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Neokemp",
-      "collection_date": "2026-07-24",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-26",
-      "candidates": {
-        "Jorginho Mello": 52.8,
-        "João Rodrigues": 20.3,
-        "Gelson Merisio": 8.2
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB"
       }
     },
     {
@@ -8214,7 +7409,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Fábio Mitidieri": 45.4,
         "Valmir de Francisquinho": 32.2,
@@ -8314,7 +7509,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-55",
+      "source_url": "#cite_note-:8-57",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 28,
@@ -8337,7 +7532,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-31",
+      "source_url": "#cite_note-:9-35",
       "candidates": {
         "Lorenzo Pazolini": 30,
         "Ricardo Ferraço": 41,
@@ -8360,7 +7555,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-31",
+      "source_url": "#cite_note-:9-35",
       "candidates": {
         "Lorenzo Pazolini": 27,
         "Magno Malta": 13,
@@ -8385,7 +7580,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-31",
+      "source_url": "#cite_note-:9-35",
       "candidates": {
         "Lorenzo Pazolini": 25,
         "Paulo Hartung": 27,
@@ -8410,7 +7605,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-31",
+      "source_url": "#cite_note-:9-35",
       "candidates": {
         "Lorenzo Pazolini": 22,
         "Magno Malta": 10,
@@ -8581,7 +7776,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-29",
+      "source_url": "#cite_note-:11-33",
       "candidates": {
         "Luciano Zucco": 34.2,
         "Juliana Brizola": 30.1,
@@ -8606,7 +7801,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
@@ -8629,7 +7824,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Fábio Mitidieri": 46.2,
         "Valmir de Francisquinho": 34,
@@ -8652,7 +7847,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-59",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Allyson": 41.7,
         "Álvaro Dias": 11.8,
@@ -8746,7 +7941,7 @@
       "sample_size": 1006,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-26",
+      "source_url": "#cite_note-:3-28",
       "candidates": {
         "Alan Rick": 38.27,
         "Mailza Assis": 19.48,
@@ -8758,64 +7953,6 @@
         "Mailza Assis": "PP",
         "Tião Bocalom": "PSDB",
         "Thor Dantas": "PSB"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Gerp",
-      "collection_date": "2026-07-15",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-39",
-      "candidates": {
-        "Eduardo Paes": 40,
-        "Douglas Ruas": 9,
-        "André Marinho": 1,
-        "Wilson Witzel": 3,
-        "Bombeiro Rafa Luz": 1,
-        "Anthony Garotinho": 10,
-        "Glauber Braga": 4
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "Bombeiro Rafa Luz": "MISSÃO",
-        "Anthony Garotinho": "Republicanos",
-        "Glauber Braga": "PSOL"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Gerp",
-      "collection_date": "2026-07-15",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-39",
-      "candidates": {
-        "Eduardo Paes": 47,
-        "Douglas Ruas": 11,
-        "André Marinho": 2,
-        "Wilson Witzel": 3,
-        "Anthony Garotinho": 15
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "Anthony Garotinho": "Republicanos"
       }
     },
     {
@@ -8856,7 +7993,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-41",
+      "source_url": "#cite_note-:12-43",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
@@ -8879,7 +8016,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Fábio Mitidieri": 39.33,
         "Valmir de Francisquinho": 27.8,
@@ -8902,7 +8039,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-32",
+      "source_url": "#cite_note-:8-36",
       "candidates": {
         "Lorenzo Pazolini": 25,
         "Ricardo Ferraço": 37,
@@ -8925,7 +8062,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-32",
+      "source_url": "#cite_note-:8-36",
       "candidates": {
         "Magno Malta": 22,
         "Ricardo Ferraço": 37,
@@ -8948,7 +8085,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-32",
+      "source_url": "#cite_note-:8-36",
       "candidates": {
         "Lorenzo Pazolini": 21,
         "Magno Malta": 15,
@@ -8973,7 +8110,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-32",
+      "source_url": "#cite_note-:8-36",
       "candidates": {
         "Lorenzo Pazolini": 19,
         "Magno Malta": 12,
@@ -8987,29 +8124,6 @@
         "Paulo Hartung": "PSD",
         "Ricardo Ferraço": "MDB",
         "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "IPC",
-      "collection_date": "2026-07-13",
-      "sample_size": 1050,
-      "margin_error": 3.3,
-      "tse_registration": "",
-      "source_url": "#cite_note-30",
-      "candidates": {
-        "Jorginho Mello": 53.3,
-        "João Rodrigues": 26.2,
-        "Gelson Merisio": 8.6
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB"
       }
     },
     {
@@ -9086,7 +8200,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-63",
       "candidates": {
         "Allyson": 35.27,
         "Álvaro Dias": 33.67,
@@ -9109,7 +8223,7 @@
       "sample_size": 2002,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-31",
+      "source_url": "#cite_note-:10-35",
       "candidates": {
         "Luciano Zucco": 37.5,
         "Juliana Brizola": 24.8,
@@ -9230,7 +8344,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-65",
       "candidates": {
         "Allyson": 41.78,
         "Álvaro Dias": 26.05,
@@ -9372,7 +8486,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-65",
+      "source_url": "#cite_note-67",
       "candidates": {
         "Allyson": 27.5,
         "Álvaro Dias": 32.1,
@@ -9395,7 +8509,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 38.69,
@@ -9420,7 +8534,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-33",
+      "source_url": "#cite_note-:7-37",
       "candidates": {
         "Lorenzo Pazolini": 29.71,
         "Magno Malta": 13.3,
@@ -9445,7 +8559,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-33",
+      "source_url": "#cite_note-:7-37",
       "candidates": {
         "Lorenzo Pazolini": 34.27,
         "Ricardo Ferraço": 30.6,
@@ -9468,7 +8582,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-33",
+      "source_url": "#cite_note-:7-37",
       "candidates": {
         "Magno Malta": 21.51,
         "Paulo Hartung": 20.62,
@@ -9493,7 +8607,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-33",
+      "source_url": "#cite_note-:7-37",
       "candidates": {
         "Lorenzo Pazolini": 41.91,
         "Ricardo Ferraço": 28.82,
@@ -9670,7 +8784,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-67",
+      "source_url": "#cite_note-69",
       "candidates": {
         "Allyson": 35.9,
         "Álvaro Dias": 24.7,
@@ -9743,7 +8857,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-69",
+      "source_url": "#cite_note-71",
       "candidates": {
         "Allyson": 34.59,
         "Álvaro Dias": 29,
@@ -9793,7 +8907,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-33",
+      "source_url": "#cite_note-:9-37",
       "candidates": {
         "Luciano Zucco": 39,
         "Juliana Brizola": 20.4,
@@ -9833,37 +8947,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Prefab Future",
-      "collection_date": "2026-07-02",
-      "sample_size": 2500,
-      "margin_error": 1.96,
-      "tse_registration": "",
-      "source_url": "#cite_note-41",
-      "candidates": {
-        "Eduardo Paes": 33.9,
-        "Douglas Ruas": 10.3,
-        "André Marinho": 1.2,
-        "Wilson Witzel": 2.8,
-        "William Siri": 0.9,
-        "Bombeiro Rafa Luz": 1,
-        "Anthony Garotinho": 8.7
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -9874,7 +8957,7 @@
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-48",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "Fábio Mitidieri": 40.67,
         "Valmir de Francisquinho": 29.22,
@@ -9910,66 +8993,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-01",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-43",
-      "candidates": {
-        "Eduardo Paes": 54.2,
-        "Douglas Ruas": 14.6,
-        "André Marinho": 4.9,
-        "Wilson Witzel": 3.5,
-        "William Siri": 1.1,
-        "Bombeiro Rafa Luz": 2.2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-07-01",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:7-43",
-      "candidates": {
-        "Eduardo Paes": 50.7,
-        "Douglas Ruas": 13.8,
-        "André Marinho": 4.3,
-        "Wilson Witzel": 3.3,
-        "William Siri": 0.9,
-        "Bombeiro Rafa Luz": 2,
-        "Anthony Garotinho": 9.8
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -9980,7 +9003,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Alan Rick": 41.25,
         "Mailza Assis": 19.25,
@@ -10074,7 +9097,7 @@
       "sample_size": 1200,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Fábio Mitidieri": 33.1,
         "Valmir de Francisquinho": 39.25,
@@ -10274,7 +9297,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-43",
+      "source_url": "#cite_note-:11-45",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 39,
@@ -10374,7 +9397,7 @@
       "sample_size": 1600,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Cleitinho": 37.56,
         "Alexandre Kalil": 11.06,
@@ -10424,7 +9447,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-71",
+      "source_url": "#cite_note-73",
       "candidates": {
         "Allyson": 27.3,
         "Álvaro Dias": 32.5,
@@ -10447,7 +9470,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-34",
+      "source_url": "#cite_note-:8-38",
       "candidates": {
         "Luciano Zucco": 32,
         "Juliana Brizola": 37,
@@ -10459,29 +9482,6 @@
         "Juliana Brizola": "PDT",
         "Gabriel Souza": "MDB",
         "Marcelo Maranata": "PSDB"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Mapa/Jovem Pan",
-      "collection_date": "2026-06-22",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-28",
-      "candidates": {
-        "Jorginho Mello": 55.3,
-        "João Rodrigues": 15.7,
-        "Gelson Merisio": 3.4
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB"
       }
     },
     {
@@ -10589,7 +9589,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-56",
       "candidates": {
         "Fábio Mitidieri": 41.2,
         "Valmir de Francisquinho": 26.7,
@@ -10639,7 +9639,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Fábio Mitidieri": 34.95,
         "Valmir de Francisquinho": 41.5,
@@ -10710,7 +9710,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-28",
+      "source_url": "#cite_note-:2-30",
       "candidates": {
         "Alan Rick": 39,
         "Mailza Assis": 26,
@@ -10735,7 +9735,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-48",
+      "source_url": "#cite_note-:7-50",
       "candidates": {
         "Cleitinho": 27.7,
         "Alexandre Kalil": 18.3,
@@ -10764,7 +9764,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-48",
+      "source_url": "#cite_note-:7-50",
       "candidates": {
         "Cleitinho": 28.8,
         "Alexandre Kalil": 20.5,
@@ -10791,7 +9791,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-73",
+      "source_url": "#cite_note-75",
       "candidates": {
         "Allyson": 40,
         "Álvaro Dias": 24.2,
@@ -10824,29 +9824,6 @@
         "Raquel Lyra": "PSD",
         "João Campos": "PSB",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Neokemp/OCP News",
-      "collection_date": "2026-06-16",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-32",
-      "candidates": {
-        "Jorginho Mello": 52.3,
-        "João Rodrigues": 20.4,
-        "Gelson Merisio": 9
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB"
       }
     },
     {
@@ -10964,7 +9941,7 @@
       "sample_size": 1550,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-75",
+      "source_url": "#cite_note-77",
       "candidates": {
         "Allyson": 34.8,
         "Álvaro Dias": 22.8,
@@ -10987,7 +9964,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Lorenzo Pazolini": 35,
         "Magno Malta": 9.17,
@@ -11012,7 +9989,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Lorenzo Pazolini": 37.78,
         "Ricardo Ferraço": 31.94,
@@ -11141,7 +10118,7 @@
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-59",
       "candidates": {
         "Fábio Mitidieri": 38.7,
         "Valmir de Francisquinho": 42.8,
@@ -11195,29 +10172,6 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Mapa/Jovem Pan",
-      "collection_date": "2026-06-11",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-34",
-      "candidates": {
-        "Jorginho Mello": 54.9,
-        "João Rodrigues": 15.3,
-        "Gelson Merisio": 5.1
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB"
       }
     },
     {
@@ -11454,7 +10408,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-36",
+      "source_url": "#cite_note-:6-40",
       "candidates": {
         "Lorenzo Pazolini": 33,
         "Ricardo Ferraço": 39,
@@ -11477,7 +10431,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-36",
+      "source_url": "#cite_note-:6-40",
       "candidates": {
         "Lorenzo Pazolini": 28,
         "Magno Malta": 14,
@@ -11502,7 +10456,7 @@
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Fábio Mitidieri": 40.8,
         "Valmir de Francisquinho": 30.3,
@@ -11527,7 +10481,7 @@
       "sample_size": 1201,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-30",
+      "source_url": "#cite_note-:1-32",
       "candidates": {
         "Alan Rick": 39.55,
         "Mailza Assis": 19.4,
@@ -11648,37 +10602,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-06-03",
-      "sample_size": 1680,
-      "margin_error": 2.4,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-45",
-      "candidates": {
-        "Eduardo Paes": 48.3,
-        "Douglas Ruas": 12.6,
-        "André Marinho": 4.2,
-        "Wilson Witzel": 3.1,
-        "William Siri": 0.6,
-        "Bombeiro Rafa Luz": 2.6,
-        "Anthony Garotinho": 9.2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO",
-        "Anthony Garotinho": "Republicanos"
-      }
-    },
-    {
       "uf": "RS",
       "estado": "Rio Grande do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
@@ -11689,7 +10612,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-35",
+      "source_url": "#cite_note-:4-39",
       "candidates": {
         "Luciano Zucco": 37.8,
         "Juliana Brizola": 19,
@@ -11728,29 +10651,6 @@
         "Expedito Netto": "",
         "Hildon Chaves": "",
         "Samuel Costa": ""
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Futura Inteligência",
-      "collection_date": "2026-06-03",
-      "sample_size": 800,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-36",
-      "candidates": {
-        "Jorginho Mello": 57.9,
-        "João Rodrigues": 20.8,
-        "Gelson Merisio": 3
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB"
       }
     },
     {
@@ -11812,7 +10712,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-59",
+      "source_url": "#cite_note-:2-63",
       "candidates": {
         "Fábio Mitidieri": 44.7,
         "Valmir de Francisquinho": 38.7,
@@ -11837,7 +10737,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-47",
+      "source_url": "#cite_note-:8-49",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
@@ -11887,7 +10787,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-77",
+      "source_url": "#cite_note-:6-79",
       "candidates": {
         "Allyson": 39.8,
         "Álvaro Dias": 22.1,
@@ -11920,29 +10820,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-05-31",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-38",
-      "candidates": {
-        "Jorginho Mello": 58.7,
-        "João Rodrigues": 13.4,
-        "Gelson Merisio": 8.9
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB"
       }
     },
     {
@@ -12027,7 +10904,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-81",
+      "source_url": "#cite_note-83",
       "candidates": {
         "Allyson": 41.01,
         "Álvaro Dias": 22.75,
@@ -12050,7 +10927,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-83",
+      "source_url": "#cite_note-85",
       "candidates": {
         "Allyson": 38,
         "Álvaro Dias": 22.8,
@@ -12188,7 +11065,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-88",
+      "source_url": "#cite_note-90",
       "candidates": {
         "Allyson": 27.9,
         "Álvaro Dias": 30.5,
@@ -12282,7 +11159,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-37",
+      "source_url": "#cite_note-:5-41",
       "candidates": {
         "Lorenzo Pazolini": 29,
         "Magno Malta": 27.8,
@@ -12403,7 +11280,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-61",
+      "source_url": "#cite_note-:1-65",
       "candidates": {
         "Fábio Mitidieri": 41,
         "Valmir de Francisquinho": 38,
@@ -12480,7 +11357,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-90",
+      "source_url": "#cite_note-92",
       "candidates": {
         "Allyson": 38.5,
         "Álvaro Dias": 19.8,
@@ -12530,7 +11407,7 @@
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-63",
+      "source_url": "#cite_note-:0-67",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 39.72,
@@ -12628,7 +11505,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-92",
+      "source_url": "#cite_note-:5-94",
       "candidates": {
         "Allyson": 37,
         "Álvaro Dias": 25.2,
@@ -12651,7 +11528,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-94",
+      "source_url": "#cite_note-96",
       "candidates": {
         "Allyson": 28.6,
         "Álvaro Dias": 34.5,
@@ -12674,7 +11551,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 15,
@@ -12703,7 +11580,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Cleitinho": 39,
         "Mateus Simões": 17,
@@ -12809,7 +11686,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-50",
+      "source_url": "#cite_note-:7-52",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
@@ -12907,7 +11784,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-32",
+      "source_url": "#cite_note-:-1-34",
       "candidates": {
         "Alan Rick": 42,
         "Mailza Assis": 16.12,
@@ -13307,7 +12184,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-95",
+      "source_url": "#cite_note-97",
       "candidates": {
         "Allyson": 35.5,
         "Álvaro Dias": 22.9,
@@ -13317,29 +12194,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-05-08",
-      "sample_size": 2030,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá2A-46",
-      "candidates": {
-        "Eduardo Paes": 50,
-        "Douglas Ruas": 32.3,
-        "William Siri": 7.5
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "William Siri": "PSOL"
       }
     },
     {
@@ -13376,7 +12230,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2B-36",
+      "source_url": "#cite_note-Veritá2B-40",
       "candidates": {
         "Luciano Zucco": 49.7,
         "Juliana Brizola": 23.2,
@@ -13411,29 +12265,6 @@
         "Marcos Rogério": "",
         "Adaílton Fúria": "",
         "Hildon Chaves": ""
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Neokemp",
-      "collection_date": "2026-05-06",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-39",
-      "candidates": {
-        "Jorginho Mello": 54.2,
-        "João Rodrigues": 18.3,
-        "Gelson Merisio": 7.8
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB"
       }
     },
     {
@@ -13474,7 +12305,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-55",
+      "source_url": "#cite_note-:6-57",
       "candidates": {
         "Cleitinho": 28,
         "Alexandre Kalil": 6,
@@ -13503,7 +12334,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-55",
+      "source_url": "#cite_note-:6-57",
       "candidates": {
         "Cleitinho": 30,
         "Mateus Simões": 24,
@@ -13601,7 +12432,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-2-33",
+      "source_url": "#cite_note-:-2-35",
       "candidates": {
         "Alan Rick": 39.6,
         "Mailza Assis": 16.5,
@@ -13824,7 +12655,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-52",
+      "source_url": "#cite_note-Quaest-Abril-54",
       "candidates": {
         "Ciro Gomes": 41,
         "Elmano de Freitas": 32,
@@ -13847,7 +12678,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-52",
+      "source_url": "#cite_note-Quaest-Abril-54",
       "candidates": {
         "Ciro Gomes": 33,
         "Camilo Santana": 40,
@@ -13870,7 +12701,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-52",
+      "source_url": "#cite_note-Quaest-Abril-54",
       "candidates": {
         "Elmano de Freitas": 39,
         "Roberto Cláudio": 16,
@@ -13893,7 +12724,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-52",
+      "source_url": "#cite_note-Quaest-Abril-54",
       "candidates": {
         "Camilo Santana": 49,
         "Roberto Cláudio": 12,
@@ -13916,7 +12747,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-39",
+      "source_url": "#cite_note-:4-43",
       "candidates": {
         "Lorenzo Pazolini": 18,
         "Magno Malta": 15,
@@ -13943,7 +12774,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-39",
+      "source_url": "#cite_note-:4-43",
       "candidates": {
         "Lorenzo Pazolini": 20,
         "Magno Malta": 18,
@@ -13968,7 +12799,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-39",
+      "source_url": "#cite_note-:4-43",
       "candidates": {
         "Magno Malta": 24,
         "Ricardo Ferraço": 32,
@@ -13991,7 +12822,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-39",
+      "source_url": "#cite_note-:4-43",
       "candidates": {
         "Lorenzo Pazolini": 24,
         "Ricardo Ferraço": 32,
@@ -14108,7 +12939,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-37",
+      "source_url": "#cite_note-Genial/Quaest-Abril-41",
       "candidates": {
         "Luciano Zucco": 21,
         "Juliana Brizola": 24,
@@ -14250,7 +13081,7 @@
       "sample_size": 1312,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-SE04-65",
+      "source_url": "#cite_note-SE04-69",
       "candidates": {
         "Fábio Mitidieri": 37.27,
         "Valmir de Francisquinho": 44.59,
@@ -14319,7 +13150,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-58",
+      "source_url": "#cite_note-:5-60",
       "candidates": {
         "Cleitinho": 30,
         "Alexandre Kalil": 8,
@@ -14348,7 +13179,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-58",
+      "source_url": "#cite_note-:5-60",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 11,
@@ -14375,7 +13206,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-58",
+      "source_url": "#cite_note-:5-60",
       "candidates": {
         "Cleitinho": 37,
         "Mateus Simões": 16,
@@ -14402,7 +13233,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-58",
+      "source_url": "#cite_note-:5-60",
       "candidates": {
         "Alexandre Kalil": 12,
         "Mateus Simões": 18,
@@ -14441,35 +13272,6 @@
         "João Campos": "PSB",
         "Eduardo Moura": "NOVO",
         "Ivan Moraes": "PSOL"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-04-26",
-      "sample_size": 1680,
-      "margin_error": 2.4,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-47",
-      "candidates": {
-        "Eduardo Paes": 53,
-        "Douglas Ruas": 13.2,
-        "André Marinho": 2.8,
-        "Wilson Witzel": 3.6,
-        "William Siri": 1,
-        "Bombeiro Rafa Luz": 2.1
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO"
       }
     },
     {
@@ -14579,91 +13381,6 @@
       }
     },
     {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-49",
-      "candidates": {
-        "Eduardo Paes": 34,
-        "Douglas Ruas": 9,
-        "André Marinho": 1,
-        "Wilson Witzel": 3,
-        "William Siri": 2,
-        "Bombeiro Rafa Luz": 1,
-        "André Ceciliano": 8
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO",
-        "André Ceciliano": "PT"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-49",
-      "candidates": {
-        "Eduardo Paes": 40,
-        "Douglas Ruas": 10,
-        "André Marinho": 1,
-        "Wilson Witzel": 3,
-        "William Siri": 2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Quaest",
-      "collection_date": "2026-04-25",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-49",
-      "candidates": {
-        "Eduardo Paes": 39,
-        "Douglas Ruas": 11,
-        "André Marinho": 1,
-        "Wilson Witzel": 2,
-        "William Siri": 2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "André Marinho": "NOVO",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL"
-      }
-    },
-    {
       "uf": "RS",
       "estado": "Rio Grande do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
@@ -14674,7 +13391,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-Brasmarket1-39",
+      "source_url": "#cite_note-Brasmarket1-43",
       "candidates": {
         "Luciano Zucco": 35.5,
         "Juliana Brizola": 20.6,
@@ -14699,7 +13416,7 @@
       "sample_size": 2000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-98",
+      "source_url": "#cite_note-100",
       "candidates": {
         "Allyson": 40.4,
         "Álvaro Dias": 18.6,
@@ -14722,7 +13439,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-66",
+      "source_url": "#cite_note-SE05-70",
       "candidates": {
         "Fábio Mitidieri": 35.3,
         "Valmir de Francisquinho": 39.9,
@@ -14772,7 +13489,7 @@
       "sample_size": 1518,
       "margin_error": 2.51,
       "tse_registration": "",
-      "source_url": "#cite_note-100",
+      "source_url": "#cite_note-102",
       "candidates": {
         "Allyson": 37.29,
         "Álvaro Dias": 24.91,
@@ -14822,7 +13539,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Lorenzo Pazolini": 35.67,
         "Magno Malta": 12.61,
@@ -14847,7 +13564,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Lorenzo Pazolini": 39.11,
         "Ricardo Ferraço": 26.83,
@@ -15107,7 +13824,7 @@
       "sample_size": 1500,
       "margin_error": 2.58,
       "tse_registration": "",
-      "source_url": "#cite_note-104",
+      "source_url": "#cite_note-106",
       "candidates": {
         "Allyson": 27.8,
         "Álvaro Dias": 32.6,
@@ -15280,7 +13997,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-41",
+      "source_url": "#cite_note-:3-45",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -15307,7 +14024,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-41",
+      "source_url": "#cite_note-:3-45",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Edegar Pretto": 24.6,
@@ -15330,7 +14047,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-41",
+      "source_url": "#cite_note-:3-45",
       "candidates": {
         "Luciano Zucco": 26.9,
         "Juliana Brizola": 35.2,
@@ -15340,33 +14057,6 @@
         "Luciano Zucco": "PL",
         "Juliana Brizola": "PDT",
         "Gabriel Souza": "MDB"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-04-04",
-      "sample_size": 2030,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-54",
-      "candidates": {
-        "Eduardo Paes": 49.7,
-        "Douglas Ruas": 32.7,
-        "Wilson Witzel": 4,
-        "William Siri": 8.2,
-        "Bombeiro Rafa Luz": 2.7
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO"
       }
     },
     {
@@ -15403,7 +14093,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-40",
+      "source_url": "#cite_note-Veritá1-44",
       "candidates": {
         "Luciano Zucco": 45.3,
         "Juliana Brizola": 11.6,
@@ -15422,56 +14112,6 @@
       }
     },
     {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Doutor Raposo|Edilson Damião|Juscelino Kubitschek Pereira",
-      "secao": "Primeiro Turno (Governador) › 2026 › Março - Abril",
-      "institute": "Veritá",
-      "collection_date": "2026-04-04",
-      "sample_size": 1030,
-      "margin_error": 3.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-RO4-21",
-      "candidates": {
-        "Arthur Henrique": 42.6,
-        "Edilson Damião": 22.5,
-        "Juscelino Kubitschek Pereira": 4.2,
-        "Doutor Raposo": 1.6
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Edilson Damião": "",
-        "Juscelino Kubitschek Pereira": "",
-        "Doutor Raposo": ""
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-04-04",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-41",
-      "candidates": {
-        "Jorginho Mello": 57.9,
-        "João Rodrigues": 16.9,
-        "Gelson Merisio": 2.5,
-        "Afrânio Boppré": 5.2
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB",
-        "Afrânio Boppré": "PSOL"
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -15482,7 +14122,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-68",
+      "source_url": "#cite_note-Veritá1-72",
       "candidates": {
         "Fábio Mitidieri": 44.2,
         "Valmir de Francisquinho": 34.5,
@@ -15580,7 +14220,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-59",
+      "source_url": "#cite_note-:6-61",
       "candidates": {
         "Ciro Gomes": 30,
         "Elmano de Freitas": 21,
@@ -15722,7 +14362,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-63",
+      "source_url": "#cite_note-:3-65",
       "candidates": {
         "Cleitinho": 32.7,
         "Alexandre Kalil": 28.6,
@@ -15751,7 +14391,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-63",
+      "source_url": "#cite_note-:3-65",
       "candidates": {
         "Cleitinho": 40.5,
         "Mateus Simões": 29.4,
@@ -15776,7 +14416,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-63",
+      "source_url": "#cite_note-:3-65",
       "candidates": {
         "Cleitinho": 34.2,
         "Alexandre Kalil": 37.9,
@@ -15803,7 +14443,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-65",
+      "source_url": "#cite_note-Veritá1-67",
       "candidates": {
         "Cleitinho": 50.3,
         "Alexandre Kalil": 13.1,
@@ -16032,7 +14672,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Methodusmarco-42",
+      "source_url": "#cite_note-Methodusmarco-46",
       "candidates": {
         "Luciano Zucco": 19.4,
         "Juliana Brizola": 18.2,
@@ -16048,50 +14688,6 @@
         "Gabriel Souza": "MDB",
         "Marcelo Maranata": "PSDB",
         "Evandro Augusto": "MISSÃO"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "AltasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1280,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-43",
-      "candidates": {
-        "Jorginho Mello": 49.4,
-        "João Rodrigues": 21.4,
-        "Gelson Merisio": 13.8
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "AltasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1280,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-43",
-      "candidates": {
-        "Jorginho Mello": 49.9,
-        "João Rodrigues": 20.9
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD"
       }
     },
     {
@@ -16128,7 +14724,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-63",
+      "source_url": "#cite_note-:1-65",
       "candidates": {
         "Ciro Gomes": 39,
         "Elmano de Freitas": 42,
@@ -16151,7 +14747,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-63",
+      "source_url": "#cite_note-:1-65",
       "candidates": {
         "Elmano de Freitas": 45,
         "Roberto Cláudio": 27,
@@ -16174,7 +14770,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-66",
+      "source_url": "#cite_note-:4-68",
       "candidates": {
         "Cleitinho": 41.3,
         "Alexandre Kalil": 11.7,
@@ -16203,7 +14799,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-66",
+      "source_url": "#cite_note-:4-68",
       "candidates": {
         "Alexandre Kalil": 21.4,
         "Gabriel Azevedo": 11.1,
@@ -16228,7 +14824,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-66",
+      "source_url": "#cite_note-:4-68",
       "candidates": {
         "Mateus Simões": 29.7,
         "Gabriel Azevedo": 10.1,
@@ -16253,7 +14849,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-66",
+      "source_url": "#cite_note-:4-68",
       "candidates": {
         "Cleitinho": 44.1,
         "Alexandre Kalil": 17.5,
@@ -16280,7 +14876,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-66",
+      "source_url": "#cite_note-:4-68",
       "candidates": {
         "Cleitinho": 43.3,
         "Gabriel Azevedo": 5.7,
@@ -16326,7 +14922,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-105",
+      "source_url": "#cite_note-107",
       "candidates": {
         "Allyson": 28.8,
         "Álvaro Dias": 37.2,
@@ -16349,7 +14945,7 @@
       "sample_size": 1700,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-106",
+      "source_url": "#cite_note-:3-108",
       "candidates": {
         "Allyson": 39.2,
         "Álvaro Dias": 20.6,
@@ -16372,7 +14968,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-42",
+      "source_url": "#cite_note-:2-46",
       "candidates": {
         "Lorenzo Pazolini": 17,
         "Magno Malta": 18,
@@ -16397,7 +14993,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-42",
+      "source_url": "#cite_note-:2-46",
       "candidates": {
         "Lorenzo Pazolini": 21,
         "Ricardo Ferraço": 33,
@@ -16420,7 +15016,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-42",
+      "source_url": "#cite_note-:2-46",
       "candidates": {
         "Ricardo Ferraço": 36,
         "Arnaldinho Borgo": 11,
@@ -16443,7 +15039,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-42",
+      "source_url": "#cite_note-:2-46",
       "candidates": {
         "Magno Malta": 22,
         "Ricardo Ferraço": 25,
@@ -16564,7 +15160,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-40",
+      "source_url": "#cite_note-Veritá1-44",
       "candidates": {
         "Lorenzo Pazolini": 32,
         "Magno Malta": 19.3,
@@ -16666,7 +15262,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-3-37",
+      "source_url": "#cite_note-:-3-39",
       "candidates": {
         "Alan Rick": 40.36,
         "Mailza Assis": 20.78,
@@ -17010,7 +15606,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-71",
+      "source_url": "#cite_note-:-1-73",
       "candidates": {
         "Cleitinho": 25.5,
         "Mateus Simões": 13.5,
@@ -17037,7 +15633,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-71",
+      "source_url": "#cite_note-:-1-73",
       "candidates": {
         "Cleitinho": 29.6,
         "Alexandre Kalil": 6,
@@ -17066,7 +15662,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-71",
+      "source_url": "#cite_note-:-1-73",
       "candidates": {
         "Cleitinho": 30.8,
         "Mateus Simões": 17,
@@ -17093,7 +15689,7 @@
       "sample_size": 1700,
       "margin_error": 2.37,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-107",
+      "source_url": "#cite_note-:2-109",
       "candidates": {
         "Allyson": 29.24,
         "Álvaro Dias": 31.18,
@@ -17116,7 +15712,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-70",
+      "source_url": "#cite_note-SE02-74",
       "candidates": {
         "Fábio Mitidieri": 42.88,
         "Valmir de Francisquinho": 35.03
@@ -17137,7 +15733,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-70",
+      "source_url": "#cite_note-SE02-74",
       "candidates": {
         "Fábio Mitidieri": 44.51,
         "Ricardo Marques": 21.63
@@ -17158,7 +15754,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-70",
+      "source_url": "#cite_note-SE02-74",
       "candidates": {
         "Fábio Mitidieri": 51.64,
         "Emanuel Cacho": 10.3
@@ -17252,7 +15848,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-43",
+      "source_url": "#cite_note-:2-47",
       "candidates": {
         "Luciano Zucco": 31,
         "Juliana Brizola": 24,
@@ -17281,7 +15877,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-43",
+      "source_url": "#cite_note-:2-47",
       "candidates": {
         "Luciano Zucco": 35,
         "Juliana Brizola": 30,
@@ -17306,7 +15902,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-43",
+      "source_url": "#cite_note-:2-47",
       "candidates": {
         "Luciano Zucco": 36,
         "Edegar Pretto": 27,
@@ -17404,7 +16000,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-43",
+      "source_url": "#cite_note-:3-47",
       "candidates": {
         "Lorenzo Pazolini": 35,
         "Ricardo Ferraço": 35,
@@ -17427,7 +16023,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-43",
+      "source_url": "#cite_note-:3-47",
       "candidates": {
         "Lorenzo Pazolini": 27,
         "Magno Malta": 15,
@@ -17452,7 +16048,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-43",
+      "source_url": "#cite_note-:3-47",
       "candidates": {
         "Magno Malta": 17,
         "Ricardo Ferraço": 34,
@@ -17477,7 +16073,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-77",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 19,
@@ -17508,7 +16104,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-77",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 19,
@@ -17535,7 +16131,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-77",
       "candidates": {
         "Cleitinho": 39,
         "Alexandre Kalil": 24,
@@ -17560,7 +16156,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-77",
       "candidates": {
         "Cleitinho": 40,
         "Mateus Simões": 19,
@@ -17585,7 +16181,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-77",
       "candidates": {
         "Alexandre Kalil": 30,
         "Gabriel Azevedo": 18,
@@ -17608,7 +16204,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-77",
       "candidates": {
         "Mateus Simões": 25,
         "Gabriel Azevedo": 19,
@@ -17631,7 +16227,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-75",
+      "source_url": "#cite_note-:1-77",
       "candidates": {
         "Alexandre Kalil": 34,
         "Gabriel Azevedo": 21
@@ -17698,7 +16294,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-44",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Lorenzo Pazolini": 42,
         "Ricardo Ferraço": 36.1,
@@ -17721,7 +16317,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-44",
+      "source_url": "#cite_note-:1-48",
       "candidates": {
         "Ricardo Ferraço": 45.3,
         "Arnaldinho Borgo": 19.1,
@@ -17731,87 +16327,6 @@
         "Ricardo Ferraço": "MDB",
         "Arnaldinho Borgo": "PSDB",
         "Helder Salomão": "PT"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-10",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-56",
-      "candidates": {
-        "Eduardo Paes": 46,
-        "Douglas Ruas": 13,
-        "Ítalo Marsili": 5,
-        "Wilson Witzel": 5,
-        "William Siri": 3,
-        "Bombeiro Rafa Luz": 2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Ítalo Marsili": "Sem partido",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-10",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-56",
-      "candidates": {
-        "Eduardo Paes": 42,
-        "Douglas Ruas": 11,
-        "Ítalo Marsili": 5,
-        "Wilson Witzel": 5,
-        "William Siri": 2,
-        "Bombeiro Rafa Luz": 2,
-        "André Ceciliano": 9
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Ítalo Marsili": "Sem partido",
-        "Wilson Witzel": "Democrata",
-        "William Siri": "PSOL",
-        "Bombeiro Rafa Luz": "MISSÃO",
-        "André Ceciliano": "PT"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-10",
-      "sample_size": 2000,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-56",
-      "candidates": {
-        "Eduardo Paes": 51,
-        "Douglas Ruas": 19
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL"
       }
     },
     {
@@ -17825,7 +16340,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-77",
+      "source_url": "#cite_note-:2-79",
       "candidates": {
         "Cleitinho": 45.6,
         "Alexandre Kalil": 18.4,
@@ -17850,7 +16365,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-77",
+      "source_url": "#cite_note-:2-79",
       "candidates": {
         "Cleitinho": 45.8,
         "Mateus Simões": 22.6,
@@ -17862,35 +16377,6 @@
         "Mateus Simões": "PSD",
         "Gabriel Azevedo": "MDB",
         "Marcelo Aro": "PP"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Gerp",
-      "collection_date": "2026-03-06",
-      "sample_size": 1200,
-      "margin_error": 2.89,
-      "tse_registration": "",
-      "source_url": "#cite_note-:2-57",
-      "candidates": {
-        "Eduardo Paes": 46,
-        "Douglas Ruas": 4,
-        "Wilson Witzel": 3,
-        "Anthony Garotinho": 8,
-        "Glauber Braga": 6,
-        "Felipe Curi": 5
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Wilson Witzel": "Democrata",
-        "Anthony Garotinho": "Republicanos",
-        "Glauber Braga": "PSOL",
-        "Felipe Curi": "Sem partido"
       }
     },
     {
@@ -17976,31 +16462,6 @@
         "Fernando Giacobo": "PSD",
         "Guto Silva": "PSD",
         "Luiz França": "MISSÃO"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Afrânio Boppré|Gelson Merisio|Jorginho Mello|João Rodrigues",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "Mapa/Jovem Pan",
-      "collection_date": "2026-03-03",
-      "sample_size": 1008,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-46",
-      "candidates": {
-        "Jorginho Mello": 56.2,
-        "João Rodrigues": 15.5,
-        "Gelson Merisio": 3.4,
-        "Afrânio Boppré": 2.6
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Gelson Merisio": "PSB",
-        "Afrânio Boppré": "PSOL"
       }
     },
     {
@@ -18093,7 +16554,7 @@
       "sample_size": 1010,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Methodusfev-44",
+      "source_url": "#cite_note-Methodusfev-48",
       "candidates": {
         "Luciano Zucco": 19.9,
         "Juliana Brizola": 16.7,
@@ -18216,7 +16677,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-46",
+      "source_url": "#cite_note-:1-50",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Juliana Brizola": 17,
@@ -18247,7 +16708,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-46",
+      "source_url": "#cite_note-:1-50",
       "candidates": {
         "Luciano Zucco": 27.5,
         "Juliana Brizola": 19.5,
@@ -18276,7 +16737,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-46",
+      "source_url": "#cite_note-:1-50",
       "candidates": {
         "Luciano Zucco": 28.9,
         "Juliana Brizola": 20.9,
@@ -18394,91 +16855,6 @@
         "Daniel Santos": "PODE",
         "Hana Ghassan": "MDB",
         "Mário Couto": "PL"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "100% Cidades/Futura",
-      "collection_date": "2026-02-02",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-58",
-      "candidates": {
-        "Eduardo Paes": 42.5,
-        "Douglas Ruas": 1.6,
-        "Ítalo Marsili": 0.6,
-        "Wilson Witzel": 3.5,
-        "Bombeiro Rafa Luz": 3.1,
-        "Anthony Garotinho": 14.2,
-        "Glauber Braga": 3.3
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Ítalo Marsili": "Sem partido",
-        "Wilson Witzel": "Democrata",
-        "Bombeiro Rafa Luz": "MISSÃO",
-        "Anthony Garotinho": "Republicanos",
-        "Glauber Braga": "PSOL"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "100% Cidades/Futura",
-      "collection_date": "2026-02-02",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-58",
-      "candidates": {
-        "Eduardo Paes": 50.5,
-        "Douglas Ruas": 2.3,
-        "Ítalo Marsili": 1.2,
-        "Wilson Witzel": 4.6,
-        "Glauber Braga": 4.2
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Douglas Ruas": "PL",
-        "Ítalo Marsili": "Sem partido",
-        "Wilson Witzel": "Democrata",
-        "Glauber Braga": "PSOL"
-      }
-    },
-    {
-      "uf": "RJ",
-      "estado": "Rio de Janeiro",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio de Janeiro",
-      "cenario": "André Ceciliano|André Marinho|Anthony Garotinho|Bombeiro Rafa Luz|Douglas Ruas|Eduardo Paes|Felipe Curi|Glauber Braga|William Siri|Wilson Witzel|Ítalo Marsili",
-      "secao": "Primeiro Turno (Governador) › 2026 › Janeiro - Julho",
-      "institute": "100% Cidades/Futura",
-      "collection_date": "2026-02-02",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-58",
-      "candidates": {
-        "Eduardo Paes": 50.3,
-        "Ítalo Marsili": 0.7,
-        "Wilson Witzel": 5.2,
-        "Glauber Braga": 3.8,
-        "Felipe Curi": 1.7
-      },
-      "parties": {
-        "Eduardo Paes": "PSD",
-        "Ítalo Marsili": "Sem partido",
-        "Wilson Witzel": "Democrata",
-        "Glauber Braga": "PSOL",
-        "Felipe Curi": "Sem partido"
       }
     },
     {
@@ -18930,58 +17306,6 @@
       }
     },
     {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Adriano Silva|Afrânio Boppré|Décio Lima|Jorginho Mello|João Rodrigues|Marcos Vieira",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Julho",
-      "institute": "Neokemp",
-      "collection_date": "2025-12-23",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-47",
-      "candidates": {
-        "Jorginho Mello": 41.3,
-        "João Rodrigues": 20.1,
-        "Décio Lima": 14.6,
-        "Adriano Silva": 9.6,
-        "Afrânio Boppré": 2.9
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Décio Lima": "PT",
-        "Adriano Silva": "NOVO",
-        "Afrânio Boppré": "PSOL"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Adriano Silva|Afrânio Boppré|Décio Lima|Jorginho Mello|João Rodrigues|Marcos Vieira",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Julho",
-      "institute": "Neokemp",
-      "collection_date": "2025-12-23",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-47",
-      "candidates": {
-        "Jorginho Mello": 44.7,
-        "João Rodrigues": 24,
-        "Décio Lima": 8.9,
-        "Afrânio Boppré": 6.1
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Décio Lima": "PT",
-        "Afrânio Boppré": "PSOL"
-      }
-    },
-    {
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
@@ -19040,7 +17364,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-109",
+      "source_url": "#cite_note-111",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 26,
@@ -19063,7 +17387,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-109",
+      "source_url": "#cite_note-111",
       "candidates": {
         "Allyson": 39,
         "Álvaro Dias": 15,
@@ -19086,7 +17410,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-109",
+      "source_url": "#cite_note-111",
       "candidates": {
         "Allyson": 34,
         "Rogério Marinho": 15,
@@ -19157,7 +17481,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-110",
+      "source_url": "#cite_note-:0-112",
       "candidates": {
         "Allyson": 38.6,
         "Rogério Marinho": 19,
@@ -19180,7 +17504,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-110",
+      "source_url": "#cite_note-:0-112",
       "candidates": {
         "Allyson": 38.2,
         "Álvaro Dias": 15.1,
@@ -19203,7 +17527,7 @@
       "sample_size": 1870,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-110",
+      "source_url": "#cite_note-:0-112",
       "candidates": {
         "Allyson": 35.9,
         "Rogério Marinho": 15.6,
@@ -19226,7 +17550,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-38",
+      "source_url": "#cite_note-AC01-40",
       "candidates": {
         "Alan Rick": 40,
         "Tião Bocalom": 24,
@@ -19251,7 +17575,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-38",
+      "source_url": "#cite_note-AC01-40",
       "candidates": {
         "Alan Rick": 51,
         "Mailza Assis": 21,
@@ -19274,7 +17598,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-38",
+      "source_url": "#cite_note-AC01-40",
       "candidates": {
         "Alan Rick": 46,
         "Tião Bocalom": 30,
@@ -19547,135 +17871,6 @@
       }
     },
     {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Doutor Raposo|Edilson Damião|Juscelino Kubitschek Pereira|Romero Jucá|Soldado Sampaio|Teresa Surita",
-      "secao": "Primeiro Turno (Governador) › 2025 › Março - Abril",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-12-04",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-RR01-22",
-      "candidates": {
-        "Arthur Henrique": 33,
-        "Edilson Damião": 28,
-        "Soldado Sampaio": 11,
-        "Juscelino Kubitschek Pereira": 6,
-        "Doutor Raposo": 5
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Edilson Damião": "",
-        "Soldado Sampaio": "",
-        "Juscelino Kubitschek Pereira": "",
-        "Doutor Raposo": ""
-      }
-    },
-    {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Doutor Raposo|Edilson Damião|Juscelino Kubitschek Pereira|Romero Jucá|Soldado Sampaio|Teresa Surita",
-      "secao": "Primeiro Turno (Governador) › 2025 › Março - Abril",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-12-04",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-RR01-22",
-      "candidates": {
-        "Arthur Henrique": 37,
-        "Edilson Damião": 35,
-        "Juscelino Kubitschek Pereira": 6
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Edilson Damião": "",
-        "Juscelino Kubitschek Pereira": ""
-      }
-    },
-    {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Doutor Raposo|Edilson Damião|Juscelino Kubitschek Pereira|Romero Jucá|Soldado Sampaio|Teresa Surita",
-      "secao": "Primeiro Turno (Governador) › 2025 › Março - Abril",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-12-04",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-RR01-22",
-      "candidates": {
-        "Teresa Surita": 42,
-        "Edilson Damião": 33,
-        "Juscelino Kubitschek Pereira": 5
-      },
-      "parties": {
-        "Teresa Surita": "",
-        "Edilson Damião": "",
-        "Juscelino Kubitschek Pereira": ""
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Adriano Silva|Afrânio Boppré|Décio Lima|Jorginho Mello|João Rodrigues|Marcos Vieira",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-12-03",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-47",
-      "candidates": {
-        "Jorginho Mello": 48,
-        "João Rodrigues": 22,
-        "Décio Lima": 14,
-        "Adriano Silva": 2,
-        "Marcos Vieira": 1,
-        "Afrânio Boppré": 1
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Décio Lima": "PT",
-        "Adriano Silva": "NOVO",
-        "Marcos Vieira": "PSDB",
-        "Afrânio Boppré": "PSOL"
-      }
-    },
-    {
-      "uf": "SC",
-      "estado": "Santa Catarina",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Santa Catarina",
-      "cenario": "Adriano Silva|Afrânio Boppré|Décio Lima|Jorginho Mello|João Rodrigues|Marcos Vieira",
-      "secao": "Primeiro Turno (Governador) › 2025 › Janeiro - Julho",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-12-03",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-47",
-      "candidates": {
-        "Jorginho Mello": 49,
-        "João Rodrigues": 25,
-        "Adriano Silva": 2,
-        "Marcos Vieira": 2,
-        "Afrânio Boppré": 5
-      },
-      "parties": {
-        "Jorginho Mello": "PL",
-        "João Rodrigues": "PSD",
-        "Adriano Silva": "NOVO",
-        "Marcos Vieira": "PSDB",
-        "Afrânio Boppré": "PSOL"
-      }
-    },
-    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -19686,7 +17881,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-112",
+      "source_url": "#cite_note-:1-114",
       "candidates": {
         "Allyson": 36,
         "Rogério Marinho": 34,
@@ -19709,7 +17904,7 @@
       "sample_size": 1300,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-112",
+      "source_url": "#cite_note-:1-114",
       "candidates": {
         "Allyson": 42,
         "Álvaro Dias": 17,
@@ -19916,7 +18111,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-71",
+      "source_url": "#cite_note-SE01-75",
       "candidates": {
         "Fábio Mitidieri": 46,
         "Valmir de Francisquinho": 33
@@ -19937,7 +18132,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-71",
+      "source_url": "#cite_note-SE01-75",
       "candidates": {
         "Fábio Mitidieri": 49,
         "Thiago de Joaldo": 26
@@ -19958,7 +18153,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-71",
+      "source_url": "#cite_note-SE01-75",
       "candidates": {
         "Fábio Mitidieri": 48,
         "Emília Corrêa": 32
@@ -19979,7 +18174,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-71",
+      "source_url": "#cite_note-SE01-75",
       "candidates": {
         "Fábio Mitidieri": 50,
         "Eduardo Amorim": 28
@@ -20000,7 +18195,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-47",
+      "source_url": "#cite_note-:6-51",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -20027,7 +18222,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-47",
+      "source_url": "#cite_note-:6-51",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -20052,7 +18247,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-47",
+      "source_url": "#cite_note-:6-51",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -20077,7 +18272,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-47",
+      "source_url": "#cite_note-:6-51",
       "candidates": {
         "Luciano Zucco": 29,
         "Juliana Brizola": 31,
@@ -20100,7 +18295,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-47",
+      "source_url": "#cite_note-:6-51",
       "candidates": {
         "Luciano Zucco": 29,
         "Edegar Pretto": 29,
@@ -20123,7 +18318,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-50",
+      "source_url": "#cite_note-:7-54",
       "candidates": {
         "Luciano Zucco": 21.1,
         "Juliana Brizola": 11,
@@ -20148,7 +18343,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-50",
+      "source_url": "#cite_note-:7-54",
       "candidates": {
         "Luciano Zucco": 24.1,
         "Juliana Brizola": 15,
@@ -20276,87 +18471,6 @@
       }
     },
     {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Doutor Raposo|Edilson Damião|Juscelino Kubitschek Pereira|Romero Jucá|Soldado Sampaio|Teresa Surita",
-      "secao": "Primeiro Turno (Governador) › 2025 › Março - Abril",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-10-14",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-RR02-23",
-      "candidates": {
-        "Teresa Surita": 33,
-        "Edilson Damião": 23,
-        "Soldado Sampaio": 13,
-        "Juscelino Kubitschek Pereira": 5,
-        "Doutor Raposo": 5
-      },
-      "parties": {
-        "Teresa Surita": "",
-        "Edilson Damião": "",
-        "Soldado Sampaio": "",
-        "Juscelino Kubitschek Pereira": "",
-        "Doutor Raposo": ""
-      }
-    },
-    {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Doutor Raposo|Edilson Damião|Juscelino Kubitschek Pereira|Romero Jucá|Soldado Sampaio|Teresa Surita",
-      "secao": "Primeiro Turno (Governador) › 2025 › Março - Abril",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-10-14",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-RR02-23",
-      "candidates": {
-        "Arthur Henrique": 31,
-        "Edilson Damião": 25,
-        "Soldado Sampaio": 13,
-        "Juscelino Kubitschek Pereira": 6,
-        "Doutor Raposo": 6
-      },
-      "parties": {
-        "Arthur Henrique": "",
-        "Edilson Damião": "",
-        "Soldado Sampaio": "",
-        "Juscelino Kubitschek Pereira": "",
-        "Doutor Raposo": ""
-      }
-    },
-    {
-      "uf": "RR",
-      "estado": "Roraima",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Roraima",
-      "cenario": "Arthur Henrique|Doutor Raposo|Edilson Damião|Juscelino Kubitschek Pereira|Romero Jucá|Soldado Sampaio|Teresa Surita",
-      "secao": "Primeiro Turno (Governador) › 2025 › Março - Abril",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-10-14",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-RR02-23",
-      "candidates": {
-        "Edilson Damião": 28,
-        "Soldado Sampaio": 14,
-        "Juscelino Kubitschek Pereira": 6,
-        "Doutor Raposo": 7,
-        "Romero Jucá": 24
-      },
-      "parties": {
-        "Edilson Damião": "",
-        "Soldado Sampaio": "",
-        "Juscelino Kubitschek Pereira": "",
-        "Doutor Raposo": "",
-        "Romero Jucá": ""
-      }
-    },
-    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -20451,7 +18565,7 @@
       "sample_size": 1505,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-113",
+      "source_url": "#cite_note-:-1-115",
       "candidates": {
         "Allyson": 30,
         "Rogério Marinho": 28.2,
@@ -20476,7 +18590,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Alan Rick": 35,
         "Tião Bocalom": 23,
@@ -20501,7 +18615,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Alan Rick": 44,
         "Mailza Assis": 18,
@@ -20524,7 +18638,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Alan Rick": 38,
         "Tião Bocalom": 27,
