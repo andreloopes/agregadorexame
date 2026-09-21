@@ -1,8 +1,8 @@
 {
-  "atualizado_em": "2026-09-20",
+  "atualizado_em": "2026-09-21",
   "corte": "2026-09-16",
-  "cenario": "Brasil (nacional) — 1º turno · Augusto Cury | Flávio Bolsonaro | Lula | Renan Santos | Ronaldo Caiado",
-  "criterio_cenario": "grupo mais frequente entre os candidatos centrais (Lula, Flávio Bolsonaro, Augusto Cury, Renan Santos, Ronaldo Caiado)",
+  "cenario": "Brasil (nacional) — 1º turno · Augusto Cury | Flávio Bolsonaro | Lula | Renan Santos | Romeu Zema | Ronaldo Caiado",
+  "criterio_cenario": "grupo mais frequente entre os candidatos centrais (Lula, Flávio Bolsonaro, Ronaldo Caiado, Renan Santos, Augusto Cury, Romeu Zema)",
   "pesquisas_no_calculo": 24,
   "indecisos": 7.762,
   "fonte": "Wikipédia em português — pesquisas presidenciais de 2026",
@@ -14,8 +14,8 @@
       "nome": "Lula",
       "partido": "PT",
       "media": 38.867,
-      "ic_min": 38.482,
-      "ic_max": 39.266,
+      "ic_min": 38.468,
+      "ic_max": 39.281,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": -0.433
@@ -24,8 +24,8 @@
       "nome": "Flávio Bolsonaro",
       "partido": "PL",
       "media": 35.905,
-      "ic_min": 35.532,
-      "ic_max": 36.292,
+      "ic_min": 35.501,
+      "ic_max": 36.293,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": 1.705
@@ -34,8 +34,8 @@
       "nome": "Augusto Cury",
       "partido": "Avante",
       "media": 7.085,
-      "ic_min": 6.813,
-      "ic_max": 7.351,
+      "ic_min": 6.817,
+      "ic_max": 7.363,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": 2.425
@@ -44,8 +44,8 @@
       "nome": "Renan Santos",
       "partido": "Missão",
       "media": 3.963,
-      "ic_min": 3.69,
-      "ic_max": 4.229,
+      "ic_min": 3.705,
+      "ic_max": 4.224,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": -0.277
@@ -54,8 +54,8 @@
       "nome": "Ronaldo Caiado",
       "partido": "PSD",
       "media": 3.045,
-      "ic_min": 2.783,
-      "ic_max": 3.321,
+      "ic_min": 2.777,
+      "ic_max": 3.312,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": -0.845
@@ -64,8 +64,8 @@
       "nome": "Romeu Zema",
       "partido": "Novo",
       "media": 1.112,
-      "ic_min": 0.932,
-      "ic_max": 1.401,
+      "ic_min": 0.935,
+      "ic_max": 1.412,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": 0
@@ -74,8 +74,8 @@
       "nome": "Samara Martins",
       "partido": "UP",
       "media": 0.512,
-      "ic_min": 0.452,
-      "ic_max": 0.861,
+      "ic_min": 0.453,
+      "ic_max": 0.851,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": 0
@@ -84,8 +84,8 @@
       "nome": "Hertz Dias",
       "partido": "PSTU",
       "media": 0.416,
-      "ic_min": 0.418,
-      "ic_max": 0.841,
+      "ic_min": 0.419,
+      "ic_max": 0.84,
       "cobertura": 0.917,
       "pesquisas_com_candidato": 22,
       "tendencia_14d": 0
@@ -94,8 +94,8 @@
       "nome": "Rui Costa Pimenta",
       "partido": "PCO",
       "media": 0.405,
-      "ic_min": 0.373,
-      "ic_max": 0.794,
+      "ic_min": 0.374,
+      "ic_max": 0.799,
       "cobertura": 0.917,
       "pesquisas_com_candidato": 22,
       "tendencia_14d": 0
@@ -104,8 +104,8 @@
       "nome": "Costa",
       "partido": "",
       "media": 0.272,
-      "ic_min": 0.279,
-      "ic_max": 0.706,
+      "ic_min": 0.281,
+      "ic_max": 0.707,
       "cobertura": 0.833,
       "pesquisas_com_candidato": 20,
       "tendencia_14d": 0
@@ -114,8 +114,8 @@
       "nome": "Clariana Barão",
       "partido": "DC",
       "media": 0.258,
-      "ic_min": 0.258,
-      "ic_max": 0.685,
+      "ic_min": 0.265,
+      "ic_max": 0.68,
       "cobertura": 0.833,
       "pesquisas_com_candidato": 20,
       "tendencia_14d": 0
@@ -124,8 +124,8 @@
       "nome": "Grassi",
       "partido": "",
       "media": 0.08,
-      "ic_min": 0.156,
-      "ic_max": 0.523,
+      "ic_min": 0.158,
+      "ic_max": 0.525,
       "cobertura": 0.917,
       "pesquisas_com_candidato": 22,
       "tendencia_14d": 0
@@ -205,5 +205,5 @@
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:150-20"
     }
   ],
-  "_cenario_assinatura": "Augusto Cury | Flávio Bolsonaro | Lula | Renan Santos | Ronaldo Caiado"
+  "_cenario_assinatura": "Augusto Cury | Flávio Bolsonaro | Lula | Renan Santos | Romeu Zema | Ronaldo Caiado"
 }

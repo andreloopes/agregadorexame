@@ -1,6 +1,81 @@
 {
-  "atualizado_em": "2026-09-20",
+  "atualizado_em": "2026-09-21",
   "pesquisas": [
+    {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-09-20",
+      "sample_size": 1400,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-:15-12",
+      "candidates": {
+        "JHC": 48.6,
+        "Renan Filho": 41.6
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "AC",
+      "estado": "Acre",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
+      "cenario": "Alan Rick|Mailza Assis|Thor Dantas|Tião Bocalom",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-19",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-6",
+      "candidates": {
+        "Alan Rick": 33,
+        "Mailza Assis": 36,
+        "Tião Bocalom": 15,
+        "Thor Dantas": 9
+      },
+      "parties": {
+        "Alan Rick": "Republicanos",
+        "Mailza Assis": "PP",
+        "Tião Bocalom": "PSDB",
+        "Thor Dantas": "PSB"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "IGAPE",
+      "collection_date": "2026-09-19",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-11",
+      "candidates": {
+        "Celina Leão": 41.5,
+        "Arruda": 16.3,
+        "Leandro Grass": 15.8,
+        "Cappelli": 3.9,
+        "Paula Belmonte": 5.4,
+        "Kiko Caputo": 2.9
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
     {
       "uf": "RO",
       "estado": "Rondônia",
@@ -22,6 +97,56 @@
         "Marcos Rogério": "",
         "Adaílton Fúria": "",
         "Hildon Chaves": ""
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "IFP",
+      "collection_date": "2026-09-19",
+      "sample_size": 1300,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-:12-10",
+      "candidates": {
+        "Fábio Mitidieri": 46,
+        "Valmir de Francisquinho": 28.33,
+        "Ricardo Marques": 3.68,
+        "Emanuel Cacho": 1
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Primeiro turno (governador) › 2026 › Julho – Setembro",
+      "institute": "IPSensus",
+      "collection_date": "2026-09-18",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-14",
+      "candidates": {
+        "Eduardo Braide": 35.7,
+        "Orleans Brandão": 43.6,
+        "Felipe Camarão": 8.1,
+        "Roberto Rocha": 3
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -296,7 +421,7 @@
       "sample_size": 1356,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-6",
+      "source_url": "#cite_note-8",
       "candidates": {
         "Alan Rick": 26.1,
         "Mailza Assis": 40.4,
@@ -428,12 +553,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
       "cenario": "Joel Rodrigues|Rafael Fonteles",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "DataFolha",
+      "institute": "Datafolha",
       "collection_date": "2026-09-16",
       "sample_size": 826,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
         "Rafael Fonteles": 55,
         "Joel Rodrigues": 25
@@ -511,6 +636,39 @@
       }
     },
     {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-15",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-RealTime2109-13",
+      "candidates": {
+        "Sergio Moro": 35,
+        "Requião Filho": 22,
+        "Sandro Alex": 27,
+        "Luiz França": 2,
+        "Samuel de Mattos": 1,
+        "Adriano Teixeira": 1,
+        "Tayná Miessa": 1,
+        "Alexandre Salomão": 1
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -544,7 +702,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Fábio Mitidieri": 56.7,
         "Valmir de Francisquinho": 35.7,
@@ -569,7 +727,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-12",
+      "source_url": "#cite_note-:14-14",
       "candidates": {
         "JHC": 43,
         "Renan Filho": 46
@@ -615,7 +773,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-14",
+      "source_url": "#cite_note-:8-16",
       "candidates": {
         "Eduardo Braide": 44.5,
         "Orleans Brandão": 27.8,
@@ -809,7 +967,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Fábio Mitidieri": 37.29,
         "Valmir de Francisquinho": 44.67,
@@ -834,7 +992,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "JHC": 47,
         "Renan Filho": 36
@@ -855,7 +1013,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-11",
+      "source_url": "#cite_note-:11-13",
       "candidates": {
         "Celina Leão": 41,
         "Arruda": 15.7,
@@ -898,6 +1056,56 @@
         "Expedito Netto": "",
         "Hildon Chaves": "",
         "Samuel Costa": ""
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "IPP",
+      "collection_date": "2026-09-12",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-16",
+      "candidates": {
+        "Fábio Mitidieri": 44.8,
+        "Valmir de Francisquinho": 49.9,
+        "Ricardo Marques": 4.1,
+        "Emanuel Cacho": 0.1
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
+      }
+    },
+    {
+      "uf": "SE",
+      "estado": "Sergipe",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
+      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
+      "institute": "IPP",
+      "collection_date": "2026-09-12",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-16",
+      "candidates": {
+        "Fábio Mitidieri": 39.3,
+        "Valmir de Francisquinho": 43.8,
+        "Ricardo Marques": 3.6,
+        "Emanuel Cacho": 0.1
+      },
+      "parties": {
+        "Fábio Mitidieri": "PSD",
+        "Valmir de Francisquinho": "Republicanos",
+        "Ricardo Marques": "PL",
+        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -984,7 +1192,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Fábio Mitidieri": 47.3,
         "Valmir de Francisquinho": 35.7,
@@ -1009,7 +1217,7 @@
       "sample_size": 615,
       "margin_error": 3.95,
       "tse_registration": "",
-      "source_url": "#cite_note-8",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Alan Rick": 28.6,
         "Mailza Assis": 24.1,
@@ -1109,7 +1317,7 @@
       "sample_size": 1600,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Eduardo Braide": 36.1,
         "Orleans Brandão": 43,
@@ -1188,7 +1396,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Sergio Moro": 48.8,
         "Requião Filho": 23.3,
@@ -1263,7 +1471,7 @@
       "sample_size": 1300,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-17",
+      "source_url": "#cite_note-:11-22",
       "candidates": {
         "Fábio Mitidieri": 42.41,
         "Valmir de Francisquinho": 27.07,
@@ -1376,7 +1584,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Eduardo Braide": 45,
         "Orleans Brandão": 32,
@@ -1505,7 +1713,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-14",
+      "source_url": "#cite_note-:26-15",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 20,
@@ -1599,7 +1807,7 @@
       "sample_size": 1260,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-19",
+      "source_url": "#cite_note-:9-24",
       "candidates": {
         "Fábio Mitidieri": 41.3,
         "Valmir de Francisquinho": 34.2,
@@ -1624,7 +1832,7 @@
       "sample_size": 1260,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-19",
+      "source_url": "#cite_note-:9-24",
       "candidates": {
         "Fábio Mitidieri": 44.6,
         "Ricardo Marques": 25.1,
@@ -1647,7 +1855,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-18",
       "candidates": {
         "JHC": 48.3,
         "Renan Filho": 34.2
@@ -1691,7 +1899,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-15",
+      "source_url": "#cite_note-:10-17",
       "candidates": {
         "Celina Leão": 35,
         "Arruda": 20,
@@ -1718,7 +1926,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-15",
+      "source_url": "#cite_note-:10-17",
       "candidates": {
         "Celina Leão": 46,
         "Leandro Grass": 23,
@@ -1766,7 +1974,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-15",
+      "source_url": "#cite_note-:25-16",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 21,
@@ -1889,7 +2097,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-17",
+      "source_url": "#cite_note-:9-19",
       "candidates": {
         "Celina Leão": 35,
         "Arruda": 18,
@@ -2039,7 +2247,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Alan Rick": 36,
         "Mailza Assis": 32,
@@ -2064,7 +2272,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "JHC": 47.34,
         "Renan Filho": 34.88
@@ -2085,7 +2293,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Celina Leão": 36.5,
         "Arruda": 20.7,
@@ -2256,7 +2464,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-17",
+      "source_url": "#cite_note-:24-18",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 20.1,
@@ -2335,7 +2543,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Sergio Moro": 38.8,
         "Requião Filho": 21.8,
@@ -2385,7 +2593,7 @@
       "sample_size": 1300,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-22",
+      "source_url": "#cite_note-:8-27",
       "candidates": {
         "Fábio Mitidieri": 42.93,
         "Valmir de Francisquinho": 27.83,
@@ -2410,7 +2618,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-D-23",
+      "source_url": "#cite_note-:8-D-28",
       "candidates": {
         "Fábio Mitidieri": 45,
         "Valmir de Francisquinho": 37,
@@ -2435,7 +2643,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Fábio Mitidieri": 48.28,
         "Valmir de Francisquinho": 27.28
@@ -2456,7 +2664,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "JHC": 44.2,
         "Renan Filho": 31.9
@@ -2477,7 +2685,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-24",
+      "source_url": "#cite_note-:12-26",
       "candidates": {
         "JHC": 43,
         "Renan Filho": 43
@@ -2611,7 +2819,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Eduardo Braide": 44.8,
         "Orleans Brandão": 24.5,
@@ -2707,7 +2915,7 @@
       "sample_size": 1280,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-19",
+      "source_url": "#cite_note-:23-20",
       "candidates": {
         "Sergio Moro": 45,
         "Requião Filho": 24,
@@ -2803,7 +3011,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Fábio Mitidieri": 46.13,
         "Valmir de Francisquinho": 24.87,
@@ -2828,7 +3036,7 @@
       "sample_size": 1030,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-12",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Alan Rick": 39.8,
         "Mailza Assis": 27.9,
@@ -3041,7 +3249,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "JHC": 47.6,
         "Renan Filho": 35.6
@@ -3062,7 +3270,7 @@
       "sample_size": 1400,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-28",
+      "source_url": "#cite_note-:11-30",
       "candidates": {
         "JHC": 47.2,
         "Renan Filho": 41.3
@@ -3083,7 +3291,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-29",
       "candidates": {
         "Celina Leão": 35.4,
         "Arruda": 24.5,
@@ -3112,7 +3320,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Eduardo Braide": 36.4,
         "Orleans Brandão": 42.3,
@@ -3264,7 +3472,7 @@
       "sample_size": 1430,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-14",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Alan Rick": 36.1,
         "Mailza Assis": 33.1,
@@ -3314,7 +3522,7 @@
       "sample_size": 1141,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-21",
+      "source_url": "#cite_note-:8-23",
       "candidates": {
         "Celina Leão": 34.5,
         "Arruda": 20.93,
@@ -3476,7 +3684,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Sergio Moro": 46.9,
         "Requião Filho": 23.3,
@@ -3509,7 +3717,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-21",
+      "source_url": "#cite_note-:22-22",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 20,
@@ -3653,7 +3861,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-16",
+      "source_url": "#cite_note-:7-18",
       "candidates": {
         "Alan Rick": 33,
         "Mailza Assis": 24,
@@ -3818,7 +4026,7 @@
       "sample_size": 2600,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Eduardo Braide": 42.54,
         "Orleans Brandão": 42.08,
@@ -3843,7 +4051,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-27",
+      "source_url": "#cite_note-:7-32",
       "candidates": {
         "Fábio Mitidieri": 40,
         "Valmir de Francisquinho": 20,
@@ -3891,7 +4099,7 @@
       "sample_size": 5000,
       "margin_error": 1.39,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-V-30",
+      "source_url": "#cite_note-:11-V-32",
       "candidates": {
         "JHC": 37.5,
         "Renan Filho": 41.25
@@ -3983,7 +4191,7 @@
       "sample_size": 900,
       "margin_error": 3.27,
       "tse_registration": "",
-      "source_url": "#cite_note-26",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Eduardo Braide": 36.6,
         "Orleans Brandão": 41.1,
@@ -4077,7 +4285,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-18",
+      "source_url": "#cite_note-:6-20",
       "candidates": {
         "Alan Rick": 32.5,
         "Mailza Assis": 29.32,
@@ -4102,7 +4310,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "JHC": 46.41,
         "Renan Filho": 33.88
@@ -4173,7 +4381,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-29",
+      "source_url": "#cite_note-:5-31",
       "candidates": {
         "Celina Leão": 34,
         "Arruda": 20,
@@ -4386,7 +4594,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "JHC": 55,
         "Renan Filho": 42.6
@@ -4407,7 +4615,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-36",
+      "source_url": "#cite_note-:10-38",
       "candidates": {
         "JHC": 40,
         "Renan Filho": 42
@@ -4453,7 +4661,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25,
@@ -4578,7 +4786,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:21-22",
+      "source_url": "#cite_note-:21-23",
       "candidates": {
         "Sergio Moro": 37,
         "Requião Filho": 21,
@@ -4634,7 +4842,7 @@
       "sample_size": 1620,
       "margin_error": 2.43,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Alan Rick": 27.5,
         "Mailza Assis": 34.9,
@@ -4705,7 +4913,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Celina Leão": 33.9,
         "Arruda": 24.1,
@@ -4782,7 +4990,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-23",
+      "source_url": "#cite_note-:20-24",
       "candidates": {
         "Sergio Moro": 38,
         "Requião Filho": 20,
@@ -4972,7 +5180,7 @@
       "sample_size": 1314,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-S-29",
+      "source_url": "#cite_note-:7-S-34",
       "candidates": {
         "Fábio Mitidieri": 39.69,
         "Valmir de Francisquinho": 28.43,
@@ -4997,7 +5205,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Fábio Mitidieri": 44.4,
         "Valmir de Francisquinho": 25.5,
@@ -5022,7 +5230,7 @@
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Eduardo Braide": 37.84,
         "Orleans Brandão": 41.01,
@@ -5164,7 +5372,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-24",
+      "source_url": "#cite_note-:19-25",
       "candidates": {
         "Sergio Moro": 36.81,
         "Requião Filho": 21.02,
@@ -5218,7 +5426,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-35",
+      "source_url": "#cite_note-:4-37",
       "candidates": {
         "Celina Leão": 34,
         "Arruda": 32,
@@ -5245,7 +5453,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-35",
+      "source_url": "#cite_note-:4-37",
       "candidates": {
         "Celina Leão": 45,
         "Leandro Grass": 20,
@@ -5391,7 +5599,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-25",
+      "source_url": "#cite_note-:17-26",
       "candidates": {
         "Sergio Moro": 37,
         "Requião Filho": 20,
@@ -5424,7 +5632,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-33",
+      "source_url": "#cite_note-:6-38",
       "candidates": {
         "Fábio Mitidieri": 51,
         "Valmir de Francisquinho": 33.7,
@@ -5449,7 +5657,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-26",
+      "source_url": "#cite_note-:0-27",
       "candidates": {
         "Sergio Moro": 37.33,
         "Requião Filho": 20.56,
@@ -5482,7 +5690,7 @@
       "sample_size": 1520,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-28",
+      "source_url": "#cite_note-:16-29",
       "candidates": {
         "Sergio Moro": 46.1,
         "Requião Filho": 23.4,
@@ -5515,7 +5723,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Fábio Mitidieri": 31.59,
         "Valmir de Francisquinho": 46.73,
@@ -5540,7 +5748,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-37",
+      "source_url": "#cite_note-:3-39",
       "candidates": {
         "Celina Leão": 33.4,
         "Arruda": 23.7,
@@ -5828,7 +6036,7 @@
       "sample_size": 1350,
       "margin_error": 2.67,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-29",
+      "source_url": "#cite_note-:15-30",
       "candidates": {
         "Sergio Moro": 40.2,
         "Requião Filho": 21,
@@ -5905,7 +6113,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Fábio Mitidieri": 38.94,
         "Valmir de Francisquinho": 28.76,
@@ -5930,7 +6138,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Fábio Mitidieri": 37,
         "Valmir de Francisquinho": 23.8,
@@ -5976,7 +6184,7 @@
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Eduardo Braide": 39.1,
         "Orleans Brandão": 47.5,
@@ -6024,7 +6232,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Sergio Moro": 45.7,
         "Requião Filho": 23.2,
@@ -6124,7 +6332,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-34",
+      "source_url": "#cite_note-:0-36",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25.9,
@@ -6195,7 +6403,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Alan Rick": 38.23,
         "Mailza Assis": 25.55,
@@ -6266,7 +6474,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Alan Rick": 37,
         "Mailza Assis": 29,
@@ -6291,7 +6499,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 19.5,
@@ -6487,7 +6695,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-33",
+      "source_url": "#cite_note-:14-34",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -6516,7 +6724,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-42",
+      "source_url": "#cite_note-:5-47",
       "candidates": {
         "Fábio Mitidieri": 43,
         "Valmir de Francisquinho": 40,
@@ -6618,7 +6826,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-65",
+      "source_url": "#cite_note-:3-69",
       "candidates": {
         "Cleitinho": 32.7,
         "Alexandre Kalil": 28.6,
@@ -6647,7 +6855,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-65",
+      "source_url": "#cite_note-:3-69",
       "candidates": {
         "Cleitinho": 40.5,
         "Mateus Simões": 29.4,
@@ -6672,7 +6880,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-65",
+      "source_url": "#cite_note-:3-69",
       "candidates": {
         "Cleitinho": 34.2,
         "Alexandre Kalil": 37.9,
@@ -6699,7 +6907,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-67",
+      "source_url": "#cite_note-Veritá1-71",
       "candidates": {
         "Cleitinho": 50.3,
         "Alexandre Kalil": 13.1,
@@ -6870,7 +7078,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-36",
+      "source_url": "#cite_note-:9-40",
       "candidates": {
         "Cleitinho": 36,
         "Alexandre Kalil": 15,
@@ -6899,7 +7107,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-36",
+      "source_url": "#cite_note-:9-40",
       "candidates": {
         "Cleitinho": 37,
         "Alexandre Kalil": 15,
@@ -6928,7 +7136,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-36",
+      "source_url": "#cite_note-:9-40",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 15,
@@ -6957,7 +7165,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-36",
+      "source_url": "#cite_note-:9-40",
       "candidates": {
         "Alexandre Kalil": 20,
         "Mateus Simões": 10,
@@ -7028,7 +7236,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Fábio Mitidieri": 37.94,
         "Valmir de Francisquinho": 46.07,
@@ -7126,7 +7334,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-68",
+      "source_url": "#cite_note-:4-72",
       "candidates": {
         "Cleitinho": 41.3,
         "Alexandre Kalil": 11.7,
@@ -7155,7 +7363,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-68",
+      "source_url": "#cite_note-:4-72",
       "candidates": {
         "Alexandre Kalil": 21.4,
         "Gabriel Azevedo": 11.1,
@@ -7180,7 +7388,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-68",
+      "source_url": "#cite_note-:4-72",
       "candidates": {
         "Mateus Simões": 29.7,
         "Gabriel Azevedo": 10.1,
@@ -7205,7 +7413,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-68",
+      "source_url": "#cite_note-:4-72",
       "candidates": {
         "Cleitinho": 44.1,
         "Alexandre Kalil": 17.5,
@@ -7232,7 +7440,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-68",
+      "source_url": "#cite_note-:4-72",
       "candidates": {
         "Cleitinho": 43.3,
         "Gabriel Azevedo": 5.7,
@@ -7257,7 +7465,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -7309,7 +7517,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-31",
+      "source_url": "#cite_note-:12-33",
       "candidates": {
         "Luciano Zucco": 22,
         "Juliana Brizola": 24,
@@ -7357,7 +7565,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-42",
+      "source_url": "#cite_note-:8-46",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -7384,7 +7592,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-42",
+      "source_url": "#cite_note-:8-46",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 12,
@@ -7413,7 +7621,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-42",
+      "source_url": "#cite_note-:8-46",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -7442,7 +7650,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-42",
+      "source_url": "#cite_note-:8-46",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -7469,7 +7677,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-42",
+      "source_url": "#cite_note-:8-46",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -7496,7 +7704,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-60",
+      "source_url": "#cite_note-:5-64",
       "candidates": {
         "Cleitinho": 30,
         "Alexandre Kalil": 8,
@@ -7525,7 +7733,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-60",
+      "source_url": "#cite_note-:5-64",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 11,
@@ -7552,7 +7760,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-60",
+      "source_url": "#cite_note-:5-64",
       "candidates": {
         "Cleitinho": 37,
         "Mateus Simões": 16,
@@ -7579,7 +7787,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-60",
+      "source_url": "#cite_note-:5-64",
       "candidates": {
         "Alexandre Kalil": 12,
         "Mateus Simões": 18,
@@ -7648,7 +7856,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-26",
+      "source_url": "#cite_note-:4-28",
       "candidates": {
         "Alan Rick": 38,
         "Mailza Assis": 28,
@@ -7752,7 +7960,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-36",
+      "source_url": "#cite_note-:13-37",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -7781,7 +7989,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-36",
+      "source_url": "#cite_note-:13-37",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -7808,7 +8016,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-36",
+      "source_url": "#cite_note-:13-37",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -7877,7 +8085,7 @@
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Fábio Mitidieri": 45.4,
         "Valmir de Francisquinho": 32.2,
@@ -7977,7 +8185,7 @@
       "sample_size": 1600,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Cleitinho": 37.56,
         "Alexandre Kalil": 11.06,
@@ -8129,7 +8337,7 @@
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-A-39",
+      "source_url": "#cite_note-:5-A-41",
       "candidates": {
         "Eduardo Braide": 42.5,
         "Orleans Brandão": 48.7,
@@ -8152,7 +8360,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -8181,7 +8389,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -8231,7 +8439,7 @@
       "sample_size": 5000,
       "margin_error": 1.38,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-38",
+      "source_url": "#cite_note-:8-40",
       "candidates": {
         "JHC": 40,
         "Renan Filho": 40
@@ -8252,7 +8460,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 15,
@@ -8281,7 +8489,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Cleitinho": 39,
         "Mateus Simões": 17,
@@ -8329,7 +8537,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-33",
+      "source_url": "#cite_note-:11-35",
       "candidates": {
         "Luciano Zucco": 34.2,
         "Juliana Brizola": 30.1,
@@ -8377,7 +8585,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-73",
+      "source_url": "#cite_note-:-1-77",
       "candidates": {
         "Cleitinho": 25.5,
         "Mateus Simões": 13.5,
@@ -8404,7 +8612,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-73",
+      "source_url": "#cite_note-:-1-77",
       "candidates": {
         "Cleitinho": 29.6,
         "Alexandre Kalil": 6,
@@ -8433,7 +8641,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-73",
+      "source_url": "#cite_note-:-1-77",
       "candidates": {
         "Cleitinho": 30.8,
         "Mateus Simões": 17,
@@ -8460,7 +8668,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-53",
       "candidates": {
         "Fábio Mitidieri": 46.2,
         "Valmir de Francisquinho": 34,
@@ -8483,7 +8691,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-50",
+      "source_url": "#cite_note-:7-54",
       "candidates": {
         "Cleitinho": 27.7,
         "Alexandre Kalil": 18.3,
@@ -8512,7 +8720,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-50",
+      "source_url": "#cite_note-:7-54",
       "candidates": {
         "Cleitinho": 28.8,
         "Alexandre Kalil": 20.5,
@@ -8587,7 +8795,7 @@
       "sample_size": 2610,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
@@ -8633,7 +8841,7 @@
       "sample_size": 1006,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-28",
+      "source_url": "#cite_note-:3-30",
       "candidates": {
         "Alan Rick": 38.27,
         "Mailza Assis": 19.48,
@@ -8708,7 +8916,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Fábio Mitidieri": 39.33,
         "Valmir de Francisquinho": 27.8,
@@ -8829,7 +9037,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-77",
+      "source_url": "#cite_note-:1-81",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 19,
@@ -8860,7 +9068,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-77",
+      "source_url": "#cite_note-:1-81",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 19,
@@ -8887,7 +9095,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-77",
+      "source_url": "#cite_note-:1-81",
       "candidates": {
         "Cleitinho": 39,
         "Alexandre Kalil": 24,
@@ -8912,7 +9120,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-77",
+      "source_url": "#cite_note-:1-81",
       "candidates": {
         "Cleitinho": 40,
         "Mateus Simões": 19,
@@ -8937,7 +9145,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-77",
+      "source_url": "#cite_note-:1-81",
       "candidates": {
         "Alexandre Kalil": 30,
         "Gabriel Azevedo": 18,
@@ -8960,7 +9168,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-77",
+      "source_url": "#cite_note-:1-81",
       "candidates": {
         "Mateus Simões": 25,
         "Gabriel Azevedo": 19,
@@ -8983,7 +9191,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-77",
+      "source_url": "#cite_note-:1-81",
       "candidates": {
         "Alexandre Kalil": 34,
         "Gabriel Azevedo": 21
@@ -9025,7 +9233,7 @@
       "sample_size": 1201,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-40",
+      "source_url": "#cite_note-:7-42",
       "candidates": {
         "JHC": 47,
         "Renan Filho": 38
@@ -9090,7 +9298,7 @@
       "sample_size": 2002,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-35",
+      "source_url": "#cite_note-:10-37",
       "candidates": {
         "Luciano Zucco": 37.5,
         "Juliana Brizola": 24.8,
@@ -9282,7 +9490,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-44",
       "candidates": {
         "JHC": 43.5,
         "Renan Filho": 49.3
@@ -9376,7 +9584,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-55",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 38.69,
@@ -9497,7 +9705,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-43",
+      "source_url": "#cite_note-:4-45",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
@@ -9522,7 +9730,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-79",
+      "source_url": "#cite_note-:2-83",
       "candidates": {
         "Cleitinho": 45.6,
         "Alexandre Kalil": 18.4,
@@ -9547,7 +9755,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-79",
+      "source_url": "#cite_note-:2-83",
       "candidates": {
         "Cleitinho": 45.8,
         "Mateus Simões": 22.6,
@@ -9645,7 +9853,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -9674,7 +9882,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -9824,7 +10032,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-57",
+      "source_url": "#cite_note-:6-61",
       "candidates": {
         "Cleitinho": 28,
         "Alexandre Kalil": 6,
@@ -9853,7 +10061,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-57",
+      "source_url": "#cite_note-:6-61",
       "candidates": {
         "Cleitinho": 30,
         "Mateus Simões": 24,
@@ -9880,7 +10088,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-37",
+      "source_url": "#cite_note-:9-39",
       "candidates": {
         "Luciano Zucco": 39,
         "Juliana Brizola": 20.4,
@@ -9930,7 +10138,7 @@
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-52",
+      "source_url": "#cite_note-:4-57",
       "candidates": {
         "Fábio Mitidieri": 40.67,
         "Valmir de Francisquinho": 29.22,
@@ -9955,7 +10163,7 @@
       "sample_size": 1400,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "JHC": 45.9,
         "Renan Filho": 41
@@ -9976,7 +10184,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Alan Rick": 41.25,
         "Mailza Assis": 19.25,
@@ -10001,7 +10209,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-44",
+      "source_url": "#cite_note-:6-46",
       "candidates": {
         "JHC": 46,
         "Renan Filho": 46
@@ -10070,7 +10278,7 @@
       "sample_size": 1200,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-59",
       "candidates": {
         "Fábio Mitidieri": 33.1,
         "Valmir de Francisquinho": 39.25,
@@ -10095,7 +10303,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-39",
+      "source_url": "#cite_note-:12-40",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -10124,7 +10332,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-39",
+      "source_url": "#cite_note-:12-40",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -10151,7 +10359,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-39",
+      "source_url": "#cite_note-:12-40",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -10178,7 +10386,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-39",
+      "source_url": "#cite_note-:12-40",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -10201,7 +10409,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-39",
+      "source_url": "#cite_note-:12-40",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -10370,7 +10578,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-46",
+      "source_url": "#cite_note-:4-48",
       "candidates": {
         "JHC": 52,
         "Renan Filho": 37
@@ -10414,7 +10622,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-38",
+      "source_url": "#cite_note-:8-40",
       "candidates": {
         "Luciano Zucco": 32,
         "Juliana Brizola": 37,
@@ -10533,7 +10741,7 @@
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-61",
       "candidates": {
         "Fábio Mitidieri": 41.2,
         "Valmir de Francisquinho": 26.7,
@@ -10583,7 +10791,7 @@
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-62",
       "candidates": {
         "Fábio Mitidieri": 34.95,
         "Valmir de Francisquinho": 41.5,
@@ -10654,7 +10862,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-30",
+      "source_url": "#cite_note-:2-32",
       "candidates": {
         "Alan Rick": 39,
         "Mailza Assis": 26,
@@ -10950,7 +11158,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-40",
+      "source_url": "#cite_note-:11-41",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -10979,7 +11187,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-40",
+      "source_url": "#cite_note-:11-41",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -11006,7 +11214,7 @@
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-59",
+      "source_url": "#cite_note-:3-64",
       "candidates": {
         "Fábio Mitidieri": 38.7,
         "Valmir de Francisquinho": 42.8,
@@ -11052,7 +11260,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-45",
+      "source_url": "#cite_note-:5-47",
       "candidates": {
         "JHC": 45.1,
         "Renan Filho": 48.6
@@ -11217,7 +11425,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -11246,7 +11454,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -11344,7 +11552,7 @@
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-66",
       "candidates": {
         "Fábio Mitidieri": 40.8,
         "Valmir de Francisquinho": 30.3,
@@ -11369,7 +11577,7 @@
       "sample_size": 1201,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-32",
+      "source_url": "#cite_note-:1-34",
       "candidates": {
         "Alan Rick": 39.55,
         "Mailza Assis": 19.4,
@@ -11394,7 +11602,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-44",
+      "source_url": "#cite_note-:10-45",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -11500,7 +11708,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-39",
+      "source_url": "#cite_note-:4-41",
       "candidates": {
         "Luciano Zucco": 37.8,
         "Juliana Brizola": 19,
@@ -11600,7 +11808,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-63",
+      "source_url": "#cite_note-:2-68",
       "candidates": {
         "Fábio Mitidieri": 44.7,
         "Valmir de Francisquinho": 38.7,
@@ -12168,7 +12376,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-65",
+      "source_url": "#cite_note-:1-70",
       "candidates": {
         "Fábio Mitidieri": 41,
         "Valmir de Francisquinho": 38,
@@ -12295,7 +12503,7 @@
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-67",
+      "source_url": "#cite_note-:0-72",
       "candidates": {
         "Fábio Mitidieri": 32.9,
         "Valmir de Francisquinho": 39.72,
@@ -12439,7 +12647,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-45",
+      "source_url": "#cite_note-:9-46",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -12468,7 +12676,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-45",
+      "source_url": "#cite_note-:9-46",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -12616,7 +12824,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-34",
+      "source_url": "#cite_note-:-1-36",
       "candidates": {
         "Alan Rick": 42,
         "Mailza Assis": 16.12,
@@ -12914,7 +13122,7 @@
       "sample_size": 5000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-50",
       "candidates": {
         "JHC": 37,
         "Renan Filho": 41.75
@@ -12960,7 +13168,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -12989,7 +13197,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -13062,7 +13270,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2B-40",
+      "source_url": "#cite_note-Veritá2B-42",
       "candidates": {
         "Luciano Zucco": 49.7,
         "Juliana Brizola": 23.2,
@@ -13137,7 +13345,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-47",
+      "source_url": "#cite_note-Veritá2-48",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -13187,7 +13395,7 @@
       "sample_size": 1220,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-51",
       "candidates": {
         "JHC": 51,
         "Renan Filho": 35
@@ -13208,7 +13416,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-2-35",
+      "source_url": "#cite_note-:-2-37",
       "candidates": {
         "Alan Rick": 39.6,
         "Mailza Assis": 16.5,
@@ -13350,7 +13558,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -13379,7 +13587,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -13715,7 +13923,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Genial/Quaest-Abril-41",
+      "source_url": "#cite_note-Genial/Quaest-Abril-43",
       "candidates": {
         "Luciano Zucco": 21,
         "Juliana Brizola": 24,
@@ -13857,7 +14065,7 @@
       "sample_size": 1312,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-SE04-69",
+      "source_url": "#cite_note-SE04-74",
       "candidates": {
         "Fábio Mitidieri": 37.27,
         "Valmir de Francisquinho": 44.59,
@@ -14003,7 +14211,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-49",
+      "source_url": "#cite_note-:8-50",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -14032,7 +14240,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-49",
+      "source_url": "#cite_note-:8-50",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -14057,7 +14265,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-Brasmarket1-43",
+      "source_url": "#cite_note-Brasmarket1-45",
       "candidates": {
         "Luciano Zucco": 35.5,
         "Juliana Brizola": 20.6,
@@ -14105,7 +14313,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-70",
+      "source_url": "#cite_note-SE05-75",
       "candidates": {
         "Fábio Mitidieri": 35.3,
         "Valmir de Francisquinho": 39.9,
@@ -14355,7 +14563,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -14384,7 +14592,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -14411,7 +14619,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -14438,7 +14646,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -14663,7 +14871,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-45",
+      "source_url": "#cite_note-:3-47",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -14690,7 +14898,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-45",
+      "source_url": "#cite_note-:3-47",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Edegar Pretto": 24.6,
@@ -14713,7 +14921,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-45",
+      "source_url": "#cite_note-:3-47",
       "candidates": {
         "Luciano Zucco": 26.9,
         "Juliana Brizola": 35.2,
@@ -14759,7 +14967,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-44",
+      "source_url": "#cite_note-Veritá1-46",
       "candidates": {
         "Luciano Zucco": 45.3,
         "Juliana Brizola": 11.6,
@@ -14788,7 +14996,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-72",
+      "source_url": "#cite_note-Veritá1-77",
       "candidates": {
         "Fábio Mitidieri": 44.2,
         "Valmir de Francisquinho": 34.5,
@@ -15095,7 +15303,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-51",
+      "source_url": "#cite_note-:7-52",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -15122,7 +15330,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-51",
+      "source_url": "#cite_note-:7-52",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -15149,7 +15357,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-51",
+      "source_url": "#cite_note-:7-52",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -15174,7 +15382,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-51",
+      "source_url": "#cite_note-:7-52",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -15226,7 +15434,7 @@
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Methodusmarco-46",
+      "source_url": "#cite_note-Methodusmarco-48",
       "candidates": {
         "Luciano Zucco": 19.4,
         "Juliana Brizola": 18.2,
@@ -15685,7 +15893,7 @@
       "sample_size": 1006,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:-3-39",
+      "source_url": "#cite_note-:-3-41",
       "candidates": {
         "Alan Rick": 40.36,
         "Mailza Assis": 20.78,
@@ -15808,7 +16016,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-53",
+      "source_url": "#cite_note-:3-54",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -15835,7 +16043,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-53",
+      "source_url": "#cite_note-:3-54",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -15862,7 +16070,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-53",
+      "source_url": "#cite_note-:3-54",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -16052,7 +16260,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-74",
+      "source_url": "#cite_note-SE02-79",
       "candidates": {
         "Fábio Mitidieri": 42.88,
         "Valmir de Francisquinho": 35.03
@@ -16073,7 +16281,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-74",
+      "source_url": "#cite_note-SE02-79",
       "candidates": {
         "Fábio Mitidieri": 44.51,
         "Ricardo Marques": 21.63
@@ -16094,7 +16302,7 @@
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-74",
+      "source_url": "#cite_note-SE02-79",
       "candidates": {
         "Fábio Mitidieri": 51.64,
         "Emanuel Cacho": 10.3
@@ -16188,7 +16396,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-47",
+      "source_url": "#cite_note-:2-49",
       "candidates": {
         "Luciano Zucco": 31,
         "Juliana Brizola": 24,
@@ -16217,7 +16425,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-47",
+      "source_url": "#cite_note-:2-49",
       "candidates": {
         "Luciano Zucco": 35,
         "Juliana Brizola": 30,
@@ -16242,7 +16450,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-47",
+      "source_url": "#cite_note-:2-49",
       "candidates": {
         "Luciano Zucco": 36,
         "Edegar Pretto": 27,
@@ -16505,7 +16713,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-54",
+      "source_url": "#cite_note-:1-55",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -16534,7 +16742,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-54",
+      "source_url": "#cite_note-:1-55",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -16563,7 +16771,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-54",
+      "source_url": "#cite_note-:1-55",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -16669,7 +16877,7 @@
       "sample_size": 1010,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Methodusfev-48",
+      "source_url": "#cite_note-Methodusfev-50",
       "candidates": {
         "Luciano Zucco": 19.9,
         "Juliana Brizola": 16.7,
@@ -16792,7 +17000,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-50",
+      "source_url": "#cite_note-:1-52",
       "candidates": {
         "Luciano Zucco": 27.4,
         "Juliana Brizola": 17,
@@ -16823,7 +17031,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-50",
+      "source_url": "#cite_note-:1-52",
       "candidates": {
         "Luciano Zucco": 27.5,
         "Juliana Brizola": 19.5,
@@ -16852,7 +17060,7 @@
       "sample_size": 800,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-50",
+      "source_url": "#cite_note-:1-52",
       "candidates": {
         "Luciano Zucco": 28.9,
         "Juliana Brizola": 20.9,
@@ -17077,7 +17285,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-55",
+      "source_url": "#cite_note-:5-56",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -17104,7 +17312,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-55",
+      "source_url": "#cite_note-:5-56",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -17131,7 +17339,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-55",
+      "source_url": "#cite_note-:5-56",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -17665,7 +17873,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-40",
+      "source_url": "#cite_note-AC01-42",
       "candidates": {
         "Alan Rick": 40,
         "Tião Bocalom": 24,
@@ -17690,7 +17898,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-40",
+      "source_url": "#cite_note-AC01-42",
       "candidates": {
         "Alan Rick": 51,
         "Mailza Assis": 21,
@@ -17713,7 +17921,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-AC01-40",
+      "source_url": "#cite_note-AC01-42",
       "candidates": {
         "Alan Rick": 46,
         "Tião Bocalom": 30,
@@ -17898,7 +18106,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-56",
+      "source_url": "#cite_note-DF01-58",
       "candidates": {
         "Celina Leão": 40,
         "Arruda": 21,
@@ -17925,7 +18133,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-56",
+      "source_url": "#cite_note-DF01-58",
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
@@ -18226,7 +18434,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-75",
+      "source_url": "#cite_note-SE01-80",
       "candidates": {
         "Fábio Mitidieri": 46,
         "Valmir de Francisquinho": 33
@@ -18247,7 +18455,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-75",
+      "source_url": "#cite_note-SE01-80",
       "candidates": {
         "Fábio Mitidieri": 49,
         "Thiago de Joaldo": 26
@@ -18268,7 +18476,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-75",
+      "source_url": "#cite_note-SE01-80",
       "candidates": {
         "Fábio Mitidieri": 48,
         "Emília Corrêa": 32
@@ -18289,7 +18497,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-75",
+      "source_url": "#cite_note-SE01-80",
       "candidates": {
         "Fábio Mitidieri": 50,
         "Eduardo Amorim": 28
@@ -18310,7 +18518,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-51",
+      "source_url": "#cite_note-:6-53",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -18337,7 +18545,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-51",
+      "source_url": "#cite_note-:6-53",
       "candidates": {
         "Luciano Zucco": 27,
         "Juliana Brizola": 21,
@@ -18362,7 +18570,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-51",
+      "source_url": "#cite_note-:6-53",
       "candidates": {
         "Luciano Zucco": 24,
         "Juliana Brizola": 21,
@@ -18387,7 +18595,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-51",
+      "source_url": "#cite_note-:6-53",
       "candidates": {
         "Luciano Zucco": 29,
         "Juliana Brizola": 31,
@@ -18410,7 +18618,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-51",
+      "source_url": "#cite_note-:6-53",
       "candidates": {
         "Luciano Zucco": 29,
         "Edegar Pretto": 29,
@@ -18433,7 +18641,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-54",
+      "source_url": "#cite_note-:7-56",
       "candidates": {
         "Luciano Zucco": 21.1,
         "Juliana Brizola": 11,
@@ -18458,7 +18666,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-54",
+      "source_url": "#cite_note-:7-56",
       "candidates": {
         "Luciano Zucco": 24.1,
         "Juliana Brizola": 15,
@@ -18705,7 +18913,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Alan Rick": 35,
         "Tião Bocalom": 23,
@@ -18730,7 +18938,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Alan Rick": 44,
         "Mailza Assis": 18,
@@ -18753,7 +18961,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-42",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Alan Rick": 38,
         "Tião Bocalom": 27,
