@@ -1,6 +1,233 @@
 {
-  "atualizado_em": "2026-09-23",
+  "atualizado_em": "2026-09-24",
   "pesquisas": [
+    {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Neokemp",
+      "collection_date": "2026-09-23",
+      "sample_size": 1008,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-9",
+      "candidates": {
+        "Sergio Moro": 48.7,
+        "Requião Filho": 25.9,
+        "Sandro Alex": 20.8,
+        "Luiz França": 0.4,
+        "Samuel de Mattos": 0.2,
+        "Adriano Teixeira": 0.5,
+        "Tayná Miessa": 0.2,
+        "Alexandre Salomão": 0
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador)",
+      "institute": "TDL",
+      "collection_date": "2026-09-22",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-12",
+      "candidates": {
+        "JHC": 47,
+        "Renan Filho": 36.5
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Quaest",
+      "collection_date": "2026-09-22",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:23-15",
+      "candidates": {
+        "Ciro Gomes": 43,
+        "Elmano de Freitas": 41
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Quaest",
+      "collection_date": "2026-09-22",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-11",
+      "candidates": {
+        "Celina Leão": 33,
+        "Arruda": 17,
+        "Leandro Grass": 21,
+        "Cappelli": 2,
+        "Paula Belmonte": 5,
+        "Kiko Caputo": 2
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Quaest",
+      "collection_date": "2026-09-22",
+      "sample_size": 1104,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-11",
+      "candidates": {
+        "Celina Leão": 34,
+        "Leandro Grass": 23,
+        "Cappelli": 2,
+        "Paula Belmonte": 7,
+        "Kiko Caputo": 3
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
+      "uf": "MG",
+      "estado": "Minas Gerais",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
+      "cenario": "Alexandre Kalil|Ben Mendes|Cleitinho|Flávio Roscoe|Gabriel Azevedo|Mateus Simões|Patrus Ananias",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Quaest",
+      "collection_date": "2026-09-22",
+      "sample_size": 1506,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:17-11",
+      "candidates": {
+        "Cleitinho": 37,
+        "Patrus Ananias": 16,
+        "Alexandre Kalil": 8,
+        "Mateus Simões": 7,
+        "Gabriel Azevedo": 2,
+        "Flávio Roscoe": 5,
+        "Ben Mendes": 1
+      },
+      "parties": {
+        "Cleitinho": "Republicanos",
+        "Patrus Ananias": "PT",
+        "Alexandre Kalil": "PDT",
+        "Mateus Simões": "PSD",
+        "Gabriel Azevedo": "MDB",
+        "Flávio Roscoe": "PL",
+        "Ben Mendes": "MISSÃO"
+      }
+    },
+    {
+      "uf": "PE",
+      "estado": "Pernambuco",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
+      "institute": "Quaest",
+      "collection_date": "2026-09-22",
+      "sample_size": 1302,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:33-15",
+      "candidates": {
+        "Raquel Lyra": 41,
+        "João Campos": 39
+      },
+      "parties": {
+        "Raquel Lyra": "PSD",
+        "João Campos": "PSB"
+      }
+    },
+    {
+      "uf": "TO",
+      "estado": "Tocantins",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
+      "cenario": "Ataídes Oliveira|Laurez Moreira|Professora Dorinha",
+      "secao": "Primeiro Turno (Governador) › 2026 › Maio - Outubro",
+      "institute": "Quaest",
+      "collection_date": "2026-09-22",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:15-17",
+      "candidates": {
+        "Professora Dorinha": 42,
+        "Laurez Moreira": 7,
+        "Ataídes Oliveira": 3
+      },
+      "parties": {
+        "Professora Dorinha": "",
+        "Laurez Moreira": "",
+        "Ataídes Oliveira": ""
+      }
+    },
+    {
+      "uf": "AL",
+      "estado": "Alagoas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador)",
+      "institute": "DataTrends",
+      "collection_date": "2026-09-21",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:16-14",
+      "candidates": {
+        "JHC": 44,
+        "Renan Filho": 45
+      },
+      "parties": {
+        "JHC": "PSDB",
+        "Renan Filho": "MDB"
+      }
+    },
     {
       "uf": "GO",
       "estado": "Goiás",
@@ -48,28 +275,59 @@
       }
     },
     {
+      "uf": "PR",
+      "estado": "Paraná",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
+      "cenario": "Adriano Teixeira|Alexandre Salomão|Luiz França|Requião Filho|Samuel de Mattos|Sandro Alex|Sergio Moro|Tayná Miessa",
+      "secao": "Primeiro Turno (Governador) › 2026 › Agosto - Outubro",
+      "institute": "Indíce",
+      "collection_date": "2026-09-21",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:30-10",
+      "candidates": {
+        "Sergio Moro": 35,
+        "Requião Filho": 20,
+        "Sandro Alex": 32,
+        "Luiz França": 1,
+        "Samuel de Mattos": 0,
+        "Adriano Teixeira": 0,
+        "Tayná Miessa": 0,
+        "Alexandre Salomão": 0
+      },
+      "parties": {
+        "Sergio Moro": "PL",
+        "Requião Filho": "PDT",
+        "Sandro Alex": "PSD",
+        "Luiz França": "MISSÃO",
+        "Samuel de Mattos": "PSTU",
+        "Adriano Teixeira": "PCO",
+        "Tayná Miessa": "UP",
+        "Alexandre Salomão": "MOBILIZA"
+      }
+    },
+    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-09-21",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-10",
+      "source_url": "#cite_note-:13-11",
       "candidates": {
-        "Fábio Mitidieri": 43,
+        "Fábio": 43,
         "Valmir de Francisquinho": 38,
-        "Ricardo Marques": 10,
-        "Emanuel Cacho": 1
+        "Ricardo Marques": 10
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -77,13 +335,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-09-20",
       "sample_size": 1400,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-12",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
       "candidates": {
         "JHC": 48.6,
         "Renan Filho": 41.6
@@ -104,7 +362,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-9",
+      "source_url": "#cite_note-:29-11",
       "candidates": {
         "Sergio Moro": 39.7,
         "Requião Filho": 21.3,
@@ -131,13 +389,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Simplex/CBN",
       "collection_date": "2026-09-20",
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:32-15",
+      "source_url": "#cite_note-:32-17",
       "candidates": {
         "Raquel Lyra": 45,
         "João Campos": 37.9
@@ -152,13 +410,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "AtlasIntel",
       "collection_date": "2026-09-20",
       "sample_size": 1836,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:31-17",
+      "source_url": "#cite_note-:31-19",
       "candidates": {
         "Raquel Lyra": 48.6,
         "João Campos": 47.4
@@ -204,7 +462,7 @@
       "sample_size": 1000,
       "margin_error": 2.1,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-20",
       "candidates": {
         "ACM Neto": 51.3,
         "Jerônimo": 43.6,
@@ -222,12 +480,68 @@
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
       "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Correio /Opinião",
+      "collection_date": "2026-09-19",
+      "sample_size": 1131,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Correio_Braziliense",
+      "candidates": {
+        "Celina Leão": 32.9,
+        "Arruda": 20.6,
+        "Leandro Grass": 17.3,
+        "Cappelli": 1.5,
+        "Paula Belmonte": 6,
+        "Kiko Caputo": 1.9
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Arruda": "PSD",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "institute": "Correio /Opinião",
+      "collection_date": "2026-09-19",
+      "sample_size": 1131,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Correio_Braziliense",
+      "candidates": {
+        "Celina Leão": 37.2,
+        "Leandro Grass": 19.6,
+        "Cappelli": 3.3,
+        "Paula Belmonte": 9.8,
+        "Kiko Caputo": 3.2
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Leandro Grass": "PT",
+        "Cappelli": "PSB",
+        "Paula Belmonte": "PSDB",
+        "Kiko Caputo": "NOVO"
+      }
+    },
+    {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Kiko Caputo|Leandro Grass|Paula Belmonte",
+      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
       "institute": "IGAPE",
       "collection_date": "2026-09-19",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Celina Leão": 41.5,
         "Arruda": 16.3,
@@ -272,25 +586,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IFP",
       "collection_date": "2026-09-19",
       "sample_size": 1300,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-12",
+      "source_url": "#cite_note-:12-10",
       "candidates": {
-        "Fábio Mitidieri": 46,
+        "Fábio": 46,
         "Valmir de Francisquinho": 28.33,
-        "Ricardo Marques": 3.68,
-        "Emanuel Cacho": 1
+        "Ricardo Marques": 3.68
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -304,7 +616,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-19",
       "candidates": {
         "Professora Dorinha": 44.4,
         "Laurez Moreira": 7.6
@@ -402,7 +714,7 @@
       "sample_size": 1352,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-15",
+      "source_url": "#cite_note-:22-17",
       "candidates": {
         "Ciro Gomes": 48,
         "Elmano de Freitas": 48.5
@@ -423,7 +735,7 @@
       "sample_size": 1352,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:21-17",
+      "source_url": "#cite_note-:21-19",
       "candidates": {
         "Ciro Gomes": 47.4,
         "Elmano de Freitas": 39.9
@@ -444,7 +756,7 @@
       "sample_size": 1204,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Ciro Gomes": 47,
         "Elmano de Freitas": 40
@@ -465,7 +777,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-21",
+      "source_url": "#cite_note-:20-23",
       "candidates": {
         "Ciro Gomes": 42,
         "Elmano de Freitas": 47
@@ -582,7 +894,7 @@
       "sample_size": 1280,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-10",
+      "source_url": "#cite_note-12",
       "candidates": {
         "Sergio Moro": 44.7,
         "Requião Filho": 23,
@@ -609,13 +921,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "DataTrends",
       "collection_date": "2026-09-17",
       "sample_size": 2200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-21",
       "candidates": {
         "Raquel Lyra": 46,
         "João Campos": 38
@@ -630,13 +942,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Revista Total",
       "collection_date": "2026-09-17",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:30-21",
+      "source_url": "#cite_note-:30-23",
       "candidates": {
         "Raquel Lyra": 42.61,
         "João Campos": 46.78
@@ -705,7 +1017,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Sergio Moro": 49.8,
         "Requião Filho": 19.4,
@@ -738,7 +1050,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-12",
+      "source_url": "#cite_note-:28-14",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 23,
@@ -763,7 +1075,7 @@
       "sample_size": 1794,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-13",
+      "source_url": "#cite_note-:27-15",
       "candidates": {
         "Sergio Moro": 49.1,
         "Requião Filho": 28.2,
@@ -790,13 +1102,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "AtlasIntel",
       "collection_date": "2026-09-16",
       "sample_size": 1793,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:29-23",
+      "source_url": "#cite_note-:29-25",
       "candidates": {
         "Raquel Lyra": 48.7,
         "João Campos": 45.6
@@ -838,7 +1150,7 @@
       "sample_size": 1535,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-20",
+      "source_url": "#cite_note-:16-22",
       "candidates": {
         "ACM Neto": 47.23,
         "Jerônimo": 35.44
@@ -859,7 +1171,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-23",
       "candidates": {
         "ACM Neto": 51.7,
         "Jerônimo": 36.4
@@ -880,7 +1192,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-13",
       "candidates": {
         "Daniel Vilela": 43.9,
         "Marconi Perillo": 16.9,
@@ -905,7 +1217,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-RealTime2109-14",
+      "source_url": "#cite_note-RealTime2109-16",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 22,
@@ -954,7 +1266,7 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Global",
       "collection_date": "2026-09-15",
@@ -963,16 +1275,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-14",
       "candidates": {
-        "Fábio Mitidieri": 56.7,
+        "Fábio": 56.7,
         "Valmir de Francisquinho": 35.7,
-        "Ricardo Marques": 5.9,
-        "Emanuel Cacho": 1
+        "Ricardo Marques": 5.9
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -980,13 +1290,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Real Time Big Data",
       "collection_date": "2026-09-14",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-14",
+      "source_url": "#cite_note-:14-18",
       "candidates": {
         "JHC": 43,
         "Renan Filho": 46
@@ -1007,7 +1317,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Daniel Vilela": 39.2,
         "Marconi Perillo": 29.4,
@@ -1080,13 +1390,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Múltipla",
       "collection_date": "2026-09-14",
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:28-25",
+      "source_url": "#cite_note-:28-27",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 39
@@ -1101,13 +1411,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Real Time Big Data",
       "collection_date": "2026-09-14",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:27-27",
+      "source_url": "#cite_note-:27-29",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 44
@@ -1128,7 +1438,7 @@
       "sample_size": 1504,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-19",
+      "source_url": "#cite_note-:14-21",
       "candidates": {
         "Professora Dorinha": 40.6,
         "Laurez Moreira": 6.5,
@@ -1151,7 +1461,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-21",
+      "source_url": "#cite_note-:13-23",
       "candidates": {
         "Professora Dorinha": 35,
         "Laurez Moreira": 9,
@@ -1219,25 +1529,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "INOR",
       "collection_date": "2026-09-13",
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-15",
       "candidates": {
-        "Fábio Mitidieri": 37.29,
+        "Fábio": 37.29,
         "Valmir de Francisquinho": 44.67,
-        "Ricardo Marques": 4.86,
-        "Emanuel Cacho": 0.84
+        "Ricardo Marques": 4.86
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -1245,13 +1553,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "TDL",
       "collection_date": "2026-09-12",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-16",
+      "source_url": "#cite_note-20",
       "candidates": {
         "JHC": 47,
         "Renan Filho": 36
@@ -1272,7 +1580,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-13",
+      "source_url": "#cite_note-:11-19",
       "candidates": {
         "Celina Leão": 41,
         "Arruda": 15.7,
@@ -1321,50 +1629,46 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IPP",
       "collection_date": "2026-09-12",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-17",
       "candidates": {
-        "Fábio Mitidieri": 44.8,
+        "Fábio": 44.8,
         "Valmir de Francisquinho": 49.9,
-        "Ricardo Marques": 4.1,
-        "Emanuel Cacho": 0.1
+        "Ricardo Marques": 4.1
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IPP",
       "collection_date": "2026-09-12",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-17",
       "candidates": {
-        "Fábio Mitidieri": 39.3,
+        "Fábio": 39.3,
         "Valmir de Francisquinho": 43.8,
-        "Ricardo Marques": 3.6,
-        "Emanuel Cacho": 0.1
+        "Ricardo Marques": 3.6
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -1378,7 +1682,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Professora Dorinha": 43.8,
         "Laurez Moreira": 8.9,
@@ -1424,13 +1728,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Veritá",
       "collection_date": "2026-09-11",
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Raquel Lyra": 51.4,
         "João Campos": 42.3
@@ -1444,25 +1748,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Veritá",
       "collection_date": "2026-09-11",
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
-        "Fábio Mitidieri": 47.3,
+        "Fábio": 47.3,
         "Valmir de Francisquinho": 35.7,
-        "Ricardo Marques": 12.2,
-        "Emanuel Cacho": 0.1
+        "Ricardo Marques": 12.2
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -1655,7 +1957,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-17",
       "candidates": {
         "Sergio Moro": 48.8,
         "Requião Filho": 23.3,
@@ -1682,13 +1984,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Datafolha",
       "collection_date": "2026-09-10",
       "sample_size": 1204,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-31",
+      "source_url": "#cite_note-:26-33",
       "candidates": {
         "Raquel Lyra": 47,
         "João Campos": 42
@@ -1723,25 +2025,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IFP",
       "collection_date": "2026-09-10",
       "sample_size": 1300,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-24",
+      "source_url": "#cite_note-:11-23",
       "candidates": {
-        "Fábio Mitidieri": 42.41,
+        "Fábio": 42.41,
         "Valmir de Francisquinho": 27.07,
-        "Ricardo Marques": 2.84,
-        "Emanuel Cacho": 0.63
+        "Ricardo Marques": 2.84
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -1749,7 +2049,7 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "AtlasIntel",
       "collection_date": "2026-09-09",
       "sample_size": 1208,
@@ -1801,7 +2101,7 @@
       "sample_size": 2020,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "ACM Neto": 51.6,
         "Jerônimo": 40.4
@@ -1822,7 +2122,7 @@
       "sample_size": 1525,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-25",
       "candidates": {
         "Ciro Gomes": 47.8,
         "Elmano de Freitas": 47.6
@@ -1972,7 +2272,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:26-16",
+      "source_url": "#cite_note-:26-18",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 20,
@@ -1993,13 +2293,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "DataTrends",
       "collection_date": "2026-09-09",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-33",
+      "source_url": "#cite_note-:25-35",
       "candidates": {
         "Raquel Lyra": 46,
         "João Campos": 36
@@ -2059,48 +2359,44 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-09-09",
       "sample_size": 1260,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-26",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
-        "Fábio Mitidieri": 41.3,
+        "Fábio": 41.3,
         "Valmir de Francisquinho": 34.2,
-        "Ricardo Marques": 14.4,
-        "Emanuel Cacho": 0.5
+        "Ricardo Marques": 14.4
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-09-09",
       "sample_size": 1260,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-26",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
-        "Fábio Mitidieri": 44.6,
-        "Ricardo Marques": 25.1,
-        "Emanuel Cacho": 1.2
+        "Fábio": 44.6,
+        "Ricardo Marques": 25.1
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Fábio": "PSD",
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -2108,13 +2404,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Índice",
       "collection_date": "2026-09-08",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-22",
       "candidates": {
         "JHC": 48.3,
         "Renan Filho": 34.2
@@ -2135,7 +2431,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-25",
+      "source_url": "#cite_note-:15-27",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 45,
@@ -2158,7 +2454,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-17",
+      "source_url": "#cite_note-:10-23",
       "candidates": {
         "Celina Leão": 35,
         "Arruda": 20,
@@ -2185,7 +2481,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-17",
+      "source_url": "#cite_note-:10-23",
       "candidates": {
         "Celina Leão": 46,
         "Leandro Grass": 23,
@@ -2233,7 +2529,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:25-17",
+      "source_url": "#cite_note-:25-19",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 21,
@@ -2312,7 +2608,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-27",
+      "source_url": "#cite_note-:12-29",
       "candidates": {
         "Professora Dorinha": 33,
         "Laurez Moreira": 6,
@@ -2335,7 +2631,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-25",
+      "source_url": "#cite_note-:19-27",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 46
@@ -2356,7 +2652,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-19",
+      "source_url": "#cite_note-:9-25",
       "candidates": {
         "Celina Leão": 35,
         "Arruda": 18,
@@ -2429,13 +2725,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Quaest",
       "collection_date": "2026-09-07",
       "sample_size": 1302,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-35",
+      "source_url": "#cite_note-:24-37",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37
@@ -2483,7 +2779,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Professora Dorinha": 32.7,
         "Laurez Moreira": 6.3,
@@ -2525,13 +2821,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Ranking",
       "collection_date": "2026-09-05",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-24",
       "candidates": {
         "JHC": 47.34,
         "Renan Filho": 34.88
@@ -2552,7 +2848,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Celina Leão": 36.5,
         "Arruda": 20.7,
@@ -2581,7 +2877,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Daniel Vilela": 38.2,
         "Marconi Perillo": 28.5,
@@ -2650,7 +2946,7 @@
       "sample_size": 1200,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-25",
+      "source_url": "#cite_note-27",
       "candidates": {
         "Professora Dorinha": 33.75,
         "Laurez Moreira": 9,
@@ -2698,7 +2994,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Daniel Vilela": 42.6,
         "Marconi Perillo": 17.3,
@@ -2723,7 +3019,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-19",
+      "source_url": "#cite_note-:24-21",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 20.1,
@@ -2781,7 +3077,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:18-27",
+      "source_url": "#cite_note-:18-29",
       "candidates": {
         "Ciro Gomes": 45,
         "Elmano de Freitas": 34
@@ -2802,7 +3098,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Sergio Moro": 38.8,
         "Requião Filho": 21.8,
@@ -2845,32 +3141,30 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IFP",
       "collection_date": "2026-09-03",
       "sample_size": 1300,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-29",
+      "source_url": "#cite_note-:8-28",
       "candidates": {
-        "Fábio Mitidieri": 42.93,
+        "Fábio": 42.93,
         "Valmir de Francisquinho": 27.83,
-        "Ricardo Marques": 3.84,
-        "Emanuel Cacho": 1.12
+        "Ricardo Marques": 3.84
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-09-03",
@@ -2879,23 +3173,21 @@
       "tse_registration": "",
       "source_url": "#cite_note-:8-D-30",
       "candidates": {
-        "Fábio Mitidieri": 45,
+        "Fábio": 45,
         "Valmir de Francisquinho": 37,
-        "Ricardo Marques": 9,
-        "Emanuel Cacho": 2
+        "Ricardo Marques": 9
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "CTAS",
       "collection_date": "2026-09-03",
@@ -2904,11 +3196,11 @@
       "tse_registration": "",
       "source_url": "#cite_note-31",
       "candidates": {
-        "Fábio Mitidieri": 48.28,
+        "Fábio": 48.28,
         "Valmir de Francisquinho": 27.28
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos"
       }
     },
@@ -2917,13 +3209,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "TDL",
       "collection_date": "2026-09-02",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-28",
       "candidates": {
         "JHC": 44.2,
         "Renan Filho": 31.9
@@ -2938,13 +3230,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "DataTrends",
       "collection_date": "2026-09-02",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-26",
+      "source_url": "#cite_note-:12-30",
       "candidates": {
         "JHC": 43,
         "Renan Filho": 43
@@ -2965,7 +3257,7 @@
       "sample_size": 1804,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-27",
+      "source_url": "#cite_note-:13-29",
       "candidates": {
         "ACM Neto": 49.1,
         "Jerônimo": 47.9,
@@ -2988,7 +3280,7 @@
       "sample_size": 1804,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-27",
+      "source_url": "#cite_note-:13-29",
       "candidates": {
         "ACM Neto": 48.8,
         "Jerônimo": 47.5,
@@ -3174,7 +3466,7 @@
       "sample_size": 1280,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-21",
+      "source_url": "#cite_note-:23-23",
       "candidates": {
         "Sergio Moro": 45,
         "Requião Filho": 24,
@@ -3201,13 +3493,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Real Time Big Data",
       "collection_date": "2026-09-02",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:23-37",
+      "source_url": "#cite_note-:23-39",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 43
@@ -3263,7 +3555,7 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "TWS",
       "collection_date": "2026-09-02",
@@ -3272,16 +3564,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-32",
       "candidates": {
-        "Fábio Mitidieri": 46.13,
+        "Fábio": 46.13,
         "Valmir de Francisquinho": 24.87,
-        "Ricardo Marques": 10.07,
-        "Emanuel Cacho": 1.8
+        "Ricardo Marques": 10.07
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -3347,7 +3637,7 @@
       "sample_size": 1194,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-22",
+      "source_url": "#cite_note-:12-24",
       "candidates": {
         "Ricardo Ferraço": 28.7,
         "Lorenzo Pazolini": 41,
@@ -3385,13 +3675,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Ranking",
       "collection_date": "2026-08-31",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Raquel Lyra": 49.83,
         "João Campos": 37.92
@@ -3435,7 +3725,7 @@
       "sample_size": 1800,
       "margin_error": 2.31,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Ricardo Ferraço": 32,
         "Lorenzo Pazolini": 35.06,
@@ -3502,13 +3792,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Índice",
       "collection_date": "2026-08-29",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-28",
+      "source_url": "#cite_note-32",
       "candidates": {
         "JHC": 47.6,
         "Renan Filho": 35.6
@@ -3523,13 +3813,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-08-29",
       "sample_size": 1400,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-30",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
       "candidates": {
         "JHC": 47.2,
         "Renan Filho": 41.3
@@ -3550,7 +3840,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-35",
       "candidates": {
         "Celina Leão": 35.4,
         "Arruda": 24.5,
@@ -3781,7 +4071,7 @@
       "sample_size": 1141,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-23",
+      "source_url": "#cite_note-:8-29",
       "candidates": {
         "Celina Leão": 34.5,
         "Arruda": 20.93,
@@ -3864,7 +4154,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-27",
+      "source_url": "#cite_note-:17-29",
       "candidates": {
         "Daniel Vilela": 46,
         "Marconi Perillo": 22,
@@ -3943,7 +4233,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Sergio Moro": 46.9,
         "Requião Filho": 23.3,
@@ -3976,7 +4266,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-23",
+      "source_url": "#cite_note-:22-25",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 20,
@@ -4003,13 +4293,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "DataTrends",
       "collection_date": "2026-08-27",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-41",
+      "source_url": "#cite_note-:4-43",
       "candidates": {
         "Raquel Lyra": 45,
         "João Campos": 36
@@ -4074,7 +4364,7 @@
       "sample_size": 1200,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Professora Dorinha": 33.92,
         "Laurez Moreira": 8.83,
@@ -4097,7 +4387,7 @@
       "sample_size": 1504,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-33",
+      "source_url": "#cite_note-:11-35",
       "candidates": {
         "Professora Dorinha": 37.3,
         "Laurez Moreira": 7.6,
@@ -4145,7 +4435,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-30",
+      "source_url": "#cite_note-:12-32",
       "candidates": {
         "ACM Neto": 39,
         "Jerônimo": 37,
@@ -4168,7 +4458,7 @@
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-30",
+      "source_url": "#cite_note-:12-32",
       "candidates": {
         "ACM Neto": 40,
         "Jerônimo": 37,
@@ -4191,7 +4481,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-26",
+      "source_url": "#cite_note-:11-28",
       "candidates": {
         "Ricardo Ferraço": 35,
         "Lorenzo Pazolini": 28,
@@ -4214,7 +4504,7 @@
       "sample_size": 1504,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-A-28",
+      "source_url": "#cite_note-:11-A-30",
       "candidates": {
         "Ricardo Ferraço": 38.2,
         "Lorenzo Pazolini": 39,
@@ -4237,7 +4527,7 @@
       "sample_size": 1326,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Ricardo Ferraço": 22.27,
         "Lorenzo Pazolini": 16.36,
@@ -4260,7 +4550,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-29",
+      "source_url": "#cite_note-:16-31",
       "candidates": {
         "Daniel Vilela": 37,
         "Marconi Perillo": 20,
@@ -4303,7 +4593,7 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Quaest",
       "collection_date": "2026-08-26",
@@ -4312,16 +4602,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-:7-34",
       "candidates": {
-        "Fábio Mitidieri": 40,
+        "Fábio": 40,
         "Valmir de Francisquinho": 20,
-        "Ricardo Marques": 5,
-        "Emanuel Cacho": 1
+        "Ricardo Marques": 5
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -4335,7 +4623,7 @@
       "sample_size": 1250,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-37",
       "candidates": {
         "Professora Dorinha": 39,
         "Laurez Moreira": 12,
@@ -4352,13 +4640,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Falpe",
       "collection_date": "2026-08-25",
       "sample_size": 5000,
       "margin_error": 1.39,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-V-32",
+      "source_url": "#cite_note-:11-V-36",
       "candidates": {
         "JHC": 37.5,
         "Renan Filho": 41.25
@@ -4521,7 +4809,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-37",
+      "source_url": "#cite_note-:10-39",
       "candidates": {
         "Professora Dorinha": 33,
         "Laurez Moreira": 11,
@@ -4563,13 +4851,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Ranking",
       "collection_date": "2026-08-24",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-38",
       "candidates": {
         "JHC": 46.41,
         "Renan Filho": 33.88
@@ -4640,7 +4928,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-31",
+      "source_url": "#cite_note-:5-37",
       "candidates": {
         "Celina Leão": 34,
         "Arruda": 20,
@@ -4734,13 +5022,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Múltipla",
       "collection_date": "2026-08-24",
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:22-43",
+      "source_url": "#cite_note-:22-45",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37
@@ -4755,13 +5043,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Quaest",
       "collection_date": "2026-08-24",
       "sample_size": 1302,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:21-45",
+      "source_url": "#cite_note-:21-47",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 36
@@ -4776,13 +5064,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Contextto",
       "collection_date": "2026-08-24",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:21-A-47",
+      "source_url": "#cite_note-:21-A-49",
       "candidates": {
         "Raquel Lyra": 39,
         "João Campos": 41
@@ -4830,7 +5118,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-39",
+      "source_url": "#cite_note-:9-41",
       "candidates": {
         "Professora Dorinha": 37,
         "Laurez Moreira": 7,
@@ -4847,13 +5135,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "TDL",
       "collection_date": "2026-08-23",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-40",
       "candidates": {
         "JHC": 55,
         "Renan Filho": 42.6
@@ -4868,13 +5156,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Quaest",
       "collection_date": "2026-08-23",
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-38",
+      "source_url": "#cite_note-:10-42",
       "candidates": {
         "JHC": 40,
         "Renan Filho": 42
@@ -5045,7 +5333,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:21-24",
+      "source_url": "#cite_note-:21-26",
       "candidates": {
         "Sergio Moro": 37,
         "Requião Filho": 21,
@@ -5126,7 +5414,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-36",
+      "source_url": "#cite_note-:10-38",
       "candidates": {
         "ACM Neto": 40,
         "Jerônimo": 43,
@@ -5149,7 +5437,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-36",
+      "source_url": "#cite_note-:10-38",
       "candidates": {
         "ACM Neto": 41,
         "Jerônimo": 42,
@@ -5172,7 +5460,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Celina Leão": 33.9,
         "Arruda": 24.1,
@@ -5249,7 +5537,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-25",
+      "source_url": "#cite_note-:20-27",
       "candidates": {
         "Sergio Moro": 38,
         "Requião Filho": 20,
@@ -5330,7 +5618,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-L-33",
+      "source_url": "#cite_note-:16-L-35",
       "candidates": {
         "Daniel Vilela": 44.2,
         "Marconi Perillo": 23.8,
@@ -5370,13 +5658,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Simplex",
       "collection_date": "2026-08-21",
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-49",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Raquel Lyra": 46.2,
         "João Campos": 36.1
@@ -5391,7 +5679,7 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Datafolha",
       "collection_date": "2026-08-21",
       "sample_size": 1204,
@@ -5432,7 +5720,7 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IFP",
       "collection_date": "2026-08-21",
@@ -5441,41 +5729,37 @@
       "tse_registration": "",
       "source_url": "#cite_note-:7-S-36",
       "candidates": {
-        "Fábio Mitidieri": 39.69,
+        "Fábio": 39.69,
         "Valmir de Francisquinho": 28.43,
-        "Ricardo Marques": 4.46,
-        "Emanuel Cacho": 1.47
+        "Ricardo Marques": 4.46
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "CTAS",
       "collection_date": "2026-08-21",
       "sample_size": 1224,
-      "margin_error": 2.7,
+      "margin_error": 2.8,
       "tse_registration": "",
       "source_url": "#cite_note-38",
       "candidates": {
-        "Fábio Mitidieri": 44.4,
+        "Fábio": 44.4,
         "Valmir de Francisquinho": 25.5,
-        "Ricardo Marques": 3.7,
-        "Emanuel Cacho": 0
+        "Ricardo Marques": 3.7
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -5537,7 +5821,7 @@
       "sample_size": 1200,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-43",
       "candidates": {
         "Professora Dorinha": 30.67,
         "Laurez Moreira": 9.42,
@@ -5583,7 +5867,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-33",
+      "source_url": "#cite_note-:16-35",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 44
@@ -5631,7 +5915,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-26",
+      "source_url": "#cite_note-:19-28",
       "candidates": {
         "Sergio Moro": 36.81,
         "Requião Filho": 21.02,
@@ -5664,7 +5948,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-35",
+      "source_url": "#cite_note-:17-37",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 35
@@ -5685,7 +5969,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-37",
+      "source_url": "#cite_note-:4-43",
       "candidates": {
         "Celina Leão": 34,
         "Arruda": 32,
@@ -5712,7 +5996,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-37",
+      "source_url": "#cite_note-:4-43",
       "candidates": {
         "Celina Leão": 45,
         "Leandro Grass": 20,
@@ -5810,7 +6094,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-41",
+      "source_url": "#cite_note-:9-43",
       "candidates": {
         "ACM Neto": 43,
         "Jerônimo": 41,
@@ -5858,7 +6142,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-27",
+      "source_url": "#cite_note-:17-29",
       "candidates": {
         "Sergio Moro": 37,
         "Requião Filho": 20,
@@ -5884,25 +6168,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Veritá",
       "collection_date": "2026-08-17",
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-40",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
-        "Fábio Mitidieri": 51,
+        "Fábio": 51,
         "Valmir de Francisquinho": 33.7,
-        "Ricardo Marques": 11.6,
-        "Emanuel Cacho": 0.4
+        "Ricardo Marques": 11.6
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -5916,7 +6198,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-28",
+      "source_url": "#cite_note-:0-30",
       "candidates": {
         "Sergio Moro": 37.33,
         "Requião Filho": 20.56,
@@ -5949,7 +6231,7 @@
       "sample_size": 1520,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-30",
+      "source_url": "#cite_note-:16-32",
       "candidates": {
         "Sergio Moro": 46.1,
         "Requião Filho": 23.4,
@@ -5975,7 +6257,7 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "INOR",
       "collection_date": "2026-08-16",
@@ -5984,16 +6266,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-43",
       "candidates": {
-        "Fábio Mitidieri": 31.59,
+        "Fábio": 31.59,
         "Valmir de Francisquinho": 46.73,
-        "Ricardo Marques": 7.76,
-        "Emanuel Cacho": 1.21
+        "Ricardo Marques": 7.76
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -6007,7 +6287,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-39",
+      "source_url": "#cite_note-:3-45",
       "candidates": {
         "Celina Leão": 33.4,
         "Arruda": 23.7,
@@ -6036,7 +6316,7 @@
       "sample_size": 3200,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-D-37",
+      "source_url": "#cite_note-:16-D-39",
       "candidates": {
         "Daniel Vilela": 27.75,
         "Marconi Perillo": 36.78,
@@ -6082,13 +6362,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-15",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:18-53",
+      "source_url": "#cite_note-:18-55",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 43
@@ -6109,7 +6389,7 @@
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-43",
+      "source_url": "#cite_note-:8-45",
       "candidates": {
         "Professora Dorinha": 39.27,
         "Laurez Moreira": 8.2,
@@ -6151,13 +6431,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "DataTrends",
       "collection_date": "2026-08-14",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-55",
+      "source_url": "#cite_note-:19-57",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 35
@@ -6243,7 +6523,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-38",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Daniel Vilela": 37.2,
         "Marconi Perillo": 18.8,
@@ -6295,7 +6575,7 @@
       "sample_size": 1350,
       "margin_error": 2.67,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-31",
+      "source_url": "#cite_note-:15-33",
       "candidates": {
         "Sergio Moro": 40.2,
         "Requião Filho": 21,
@@ -6365,32 +6645,30 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IFP",
       "collection_date": "2026-08-12",
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-:15-45",
       "candidates": {
-        "Fábio Mitidieri": 38.94,
+        "Fábio": 38.94,
         "Valmir de Francisquinho": 28.76,
-        "Ricardo Marques": 4.28,
-        "Emanuel Cacho": 0.62
+        "Ricardo Marques": 4.28
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "ECM Sergipe",
       "collection_date": "2026-08-12",
@@ -6399,16 +6677,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-47",
       "candidates": {
-        "Fábio Mitidieri": 37,
+        "Fábio": 37,
         "Valmir de Francisquinho": 23.8,
-        "Ricardo Marques": 7.6,
-        "Emanuel Cacho": 1
+        "Ricardo Marques": 7.6
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -6491,7 +6767,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Sergio Moro": 45.7,
         "Requião Filho": 23.2,
@@ -6518,13 +6794,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Múltipla",
       "collection_date": "2026-08-11",
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Raquel Lyra": 45,
         "João Campos": 41
@@ -6545,7 +6821,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-43",
+      "source_url": "#cite_note-:7-45",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 42,
@@ -6568,7 +6844,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-43",
+      "source_url": "#cite_note-:7-45",
       "candidates": {
         "ACM Neto": 45,
         "Jerônimo": 42,
@@ -6758,7 +7034,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-34",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Sergio Moro": 35.3,
         "Requião Filho": 19.5,
@@ -6954,7 +7230,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-35",
+      "source_url": "#cite_note-:14-37",
       "candidates": {
         "Sergio Moro": 47.5,
         "Requião Filho": 16.3,
@@ -6976,7 +7252,7 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-01",
@@ -6985,16 +7261,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-:5-49",
       "candidates": {
-        "Fábio Mitidieri": 43,
+        "Fábio": 43,
         "Valmir de Francisquinho": 40,
-        "Ricardo Marques": 6,
-        "Emanuel Cacho": 2
+        "Ricardo Marques": 6
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -7008,7 +7282,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Daniel Vilela": 45.8,
         "Marconi Perillo": 24.5,
@@ -7033,7 +7307,7 @@
       "sample_size": 1200,
       "margin_error": 2.84,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Professora Dorinha": 36.3,
         "Laurez Moreira": 8.3,
@@ -7085,7 +7359,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-71",
+      "source_url": "#cite_note-:3-75",
       "candidates": {
         "Cleitinho": 32.7,
         "Alexandre Kalil": 28.6,
@@ -7114,7 +7388,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-71",
+      "source_url": "#cite_note-:3-75",
       "candidates": {
         "Cleitinho": 40.5,
         "Mateus Simões": 29.4,
@@ -7139,7 +7413,7 @@
       "sample_size": 2195,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-71",
+      "source_url": "#cite_note-:3-75",
       "candidates": {
         "Cleitinho": 34.2,
         "Alexandre Kalil": 37.9,
@@ -7166,7 +7440,7 @@
       "sample_size": 2030,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-73",
+      "source_url": "#cite_note-Veritá1-77",
       "candidates": {
         "Cleitinho": 50.3,
         "Alexandre Kalil": 13.1,
@@ -7191,7 +7465,7 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Datafolha",
       "collection_date": "2026-07-30",
       "sample_size": 1022,
@@ -7212,13 +7486,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-30",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-60",
+      "source_url": "#cite_note-:17-62",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 42
@@ -7337,7 +7611,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-42",
+      "source_url": "#cite_note-:9-46",
       "candidates": {
         "Cleitinho": 36,
         "Alexandre Kalil": 15,
@@ -7366,7 +7640,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-42",
+      "source_url": "#cite_note-:9-46",
       "candidates": {
         "Cleitinho": 37,
         "Alexandre Kalil": 15,
@@ -7395,7 +7669,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-42",
+      "source_url": "#cite_note-:9-46",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 15,
@@ -7424,7 +7698,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-42",
+      "source_url": "#cite_note-:9-46",
       "candidates": {
         "Alexandre Kalil": 20,
         "Mateus Simões": 10,
@@ -7468,13 +7742,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Badra",
       "collection_date": "2026-07-29",
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-62",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Raquel Lyra": 37.2,
         "João Campos": 44.6
@@ -7488,7 +7762,7 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "INOR",
       "collection_date": "2026-07-29",
@@ -7497,16 +7771,14 @@
       "tse_registration": "",
       "source_url": "#cite_note-51",
       "candidates": {
-        "Fábio Mitidieri": 37.94,
+        "Fábio": 37.94,
         "Valmir de Francisquinho": 46.07,
-        "Ricardo Marques": 7.01,
-        "Emanuel Cacho": 0.28
+        "Ricardo Marques": 7.01
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -7545,7 +7817,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-41",
+      "source_url": "#cite_note-:13-43",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 33,
@@ -7568,7 +7840,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-42",
+      "source_url": "#cite_note-:14-44",
       "candidates": {
         "Daniel Vilela": 37,
         "Marconi Perillo": 21,
@@ -7593,7 +7865,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-74",
+      "source_url": "#cite_note-:4-78",
       "candidates": {
         "Cleitinho": 41.3,
         "Alexandre Kalil": 11.7,
@@ -7622,7 +7894,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-74",
+      "source_url": "#cite_note-:4-78",
       "candidates": {
         "Alexandre Kalil": 21.4,
         "Gabriel Azevedo": 11.1,
@@ -7647,7 +7919,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-74",
+      "source_url": "#cite_note-:4-78",
       "candidates": {
         "Mateus Simões": 29.7,
         "Gabriel Azevedo": 10.1,
@@ -7672,7 +7944,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-74",
+      "source_url": "#cite_note-:4-78",
       "candidates": {
         "Cleitinho": 44.1,
         "Alexandre Kalil": 17.5,
@@ -7699,7 +7971,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-74",
+      "source_url": "#cite_note-:4-78",
       "candidates": {
         "Cleitinho": 43.3,
         "Gabriel Azevedo": 5.7,
@@ -7724,7 +7996,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-39",
       "candidates": {
         "Sergio Moro": 37.4,
         "Requião Filho": 19.1,
@@ -7801,7 +8073,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-48",
+      "source_url": "#cite_note-:4-50",
       "candidates": {
         "ACM Neto": 39,
         "Jerônimo": 38,
@@ -7824,7 +8096,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-48",
+      "source_url": "#cite_note-:8-52",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -7851,7 +8123,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-48",
+      "source_url": "#cite_note-:8-52",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 12,
@@ -7880,7 +8152,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-48",
+      "source_url": "#cite_note-:8-52",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 12,
@@ -7909,7 +8181,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-48",
+      "source_url": "#cite_note-:8-52",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -7936,7 +8208,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-48",
+      "source_url": "#cite_note-:8-52",
       "candidates": {
         "Alexandre Kalil": 15,
         "Mateus Simões": 9,
@@ -7963,7 +8235,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-66",
+      "source_url": "#cite_note-:5-70",
       "candidates": {
         "Cleitinho": 30,
         "Alexandre Kalil": 8,
@@ -7992,7 +8264,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-66",
+      "source_url": "#cite_note-:5-70",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 11,
@@ -8019,7 +8291,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-66",
+      "source_url": "#cite_note-:5-70",
       "candidates": {
         "Cleitinho": 37,
         "Mateus Simões": 16,
@@ -8046,7 +8318,7 @@
       "sample_size": 1482,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-66",
+      "source_url": "#cite_note-:5-70",
       "candidates": {
         "Alexandre Kalil": 12,
         "Mateus Simões": 18,
@@ -8067,13 +8339,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Genial/Quaest",
       "collection_date": "2026-07-26",
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-64",
+      "source_url": "#cite_note-:16-66",
       "candidates": {
         "Raquel Lyra": 43,
         "João Campos": 37
@@ -8088,13 +8360,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Múltipla",
       "collection_date": "2026-07-26",
       "sample_size": 900,
       "margin_error": 3.3,
       "tse_registration": "",
-      "source_url": "#cite_note-:14-68",
+      "source_url": "#cite_note-:14-70",
       "candidates": {
         "Raquel Lyra": 44,
         "João Campos": 40
@@ -8140,7 +8412,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-49",
+      "source_url": "#cite_note-:6-51",
       "candidates": {
         "ACM Neto": 53,
         "Jerônimo": 39.8,
@@ -8219,7 +8491,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-38",
+      "source_url": "#cite_note-:13-40",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 18,
@@ -8248,7 +8520,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-38",
+      "source_url": "#cite_note-:13-40",
       "candidates": {
         "Sergio Moro": 39,
         "Requião Filho": 19,
@@ -8275,7 +8547,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-38",
+      "source_url": "#cite_note-:13-40",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 24,
@@ -8294,7 +8566,7 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Folha /IPESPE",
       "collection_date": "2026-07-25",
       "sample_size": 1000,
@@ -8337,25 +8609,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "CTAS",
       "collection_date": "2026-07-24",
       "sample_size": 1224,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-:14-4",
       "candidates": {
-        "Fábio Mitidieri": 45.4,
+        "Fábio": 45.4,
         "Valmir de Francisquinho": 32.2,
-        "Ricardo Marques": 4.5,
-        "Emanuel Cacho": 1
+        "Ricardo Marques": 4.5
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -8369,7 +8639,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-46",
+      "source_url": "#cite_note-:7-48",
       "candidates": {
         "Professora Dorinha": 34.4,
         "Laurez Moreira": 10.1,
@@ -8444,7 +8714,7 @@
       "sample_size": 1600,
       "margin_error": 2.45,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-58",
       "candidates": {
         "Cleitinho": 37.56,
         "Alexandre Kalil": 11.06,
@@ -8496,7 +8766,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-35",
+      "source_url": "#cite_note-:9-37",
       "candidates": {
         "Lorenzo Pazolini": 30,
         "Ricardo Ferraço": 41,
@@ -8519,7 +8789,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-35",
+      "source_url": "#cite_note-:9-37",
       "candidates": {
         "Lorenzo Pazolini": 27,
         "Magno Malta": 13,
@@ -8544,7 +8814,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-35",
+      "source_url": "#cite_note-:9-37",
       "candidates": {
         "Lorenzo Pazolini": 25,
         "Paulo Hartung": 27,
@@ -8569,7 +8839,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-35",
+      "source_url": "#cite_note-:9-37",
       "candidates": {
         "Lorenzo Pazolini": 22,
         "Magno Malta": 10,
@@ -8619,7 +8889,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Sergio Moro": 40.7,
         "Requião Filho": 18.6,
@@ -8648,7 +8918,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Sergio Moro": 46.7,
         "Requião Filho": 22,
@@ -8692,13 +8962,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Falpe",
       "collection_date": "2026-07-20",
       "sample_size": 5000,
       "margin_error": 1.38,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-40",
+      "source_url": "#cite_note-:8-44",
       "candidates": {
         "JHC": 40,
         "Renan Filho": 40
@@ -8719,7 +8989,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Cleitinho": 35,
         "Alexandre Kalil": 15,
@@ -8748,7 +9018,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Cleitinho": 39,
         "Mateus Simões": 17,
@@ -8769,13 +9039,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Simplex",
       "collection_date": "2026-07-20",
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:13-69",
+      "source_url": "#cite_note-:13-71",
       "candidates": {
         "Raquel Lyra": 48.2,
         "João Campos": 36.5
@@ -8821,7 +9091,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-45",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
@@ -8844,7 +9114,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-79",
+      "source_url": "#cite_note-:-1-83",
       "candidates": {
         "Cleitinho": 25.5,
         "Mateus Simões": 13.5,
@@ -8871,7 +9141,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-79",
+      "source_url": "#cite_note-:-1-83",
       "candidates": {
         "Cleitinho": 29.6,
         "Alexandre Kalil": 6,
@@ -8900,7 +9170,7 @@
       "sample_size": 2030,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-79",
+      "source_url": "#cite_note-:-1-83",
       "candidates": {
         "Cleitinho": 30.8,
         "Mateus Simões": 17,
@@ -8920,21 +9190,21 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "W1",
       "collection_date": "2026-07-18",
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-55",
+      "source_url": "#cite_note-54",
       "candidates": {
-        "Fábio Mitidieri": 46.2,
+        "Fábio": 46.2,
         "Valmir de Francisquinho": 34,
         "Ricardo Marques": 5.1
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
       }
@@ -8950,7 +9220,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-56",
+      "source_url": "#cite_note-:7-60",
       "candidates": {
         "Cleitinho": 27.7,
         "Alexandre Kalil": 18.3,
@@ -8979,7 +9249,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-56",
+      "source_url": "#cite_note-:7-60",
       "candidates": {
         "Cleitinho": 28.8,
         "Alexandre Kalil": 20.5,
@@ -9077,7 +9347,7 @@
       "sample_size": 1250,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Professora Dorinha": 32,
         "Laurez Moreira": 15,
@@ -9152,7 +9422,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-45",
+      "source_url": "#cite_note-:12-47",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
@@ -9168,21 +9438,21 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "ECM Sergipe",
       "collection_date": "2026-07-14",
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-55",
       "candidates": {
-        "Fábio Mitidieri": 39.33,
+        "Fábio": 39.33,
         "Valmir de Francisquinho": 27.8,
         "Ricardo Marques": 7.4
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
       }
@@ -9198,7 +9468,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-36",
+      "source_url": "#cite_note-:8-38",
       "candidates": {
         "Lorenzo Pazolini": 25,
         "Ricardo Ferraço": 37,
@@ -9221,7 +9491,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-36",
+      "source_url": "#cite_note-:8-38",
       "candidates": {
         "Magno Malta": 22,
         "Ricardo Ferraço": 37,
@@ -9244,7 +9514,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-36",
+      "source_url": "#cite_note-:8-38",
       "candidates": {
         "Lorenzo Pazolini": 21,
         "Magno Malta": 15,
@@ -9269,7 +9539,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-36",
+      "source_url": "#cite_note-:8-38",
       "candidates": {
         "Lorenzo Pazolini": 19,
         "Magno Malta": 12,
@@ -9296,7 +9566,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-83",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Cleitinho": 34,
         "Alexandre Kalil": 19,
@@ -9327,7 +9597,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-83",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Cleitinho": 38,
         "Alexandre Kalil": 19,
@@ -9354,7 +9624,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-83",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Cleitinho": 39,
         "Alexandre Kalil": 24,
@@ -9379,7 +9649,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-83",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Cleitinho": 40,
         "Mateus Simões": 19,
@@ -9404,7 +9674,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-83",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Alexandre Kalil": 30,
         "Gabriel Azevedo": 18,
@@ -9427,7 +9697,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-83",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Mateus Simões": 25,
         "Gabriel Azevedo": 19,
@@ -9450,7 +9720,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-83",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Alexandre Kalil": 34,
         "Gabriel Azevedo": 21
@@ -9486,13 +9756,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Ranking",
       "collection_date": "2026-07-11",
       "sample_size": 1201,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-42",
+      "source_url": "#cite_note-:7-46",
       "candidates": {
         "JHC": 47,
         "Renan Filho": 38
@@ -9507,13 +9777,13 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Conecta",
       "collection_date": "2026-07-11",
       "sample_size": 2100,
       "margin_error": 2.14,
       "tse_registration": "",
-      "source_url": "#cite_note-70",
+      "source_url": "#cite_note-72",
       "candidates": {
         "Raquel Lyra": 42.4,
         "João Campos": 40.4
@@ -9695,7 +9965,7 @@
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "cenario": "João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-07-09",
       "sample_size": 1500,
@@ -9743,13 +10013,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Vox Brasil",
       "collection_date": "2026-07-08",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-44",
+      "source_url": "#cite_note-48",
       "candidates": {
         "JHC": 43.5,
         "Renan Filho": 49.3
@@ -9770,7 +10040,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-46",
+      "source_url": "#cite_note-:12-48",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 26,
@@ -9795,7 +10065,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-46",
+      "source_url": "#cite_note-:12-48",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 24,
@@ -9836,25 +10106,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "INOR",
       "collection_date": "2026-07-08",
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-56",
       "candidates": {
-        "Fábio Mitidieri": 32.9,
+        "Fábio": 32.9,
         "Valmir de Francisquinho": 38.69,
-        "Ricardo Marques": 8.97,
-        "Emanuel Cacho": 0.56
+        "Ricardo Marques": 8.97
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -9868,7 +10136,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-37",
+      "source_url": "#cite_note-:7-39",
       "candidates": {
         "Lorenzo Pazolini": 29.71,
         "Magno Malta": 13.3,
@@ -9893,7 +10161,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-37",
+      "source_url": "#cite_note-:7-39",
       "candidates": {
         "Lorenzo Pazolini": 34.27,
         "Ricardo Ferraço": 30.6,
@@ -9916,7 +10184,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-37",
+      "source_url": "#cite_note-:7-39",
       "candidates": {
         "Magno Malta": 21.51,
         "Paulo Hartung": 20.62,
@@ -9941,7 +10209,7 @@
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-37",
+      "source_url": "#cite_note-:7-39",
       "candidates": {
         "Lorenzo Pazolini": 41.91,
         "Ricardo Ferraço": 28.82,
@@ -9989,7 +10257,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-85",
+      "source_url": "#cite_note-:2-89",
       "candidates": {
         "Cleitinho": 45.6,
         "Alexandre Kalil": 18.4,
@@ -10014,7 +10282,7 @@
       "sample_size": 1350,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-85",
+      "source_url": "#cite_note-:2-89",
       "candidates": {
         "Cleitinho": 45.8,
         "Mateus Simões": 22.6,
@@ -10112,7 +10380,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Sergio Moro": 39.9,
         "Requião Filho": 21.1,
@@ -10141,7 +10409,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-40",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Sergio Moro": 45.1,
         "Requião Filho": 24.7,
@@ -10291,7 +10559,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-63",
+      "source_url": "#cite_note-:6-67",
       "candidates": {
         "Cleitinho": 28,
         "Alexandre Kalil": 6,
@@ -10320,7 +10588,7 @@
       "sample_size": 1500,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-63",
+      "source_url": "#cite_note-:6-67",
       "candidates": {
         "Cleitinho": 30,
         "Mateus Simões": 24,
@@ -10390,25 +10658,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "IFP",
       "collection_date": "2026-07-02",
       "sample_size": 1116,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-59",
+      "source_url": "#cite_note-:4-58",
       "candidates": {
-        "Fábio Mitidieri": 40.67,
+        "Fábio": 40.67,
         "Valmir de Francisquinho": 29.22,
-        "Ricardo Marques": 4.89,
-        "Emanuel Cacho": 0.68
+        "Ricardo Marques": 4.89
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -10416,13 +10682,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-07-01",
       "sample_size": 1400,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
       "candidates": {
         "JHC": 45.9,
         "Renan Filho": 41
@@ -10462,13 +10728,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Real Time Big Data",
       "collection_date": "2026-06-30",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-46",
+      "source_url": "#cite_note-:6-50",
       "candidates": {
         "JHC": 46,
         "Renan Filho": 46
@@ -10512,7 +10778,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-49",
+      "source_url": "#cite_note-:10-51",
       "candidates": {
         "Daniel Vilela": 31,
         "Marconi Perillo": 33,
@@ -10530,25 +10796,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Positiva Pesquisas",
       "collection_date": "2026-06-30",
       "sample_size": 1200,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-61",
+      "source_url": "#cite_note-60",
       "candidates": {
-        "Fábio Mitidieri": 33.1,
+        "Fábio": 33.1,
         "Valmir de Francisquinho": 39.25,
-        "Ricardo Marques": 0.89,
-        "Emanuel Cacho": 1.98
+        "Ricardo Marques": 0.89
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -10562,7 +10826,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-41",
+      "source_url": "#cite_note-:12-43",
       "candidates": {
         "Sergio Moro": 39.6,
         "Requião Filho": 20.8,
@@ -10591,7 +10855,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-41",
+      "source_url": "#cite_note-:12-43",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 24.2,
@@ -10618,7 +10882,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-41",
+      "source_url": "#cite_note-:12-43",
       "candidates": {
         "Sergio Moro": 41.2,
         "Requião Filho": 21,
@@ -10645,7 +10909,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-41",
+      "source_url": "#cite_note-:12-43",
       "candidates": {
         "Sergio Moro": 43.4,
         "Requião Filho": 20.4,
@@ -10668,7 +10932,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-41",
+      "source_url": "#cite_note-:12-43",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 22.8,
@@ -10737,7 +11001,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-47",
+      "source_url": "#cite_note-:11-49",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 39,
@@ -10780,23 +11044,21 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Numen Data/Revista Total Brasil",
       "collection_date": "2026-06-24",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data2-73",
+      "source_url": "#cite_note-Numen_Data2-75",
       "candidates": {
         "Raquel Lyra": 51.17,
-        "João Campos": 41.75,
-        "Ivan Moraes": 0.42
+        "João Campos": 41.75
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -10831,13 +11093,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "TDL",
       "collection_date": "2026-06-22",
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-48",
+      "source_url": "#cite_note-:4-52",
       "candidates": {
         "JHC": 52,
         "Renan Filho": 37
@@ -10906,7 +11168,7 @@
       "sample_size": 1340,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-50",
+      "source_url": "#cite_note-:6-52",
       "candidates": {
         "Professora Dorinha": 35.9,
         "Laurez Moreira": 8.8,
@@ -10993,25 +11255,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "CTAS/Inove Notícias",
       "collection_date": "2026-06-20",
       "sample_size": 1224,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-63",
+      "source_url": "#cite_note-62",
       "candidates": {
-        "Fábio Mitidieri": 41.2,
+        "Fábio": 41.2,
         "Valmir de Francisquinho": 26.7,
-        "Ricardo Marques": 6.2,
-        "Emanuel Cacho": 1.2
+        "Ricardo Marques": 6.2
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -11025,7 +11285,7 @@
       "sample_size": 1100,
       "margin_error": 4.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-50",
+      "source_url": "#cite_note-:9-52",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 22.7,
@@ -11043,25 +11303,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "INOR",
       "collection_date": "2026-06-18",
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-64",
+      "source_url": "#cite_note-63",
       "candidates": {
-        "Fábio Mitidieri": 34.95,
+        "Fábio": 34.95,
         "Valmir de Francisquinho": 41.5,
-        "Ricardo Marques": 8.5,
-        "Emanuel Cacho": 0.37
+        "Ricardo Marques": 8.5
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -11075,7 +11333,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-53",
       "candidates": {
         "Professora Dorinha": 33,
         "Laurez Moreira": 17,
@@ -11098,7 +11356,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
+      "source_url": "#cite_note-:4-53",
       "candidates": {
         "Professora Dorinha": 35,
         "Laurez Moreira": 22,
@@ -11162,23 +11420,21 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Múltipla",
       "collection_date": "2026-06-16",
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-75",
+      "source_url": "#cite_note-77",
       "candidates": {
         "Raquel Lyra": 38,
-        "João Campos": 43,
-        "Ivan Moraes": 1
+        "João Campos": 43
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -11266,8 +11522,8 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Folha /IPESPE",
       "collection_date": "2026-06-14",
       "sample_size": 1000,
@@ -11276,13 +11532,11 @@
       "source_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco",
       "candidates": {
         "Raquel Lyra": 44,
-        "João Campos": 42,
-        "Ivan Moraes": 2
+        "João Campos": 42
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -11319,7 +11573,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Lorenzo Pazolini": 35,
         "Magno Malta": 9.17,
@@ -11344,7 +11598,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-41",
       "candidates": {
         "Lorenzo Pazolini": 37.78,
         "Ricardo Ferraço": 31.94,
@@ -11367,7 +11621,7 @@
       "sample_size": 3600,
       "margin_error": 1.63,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-51",
+      "source_url": "#cite_note-:8-53",
       "candidates": {
         "Daniel Vilela": 28.5,
         "Marconi Perillo": 33.8,
@@ -11417,7 +11671,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-42",
+      "source_url": "#cite_note-:11-44",
       "candidates": {
         "Sergio Moro": 38.2,
         "Requião Filho": 18.6,
@@ -11446,7 +11700,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-42",
+      "source_url": "#cite_note-:11-44",
       "candidates": {
         "Sergio Moro": 39.1,
         "Requião Filho": 20.8,
@@ -11466,25 +11720,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Visão",
       "collection_date": "2026-06-13",
       "sample_size": 1050,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-66",
+      "source_url": "#cite_note-:3-65",
       "candidates": {
-        "Fábio Mitidieri": 38.7,
+        "Fábio": 38.7,
         "Valmir de Francisquinho": 42.8,
-        "Ricardo Marques": 8.2,
-        "Emanuel Cacho": 0.4
+        "Ricardo Marques": 8.2
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -11513,13 +11765,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Vox Brasil",
       "collection_date": "2026-06-11",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-47",
+      "source_url": "#cite_note-:5-51",
       "candidates": {
         "JHC": 45.1,
         "Renan Filho": 48.6
@@ -11585,48 +11837,42 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Real Time Big Data",
       "collection_date": "2026-06-10",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-77",
+      "source_url": "#cite_note-:10-79",
       "candidates": {
         "Raquel Lyra": 40,
-        "João Campos": 45,
-        "Eduardo Moura": 0,
-        "Ivan Moraes": 3
+        "João Campos": 45
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Badra",
       "collection_date": "2026-06-10",
       "sample_size": 1500,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-A-78",
+      "source_url": "#cite_note-:9-A-81",
       "candidates": {
         "Raquel Lyra": 41.1,
-        "João Campos": 44.2,
-        "Ivan Moraes": 0.8
+        "João Campos": 44.2
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -11640,7 +11886,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-53",
       "candidates": {
         "ACM Neto": 49,
         "Jerônimo": 39,
@@ -11684,7 +11930,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Sergio Moro": 42.3,
         "Requião Filho": 19.9,
@@ -11713,7 +11959,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Sergio Moro": 47.3,
         "Requião Filho": 23.5,
@@ -11740,7 +11986,7 @@
       "sample_size": 1314,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-54",
+      "source_url": "#cite_note-:5-56",
       "candidates": {
         "Professora Dorinha": 31.1,
         "Laurez Moreira": 11.8,
@@ -11763,7 +12009,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-40",
+      "source_url": "#cite_note-:6-42",
       "candidates": {
         "Lorenzo Pazolini": 33,
         "Ricardo Ferraço": 39,
@@ -11786,7 +12032,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-40",
+      "source_url": "#cite_note-:6-42",
       "candidates": {
         "Lorenzo Pazolini": 28,
         "Magno Malta": 14,
@@ -11804,25 +12050,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "ECM Sergipe",
       "collection_date": "2026-06-07",
       "sample_size": 1200,
       "margin_error": 2.82,
       "tse_registration": "",
-      "source_url": "#cite_note-68",
+      "source_url": "#cite_note-67",
       "candidates": {
-        "Fábio Mitidieri": 40.8,
+        "Fábio": 40.8,
         "Valmir de Francisquinho": 30.3,
-        "Ricardo Marques": 5.3,
-        "Emanuel Cacho": 0.8
+        "Ricardo Marques": 5.3
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -11861,7 +12105,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-46",
+      "source_url": "#cite_note-:10-48",
       "candidates": {
         "Sergio Moro": 52.7,
         "Requião Filho": 17.5,
@@ -12044,7 +12288,7 @@
       "sample_size": 1507,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-53",
+      "source_url": "#cite_note-:7-55",
       "candidates": {
         "Daniel Vilela": 27.8,
         "Marconi Perillo": 17.5,
@@ -12060,25 +12304,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "W1",
       "collection_date": "2026-06-02",
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-70",
+      "source_url": "#cite_note-:2-69",
       "candidates": {
-        "Fábio Mitidieri": 44.7,
+        "Fábio": 44.7,
         "Valmir de Francisquinho": 38.7,
-        "Ricardo Marques": 5.7,
-        "Emanuel Cacho": 0.4
+        "Ricardo Marques": 5.7
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -12092,7 +12334,7 @@
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-51",
+      "source_url": "#cite_note-:8-53",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
@@ -12188,7 +12430,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-55",
+      "source_url": "#cite_note-:6-57",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -12213,7 +12455,7 @@
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-59",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -12344,8 +12586,8 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Datafolha",
       "collection_date": "2026-05-27",
       "sample_size": 1022,
@@ -12354,13 +12596,11 @@
       "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
         "Raquel Lyra": 48,
-        "João Campos": 43,
-        "Ivan Moraes": 2
+        "João Campos": 43
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -12514,7 +12754,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-41",
+      "source_url": "#cite_note-:5-43",
       "candidates": {
         "Lorenzo Pazolini": 29,
         "Magno Malta": 27.8,
@@ -12539,7 +12779,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-59",
+      "source_url": "#cite_note--2-61",
       "candidates": {
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
@@ -12564,7 +12804,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-59",
+      "source_url": "#cite_note--2-61",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
@@ -12628,25 +12868,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-05-25",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-72",
+      "source_url": "#cite_note-:1-71",
       "candidates": {
-        "Fábio Mitidieri": 41,
+        "Fábio": 41,
         "Valmir de Francisquinho": 38,
-        "Ricardo Marques": 5,
-        "Emanuel Cacho": 2
+        "Ricardo Marques": 5
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -12755,25 +12993,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "INOR",
       "collection_date": "2026-05-23",
       "sample_size": 1700,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-74",
+      "source_url": "#cite_note-:0-73",
       "candidates": {
-        "Fábio Mitidieri": 32.9,
+        "Fábio": 32.9,
         "Valmir de Francisquinho": 39.72,
-        "Ricardo Marques": 8.32,
-        "Emanuel Cacho": 0.65
+        "Ricardo Marques": 8.32
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -12906,7 +13142,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-47",
+      "source_url": "#cite_note-:9-49",
       "candidates": {
         "Sergio Moro": 39.4,
         "Requião Filho": 18.1,
@@ -12935,7 +13171,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-47",
+      "source_url": "#cite_note-:9-49",
       "candidates": {
         "Sergio Moro": 40.6,
         "Requião Filho": 20.5,
@@ -12955,23 +13191,21 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Múltipla",
       "collection_date": "2026-05-20",
       "sample_size": 1070,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-81",
+      "source_url": "#cite_note-84",
       "candidates": {
         "Raquel Lyra": 43,
-        "João Campos": 39,
-        "Ivan Moraes": 2
+        "João Campos": 39
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -12985,7 +13219,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-54",
+      "source_url": "#cite_note-:7-56",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
@@ -13108,7 +13342,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--1-65",
+      "source_url": "#cite_note--1-67",
       "candidates": {
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
@@ -13258,7 +13492,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-67",
+      "source_url": "#cite_note-:4-69",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -13283,7 +13517,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-67",
+      "source_url": "#cite_note-:4-69",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -13306,7 +13540,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-67",
+      "source_url": "#cite_note-:4-69",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -13331,7 +13565,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-67",
+      "source_url": "#cite_note-:4-69",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -13375,13 +13609,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Falpe",
       "collection_date": "2026-05-10",
       "sample_size": 5000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-54",
       "candidates": {
         "JHC": 37,
         "Renan Filho": 41.75
@@ -13427,7 +13661,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Sergio Moro": 42.6,
         "Requião Filho": 19.7,
@@ -13456,7 +13690,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Sergio Moro": 49.2,
         "Requião Filho": 23.7,
@@ -13604,7 +13838,7 @@
       "sample_size": 2010,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá2-49",
+      "source_url": "#cite_note-Veritá2-51",
       "candidates": {
         "Sergio Moro": 58.6,
         "Requião Filho": 20,
@@ -13624,23 +13858,21 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "DataTrends",
       "collection_date": "2026-05-03",
       "sample_size": 4000,
       "margin_error": 1.6,
       "tse_registration": "",
-      "source_url": "#cite_note-DataTrends1-82",
+      "source_url": "#cite_note-DataTrends1-85",
       "candidates": {
         "Raquel Lyra": 36,
-        "João Campos": 42,
-        "Ivan Moraes": 1
+        "João Campos": 42
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -13648,13 +13880,13 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "TDL",
       "collection_date": "2026-05-02",
       "sample_size": 1220,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-55",
       "candidates": {
         "JHC": 51,
         "Renan Filho": 35
@@ -13700,7 +13932,7 @@
       "sample_size": 3300,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-71",
+      "source_url": "#cite_note-73",
       "candidates": {
         "Daniel Vilela": 29.6,
         "Marconi Perillo": 30.2,
@@ -13766,8 +13998,8 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Veritá",
       "collection_date": "2026-04-30",
       "sample_size": 2010,
@@ -13817,7 +14049,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 19,
@@ -13846,7 +14078,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Sergio Moro": 51,
         "Requião Filho": 20.7,
@@ -13898,7 +14130,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-56",
+      "source_url": "#cite_note-Quaest-Abril-58",
       "candidates": {
         "Ciro Gomes": 41,
         "Elmano de Freitas": 32,
@@ -13921,7 +14153,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-56",
+      "source_url": "#cite_note-Quaest-Abril-58",
       "candidates": {
         "Ciro Gomes": 33,
         "Camilo Santana": 40,
@@ -13944,7 +14176,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-56",
+      "source_url": "#cite_note-Quaest-Abril-58",
       "candidates": {
         "Elmano de Freitas": 39,
         "Roberto Cláudio": 16,
@@ -13967,7 +14199,7 @@
       "sample_size": 1002,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Quaest-Abril-56",
+      "source_url": "#cite_note-Quaest-Abril-58",
       "candidates": {
         "Camilo Santana": 49,
         "Roberto Cláudio": 12,
@@ -13990,7 +14222,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-43",
+      "source_url": "#cite_note-:4-45",
       "candidates": {
         "Lorenzo Pazolini": 18,
         "Magno Malta": 15,
@@ -14017,7 +14249,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-43",
+      "source_url": "#cite_note-:4-45",
       "candidates": {
         "Lorenzo Pazolini": 20,
         "Magno Malta": 18,
@@ -14042,7 +14274,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-43",
+      "source_url": "#cite_note-:4-45",
       "candidates": {
         "Magno Malta": 24,
         "Ricardo Ferraço": 32,
@@ -14065,7 +14297,7 @@
       "sample_size": 804,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-43",
+      "source_url": "#cite_note-:4-45",
       "candidates": {
         "Lorenzo Pazolini": 24,
         "Ricardo Ferraço": 32,
@@ -14088,7 +14320,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-GenialQuaest-Abril-72",
+      "source_url": "#cite_note-GenialQuaest-Abril-74",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -14113,7 +14345,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-GenialQuaest-Abril-72",
+      "source_url": "#cite_note-GenialQuaest-Abril-74",
       "candidates": {
         "Daniel Vilela": 33,
         "Marconi Perillo": 21,
@@ -14138,7 +14370,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-GenialQuaest-Abril-72",
+      "source_url": "#cite_note-GenialQuaest-Abril-74",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 21,
@@ -14226,7 +14458,7 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Veritá",
       "collection_date": "2026-04-27",
       "sample_size": 1220,
@@ -14317,21 +14549,21 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "JR Comunicações, Serviços a Pesquisas",
       "collection_date": "2026-04-27",
       "sample_size": 1312,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-SE04-76",
+      "source_url": "#cite_note-SE04-75",
       "candidates": {
-        "Fábio Mitidieri": 37.27,
+        "Fábio": 37.27,
         "Valmir de Francisquinho": 44.59,
         "Ricardo Marques": 5.41
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
       }
@@ -14386,25 +14618,21 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Quaest",
       "collection_date": "2026-04-26",
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-85",
+      "source_url": "#cite_note-:8-88",
       "candidates": {
         "Raquel Lyra": 34,
-        "João Campos": 42,
-        "Eduardo Moura": 3,
-        "Ivan Moraes": 1
+        "João Campos": 42
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -14470,7 +14698,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-51",
+      "source_url": "#cite_note-:8-53",
       "candidates": {
         "Sergio Moro": 35,
         "Requião Filho": 18,
@@ -14499,7 +14727,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-51",
+      "source_url": "#cite_note-:8-53",
       "candidates": {
         "Sergio Moro": 42,
         "Requião Filho": 24,
@@ -14565,50 +14793,44 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "W1",
       "collection_date": "2026-04-20",
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE05-77",
+      "source_url": "#cite_note-SE05-76",
       "candidates": {
-        "Fábio Mitidieri": 35.3,
+        "Fábio": 35.3,
         "Valmir de Francisquinho": 39.9,
-        "Ricardo Marques": 9.8,
-        "Emanuel Cacho": 0.7
+        "Ricardo Marques": 9.8
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Numen Data/Revista Total Brasil",
       "collection_date": "2026-04-18",
       "sample_size": 1100,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Numen_Data1-86",
+      "source_url": "#cite_note-Numen_Data1-90",
       "candidates": {
         "Raquel Lyra": 45.1,
-        "João Campos": 37.1,
-        "Eduardo Moura": 4.1,
-        "Ivan Moraes": 2.1
+        "João Campos": 37.1
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -14672,7 +14894,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Lorenzo Pazolini": 35.67,
         "Magno Malta": 12.61,
@@ -14697,7 +14919,7 @@
       "sample_size": 1800,
       "margin_error": 2.3,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Lorenzo Pazolini": 39.11,
         "Ricardo Ferraço": 26.83,
@@ -14713,8 +14935,8 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Datafolha",
       "collection_date": "2026-04-15",
       "sample_size": 1022,
@@ -14723,15 +14945,11 @@
       "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
         "Raquel Lyra": 38,
-        "João Campos": 50,
-        "Eduardo Moura": 3,
-        "Ivan Moraes": 2
+        "João Campos": 50
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -14822,7 +15040,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Sergio Moro": 46.6,
         "Requião Filho": 17.7,
@@ -14851,7 +15069,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Sergio Moro": 52.5,
         "Requião Filho": 22.9,
@@ -14878,7 +15096,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Sergio Moro": 50.9,
         "Requião Filho": 22,
@@ -14905,7 +15123,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-54",
       "candidates": {
         "Sergio Moro": 46.8,
         "Requião Filho": 18,
@@ -14932,7 +15150,7 @@
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-55",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Professora Dorinha": 12.38,
         "Laurez Moreira": 6,
@@ -14980,7 +15198,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-75",
+      "source_url": "#cite_note-:3-77",
       "candidates": {
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
@@ -15005,7 +15223,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-75",
+      "source_url": "#cite_note-:3-77",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
@@ -15030,7 +15248,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-75",
+      "source_url": "#cite_note-:3-77",
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
@@ -15073,50 +15291,42 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Real Time Big Data",
       "collection_date": "2026-04-07",
       "sample_size": 1600,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-88",
+      "source_url": "#cite_note-:6-94",
       "candidates": {
         "Raquel Lyra": 33,
-        "João Campos": 50,
-        "Eduardo Moura": 8,
-        "Ivan Moraes": 2
+        "João Campos": 50
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Instituto Simplex",
       "collection_date": "2026-04-07",
       "sample_size": 1067,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Simplex1-89",
+      "source_url": "#cite_note-Simplex1-96",
       "candidates": {
         "Raquel Lyra": 42.3,
-        "João Campos": 42.6,
-        "Eduardo Moura": 2.5,
-        "Ivan Moraes": 1
+        "João Campos": 42.6
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -15248,25 +15458,23 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
       "institute": "Veritá",
       "collection_date": "2026-04-04",
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-79",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
-        "Fábio Mitidieri": 44.2,
+        "Fábio": 44.2,
         "Valmir de Francisquinho": 34.5,
-        "Ricardo Marques": 17.6,
-        "Emanuel Cacho": 0.1
+        "Ricardo Marques": 17.6
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
-        "Ricardo Marques": "PL",
-        "Emanuel Cacho": "PSDB"
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -15353,7 +15561,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-63",
+      "source_url": "#cite_note-:6-65",
       "candidates": {
         "Ciro Gomes": 30,
         "Elmano de Freitas": 21,
@@ -15562,7 +15770,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-53",
+      "source_url": "#cite_note-:7-55",
       "candidates": {
         "Sergio Moro": 51.5,
         "Requião Filho": 28.4,
@@ -15589,7 +15797,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-53",
+      "source_url": "#cite_note-:7-55",
       "candidates": {
         "Sergio Moro": 52.8,
         "Requião Filho": 27,
@@ -15616,7 +15824,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-53",
+      "source_url": "#cite_note-:7-55",
       "candidates": {
         "Sergio Moro": 52.6,
         "Requião Filho": 28.8,
@@ -15641,7 +15849,7 @@
       "sample_size": 1254,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-53",
+      "source_url": "#cite_note-:7-55",
       "candidates": {
         "Sergio Moro": 52.1,
         "Requião Filho": 30.6,
@@ -15661,8 +15869,8 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Veritá",
       "collection_date": "2026-03-30",
       "sample_size": 2010,
@@ -15671,15 +15879,11 @@
       "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
       "candidates": {
         "Raquel Lyra": 41.4,
-        "João Campos": 41.4,
-        "Eduardo Moura": 2.9,
-        "Ivan Moraes": 4
+        "João Campos": 41.4
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -15745,7 +15949,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-67",
+      "source_url": "#cite_note-:1-69",
       "candidates": {
         "Ciro Gomes": 39,
         "Elmano de Freitas": 42,
@@ -15768,7 +15972,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-67",
+      "source_url": "#cite_note-:1-69",
       "candidates": {
         "Elmano de Freitas": 45,
         "Roberto Cláudio": 27,
@@ -15858,7 +16062,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-46",
+      "source_url": "#cite_note-:2-48",
       "candidates": {
         "Lorenzo Pazolini": 17,
         "Magno Malta": 18,
@@ -15883,7 +16087,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-46",
+      "source_url": "#cite_note-:2-48",
       "candidates": {
         "Lorenzo Pazolini": 21,
         "Ricardo Ferraço": 33,
@@ -15906,7 +16110,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-46",
+      "source_url": "#cite_note-:2-48",
       "candidates": {
         "Ricardo Ferraço": 36,
         "Arnaldinho Borgo": 11,
@@ -15929,7 +16133,7 @@
       "sample_size": 1104,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-46",
+      "source_url": "#cite_note-:2-48",
       "candidates": {
         "Magno Malta": 22,
         "Ricardo Ferraço": 25,
@@ -16050,7 +16254,7 @@
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Veritá1-44",
+      "source_url": "#cite_note-Veritá1-46",
       "candidates": {
         "Lorenzo Pazolini": 32,
         "Magno Malta": 19.3,
@@ -16077,7 +16281,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-57",
+      "source_url": "#cite_note-:3-59",
       "candidates": {
         "Professora Dorinha": 35,
         "Laurez Moreira": 18,
@@ -16104,7 +16308,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-57",
+      "source_url": "#cite_note-:3-59",
       "candidates": {
         "Professora Dorinha": 39,
         "Laurez Moreira": 20,
@@ -16129,7 +16333,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-57",
+      "source_url": "#cite_note-:3-59",
       "candidates": {
         "Professora Dorinha": 40,
         "Laurez Moreira": 23,
@@ -16275,7 +16479,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-57",
       "candidates": {
         "Sergio Moro": 43.3,
         "Requião Filho": 17.8,
@@ -16302,7 +16506,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-57",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 17.2,
@@ -16329,7 +16533,7 @@
       "sample_size": 1008,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-55",
+      "source_url": "#cite_note-:3-57",
       "candidates": {
         "Sergio Moro": 47.8,
         "Requião Filho": 18.4,
@@ -16346,7 +16550,7 @@
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "cenario": "JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2026",
+      "secao": "Primeiro turno (governador)",
       "institute": "Veritá",
       "collection_date": "2026-03-19",
       "sample_size": 1220,
@@ -16512,20 +16716,20 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Instituto França",
+      "institute": "IFP",
       "collection_date": "2026-03-18",
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-81",
+      "source_url": "#cite_note-SE02-80",
       "candidates": {
-        "Fábio Mitidieri": 42.88,
+        "Fábio": 42.88,
         "Valmir de Francisquinho": 35.03
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos"
       }
     },
@@ -16533,42 +16737,21 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
       "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Instituto França",
+      "institute": "IFP",
       "collection_date": "2026-03-18",
       "sample_size": 1220,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-SE02-81",
+      "source_url": "#cite_note-SE02-80",
       "candidates": {
-        "Fábio Mitidieri": 44.51,
+        "Fábio": 44.51,
         "Ricardo Marques": 21.63
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
+        "Fábio": "PSD",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Emanuel Cacho|Fábio Mitidieri|Ricardo Marques|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2026",
-      "institute": "Instituto França",
-      "collection_date": "2026-03-18",
-      "sample_size": 1220,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-SE02-81",
-      "candidates": {
-        "Fábio Mitidieri": 51.64,
-        "Emanuel Cacho": 10.3
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Emanuel Cacho": "PSDB"
       }
     },
     {
@@ -16582,7 +16765,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-78",
+      "source_url": "#cite_note-:1-80",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -16607,7 +16790,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-78",
+      "source_url": "#cite_note-:1-80",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -16632,7 +16815,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-78",
+      "source_url": "#cite_note-:1-80",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -16807,7 +16990,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-47",
+      "source_url": "#cite_note-:3-49",
       "candidates": {
         "Lorenzo Pazolini": 35,
         "Ricardo Ferraço": 35,
@@ -16830,7 +17013,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-47",
+      "source_url": "#cite_note-:3-49",
       "candidates": {
         "Lorenzo Pazolini": 27,
         "Magno Malta": 15,
@@ -16855,7 +17038,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-47",
+      "source_url": "#cite_note-:3-49",
       "candidates": {
         "Magno Malta": 17,
         "Ricardo Ferraço": 34,
@@ -16926,7 +17109,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-48",
+      "source_url": "#cite_note-:1-50",
       "candidates": {
         "Lorenzo Pazolini": 42,
         "Ricardo Ferraço": 36.1,
@@ -16949,7 +17132,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-48",
+      "source_url": "#cite_note-:1-50",
       "candidates": {
         "Ricardo Ferraço": 45.3,
         "Arnaldinho Borgo": 19.1,
@@ -16972,7 +17155,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-56",
+      "source_url": "#cite_note-:1-58",
       "candidates": {
         "Sergio Moro": 44,
         "Requião Filho": 23.1,
@@ -17001,7 +17184,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-56",
+      "source_url": "#cite_note-:1-58",
       "candidates": {
         "Sergio Moro": 40.1,
         "Requião Filho": 20.4,
@@ -17030,7 +17213,7 @@
       "sample_size": 1500,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-56",
+      "source_url": "#cite_note-:1-58",
       "candidates": {
         "Sergio Moro": 47,
         "Requião Filho": 26,
@@ -17104,25 +17287,21 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "DataTrends",
       "collection_date": "2026-02-24",
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:-1-92",
+      "source_url": "#cite_note-:-1-100",
       "candidates": {
         "Raquel Lyra": 35,
-        "João Campos": 48,
-        "Eduardo Moura": 5,
-        "Ivan Moraes": 1
+        "João Campos": 48
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -17165,7 +17344,7 @@
       "sample_size": 2045,
       "margin_error": 2.17,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "ACM Neto": 37.7,
         "Jerônimo": 54.24
@@ -17186,7 +17365,7 @@
       "sample_size": 2045,
       "margin_error": 2.17,
       "tse_registration": "",
-      "source_url": "#cite_note-56",
+      "source_url": "#cite_note-58",
       "candidates": {
         "ACM Neto": 35.65,
         "Jerônimo": 52.51,
@@ -17202,50 +17381,42 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Real Time Big Data",
       "collection_date": "2026-02-10",
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-94",
+      "source_url": "#cite_note-:3-102",
       "candidates": {
         "Raquel Lyra": 31,
-        "João Campos": 51,
-        "Eduardo Moura": 8,
-        "Ivan Moraes": 3
+        "João Campos": 51
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Múltipla",
       "collection_date": "2026-02-10",
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-95",
+      "source_url": "#cite_note-104",
       "candidates": {
         "Raquel Lyra": 29,
-        "João Campos": 42,
-        "Eduardo Moura": 4,
-        "Ivan Moraes": 2
+        "João Campos": 42
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -17368,8 +17539,8 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2026",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Datafolha",
       "collection_date": "2026-02-05",
       "sample_size": 1022,
@@ -17378,15 +17549,11 @@
       "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
         "Raquel Lyra": 35,
-        "João Campos": 47,
-        "Eduardo Moura": 5,
-        "Ivan Moraes": 1
+        "João Campos": 47
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -17496,7 +17663,7 @@
       "sample_size": 22820,
       "margin_error": 3.47,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-58",
+      "source_url": "#cite_note-:1-60",
       "candidates": {
         "Professora Dorinha": 22.93,
         "Laurez Moreira": 9.72,
@@ -17521,7 +17688,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-62",
       "candidates": {
         "Professora Dorinha": 36.31,
         "Laurez Moreira": 5.25,
@@ -17544,7 +17711,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-57",
+      "source_url": "#cite_note-:5-59",
       "candidates": {
         "Sergio Moro": 41.6,
         "Requião Filho": 19.5,
@@ -17571,7 +17738,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-57",
+      "source_url": "#cite_note-:5-59",
       "candidates": {
         "Sergio Moro": 40,
         "Requião Filho": 18.6,
@@ -17598,7 +17765,7 @@
       "sample_size": 1300,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-57",
+      "source_url": "#cite_note-:5-59",
       "candidates": {
         "Sergio Moro": 37.8,
         "Requião Filho": 16.5,
@@ -17673,7 +17840,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-80",
+      "source_url": "#cite_note-:2-82",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
@@ -17691,25 +17858,21 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
-      "cenario": "Eduardo Moura|Ivan Moraes|João Campos|Raquel Lyra",
-      "secao": "Primeiro turno (governador) › 2025",
+      "cenario": "João Campos|Raquel Lyra",
+      "secao": "Primeiro turno (governador)",
       "institute": "Real Time Big Data",
       "collection_date": "2025-12-30",
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-97",
+      "source_url": "#cite_note-:2-108",
       "candidates": {
         "Raquel Lyra": 27,
-        "João Campos": 56,
-        "Eduardo Moura": 8,
-        "Ivan Moraes": 2
+        "João Campos": 56
       },
       "parties": {
         "Raquel Lyra": "PSD",
-        "João Campos": "PSB",
-        "Eduardo Moura": "NOVO",
-        "Ivan Moraes": "PSOL"
+        "João Campos": "PSB"
       }
     },
     {
@@ -18316,8 +18479,8 @@
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "Alfredo Gaspar|JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2025",
+      "cenario": "JHC|Renan Filho",
+      "secao": "Primeiro turno (governador)",
       "institute": "Paraná Pesquisas",
       "collection_date": "2025-12-08",
       "sample_size": 2005,
@@ -18334,27 +18497,6 @@
       }
     },
     {
-      "uf": "AL",
-      "estado": "Alagoas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
-      "cenario": "Alfredo Gaspar|JHC|Renan Filho",
-      "secao": "Primeiro turno (governador) › 2025",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2025-12-08",
-      "sample_size": 2005,
-      "margin_error": 2.2,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Renan Filho": 51.3,
-        "Alfredo Gaspar": 34.7
-      },
-      "parties": {
-        "Renan Filho": "MDB",
-        "Alfredo Gaspar": "UNIÃO"
-      }
-    },
-    {
       "uf": "DF",
       "estado": "Distrito Federal",
       "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
@@ -18365,7 +18507,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-58",
+      "source_url": "#cite_note-DF01-64",
       "candidates": {
         "Celina Leão": 40,
         "Arruda": 21,
@@ -18392,7 +18534,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-58",
+      "source_url": "#cite_note-DF01-64",
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
@@ -18686,84 +18828,42 @@
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Eduardo Amorim|Emília Corrêa|Fábio Mitidieri|Thiago de Joaldo|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2025",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2025-11-26",
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-82",
+      "source_url": "#cite_note-SE01-84",
       "candidates": {
-        "Fábio Mitidieri": 46,
+        "Fábio": 46,
         "Valmir de Francisquinho": 33
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Valmir de Francisquinho": "PL"
+        "Fábio": "PSD",
+        "Valmir de Francisquinho": "Republicanos"
       }
     },
     {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Eduardo Amorim|Emília Corrêa|Fábio Mitidieri|Thiago de Joaldo|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2025",
+      "cenario": "Fábio|Ricardo Marques|Valmir de Francisquinho",
+      "secao": "Primeiro turno (governador) › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2025-11-26",
       "sample_size": 1220,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-SE01-82",
+      "source_url": "#cite_note-SE01-84",
       "candidates": {
-        "Fábio Mitidieri": 49,
-        "Thiago de Joaldo": 26
+        "Fábio": 48,
+        "Ricardo Marques": 32
       },
       "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Thiago de Joaldo": "PP"
-      }
-    },
-    {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Eduardo Amorim|Emília Corrêa|Fábio Mitidieri|Thiago de Joaldo|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2025",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-11-26",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-SE01-82",
-      "candidates": {
-        "Fábio Mitidieri": 48,
-        "Emília Corrêa": 32
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Emília Corrêa": "PL"
-      }
-    },
-    {
-      "uf": "SE",
-      "estado": "Sergipe",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
-      "cenario": "Eduardo Amorim|Emília Corrêa|Fábio Mitidieri|Thiago de Joaldo|Valmir de Francisquinho",
-      "secao": "Primeiro turno (governador) › 2025",
-      "institute": "Real Time Big Data",
-      "collection_date": "2025-11-26",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-SE01-82",
-      "candidates": {
-        "Fábio Mitidieri": 50,
-        "Eduardo Amorim": 28
-      },
-      "parties": {
-        "Fábio Mitidieri": "PSD",
-        "Eduardo Amorim": "PSDB"
+        "Fábio": "PSD",
+        "Ricardo Marques": "PL"
       }
     },
     {
@@ -19038,7 +19138,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-62",
+      "source_url": "#cite_note-64",
       "candidates": {
         "Professora Dorinha": 29,
         "Eduardo Gomes": 29,
@@ -19562,7 +19662,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-72",
+      "source_url": "#cite_note-74",
       "candidates": {
         "ACM Neto": 44,
         "Jerônimo": 37,

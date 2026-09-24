@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-09-23T15:26:13.214Z",
+  "ultima_execucao": "2026-09-24T15:48:25.367Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 799,
-  "pesquisas_usadas": 799,
+  "pesquisas_extraidas_brutas": 807,
+  "pesquisas_usadas": 807,
   "estados_com_agregado": 22,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -47,14 +47,7 @@
           "JHC",
           "Renan Filho"
         ],
-        "pesquisas": 26
-      },
-      {
-        "candidatos": [
-          "Alfredo Gaspar",
-          "Renan Filho"
-        ],
-        "pesquisas": 1
+        "pesquisas": 28
       }
     ],
     "AM": [
@@ -125,7 +118,7 @@
           "Ciro Gomes",
           "Elmano de Freitas"
         ],
-        "pesquisas": 13
+        "pesquisas": 14
       },
       {
         "candidatos": [
@@ -162,7 +155,7 @@
           "Leandro Grass",
           "Paula Belmonte"
         ],
-        "pesquisas": 14
+        "pesquisas": 16
       },
       {
         "candidatos": [
@@ -182,6 +175,16 @@
           "Paula Belmonte"
         ],
         "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "Cappelli",
+          "Celina Leão",
+          "Kiko Caputo",
+          "Leandro Grass",
+          "Paula Belmonte"
+        ],
+        "pesquisas": 2
       }
     ],
     "ES": [
@@ -494,7 +497,7 @@
           "Sergio Moro",
           "Tayná Miessa"
         ],
-        "pesquisas": 18
+        "pesquisas": 20
       },
       {
         "candidatos": [
@@ -543,24 +546,7 @@
           "João Campos",
           "Raquel Lyra"
         ],
-        "pesquisas": 32
-      },
-      {
-        "candidatos": [
-          "Eduardo Moura",
-          "Ivan Moraes",
-          "João Campos",
-          "Raquel Lyra"
-        ],
-        "pesquisas": 12
-      },
-      {
-        "candidatos": [
-          "Ivan Moraes",
-          "João Campos",
-          "Raquel Lyra"
-        ],
-        "pesquisas": 7
+        "pesquisas": 52
       }
     ],
     "PI": [
@@ -701,42 +687,25 @@
     "SE": [
       {
         "candidatos": [
-          "Emanuel Cacho",
-          "Fábio Mitidieri",
+          "Fábio",
           "Ricardo Marques",
           "Valmir de Francisquinho"
         ],
-        "pesquisas": 34
+        "pesquisas": 37
       },
       {
         "candidatos": [
-          "Fábio Mitidieri",
-          "Valmir de Francisquinho"
+          "Fábio",
+          "Ricardo Marques"
         ],
         "pesquisas": 3
       },
       {
         "candidatos": [
-          "Fábio Mitidieri",
-          "Ricardo Marques",
+          "Fábio",
           "Valmir de Francisquinho"
         ],
         "pesquisas": 3
-      },
-      {
-        "candidatos": [
-          "Emanuel Cacho",
-          "Fábio Mitidieri",
-          "Ricardo Marques"
-        ],
-        "pesquisas": 1
-      },
-      {
-        "candidatos": [
-          "Fábio Mitidieri",
-          "Ricardo Marques"
-        ],
-        "pesquisas": 1
       }
     ],
     "TO": [
@@ -746,7 +715,7 @@
           "Laurez Moreira",
           "Professora Dorinha"
         ],
-        "pesquisas": 22
+        "pesquisas": 23
       },
       {
         "candidatos": [
@@ -795,7 +764,7 @@
     "AL": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "status": "ok",
-      "pesquisas": 27,
+      "pesquisas": 28,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Alagoas"
     },
     "AP": {
@@ -819,13 +788,13 @@
     "CE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "status": "ok",
-      "pesquisas": 37,
+      "pesquisas": 38,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Cear%C3%A1"
     },
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "status": "ok",
-      "pesquisas": 20,
+      "pesquisas": 24,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
@@ -861,7 +830,7 @@
     "MG": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
       "status": "ok",
-      "pesquisas": 41,
+      "pesquisas": 42,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Minas_Gerais"
     },
     "PA": {
@@ -879,13 +848,13 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 68,
+      "pesquisas": 70,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "status": "ok",
-      "pesquisas": 51,
+      "pesquisas": 52,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
     },
     "PI": {
@@ -939,13 +908,13 @@
     "SE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "status": "ok",
-      "pesquisas": 46,
+      "pesquisas": 43,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
     },
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 28,
+      "pesquisas": 29,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
