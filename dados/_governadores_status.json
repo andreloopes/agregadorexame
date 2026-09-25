@@ -1,9 +1,9 @@
 {
-  "ultima_execucao": "2026-09-24T15:48:25.367Z",
+  "ultima_execucao": "2026-09-25T15:47:59.236Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 807,
-  "pesquisas_usadas": 807,
-  "estados_com_agregado": 22,
+  "pesquisas_extraidas_brutas": 773,
+  "pesquisas_usadas": 773,
+  "estados_com_agregado": 21,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
     "AC": [
@@ -58,7 +58,7 @@
           "Omar Aziz",
           "Roberto Cidade"
         ],
-        "pesquisas": 31
+        "pesquisas": 32
       },
       {
         "candidatos": [
@@ -155,7 +155,17 @@
           "Leandro Grass",
           "Paula Belmonte"
         ],
-        "pesquisas": 16
+        "pesquisas": 17
+      },
+      {
+        "candidatos": [
+          "Cappelli",
+          "Celina Leão",
+          "Kiko Caputo",
+          "Leandro Grass",
+          "Paula Belmonte"
+        ],
+        "pesquisas": 3
       },
       {
         "candidatos": [
@@ -175,61 +185,6 @@
           "Paula Belmonte"
         ],
         "pesquisas": 3
-      },
-      {
-        "candidatos": [
-          "Cappelli",
-          "Celina Leão",
-          "Kiko Caputo",
-          "Leandro Grass",
-          "Paula Belmonte"
-        ],
-        "pesquisas": 2
-      }
-    ],
-    "ES": [
-      {
-        "candidatos": [
-          "Helder Salomão",
-          "Lorenzo Pazolini",
-          "Ricardo Ferraço"
-        ],
-        "pesquisas": 16
-      },
-      {
-        "candidatos": [
-          "Helder Salomão",
-          "Lorenzo Pazolini",
-          "Magno Malta",
-          "Ricardo Ferraço"
-        ],
-        "pesquisas": 10
-      },
-      {
-        "candidatos": [
-          "Helder Salomão",
-          "Lorenzo Pazolini",
-          "Magno Malta",
-          "Paulo Hartung",
-          "Ricardo Ferraço"
-        ],
-        "pesquisas": 3
-      },
-      {
-        "candidatos": [
-          "Helder Salomão",
-          "Magno Malta",
-          "Ricardo Ferraço"
-        ],
-        "pesquisas": 2
-      },
-      {
-        "candidatos": [
-          "Arnaldinho Borgo",
-          "Helder Salomão",
-          "Ricardo Ferraço"
-        ],
-        "pesquisas": 2
       }
     ],
     "GO": [
@@ -497,7 +452,7 @@
           "Sergio Moro",
           "Tayná Miessa"
         ],
-        "pesquisas": 20
+        "pesquisas": 21
       },
       {
         "candidatos": [
@@ -546,7 +501,7 @@
           "João Campos",
           "Raquel Lyra"
         ],
-        "pesquisas": 52
+        "pesquisas": 53
       }
     ],
     "PI": [
@@ -776,7 +731,7 @@
     "AM": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "status": "ok",
-      "pesquisas": 40,
+      "pesquisas": 41,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
     },
     "BA": {
@@ -794,13 +749,13 @@
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "status": "ok",
-      "pesquisas": 24,
+      "pesquisas": 26,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Espírito Santo",
-      "status": "ok",
-      "pesquisas": 38,
+      "status": "sem_pesquisas_validas",
+      "pesquisas": 0,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Esp%C3%ADrito_Santo"
     },
     "GO": {
@@ -830,7 +785,7 @@
     "MG": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Minas Gerais",
       "status": "ok",
-      "pesquisas": 42,
+      "pesquisas": 41,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Minas_Gerais"
     },
     "PA": {
@@ -848,13 +803,13 @@
     "PR": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Paraná",
       "status": "ok",
-      "pesquisas": 70,
+      "pesquisas": 71,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Paran%C3%A1"
     },
     "PE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "status": "ok",
-      "pesquisas": 52,
+      "pesquisas": 53,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
     },
     "PI": {
