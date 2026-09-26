@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-09-25",
+  "atualizado_em": "2026-09-26",
   "corte": "2026-09-24",
   "cenario": "Brasil (nacional) — 1º turno · Augusto Cury | Flávio Bolsonaro | Lula | Renan Santos | Romeu Zema | Ronaldo Caiado",
   "criterio_cenario": "grupo mais frequente entre os candidatos centrais (Lula, Flávio Bolsonaro, Renan Santos, Ronaldo Caiado, Augusto Cury, Romeu Zema)",
   "pesquisas_no_calculo": 24,
-  "indecisos": 7.463,
+  "indecisos": 7.258,
   "fonte": "Wikipédia em português — pesquisas presidenciais de 2026",
   "fonte_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
   "licenca_dados": "CC BY-SA — preservar atribuição e consultar as fontes originais",
@@ -13,59 +13,59 @@
     {
       "nome": "Lula",
       "partido": "PT",
-      "media": 40.212,
-      "ic_min": 39.8,
-      "ic_max": 40.631,
+      "media": 40.099,
+      "ic_min": 39.716,
+      "ic_max": 40.503,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": 1.382
+      "tendencia_14d": 1.269
     },
     {
       "nome": "Flávio Bolsonaro",
       "partido": "PL",
-      "media": 37.931,
-      "ic_min": 37.514,
-      "ic_max": 38.343,
+      "media": 37.806,
+      "ic_min": 37.418,
+      "ic_max": 38.185,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": 2.761
+      "tendencia_14d": 2.636
     },
     {
       "nome": "Augusto Cury",
       "partido": "Avante",
-      "media": 5.253,
-      "ic_min": 4.962,
-      "ic_max": 5.554,
+      "media": 5.235,
+      "ic_min": 4.984,
+      "ic_max": 5.499,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": -1.417
+      "tendencia_14d": -1.435
     },
     {
       "nome": "Renan Santos",
       "partido": "Missão",
-      "media": 4.098,
-      "ic_min": 3.82,
-      "ic_max": 4.379,
+      "media": 4.09,
+      "ic_min": 3.845,
+      "ic_max": 4.338,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": -0.422
+      "tendencia_14d": -0.43
     },
     {
       "nome": "Ronaldo Caiado",
       "partido": "PSD",
-      "media": 3.129,
-      "ic_min": 2.844,
-      "ic_max": 3.42,
+      "media": 3.126,
+      "ic_min": 2.872,
+      "ic_max": 3.387,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": -0.131
+      "tendencia_14d": -0.134
     },
     {
       "nome": "Romeu Zema",
       "partido": "Novo",
-      "media": 0.993,
+      "media": 0.994,
       "ic_min": 0.785,
-      "ic_max": 1.31,
+      "ic_max": 1.266,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": 0
@@ -74,8 +74,8 @@
       "nome": "Samara Martins",
       "partido": "UP",
       "media": 0.67,
-      "ic_min": 0.536,
-      "ic_max": 1.012,
+      "ic_min": 0.528,
+      "ic_max": 0.971,
       "cobertura": 0.958,
       "pesquisas_com_candidato": 23,
       "tendencia_14d": 0
@@ -83,9 +83,9 @@
     {
       "nome": "Clariana Barão",
       "partido": "DC",
-      "media": 0.529,
-      "ic_min": 0.425,
-      "ic_max": 0.942,
+      "media": 0.527,
+      "ic_min": 0.419,
+      "ic_max": 0.889,
       "cobertura": 0.833,
       "pesquisas_com_candidato": 20,
       "tendencia_14d": 0
@@ -94,8 +94,8 @@
       "nome": "Rui Costa Pimenta",
       "partido": "PCO",
       "media": 0.503,
-      "ic_min": 0.43,
-      "ic_max": 0.909,
+      "ic_min": 0.422,
+      "ic_max": 0.864,
       "cobertura": 0.917,
       "pesquisas_com_candidato": 22,
       "tendencia_14d": 0
@@ -103,9 +103,9 @@
     {
       "nome": "Hertz Dias",
       "partido": "PSTU",
-      "media": 0.414,
-      "ic_min": 0.38,
-      "ic_max": 0.833,
+      "media": 0.41,
+      "ic_min": 0.371,
+      "ic_max": 0.78,
       "cobertura": 0.917,
       "pesquisas_com_candidato": 22,
       "tendencia_14d": 0
@@ -113,9 +113,9 @@
     {
       "nome": "Costa",
       "partido": "",
-      "media": 0.366,
-      "ic_min": 0.332,
-      "ic_max": 0.801,
+      "media": 0.362,
+      "ic_min": 0.323,
+      "ic_max": 0.753,
       "cobertura": 0.875,
       "pesquisas_com_candidato": 21,
       "tendencia_14d": 0
@@ -123,9 +123,9 @@
     {
       "nome": "Grassi",
       "partido": "",
-      "media": 0.311,
-      "ic_min": 0.295,
-      "ic_max": 0.741,
+      "media": 0.315,
+      "ic_min": 0.289,
+      "ic_max": 0.705,
       "cobertura": 0.917,
       "pesquisas_com_candidato": 22,
       "tendencia_14d": 0
