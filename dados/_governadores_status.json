@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-09-27T15:38:13.205Z",
+  "ultima_execucao": "2026-09-28T18:34:53.074Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 678,
-  "pesquisas_usadas": 678,
+  "pesquisas_extraidas_brutas": 689,
+  "pesquisas_usadas": 689,
   "estados_com_agregado": 18,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -23,7 +23,7 @@
           "Omar Aziz",
           "Roberto Cidade"
         ],
-        "pesquisas": 35
+        "pesquisas": 37
       },
       {
         "candidatos": [
@@ -103,7 +103,7 @@
           "Leandro Grass",
           "Paula Belmonte"
         ],
-        "pesquisas": 17
+        "pesquisas": 18
       },
       {
         "candidatos": [
@@ -113,7 +113,7 @@
           "Leandro Grass",
           "Paula Belmonte"
         ],
-        "pesquisas": 3
+        "pesquisas": 4
       },
       {
         "candidatos": [
@@ -143,7 +143,7 @@
           "Marconi Perillo",
           "Wilder Morais"
         ],
-        "pesquisas": 37
+        "pesquisas": 39
       },
       {
         "candidatos": [
@@ -340,7 +340,7 @@
           "Efraim Filho",
           "Lucas Ribeiro"
         ],
-        "pesquisas": 25
+        "pesquisas": 26
       },
       {
         "candidatos": [
@@ -357,7 +357,7 @@
           "João Campos",
           "Raquel Lyra"
         ],
-        "pesquisas": 54
+        "pesquisas": 56
       }
     ],
     "PI": [
@@ -466,6 +466,14 @@
         "candidatos": [
           "Adaílton Fúria",
           "Expedito Netto",
+          "Marcos Rogério"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
+          "Adaílton Fúria",
+          "Expedito Netto",
           "Hildon Chaves",
           "Léo Moraes",
           "Marcos Rogério",
@@ -479,15 +487,6 @@
           "Confúcio Moura",
           "Expedito Netto",
           "Hildon Chaves",
-          "Marcos Rogério",
-          "Samuel Costa",
-          "Sérgio Gonçalves"
-        ],
-        "pesquisas": 1
-      },
-      {
-        "candidatos": [
-          "Adaílton Fúria",
           "Marcos Rogério",
           "Samuel Costa",
           "Sérgio Gonçalves"
@@ -587,7 +586,7 @@
     "AM": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "status": "ok",
-      "pesquisas": 44,
+      "pesquisas": 46,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
     },
     "BA": {
@@ -605,7 +604,7 @@
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "status": "ok",
-      "pesquisas": 26,
+      "pesquisas": 28,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
@@ -617,7 +616,7 @@
     "GO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "status": "ok",
-      "pesquisas": 55,
+      "pesquisas": 57,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
     },
     "MA": {
@@ -647,13 +646,13 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 83,
+      "pesquisas": 84,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
       "status": "ok",
-      "pesquisas": 26,
+      "pesquisas": 27,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Para%C3%ADba"
     },
     "PR": {
@@ -665,7 +664,7 @@
     "PE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "status": "ok",
-      "pesquisas": 54,
+      "pesquisas": 56,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
     },
     "PI": {
@@ -695,7 +694,7 @@
     "RO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
       "status": "ok",
-      "pesquisas": 21,
+      "pesquisas": 22,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Rond%C3%B4nia"
     },
     "RR": {
