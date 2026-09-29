@@ -1,9 +1,9 @@
 {
-  "ultima_execucao": "2026-09-28T18:34:53.074Z",
+  "ultima_execucao": "2026-09-29T16:52:40.974Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 689,
-  "pesquisas_usadas": 689,
-  "estados_com_agregado": 18,
+  "pesquisas_extraidas_brutas": 733,
+  "pesquisas_usadas": 733,
+  "estados_com_agregado": 19,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
     "AL": [
@@ -12,7 +12,7 @@
           "JHC",
           "Renan Filho"
         ],
-        "pesquisas": 32
+        "pesquisas": 33
       }
     ],
     "AM": [
@@ -107,6 +107,27 @@
       },
       {
         "candidatos": [
+          "Arruda",
+          "Cappelli",
+          "Celina Leão",
+          "Izalci Lucas",
+          "Leandro Grass",
+          "Paula Belmonte"
+        ],
+        "pesquisas": 6
+      },
+      {
+        "candidatos": [
+          "Arruda",
+          "Cappelli",
+          "Celina Leão",
+          "Leandro Grass",
+          "Paula Belmonte"
+        ],
+        "pesquisas": 5
+      },
+      {
+        "candidatos": [
           "Cappelli",
           "Celina Leão",
           "Kiko Caputo",
@@ -117,22 +138,12 @@
       },
       {
         "candidatos": [
-          "Arruda",
           "Cappelli",
           "Celina Leão",
           "Leandro Grass",
           "Paula Belmonte"
         ],
-        "pesquisas": 3
-      },
-      {
-        "candidatos": [
-          "Cappelli",
-          "Celina Leão",
-          "Leandro Grass",
-          "Paula Belmonte"
-        ],
-        "pesquisas": 3
+        "pesquisas": 4
       }
     ],
     "GO": [
@@ -143,7 +154,7 @@
           "Marconi Perillo",
           "Wilder Morais"
         ],
-        "pesquisas": 39
+        "pesquisas": 40
       },
       {
         "candidatos": [
@@ -206,7 +217,7 @@
           "Otaviano Pivetta",
           "Wellington Fagundes"
         ],
-        "pesquisas": 14
+        "pesquisas": 15
       },
       {
         "candidatos": [
@@ -229,6 +240,32 @@
           "Jayme Campos",
           "Otaviano Pivetta",
           "Wellington Fagundes"
+        ],
+        "pesquisas": 1
+      }
+    ],
+    "MS": [
+      {
+        "candidatos": [
+          "Delcídio do Amaral",
+          "Eduardo Riedel",
+          "Fábio Trad",
+          "João Henrique Catan"
+        ],
+        "pesquisas": 18
+      },
+      {
+        "candidatos": [
+          "Eduardo Riedel",
+          "Fábio Trad",
+          "João Henrique Catan"
+        ],
+        "pesquisas": 8
+      },
+      {
+        "candidatos": [
+          "Eduardo Riedel",
+          "Fábio Trad"
         ],
         "pesquisas": 1
       }
@@ -318,20 +355,19 @@
       },
       {
         "candidatos": [
+          "Araceli Lemos",
           "Daniel Santos",
-          "Hana Ghassan",
-          "Mário Couto"
+          "Hana Ghassan"
         ],
         "pesquisas": 8
       },
       {
         "candidatos": [
-          "Araceli Lemos",
-          "Cleber Rabelo",
           "Daniel Santos",
-          "Hana Ghassan"
+          "Hana Ghassan",
+          "Mário Couto"
         ],
-        "pesquisas": 7
+        "pesquisas": 8
       }
     ],
     "PB": [
@@ -501,7 +537,7 @@
           "Ricardo Marques",
           "Valmir de Francisquinho"
         ],
-        "pesquisas": 38
+        "pesquisas": 39
       },
       {
         "candidatos": [
@@ -529,8 +565,6 @@
       },
       {
         "candidatos": [
-          "Amélio Cayres",
-          "Ataídes Oliveira",
           "Laurez Moreira",
           "Professora Dorinha"
         ],
@@ -538,10 +572,12 @@
       },
       {
         "candidatos": [
+          "Amélio Cayres",
+          "Ataídes Oliveira",
           "Laurez Moreira",
           "Professora Dorinha"
         ],
-        "pesquisas": 1
+        "pesquisas": 2
       },
       {
         "candidatos": [
@@ -574,7 +610,7 @@
     "AL": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "status": "ok",
-      "pesquisas": 32,
+      "pesquisas": 33,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Alagoas"
     },
     "AP": {
@@ -604,7 +640,7 @@
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "status": "ok",
-      "pesquisas": 28,
+      "pesquisas": 39,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
@@ -616,7 +652,7 @@
     "GO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "status": "ok",
-      "pesquisas": 57,
+      "pesquisas": 58,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Goi%C3%A1s"
     },
     "MA": {
@@ -628,13 +664,13 @@
     "MT": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "status": "ok",
-      "pesquisas": 17,
+      "pesquisas": 18,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso"
     },
     "MS": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
-      "status": "sem_pesquisas_validas",
-      "pesquisas": 0,
+      "status": "ok",
+      "pesquisas": 27,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso_do_Sul"
     },
     "MG": {
@@ -646,7 +682,7 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 84,
+      "pesquisas": 85,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
@@ -718,13 +754,13 @@
     "SE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
       "status": "ok",
-      "pesquisas": 44,
+      "pesquisas": 45,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Sergipe"
     },
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 30,
+      "pesquisas": 31,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
