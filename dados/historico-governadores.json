@@ -1,6 +1,212 @@
 {
-  "atualizado_em": "2026-09-29",
+  "atualizado_em": "2026-09-30",
   "estados": {
+    "AC": {
+      "uf": "AC",
+      "estado": "Acre",
+      "pontos": [
+        {
+          "data": "2025-12-12",
+          "valores": {
+            "Alan Rick": 39.6,
+            "Mailza Assis": 14.9,
+            "Tião Bocalom": 23.9
+          }
+        },
+        {
+          "data": "2026-03-21",
+          "valores": {
+            "Alan Rick": 40.3,
+            "Mailza Assis": 20,
+            "Tião Bocalom": 16.7
+          }
+        },
+        {
+          "data": "2026-03-24",
+          "valores": {
+            "Alan Rick": 40.8,
+            "Mailza Assis": 22.4,
+            "Tião Bocalom": 21.2
+          }
+        },
+        {
+          "data": "2026-04-27",
+          "valores": {
+            "Alan Rick": 39.5,
+            "Mailza Assis": 28,
+            "Tião Bocalom": 21.5
+          }
+        },
+        {
+          "data": "2026-04-30",
+          "valores": {
+            "Alan Rick": 39.5,
+            "Mailza Assis": 24,
+            "Tião Bocalom": 20.6
+          }
+        },
+        {
+          "data": "2026-05-16",
+          "valores": {
+            "Alan Rick": 40.3,
+            "Mailza Assis": 21.7,
+            "Tião Bocalom": 19.2
+          }
+        },
+        {
+          "data": "2026-06-02",
+          "valores": {
+            "Alan Rick": 40.6,
+            "Mailza Assis": 22.5,
+            "Tião Bocalom": 18.2
+          }
+        },
+        {
+          "data": "2026-06-06",
+          "valores": {
+            "Alan Rick": 40.3,
+            "Mailza Assis": 21.7,
+            "Tião Bocalom": 17.9
+          }
+        },
+        {
+          "data": "2026-06-17",
+          "valores": {
+            "Alan Rick": 39.9,
+            "Mailza Assis": 22.9,
+            "Tião Bocalom": 17.9
+          }
+        },
+        {
+          "data": "2026-06-30",
+          "valores": {
+            "Alan Rick": 40.2,
+            "Mailza Assis": 22.1,
+            "Tião Bocalom": 18.3
+          }
+        },
+        {
+          "data": "2026-07-15",
+          "valores": {
+            "Alan Rick": 39.7,
+            "Mailza Assis": 21.5,
+            "Tião Bocalom": 18.5
+          }
+        },
+        {
+          "data": "2026-07-25",
+          "valores": {
+            "Alan Rick": 39.2,
+            "Mailza Assis": 23.3,
+            "Tião Bocalom": 18
+          }
+        },
+        {
+          "data": "2026-08-02",
+          "valores": {
+            "Alan Rick": 38,
+            "Mailza Assis": 25.7,
+            "Tião Bocalom": 18.1
+          }
+        },
+        {
+          "data": "2026-08-06",
+          "valores": {
+            "Alan Rick": 37.8,
+            "Mailza Assis": 26.2,
+            "Tião Bocalom": 17.3
+          }
+        },
+        {
+          "data": "2026-08-09",
+          "valores": {
+            "Alan Rick": 37.9,
+            "Mailza Assis": 26.1,
+            "Tião Bocalom": 16.7
+          }
+        },
+        {
+          "data": "2026-08-22",
+          "valores": {
+            "Alan Rick": 35.7,
+            "Mailza Assis": 28,
+            "Tião Bocalom": 16.4
+          }
+        },
+        {
+          "data": "2026-08-24",
+          "valores": {
+            "Alan Rick": 35.2,
+            "Mailza Assis": 28.2,
+            "Tião Bocalom": 16.2
+          }
+        },
+        {
+          "data": "2026-08-26",
+          "valores": {
+            "Alan Rick": 34.9,
+            "Mailza Assis": 27.6,
+            "Tião Bocalom": 16
+          }
+        },
+        {
+          "data": "2026-08-27",
+          "valores": {
+            "Alan Rick": 35.1,
+            "Mailza Assis": 28.4,
+            "Tião Bocalom": 16
+          }
+        },
+        {
+          "data": "2026-09-01",
+          "valores": {
+            "Alan Rick": 35.6,
+            "Mailza Assis": 28.5,
+            "Tião Bocalom": 15.5
+          }
+        },
+        {
+          "data": "2026-09-05",
+          "valores": {
+            "Alan Rick": 35.6,
+            "Mailza Assis": 28.8,
+            "Tião Bocalom": 15.3
+          }
+        },
+        {
+          "data": "2026-09-10",
+          "valores": {
+            "Alan Rick": 35,
+            "Mailza Assis": 28.4,
+            "Tião Bocalom": 16
+          }
+        },
+        {
+          "data": "2026-09-16",
+          "valores": {
+            "Alan Rick": 33.8,
+            "Mailza Assis": 30.1,
+            "Tião Bocalom": 15.6
+          }
+        },
+        {
+          "data": "2026-09-19",
+          "valores": {
+            "Alan Rick": 33.4,
+            "Mailza Assis": 31.8,
+            "Tião Bocalom": 15.2
+          }
+        },
+        {
+          "data": "2026-09-24",
+          "valores": {
+            "Alan Rick": 33.3,
+            "Mailza Assis": 32,
+            "Tião Bocalom": 14.5
+          }
+        }
+      ]
+    },
     "AL": {
       "uf": "AL",
       "estado": "Alagoas",
@@ -193,6 +399,20 @@
             "JHC": 44.1,
             "Renan Filho": 39.6
           }
+        },
+        {
+          "data": "2026-09-26",
+          "valores": {
+            "JHC": 44.3,
+            "Renan Filho": 39.7
+          }
+        },
+        {
+          "data": "2026-09-29",
+          "valores": {
+            "JHC": 45.2,
+            "Renan Filho": 40.1
+          }
         }
       ]
     },
@@ -260,8 +480,8 @@
           "data": "2026-05-22",
           "valores": {
             "Omar Aziz": 30.7,
-            "Maria do Carmo": 28.7,
             "Roberto Cidade": 14.2,
+            "Maria do Carmo": 28.7,
             "David Almeida": 14.6
           }
         },
@@ -269,8 +489,8 @@
           "data": "2026-05-26",
           "valores": {
             "Omar Aziz": 31,
-            "Maria do Carmo": 30.8,
             "Roberto Cidade": 13.8,
+            "Maria do Carmo": 30.8,
             "David Almeida": 14.2
           }
         },
@@ -278,8 +498,8 @@
           "data": "2026-05-27",
           "valores": {
             "Omar Aziz": 30.6,
-            "Maria do Carmo": 28.6,
             "Roberto Cidade": 15.5,
+            "Maria do Carmo": 28.6,
             "David Almeida": 15.4
           }
         },
@@ -287,8 +507,8 @@
           "data": "2026-06-04",
           "valores": {
             "Omar Aziz": 29,
-            "Maria do Carmo": 25.2,
             "Roberto Cidade": 17,
+            "Maria do Carmo": 25.2,
             "David Almeida": 16.2
           }
         },
@@ -296,8 +516,8 @@
           "data": "2026-06-10",
           "valores": {
             "Omar Aziz": 28.7,
-            "Maria do Carmo": 24.8,
             "Roberto Cidade": 16.9,
+            "Maria do Carmo": 24.8,
             "David Almeida": 16.6
           }
         },
@@ -305,8 +525,8 @@
           "data": "2026-06-20",
           "valores": {
             "Omar Aziz": 28.6,
-            "Maria do Carmo": 24.2,
             "Roberto Cidade": 17.2,
+            "Maria do Carmo": 24.2,
             "David Almeida": 17.1
           }
         },
@@ -314,8 +534,8 @@
           "data": "2026-06-26",
           "valores": {
             "Omar Aziz": 29.1,
-            "Maria do Carmo": 23.7,
             "Roberto Cidade": 16.9,
+            "Maria do Carmo": 23.7,
             "David Almeida": 17.3
           }
         },
@@ -323,8 +543,8 @@
           "data": "2026-07-02",
           "valores": {
             "Omar Aziz": 29.6,
-            "Maria do Carmo": 23.1,
             "Roberto Cidade": 17.2,
+            "Maria do Carmo": 23.1,
             "David Almeida": 17.6
           }
         },
@@ -332,8 +552,8 @@
           "data": "2026-07-05",
           "valores": {
             "Omar Aziz": 29.4,
-            "Maria do Carmo": 23.9,
             "Roberto Cidade": 16.7,
+            "Maria do Carmo": 23.9,
             "David Almeida": 17.2
           }
         },
@@ -341,8 +561,8 @@
           "data": "2026-07-10",
           "valores": {
             "Omar Aziz": 29.5,
-            "Maria do Carmo": 23.4,
             "Roberto Cidade": 17.3,
+            "Maria do Carmo": 23.4,
             "David Almeida": 17.3
           }
         },
@@ -350,8 +570,8 @@
           "data": "2026-07-23",
           "valores": {
             "Omar Aziz": 29,
-            "Maria do Carmo": 22.3,
             "Roberto Cidade": 18.4,
+            "Maria do Carmo": 22.3,
             "David Almeida": 17.2
           }
         },
@@ -359,8 +579,8 @@
           "data": "2026-07-28",
           "valores": {
             "Omar Aziz": 28.9,
-            "Maria do Carmo": 22.8,
             "Roberto Cidade": 18.1,
+            "Maria do Carmo": 22.8,
             "David Almeida": 16.8
           }
         },
@@ -368,8 +588,8 @@
           "data": "2026-08-14",
           "valores": {
             "Omar Aziz": 29.6,
-            "Maria do Carmo": 22.5,
             "Roberto Cidade": 18.2,
+            "Maria do Carmo": 22.5,
             "David Almeida": 16.7
           }
         },
@@ -377,8 +597,8 @@
           "data": "2026-08-21",
           "valores": {
             "Omar Aziz": 28.9,
-            "Maria do Carmo": 21,
             "Roberto Cidade": 19.3,
+            "Maria do Carmo": 21,
             "David Almeida": 16.5
           }
         },
@@ -386,8 +606,8 @@
           "data": "2026-08-24",
           "valores": {
             "Omar Aziz": 28.3,
-            "Maria do Carmo": 19.8,
             "Roberto Cidade": 19.8,
+            "Maria do Carmo": 19.8,
             "David Almeida": 16.5
           }
         },
@@ -395,8 +615,8 @@
           "data": "2026-08-25",
           "valores": {
             "Omar Aziz": 28.9,
-            "Maria do Carmo": 19.7,
             "Roberto Cidade": 20.1,
+            "Maria do Carmo": 19.7,
             "David Almeida": 16.3
           }
         },
@@ -404,8 +624,8 @@
           "data": "2026-08-27",
           "valores": {
             "Omar Aziz": 28.4,
-            "Maria do Carmo": 19.5,
             "Roberto Cidade": 20.1,
+            "Maria do Carmo": 19.5,
             "David Almeida": 16.7
           }
         },
@@ -413,8 +633,8 @@
           "data": "2026-08-28",
           "valores": {
             "Omar Aziz": 28.6,
-            "Maria do Carmo": 20.4,
             "Roberto Cidade": 20.4,
+            "Maria do Carmo": 20.4,
             "David Almeida": 16.2
           }
         },
@@ -422,8 +642,8 @@
           "data": "2026-09-03",
           "valores": {
             "Omar Aziz": 28.8,
-            "Maria do Carmo": 21,
             "Roberto Cidade": 20.3,
+            "Maria do Carmo": 21,
             "David Almeida": 15.5
           }
         },
@@ -431,8 +651,8 @@
           "data": "2026-09-04",
           "valores": {
             "Omar Aziz": 28.8,
-            "Maria do Carmo": 20.7,
             "Roberto Cidade": 20.5,
+            "Maria do Carmo": 20.7,
             "David Almeida": 15.7
           }
         },
@@ -440,8 +660,8 @@
           "data": "2026-09-09",
           "valores": {
             "Omar Aziz": 29.2,
-            "Maria do Carmo": 21.2,
             "Roberto Cidade": 20.5,
+            "Maria do Carmo": 21.2,
             "David Almeida": 15.3
           }
         },
@@ -449,8 +669,8 @@
           "data": "2026-09-10",
           "valores": {
             "Omar Aziz": 29,
-            "Maria do Carmo": 21.6,
             "Roberto Cidade": 20.1,
+            "Maria do Carmo": 21.6,
             "David Almeida": 15.3
           }
         },
@@ -458,8 +678,8 @@
           "data": "2026-09-13",
           "valores": {
             "Omar Aziz": 28.8,
-            "Maria do Carmo": 21.3,
             "Roberto Cidade": 20.7,
+            "Maria do Carmo": 21.3,
             "David Almeida": 15.2
           }
         },
@@ -467,8 +687,8 @@
           "data": "2026-09-15",
           "valores": {
             "Omar Aziz": 28.6,
-            "Maria do Carmo": 21.1,
             "Roberto Cidade": 20.6,
+            "Maria do Carmo": 21.1,
             "David Almeida": 15.7
           }
         },
@@ -476,8 +696,8 @@
           "data": "2026-09-18",
           "valores": {
             "Omar Aziz": 28.3,
-            "Maria do Carmo": 20.5,
             "Roberto Cidade": 21,
+            "Maria do Carmo": 20.5,
             "David Almeida": 15.6
           }
         },
@@ -485,8 +705,8 @@
           "data": "2026-09-23",
           "valores": {
             "Omar Aziz": 28.5,
-            "Maria do Carmo": 20.5,
             "Roberto Cidade": 20.9,
+            "Maria do Carmo": 20.5,
             "David Almeida": 14.9
           }
         },
@@ -494,27 +714,27 @@
           "data": "2026-09-24",
           "valores": {
             "Omar Aziz": 28.6,
-            "Maria do Carmo": 20.8,
             "Roberto Cidade": 21.4,
+            "Maria do Carmo": 20.8,
             "David Almeida": 14.6
           }
         },
         {
           "data": "2026-09-25",
           "valores": {
-            "Omar Aziz": 28.4,
-            "Maria do Carmo": 20.7,
-            "Roberto Cidade": 21.1,
-            "David Almeida": 15.4
+            "Omar Aziz": 28.7,
+            "Roberto Cidade": 21.2,
+            "Maria do Carmo": 20.6,
+            "David Almeida": 15.2
           }
         },
         {
           "data": "2026-09-27",
           "valores": {
-            "Omar Aziz": 28.6,
-            "Maria do Carmo": 21.2,
-            "Roberto Cidade": 21,
-            "David Almeida": 15
+            "Omar Aziz": 28.8,
+            "Roberto Cidade": 21.2,
+            "Maria do Carmo": 20.8,
+            "David Almeida": 14.9
           }
         }
       ]
@@ -696,6 +916,13 @@
           "valores": {
             "ACM Neto": 47,
             "Jerônimo": 40.9
+          }
+        },
+        {
+          "data": "2026-09-26",
+          "valores": {
+            "ACM Neto": 45.7,
+            "Jerônimo": 41.3
           }
         }
       ]
@@ -2442,6 +2669,17 @@
             "Gal Leite": 1.5,
             "Ruth Reis": 1.3
           }
+        },
+        {
+          "data": "2026-09-28",
+          "valores": {
+            "Hana Ghassan": 38.9,
+            "Daniel Santos": 36.2,
+            "Araceli Lemos": 2.4,
+            "Well Macêdo": 1,
+            "Gal Leite": 0.9,
+            "Ruth Reis": 0.7
+          }
         }
       ]
     },
@@ -2923,6 +3161,20 @@
             "Raquel Lyra": 45.5,
             "João Campos": 41.8
           }
+        },
+        {
+          "data": "2026-09-28",
+          "valores": {
+            "Raquel Lyra": 45.4,
+            "João Campos": 41.9
+          }
+        },
+        {
+          "data": "2026-09-29",
+          "valores": {
+            "Raquel Lyra": 45.4,
+            "João Campos": 42.3
+          }
         }
       ]
     },
@@ -2998,6 +3250,13 @@
           "valores": {
             "Rafael Fonteles": 64.1,
             "Joel Rodrigues": 23.2
+          }
+        },
+        {
+          "data": "2026-09-28",
+          "valores": {
+            "Rafael Fonteles": 64.1,
+            "Joel Rodrigues": 23.4
           }
         }
       ]
@@ -3710,6 +3969,16 @@
             "Expedito Netto": 8.2,
             "Samuel Costa": 1.9
           }
+        },
+        {
+          "data": "2026-09-29",
+          "valores": {
+            "Marcos Rogério": 37.4,
+            "Adaílton Fúria": 23.9,
+            "Hildon Chaves": 12.6,
+            "Expedito Netto": 8.4,
+            "Samuel Costa": 1.9
+          }
         }
       ]
     },
@@ -3717,13 +3986,6 @@
       "uf": "SE",
       "estado": "Sergipe",
       "pontos": [
-        {
-          "data": "2026-03-18",
-          "valores": {
-            "Fábio": 43.2,
-            "Valmir de Francisquinho": 34.8
-          }
-        },
         {
           "data": "2026-04-20",
           "valores": {
@@ -4173,17 +4435,17 @@
         {
           "data": "2026-09-24",
           "valores": {
-            "Professora Dorinha": 36.8,
-            "Laurez Moreira": 8.4,
-            "Ataídes Oliveira": 5.3
+            "Professora Dorinha": 37.3,
+            "Laurez Moreira": 8,
+            "Ataídes Oliveira": 5
           }
         },
         {
           "data": "2026-09-25",
           "valores": {
-            "Professora Dorinha": 36.8,
-            "Laurez Moreira": 8.4,
-            "Ataídes Oliveira": 5.3
+            "Professora Dorinha": 37.3,
+            "Laurez Moreira": 8,
+            "Ataídes Oliveira": 5
           }
         }
       ]
