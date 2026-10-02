@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-10-01T17:21:19.291Z",
+  "ultima_execucao": "2026-10-02T16:37:00.148Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 784,
-  "pesquisas_usadas": 784,
+  "pesquisas_extraidas_brutas": 793,
+  "pesquisas_usadas": 793,
   "estados_com_agregado": 20,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -36,7 +36,7 @@
           "JHC",
           "Renan Filho"
         ],
-        "pesquisas": 37
+        "pesquisas": 38
       }
     ],
     "AM": [
@@ -47,7 +47,7 @@
           "Omar Aziz",
           "Roberto Cidade"
         ],
-        "pesquisas": 39
+        "pesquisas": 40
       },
       {
         "candidatos": [
@@ -381,15 +381,18 @@
         "candidatos": [
           "Araceli Lemos",
           "Daniel Santos",
-          "Hana Ghassan"
+          "Gal Leite",
+          "Hana Ghassan",
+          "Ruth Reis",
+          "Well Macêdo"
         ],
         "pesquisas": 8
       },
       {
         "candidatos": [
+          "Araceli Lemos",
           "Daniel Santos",
-          "Hana Ghassan",
-          "Mário Couto"
+          "Hana Ghassan"
         ],
         "pesquisas": 8
       }
@@ -400,7 +403,7 @@
           "Efraim Filho",
           "Lucas Ribeiro"
         ],
-        "pesquisas": 26
+        "pesquisas": 28
       },
       {
         "candidatos": [
@@ -417,7 +420,7 @@
           "João Campos",
           "Raquel Lyra"
         ],
-        "pesquisas": 58
+        "pesquisas": 60
       }
     ],
     "PI": [
@@ -436,7 +439,7 @@
           "Cadu de Lula",
           "Álvaro Dias"
         ],
-        "pesquisas": 63
+        "pesquisas": 64
       },
       {
         "candidatos": [
@@ -585,7 +588,7 @@
           "Laurez Moreira",
           "Professora Dorinha"
         ],
-        "pesquisas": 25
+        "pesquisas": 26
       },
       {
         "candidatos": [
@@ -634,7 +637,7 @@
     "AL": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "status": "ok",
-      "pesquisas": 37,
+      "pesquisas": 38,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Alagoas"
     },
     "AP": {
@@ -646,7 +649,7 @@
     "AM": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "status": "ok",
-      "pesquisas": 48,
+      "pesquisas": 49,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Amazonas"
     },
     "BA": {
@@ -706,13 +709,13 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 87,
+      "pesquisas": 88,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
       "status": "ok",
-      "pesquisas": 27,
+      "pesquisas": 29,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Para%C3%ADba"
     },
     "PR": {
@@ -724,7 +727,7 @@
     "PE": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
       "status": "ok",
-      "pesquisas": 58,
+      "pesquisas": 60,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Pernambuco"
     },
     "PI": {
@@ -742,7 +745,7 @@
     "RN": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "status": "ok",
-      "pesquisas": 69,
+      "pesquisas": 70,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
     },
     "RS": {
@@ -784,7 +787,7 @@
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 32,
+      "pesquisas": 33,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
