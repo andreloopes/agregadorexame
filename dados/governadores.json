@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-02",
+  "atualizado_em": "2026-10-03",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -190,7 +190,7 @@
           "pesquisas": 20
         },
         {
-          "nome": "Maria do Carmo",
+          "nome": "Professora Maria do Carmo",
           "partido": "PL",
           "media": 21.1,
           "ic_min": 19.4,
@@ -253,7 +253,7 @@
           "amostra": 1220,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-22"
+          "fonte_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
@@ -717,36 +717,44 @@
       "uf": "MT",
       "estado": "Mato Grosso",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-09-29",
-      "pesquisas_no_calculo": 14,
+      "corte": "2026-09-30",
+      "pesquisas_no_calculo": 15,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Otaviano Pivetta",
           "partido": "Republicanos",
-          "media": 34.4,
-          "ic_min": 30.6,
-          "ic_max": 38.2,
-          "pesquisas": 14
+          "media": 35.4,
+          "ic_min": 31.8,
+          "ic_max": 39.1,
+          "pesquisas": 15
         },
         {
           "nome": "Wellington Fagundes",
           "partido": "PL",
-          "media": 29.9,
-          "ic_min": 28.2,
-          "ic_max": 31.6,
-          "pesquisas": 14
+          "media": 28.9,
+          "ic_min": 27,
+          "ic_max": 30.9,
+          "pesquisas": 15
         },
         {
           "nome": "Doutora Natasha",
           "partido": "PSD",
-          "media": 13.3,
-          "ic_min": 11.6,
-          "ic_max": 15.1,
-          "pesquisas": 14
+          "media": 13.4,
+          "ic_min": 11.8,
+          "ic_max": 15,
+          "pesquisas": 15
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "MT Dados",
+          "coleta": "2026-09-30",
+          "amostra": 3080,
+          "margem": 3,
+          "tse": "",
+          "fonte_url": "#cite_note-:19-7"
+        },
         {
           "instituto": "Paraná Pesquisas",
           "coleta": "2026-09-29",
@@ -785,19 +793,11 @@
           "amostra": 3080,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:15-15"
-        },
-        {
-          "instituto": "AtlasIntel",
-          "coleta": "2026-09-09",
-          "amostra": 1209,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
+          "fonte_url": "#cite_note-:15-17"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas"
+      "fonte_url": "#cite_note-:19-7"
     },
     "MS": {
       "uf": "MS",
@@ -1726,36 +1726,44 @@
         {
           "nome": "Professora Dorinha",
           "partido": "",
-          "media": 37.7,
-          "ic_min": 36,
-          "ic_max": 39.5,
+          "media": 38.2,
+          "ic_min": 36.5,
+          "ic_max": 39.9,
           "pesquisas": 20
         },
         {
           "nome": "Laurez Moreira",
           "partido": "",
-          "media": 7.8,
+          "media": 7.6,
           "ic_min": 6.9,
-          "ic_max": 8.7,
+          "ic_max": 8.4,
           "pesquisas": 20
         },
         {
           "nome": "Ataídes Oliveira",
           "partido": "",
-          "media": 5.1,
-          "ic_min": 4.3,
-          "ic_max": 5.9,
+          "media": 4.9,
+          "ic_min": 4,
+          "ic_max": 5.7,
           "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Paraná Pesquisas",
+          "coleta": "2026-10-01",
+          "amostra": 1504,
+          "margem": 2.6,
+          "tse": "",
+          "fonte_url": "#cite_note-17"
+        },
         {
           "instituto": "Real Time Big Data",
           "coleta": "2026-10-01",
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:17-17"
+          "fonte_url": "#cite_note-:17-19"
         },
         {
           "instituto": "Real Time Big Data",
@@ -1763,7 +1771,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:16-21"
+          "fonte_url": "#cite_note-:16-23"
         },
         {
           "instituto": "Correio do Povo",
@@ -1771,7 +1779,7 @@
           "amostra": 1600,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-23"
+          "fonte_url": "#cite_note-25"
         },
         {
           "instituto": "Quaest",
@@ -1779,7 +1787,7 @@
           "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:15-25"
+          "fonte_url": "#cite_note-:15-27"
         },
         {
           "instituto": "Paraná Pesquisas",
@@ -1787,19 +1795,11 @@
           "amostra": 1504,
           "margem": 2.6,
           "tse": "",
-          "fonte_url": "#cite_note-:14-29"
-        },
-        {
-          "instituto": "Real Time Big Data",
-          "coleta": "2026-09-14",
-          "amostra": 1600,
-          "margem": 2,
-          "tse": "",
-          "fonte_url": "#cite_note-:13-31"
+          "fonte_url": "#cite_note-:14-31"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:17-17"
+      "fonte_url": "#cite_note-17"
     }
   },
   "cobertura": {

@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-10-02T16:37:00.148Z",
+  "ultima_execucao": "2026-10-03T15:07:58.942Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 793,
-  "pesquisas_usadas": 793,
+  "pesquisas_extraidas_brutas": 795,
+  "pesquisas_usadas": 795,
   "estados_com_agregado": 20,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -43,8 +43,8 @@
       {
         "candidatos": [
           "David Almeida",
-          "Maria do Carmo",
           "Omar Aziz",
+          "Professora Maria do Carmo",
           "Roberto Cidade"
         ],
         "pesquisas": 40
@@ -52,19 +52,10 @@
       {
         "candidatos": [
           "David Almeida",
-          "Maria do Carmo",
           "Omar Aziz",
-          "Tadeu de Souza"
+          "Professora Maria do Carmo"
         ],
-        "pesquisas": 5
-      },
-      {
-        "candidatos": [
-          "David Almeida",
-          "Maria do Carmo",
-          "Omar Aziz"
-        ],
-        "pesquisas": 4
+        "pesquisas": 9
       }
     ],
     "BA": [
@@ -241,7 +232,7 @@
           "Otaviano Pivetta",
           "Wellington Fagundes"
         ],
-        "pesquisas": 16
+        "pesquisas": 17
       },
       {
         "candidatos": [
@@ -588,7 +579,7 @@
           "Laurez Moreira",
           "Professora Dorinha"
         ],
-        "pesquisas": 26
+        "pesquisas": 27
       },
       {
         "candidatos": [
@@ -691,7 +682,7 @@
     "MT": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "status": "ok",
-      "pesquisas": 19,
+      "pesquisas": 20,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso"
     },
     "MS": {
@@ -787,7 +778,7 @@
     "TO": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
       "status": "ok",
-      "pesquisas": 33,
+      "pesquisas": 34,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Tocantins"
     }
   },
