@@ -1,17 +1,173 @@
 {
-  "atualizado_em": "2026-10-03T15:07:56.096Z",
+  "atualizado_em": "2026-10-04T15:46:37.469Z",
   "fonte": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
   "revisao_mediawiki": null,
-  "total_extraido": 359,
+  "total_extraido": 367,
   "observacao": "Compilação automatizada de tabelas públicas. Antes de publicar uma informação específica, confira a pesquisa original.",
   "pesquisas": [
+    {
+      "institute": "DataFolha",
+      "collection_date": "2026-10-03",
+      "sample_size": 4006,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:191-23",
+      "month_section": "Outubro",
+      "candidates": {
+        "Lula": 42,
+        "Flávio Bolsonaro": 40,
+        "Augusto Cury": 3,
+        "Ronaldo Caiado": 4,
+        "Renan Santos": 3,
+        "Romeu Zema": 0,
+        "Samara Martins": 0,
+        "Grassi": 0,
+        "Clariana Barão": 0,
+        "Hertz Dias": 0,
+        "Costa": 0,
+        "Rui Costa Pimenta": 0
+      },
+      "parties": {
+        "Lula": "PT",
+        "Flávio Bolsonaro": "PL",
+        "Augusto Cury": "Avante",
+        "Ronaldo Caiado": "PSD",
+        "Renan Santos": "Missão",
+        "Romeu Zema": "Novo",
+        "Samara Martins": "UP",
+        "Grassi": "",
+        "Clariana Barão": "DC",
+        "Hertz Dias": "PSTU",
+        "Costa": "",
+        "Rui Costa Pimenta": "PCO"
+      },
+      "others": null,
+      "undecided": 7
+    },
+    {
+      "institute": "Quaest",
+      "collection_date": "2026-10-03",
+      "sample_size": 3702,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "month_section": "Outubro",
+      "candidates": {
+        "Lula": 40,
+        "Flávio Bolsonaro": 38,
+        "Augusto Cury": 3,
+        "Ronaldo Caiado": 3,
+        "Renan Santos": 3,
+        "Romeu Zema": 0,
+        "Samara Martins": 0,
+        "Grassi": 0,
+        "Clariana Barão": 0,
+        "Hertz Dias": 0,
+        "Costa": 0,
+        "Rui Costa Pimenta": 0
+      },
+      "parties": {
+        "Lula": "PT",
+        "Flávio Bolsonaro": "PL",
+        "Augusto Cury": "Avante",
+        "Ronaldo Caiado": "PSD",
+        "Renan Santos": "Missão",
+        "Romeu Zema": "Novo",
+        "Samara Martins": "UP",
+        "Grassi": "",
+        "Clariana Barão": "DC",
+        "Hertz Dias": "PSTU",
+        "Costa": "",
+        "Rui Costa Pimenta": "PCO"
+      },
+      "others": null,
+      "undecided": 13
+    },
+    {
+      "institute": "DataFolha",
+      "collection_date": "2026-10-03",
+      "sample_size": 2002,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/DataFolha",
+      "month_section": "Outubro",
+      "candidates": {
+        "Lula": 42,
+        "Flávio Bolsonaro": 40,
+        "Augusto Cury": 3,
+        "Ronaldo Caiado": 4,
+        "Renan Santos": 3,
+        "Romeu Zema": 1,
+        "Samara Martins": 0,
+        "Grassi": 0,
+        "Clariana Barão": 0,
+        "Hertz Dias": 0,
+        "Costa": 0,
+        "Rui Costa Pimenta": 0
+      },
+      "parties": {
+        "Lula": "PT",
+        "Flávio Bolsonaro": "PL",
+        "Augusto Cury": "Avante",
+        "Ronaldo Caiado": "PSD",
+        "Renan Santos": "Missão",
+        "Romeu Zema": "Novo",
+        "Samara Martins": "UP",
+        "Grassi": "",
+        "Clariana Barão": "DC",
+        "Hertz Dias": "PSTU",
+        "Costa": "",
+        "Rui Costa Pimenta": "PCO"
+      },
+      "others": null,
+      "undecided": 7
+    },
+    {
+      "institute": "Futura",
+      "collection_date": "2026-10-03",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:187-27",
+      "month_section": "Outubro",
+      "candidates": {
+        "Lula": 42.6,
+        "Flávio Bolsonaro": 44.8,
+        "Augusto Cury": 4.1,
+        "Ronaldo Caiado": 3.9,
+        "Renan Santos": 2.8,
+        "Romeu Zema": 0.8,
+        "Samara Martins": 0.4,
+        "Grassi": 0.1,
+        "Clariana Barão": 0.1,
+        "Hertz Dias": 0.1,
+        "Costa": 0.2,
+        "Rui Costa Pimenta": 0.1
+      },
+      "parties": {
+        "Lula": "PT",
+        "Flávio Bolsonaro": "PL",
+        "Augusto Cury": "Avante",
+        "Ronaldo Caiado": "PSD",
+        "Renan Santos": "Missão",
+        "Romeu Zema": "Novo",
+        "Samara Martins": "UP",
+        "Grassi": "",
+        "Clariana Barão": "DC",
+        "Hertz Dias": "PSTU",
+        "Costa": "",
+        "Rui Costa Pimenta": "PCO"
+      },
+      "others": null,
+      "undecided": null
+    },
     {
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-10-03",
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná1-393",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná1-401",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.6,
@@ -46,7 +202,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná1-393",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná1-401",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.6,
@@ -71,7 +227,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná1-393",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná1-401",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.6,
@@ -96,7 +252,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná1-393",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná1-401",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.7,
@@ -121,21 +277,21 @@
       "sample_size": 2400,
       "margin_error": 2.04,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:186-24",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:186-28",
       "month_section": "Outubro",
       "candidates": {
-        "Lula": 46,
-        "Flávio Bolsonaro": 44,
+        "Lula": 41,
+        "Flávio Bolsonaro": 43,
         "Augusto Cury": 4,
         "Ronaldo Caiado": 3,
         "Renan Santos": 2,
         "Romeu Zema": 0,
-        "Samara Martins": 1,
+        "Samara Martins": 0,
         "Grassi": 0,
         "Clariana Barão": 0,
         "Hertz Dias": 0,
         "Costa": 0,
-        "Rui Costa Pimenta": 1
+        "Rui Costa Pimenta": 0
       },
       "parties": {
         "Lula": "PT",
@@ -152,7 +308,7 @@
         "Rui Costa Pimenta": "PCO"
       },
       "others": 0,
-      "undecided": null
+      "undecided": 7
     },
     {
       "institute": "PoderData/Aya",
@@ -160,7 +316,7 @@
       "sample_size": 4000,
       "margin_error": 1.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:185-26",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:185-30",
       "month_section": "Outubro",
       "candidates": {
         "Lula": 42,
@@ -194,12 +350,39 @@
       "undecided": 6
     },
     {
+      "institute": "CNT/MDA",
+      "collection_date": "2026-10-02",
+      "sample_size": 2007,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:184-32",
+      "month_section": "Outubro",
+      "candidates": {
+        "Lula": 43.1,
+        "Flávio Bolsonaro": 38,
+        "Augusto Cury": 3.1,
+        "Ronaldo Caiado": 3,
+        "Renan Santos": 1.5,
+        "Romeu Zema": 0.8
+      },
+      "parties": {
+        "Lula": "PT",
+        "Flávio Bolsonaro": "PL",
+        "Augusto Cury": "Avante",
+        "Ronaldo Caiado": "PSD",
+        "Renan Santos": "Missão",
+        "Romeu Zema": "Novo"
+      },
+      "others": null,
+      "undecided": 9.7
+    },
+    {
       "institute": "IFP",
       "collection_date": "2026-10-02",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:183-28",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:183-33",
       "month_section": "Outubro",
       "candidates": {
         "Lula": 40.62,
@@ -233,12 +416,109 @@
       "undecided": 7.44
     },
     {
+      "institute": "AtlasIntel",
+      "collection_date": "2026-10-02",
+      "sample_size": 5000,
+      "margin_error": 1,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:182-35",
+      "month_section": "Outubro",
+      "candidates": {
+        "Lula": 47,
+        "Flávio Bolsonaro": 44.1,
+        "Augusto Cury": 2.1,
+        "Ronaldo Caiado": 1.4,
+        "Renan Santos": 4.6,
+        "Romeu Zema": 0.9,
+        "Samara Martins": 0.9,
+        "Grassi": 0.9,
+        "Clariana Barão": 0.9,
+        "Hertz Dias": 0.9,
+        "Costa": 0.9,
+        "Rui Costa Pimenta": 0.9
+      },
+      "parties": {
+        "Lula": "PT",
+        "Flávio Bolsonaro": "PL",
+        "Augusto Cury": "Avante",
+        "Ronaldo Caiado": "PSD",
+        "Renan Santos": "Missão",
+        "Romeu Zema": "Novo",
+        "Samara Martins": "UP",
+        "Grassi": "",
+        "Clariana Barão": "DC",
+        "Hertz Dias": "PSTU",
+        "Costa": "",
+        "Rui Costa Pimenta": "PCO"
+      },
+      "others": 0.9,
+      "undecided": null
+    },
+    {
+      "institute": "Veritá",
+      "collection_date": "2026-10-02",
+      "sample_size": 40500,
+      "margin_error": 1,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Verit%C3%A1",
+      "month_section": "Outubro",
+      "candidates": {
+        "Lula": 45,
+        "Flávio Bolsonaro": 47
+      },
+      "parties": {
+        "Lula": "PT",
+        "Flávio Bolsonaro": "PL"
+      },
+      "others": null,
+      "undecided": null
+    },
+    {
+      "institute": "Palver",
+      "collection_date": "2026-10-01",
+      "sample_size": 5000,
+      "margin_error": 4,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:180-37",
+      "month_section": "Outubro",
+      "candidates": {
+        "Lula": 43,
+        "Flávio Bolsonaro": 47,
+        "Augusto Cury": 1,
+        "Ronaldo Caiado": 1,
+        "Renan Santos": 7,
+        "Romeu Zema": 0,
+        "Samara Martins": 0,
+        "Grassi": 0,
+        "Clariana Barão": 0,
+        "Hertz Dias": 0,
+        "Costa": 0,
+        "Rui Costa Pimenta": 0
+      },
+      "parties": {
+        "Lula": "PT",
+        "Flávio Bolsonaro": "PL",
+        "Augusto Cury": "Avante",
+        "Ronaldo Caiado": "PSD",
+        "Renan Santos": "Missão",
+        "Romeu Zema": "Novo",
+        "Samara Martins": "UP",
+        "Grassi": "",
+        "Clariana Barão": "DC",
+        "Hertz Dias": "PSTU",
+        "Costa": "",
+        "Rui Costa Pimenta": "PCO"
+      },
+      "others": 0,
+      "undecided": 0
+    },
+    {
       "institute": "Vox",
       "collection_date": "2026-10-01",
       "sample_size": 2100,
       "margin_error": 2.15,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:179-30",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:179-38",
       "month_section": "Outubro",
       "candidates": {
         "Lula": 40.4,
@@ -277,7 +557,7 @@
       "sample_size": 2506,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:178-31",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:178-39",
       "month_section": "Outubro",
       "candidates": {
         "Lula": 42,
@@ -316,7 +596,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:177-33",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:177-41",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 41,
@@ -357,7 +637,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:176-34",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:176-42",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 43,
@@ -398,7 +678,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:175-36",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:175-44",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39,
@@ -439,7 +719,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:174-37",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:174-45",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39.4,
@@ -478,7 +758,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Quaest2-384",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Quaest2-392",
       "month_section": "Março",
       "candidates": {
         "Lula": 32,
@@ -499,7 +779,7 @@
       "sample_size": 2100,
       "margin_error": 2.15,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:173-38",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:173-46",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 41,
@@ -540,7 +820,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:172-39",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:172-47",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39.4,
@@ -581,7 +861,7 @@
       "sample_size": 5000,
       "margin_error": 2.4,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:171-40",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:171-48",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 44,
@@ -622,7 +902,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:170-41",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:170-49",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 40,
@@ -663,7 +943,7 @@
       "sample_size": 5005,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:169-42",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:169-50",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 45.3,
@@ -704,7 +984,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:168-43",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:168-51",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 42,
@@ -745,7 +1025,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:167-44",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:167-52",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39,
@@ -827,7 +1107,7 @@
       "sample_size": 2002,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:166-46",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:166-54",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 40,
@@ -868,7 +1148,7 @@
       "sample_size": 3000,
       "margin_error": 1.8,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:165-47",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:165-55",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 43,
@@ -909,7 +1189,7 @@
       "sample_size": 3000,
       "margin_error": 1.8,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:164-48",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:164-56",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 41,
@@ -950,7 +1230,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-49",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-57",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 38.4,
@@ -991,7 +1271,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:162-50",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:162-58",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 41,
@@ -1032,7 +1312,7 @@
       "sample_size": 2700,
       "margin_error": 1.8,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:161-51",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:161-59",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 40,
@@ -1073,7 +1353,7 @@
       "sample_size": 5015,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:160-52",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:160-60",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 45.8,
@@ -1112,7 +1392,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:159-53",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:159-61",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 40,
@@ -1151,7 +1431,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:158-54",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:158-62",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 37,
@@ -1192,7 +1472,7 @@
       "sample_size": 2000,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:AmericanSet-55",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:AmericanSet-63",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 38,
@@ -1219,7 +1499,7 @@
       "sample_size": 40500,
       "margin_error": 1.01,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-56",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-64",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 40,
@@ -1258,7 +1538,7 @@
       "sample_size": 5000,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:157-58",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:157-66",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 41,
@@ -1297,7 +1577,7 @@
       "sample_size": 2002,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:3-59",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:3-67",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39,
@@ -1336,7 +1616,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:156-60",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:156-68",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 37,
@@ -1371,7 +1651,7 @@
       "sample_size": 3000,
       "margin_error": 1.8,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:155-61",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:155-69",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 37,
@@ -1410,7 +1690,7 @@
       "sample_size": 5018,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:154-62",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:154-70",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 44.1,
@@ -1439,7 +1719,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:153-63",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:153-71",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 38.3,
@@ -1478,7 +1758,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:152-65",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:152-73",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39,
@@ -1517,7 +1797,7 @@
       "sample_size": 2003,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:151-66",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:151-74",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 42,
@@ -1556,7 +1836,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:150-67",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:150-75",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 38,
@@ -1595,7 +1875,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:149-68",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:149-76",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 36,
@@ -1634,7 +1914,7 @@
       "sample_size": 2002,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-69",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-77",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 40.5,
@@ -1673,7 +1953,7 @@
       "sample_size": 40500,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-70",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-78",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 41.5,
@@ -1692,7 +1972,7 @@
       "sample_size": 2002,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:148-73",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:148-81",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39,
@@ -1731,7 +2011,7 @@
       "sample_size": 2002,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:148-73",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:148-81",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39,
@@ -1770,7 +2050,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:147-75",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:147-83",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39.2,
@@ -1807,7 +2087,7 @@
       "sample_size": 3000,
       "margin_error": 1.8,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:145-76",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:145-84",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 38,
@@ -1846,7 +2126,7 @@
       "sample_size": 5000,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:146-77",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:146-85",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 43,
@@ -1881,7 +2161,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-GerpSet-78",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-GerpSet-86",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 34,
@@ -1920,7 +2200,7 @@
       "sample_size": 5000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-PalverSet-79",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-PalverSet-87",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 40,
@@ -1959,7 +2239,7 @@
       "sample_size": 5000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-PalverSet-79",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-PalverSet-87",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 40,
@@ -1998,7 +2278,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-IdeiaSet-82",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-IdeiaSet-90",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 38.4,
@@ -2037,7 +2317,7 @@
       "sample_size": 2002,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-NEXUS8Set-83",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-NEXUS8Set-91",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39,
@@ -2076,7 +2356,7 @@
       "sample_size": 2002,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-NEXUS8Set-83",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-NEXUS8Set-91",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 39,
@@ -2115,7 +2395,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-84",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-92",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 36,
@@ -2154,7 +2434,7 @@
       "sample_size": 3804,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:144-85",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:144-93",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 38.4,
@@ -2189,7 +2469,7 @@
       "sample_size": 2002,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:143-86",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:143-94",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 38,
@@ -2228,7 +2508,7 @@
       "sample_size": 3000,
       "margin_error": 1.8,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:141-87",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:141-95",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 37,
@@ -2267,7 +2547,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:139-88",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:139-96",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 37,
@@ -2306,7 +2586,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:139-88",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:139-96",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 37,
@@ -2345,7 +2625,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:142-90",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:142-98",
       "month_section": "Setembro",
       "candidates": {
         "Lula": 38.7,
@@ -2380,7 +2660,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-95",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-103",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 38,
@@ -2421,7 +2701,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-95",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-103",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 38,
@@ -2460,7 +2740,7 @@
       "sample_size": 2005,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:137-97",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:137-105",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 39,
@@ -2499,7 +2779,7 @@
       "sample_size": 2005,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:137-97",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:137-105",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 37,
@@ -2540,7 +2820,7 @@
       "sample_size": 5014,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:138-98",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:138-106",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 43.4,
@@ -2575,7 +2855,7 @@
       "sample_size": 2100,
       "margin_error": 2.15,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-99",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-107",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 37.1,
@@ -2616,7 +2896,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:136-100",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:136-108",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 38,
@@ -2657,7 +2937,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:135-101",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:135-109",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 37,
@@ -2696,7 +2976,7 @@
       "sample_size": 2006,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:134-102",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:134-110",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 41,
@@ -2735,7 +3015,7 @@
       "sample_size": 2006,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:134-102",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:134-110",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 40,
@@ -2776,7 +3056,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:134-A-103",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:134-A-111",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 39,
@@ -2815,7 +3095,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:134-A-103",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:134-A-111",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 39,
@@ -2856,7 +3136,7 @@
       "sample_size": 2058,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-104",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-112",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 39,
@@ -2895,7 +3175,7 @@
       "sample_size": 2058,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-104",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-112",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 39,
@@ -2936,7 +3216,7 @@
       "sample_size": 3840,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:132-105",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:132-113",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 39.3,
@@ -2975,7 +3255,7 @@
       "sample_size": 2026,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-385",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-393",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.3,
@@ -3000,7 +3280,7 @@
       "sample_size": 2026,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-385",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-393",
       "month_section": "Março",
       "candidates": {
         "Lula": 37,
@@ -3021,7 +3301,7 @@
       "sample_size": 2026,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-385",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-393",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.6,
@@ -3050,7 +3330,7 @@
       "sample_size": 2026,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-385",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-393",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.1,
@@ -3071,7 +3351,7 @@
       "sample_size": 2026,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-385",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-393",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.4,
@@ -3100,7 +3380,7 @@
       "sample_size": 2026,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-385",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-393",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.4,
@@ -3125,7 +3405,7 @@
       "sample_size": 2026,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-385",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná6-393",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.4,
@@ -3148,7 +3428,7 @@
       "sample_size": 2003,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:131-106",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:131-114",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 41,
@@ -3187,7 +3467,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:130-110",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:130-118",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 38,
@@ -3226,7 +3506,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:129-112",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:129-120",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 41,
@@ -3257,7 +3537,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:128-114",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:128-122",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 38,
@@ -3292,7 +3572,7 @@
       "sample_size": 2001,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:124-116",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:124-124",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 40,
@@ -3329,7 +3609,7 @@
       "sample_size": 2002,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:127-118",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:127-126",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 42.4,
@@ -3360,7 +3640,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:126-120",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:126-128",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 36.3,
@@ -3387,7 +3667,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:126-120",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:126-128",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 38.8,
@@ -3422,7 +3702,7 @@
       "sample_size": 5000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:125-123",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:125-131",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 44,
@@ -3455,7 +3735,7 @@
       "sample_size": 5000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:125-123",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:125-131",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 45,
@@ -3480,7 +3760,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:123-130",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:123-138",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 43,
@@ -3515,7 +3795,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:122-132",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:122-140",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 39,
@@ -3550,7 +3830,7 @@
       "sample_size": 2002,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:121-134",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:121-142",
       "month_section": "Agosto",
       "candidates": {
         "Lula": 41,
@@ -3585,7 +3865,7 @@
       "sample_size": 2100,
       "margin_error": 2.15,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:120-141",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:120-149",
       "month_section": "Julho",
       "candidates": {
         "Lula": 40.5,
@@ -3622,7 +3902,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:118-143",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:118-151",
       "month_section": "Julho",
       "candidates": {
         "Lula": 41,
@@ -3649,7 +3929,7 @@
       "sample_size": 2700,
       "margin_error": 1.8,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:119-144",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:119-152",
       "month_section": "Julho",
       "candidates": {
         "Lula": 43,
@@ -3676,7 +3956,7 @@
       "sample_size": 5021,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:117-145",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:117-153",
       "month_section": "Julho",
       "candidates": {
         "Lula": 44.9,
@@ -3713,7 +3993,7 @@
       "sample_size": 5021,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:117-145",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:117-153",
       "month_section": "Julho",
       "candidates": {
         "Lula": 47.4,
@@ -3738,7 +4018,7 @@
       "sample_size": 5021,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:117-145",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:117-153",
       "month_section": "Julho",
       "candidates": {
         "Flávio Bolsonaro": 36.9,
@@ -3761,7 +4041,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:116-148",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:116-156",
       "month_section": "Julho",
       "candidates": {
         "Lula": 42,
@@ -3790,7 +4070,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:115-152",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:115-160",
       "month_section": "Julho",
       "candidates": {
         "Lula": 40,
@@ -3827,7 +4107,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná5-389",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná5-397",
       "month_section": "Março",
       "candidates": {
         "Lula": 38.3,
@@ -3854,7 +4134,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná5-389",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná5-397",
       "month_section": "Março",
       "candidates": {
         "Lula": 38.7,
@@ -3881,7 +4161,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná5-389",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná5-397",
       "month_section": "Março",
       "candidates": {
         "Lula": 38.9,
@@ -3908,7 +4188,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná5-389",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná5-397",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -3935,7 +4215,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná5-389",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná5-397",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.2,
@@ -3962,7 +4242,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:112-156",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:112-164",
       "month_section": "Julho",
       "candidates": {
         "Lula": 40,
@@ -3991,7 +4271,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:113-158",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:113-166",
       "month_section": "Julho",
       "candidates": {
         "Lula": 41,
@@ -4026,7 +4306,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:114-159",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:114-167",
       "month_section": "Julho",
       "candidates": {
         "Lula": 38,
@@ -4061,7 +4341,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:111-161",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:111-169",
       "month_section": "Julho",
       "candidates": {
         "Lula": 40,
@@ -4088,7 +4368,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:110-163",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:110-171",
       "month_section": "Julho",
       "candidates": {
         "Lula": 40,
@@ -4125,7 +4405,7 @@
       "sample_size": 2003,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:108-165",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:108-173",
       "month_section": "Julho",
       "candidates": {
         "Lula": 40,
@@ -4158,7 +4438,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:109-167",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:109-175",
       "month_section": "Julho",
       "candidates": {
         "Lula": 40.1,
@@ -4189,7 +4469,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:109-167",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:109-175",
       "month_section": "Julho",
       "candidates": {
         "Lula": 37.1,
@@ -4214,7 +4494,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:109-167",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:109-175",
       "month_section": "Julho",
       "candidates": {
         "Lula": 42.1,
@@ -4237,7 +4517,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:109-167",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:109-175",
       "month_section": "Julho",
       "candidates": {
         "Lula": 42.6,
@@ -4260,7 +4540,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-170",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-178",
       "month_section": "Julho",
       "candidates": {
         "Lula": 36,
@@ -4297,7 +4577,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-170",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-178",
       "month_section": "Julho",
       "candidates": {
         "Lula": 37,
@@ -4332,7 +4612,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-170",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-178",
       "month_section": "Julho",
       "candidates": {
         "Lula": 34,
@@ -4367,7 +4647,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-170",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-178",
       "month_section": "Julho",
       "candidates": {
         "Lula": 34,
@@ -4402,7 +4682,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-170",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-178",
       "month_section": "Julho",
       "candidates": {
         "Lula": 34,
@@ -4439,7 +4719,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-170",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-178",
       "month_section": "Julho",
       "candidates": {
         "Flávio Bolsonaro": 30,
@@ -4474,7 +4754,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-170",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:106-178",
       "month_section": "Julho",
       "candidates": {
         "Flávio Bolsonaro": 31,
@@ -4509,7 +4789,7 @@
       "sample_size": 2000,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:107-177",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:107-185",
       "month_section": "Julho",
       "candidates": {
         "Lula": 40.4,
@@ -4550,7 +4830,7 @@
       "sample_size": 2000,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:107-177",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:107-185",
       "month_section": "Julho",
       "candidates": {
         "Lula": 40.4,
@@ -4589,7 +4869,7 @@
       "sample_size": 4999,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:105-182",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:105-190",
       "month_section": "Junho",
       "candidates": {
         "Lula": 46.3,
@@ -4630,7 +4910,7 @@
       "sample_size": 4999,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:105-182",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:105-190",
       "month_section": "Junho",
       "candidates": {
         "Lula": 47.2,
@@ -4657,7 +4937,7 @@
       "sample_size": 4999,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:105-182",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:105-190",
       "month_section": "Junho",
       "candidates": {
         "Lula": 47.1,
@@ -4682,7 +4962,7 @@
       "sample_size": 4999,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:105-182",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:105-190",
       "month_section": "Junho",
       "candidates": {
         "Flávio Bolsonaro": 36.7,
@@ -4742,7 +5022,7 @@
       "sample_size": 2009,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-186",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-194",
       "month_section": "Junho",
       "candidates": {
         "Lula": 42,
@@ -4775,7 +5055,7 @@
       "sample_size": 2009,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-186",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-194",
       "month_section": "Junho",
       "candidates": {
         "Lula": 42,
@@ -4802,7 +5082,7 @@
       "sample_size": 2100,
       "margin_error": 2.15,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:103-187",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:103-195",
       "month_section": "Junho",
       "candidates": {
         "Lula": 38.3,
@@ -4835,7 +5115,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:102-188",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:102-196",
       "month_section": "Junho",
       "candidates": {
         "Lula": 40,
@@ -4864,7 +5144,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:101-189",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:101-197",
       "month_section": "Junho",
       "candidates": {
         "Lula": 37,
@@ -4899,7 +5179,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-190",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-198",
       "month_section": "Junho",
       "candidates": {
         "Lula": 42,
@@ -4932,7 +5212,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-191",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-199",
       "month_section": "Junho",
       "candidates": {
         "Lula": 41,
@@ -4973,7 +5253,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:103-A-192",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:103-A-200",
       "month_section": "Junho",
       "candidates": {
         "Lula": 38,
@@ -5000,7 +5280,7 @@
       "sample_size": 2002,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:99-193",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:99-201",
       "month_section": "Junho",
       "candidates": {
         "Lula": 41.8,
@@ -5029,7 +5309,7 @@
       "sample_size": 2017,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:97-195",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:97-203",
       "month_section": "Junho",
       "candidates": {
         "Lula": 42,
@@ -5062,7 +5342,7 @@
       "sample_size": 2017,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:97-195",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:97-203",
       "month_section": "Junho",
       "candidates": {
         "Lula": 43,
@@ -5089,7 +5369,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:98-196",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:98-204",
       "month_section": "Junho",
       "candidates": {
         "Lula": 41.6,
@@ -5120,7 +5400,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:98-196",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:98-204",
       "month_section": "Junho",
       "candidates": {
         "Lula": 39.8,
@@ -5145,7 +5425,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:98-196",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:98-204",
       "month_section": "Junho",
       "candidates": {
         "Lula": 42.7,
@@ -5168,7 +5448,7 @@
       "sample_size": 1400,
       "margin_error": 2.6,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:96-197",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:96-205",
       "month_section": "Junho",
       "candidates": {
         "Lula": 40,
@@ -5195,7 +5475,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:95-199",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:95-207",
       "month_section": "Junho",
       "candidates": {
         "Lula": 39,
@@ -5232,7 +5512,7 @@
       "sample_size": 2100,
       "margin_error": 2.15,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:93-201",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:93-209",
       "month_section": "Junho",
       "candidates": {
         "Lula": 42.1,
@@ -5265,7 +5545,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:94-202",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:94-210",
       "month_section": "Junho",
       "candidates": {
         "Lula": 34,
@@ -5302,7 +5582,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:91-204",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:91-212",
       "month_section": "Maio",
       "candidates": {
         "Lula": 38,
@@ -5343,7 +5623,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:91-204",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:91-212",
       "month_section": "Maio",
       "candidates": {
         "Lula": 38,
@@ -5384,7 +5664,7 @@
       "sample_size": 2400,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:90-205",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:90-213",
       "month_section": "Maio",
       "candidates": {
         "Lula": 40,
@@ -5413,7 +5693,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:89-206",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:89-214",
       "month_section": "Maio",
       "candidates": {
         "Lula": 38.5,
@@ -5438,7 +5718,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:89-206",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:89-214",
       "month_section": "Maio",
       "candidates": {
         "Lula": 38,
@@ -5463,7 +5743,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:89-206",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:89-214",
       "month_section": "Maio",
       "candidates": {
         "Lula": 38.1,
@@ -5488,7 +5768,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:89-206",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:89-214",
       "month_section": "Maio",
       "candidates": {
         "Flávio Bolsonaro": 32.7,
@@ -5515,7 +5795,7 @@
       "sample_size": 3330,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:92-209",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:92-217",
       "month_section": "Maio",
       "candidates": {
         "Lula": 40.6,
@@ -5544,7 +5824,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:88-210",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:88-218",
       "month_section": "Maio",
       "candidates": {
         "Flávio Bolsonaro": 30,
@@ -5569,7 +5849,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:88-210",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:88-218",
       "month_section": "Maio",
       "candidates": {
         "Flávio Bolsonaro": 32,
@@ -5592,7 +5872,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:88-210",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:88-218",
       "month_section": "Maio",
       "candidates": {
         "Lula": 40,
@@ -5615,7 +5895,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:88-210",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:88-218",
       "month_section": "Maio",
       "candidates": {
         "Lula": 39,
@@ -5650,7 +5930,7 @@
       "sample_size": 2045,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:87-212",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:87-220",
       "month_section": "Maio",
       "candidates": {
         "Lula": 41,
@@ -5677,7 +5957,7 @@
       "sample_size": 2045,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:87-212",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:87-220",
       "month_section": "Maio",
       "candidates": {
         "Lula": 40,
@@ -5708,7 +5988,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:85-213",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:85-221",
       "month_section": "Maio",
       "candidates": {
         "Lula": 40,
@@ -5745,7 +6025,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:85-213",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:85-221",
       "month_section": "Maio",
       "candidates": {
         "Lula": 41,
@@ -5780,7 +6060,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:86-215",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:86-223",
       "month_section": "Maio",
       "candidates": {
         "Lula": 38,
@@ -5819,7 +6099,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:84-217",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:84-225",
       "month_section": "Maio",
       "candidates": {
         "Lula": 40,
@@ -5848,7 +6128,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:84-217",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:84-225",
       "month_section": "Maio",
       "candidates": {
         "Lula": 39,
@@ -5877,7 +6157,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:84-217",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:84-225",
       "month_section": "Maio",
       "candidates": {
         "Lula": 42.7,
@@ -5908,7 +6188,7 @@
       "sample_size": 2100,
       "margin_error": 2.15,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:82-221",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:82-229",
       "month_section": "Maio",
       "candidates": {
         "Lula": 41.5,
@@ -5939,7 +6219,7 @@
       "sample_size": 9000,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:83-224",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:83-232",
       "month_section": "Maio",
       "candidates": {
         "Lula": 37.4,
@@ -5968,7 +6248,7 @@
       "sample_size": 5032,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:78-225",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:78-233",
       "month_section": "Maio",
       "candidates": {
         "Lula": 47,
@@ -5995,7 +6275,7 @@
       "sample_size": 5032,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:78-225",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:78-233",
       "month_section": "Maio",
       "candidates": {
         "Lula": 46.7,
@@ -6022,7 +6302,7 @@
       "sample_size": 5032,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:78-225",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:78-233",
       "month_section": "Maio",
       "candidates": {
         "Lula": 47,
@@ -6051,7 +6331,7 @@
       "sample_size": 3404,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-228",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-236",
       "month_section": "Maio",
       "candidates": {
         "Lula": 37.2,
@@ -6080,7 +6360,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:77-229",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:77-237",
       "month_section": "Maio",
       "candidates": {
         "Lula": 38,
@@ -6113,7 +6393,7 @@
       "sample_size": 2100,
       "margin_error": 2.15,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:76-235",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:76-243",
       "month_section": "Maio",
       "candidates": {
         "Lula": 35.1,
@@ -6144,7 +6424,7 @@
       "sample_size": 2100,
       "margin_error": 2.15,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:76-235",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:76-243",
       "month_section": "Maio",
       "candidates": {
         "Lula": 34.3,
@@ -6175,7 +6455,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:75-237",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:75-245",
       "month_section": "Maio",
       "candidates": {
         "Lula": 34,
@@ -6208,7 +6488,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:75-237",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:75-245",
       "month_section": "Maio",
       "candidates": {
         "Lula": 35,
@@ -6233,7 +6513,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:73-241",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:73-249",
       "month_section": "Maio",
       "candidates": {
         "Lula": 39,
@@ -6268,7 +6548,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:72-242",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:72-250",
       "month_section": "Maio",
       "candidates": {
         "Flávio Bolsonaro": 35.9,
@@ -6299,7 +6579,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:72-242",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:72-250",
       "month_section": "Maio",
       "candidates": {
         "Lula": 38.1,
@@ -6328,7 +6608,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:72-242",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:72-250",
       "month_section": "Maio",
       "candidates": {
         "Lula": 38.3,
@@ -6359,7 +6639,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:71-245",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:71-253",
       "month_section": "Maio",
       "candidates": {
         "Lula": 40,
@@ -6398,7 +6678,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:70-246",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:70-254",
       "month_section": "Maio",
       "candidates": {
         "Lula": 40,
@@ -6437,7 +6717,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:70-246",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:70-254",
       "month_section": "Maio",
       "candidates": {
         "Lula": 38,
@@ -6476,7 +6756,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-390",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-398",
       "month_section": "Março",
       "candidates": {
         "Lula": 36,
@@ -6501,7 +6781,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-390",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-398",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.6,
@@ -6526,7 +6806,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-390",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-398",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.9,
@@ -6551,7 +6831,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-390",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-398",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.3,
@@ -6576,7 +6856,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-390",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-398",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.2,
@@ -6601,7 +6881,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-390",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-398",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.2,
@@ -6626,7 +6906,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-390",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná4-398",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.9,
@@ -6651,7 +6931,7 @@
       "sample_size": 5008,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:69-248",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:69-256",
       "month_section": "Abril",
       "candidates": {
         "Lula": 46.7,
@@ -6680,7 +6960,7 @@
       "sample_size": 5008,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:69-248",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:69-256",
       "month_section": "Abril",
       "candidates": {
         "Lula": 44.2,
@@ -6719,7 +6999,7 @@
       "sample_size": 5008,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:69-248",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:69-256",
       "month_section": "Abril",
       "candidates": {
         "Flávio Bolsonaro": 39.2,
@@ -6748,7 +7028,7 @@
       "sample_size": 2028,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:68-250",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:68-258",
       "month_section": "Abril",
       "candidates": {
         "Lula": 41,
@@ -6773,7 +7053,7 @@
       "sample_size": 2028,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:68-250",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:68-258",
       "month_section": "Abril",
       "candidates": {
         "Lula": 41,
@@ -6800,7 +7080,7 @@
       "sample_size": 2028,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:68-250",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:68-258",
       "month_section": "Abril",
       "candidates": {
         "Lula": 41,
@@ -6831,7 +7111,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:67-251",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:67-259",
       "month_section": "Abril",
       "candidates": {
         "Lula": 37,
@@ -6864,7 +7144,7 @@
       "sample_size": 2002,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:66-254",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:66-262",
       "month_section": "Abril",
       "candidates": {
         "Lula": 39.2,
@@ -6891,7 +7171,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:65-255",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:65-263",
       "month_section": "Abril",
       "candidates": {
         "Flávio Bolsonaro": 38.4,
@@ -6922,7 +7202,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:65-255",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:65-263",
       "month_section": "Abril",
       "candidates": {
         "Lula": 38.4,
@@ -6951,7 +7231,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:65-255",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:65-263",
       "month_section": "Abril",
       "candidates": {
         "Lula": 39.8,
@@ -6982,7 +7262,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:64-256",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:64-264",
       "month_section": "Abril",
       "candidates": {
         "Lula": 39,
@@ -7011,7 +7291,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:63-259",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:63-267",
       "month_section": "Abril",
       "candidates": {
         "Lula": 40.4,
@@ -7038,7 +7318,7 @@
       "sample_size": 40500,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-257",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-265",
       "month_section": "Abril",
       "candidates": {
         "Lula": 33.2,
@@ -7065,7 +7345,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:62-265",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:62-273",
       "month_section": "Março",
       "candidates": {
         "Lula": 42,
@@ -7090,7 +7370,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:62-265",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:62-273",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -7117,7 +7397,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:62-265",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:62-273",
       "month_section": "Março",
       "candidates": {
         "Lula": 41,
@@ -7144,7 +7424,7 @@
       "sample_size": 2080,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-266",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-274",
       "month_section": "Março",
       "candidates": {
         "Lula": 41.3,
@@ -7171,7 +7451,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:61-267",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:61-275",
       "month_section": "Março",
       "candidates": {
         "Lula": 38,
@@ -7200,7 +7480,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:61-267",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:61-275",
       "month_section": "Março",
       "candidates": {
         "Lula": 37,
@@ -7229,7 +7509,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:61-267",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:61-275",
       "month_section": "Março",
       "candidates": {
         "Lula": 38,
@@ -7258,7 +7538,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:61-267",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:61-275",
       "month_section": "Março",
       "candidates": {
         "Lula": 38,
@@ -7289,7 +7569,7 @@
       "sample_size": 5028,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-268",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-276",
       "month_section": "Março",
       "candidates": {
         "Flávio Bolsonaro": 40.1,
@@ -7316,7 +7596,7 @@
       "sample_size": 5028,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-268",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-276",
       "month_section": "Março",
       "candidates": {
         "Lula": 45.7,
@@ -7345,7 +7625,7 @@
       "sample_size": 5028,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-268",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-276",
       "month_section": "Março",
       "candidates": {
         "Lula": 45.6,
@@ -7372,7 +7652,7 @@
       "sample_size": 5028,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-268",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-276",
       "month_section": "Março",
       "candidates": {
         "Lula": 45.7,
@@ -7399,7 +7679,7 @@
       "sample_size": 5028,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-268",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-276",
       "month_section": "Março",
       "candidates": {
         "Lula": 45.5,
@@ -7426,7 +7706,7 @@
       "sample_size": 5028,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-268",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:60-276",
       "month_section": "Março",
       "candidates": {
         "Lula": 45.9,
@@ -7453,7 +7733,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-391",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-399",
       "month_section": "Março",
       "candidates": {
         "Lula": 35.3,
@@ -7478,7 +7758,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-391",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-399",
       "month_section": "Março",
       "candidates": {
         "Lula": 36,
@@ -7503,7 +7783,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-391",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-399",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.2,
@@ -7528,7 +7808,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-391",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-399",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.6,
@@ -7553,7 +7833,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-391",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-399",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.8,
@@ -7578,7 +7858,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-391",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-399",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.3,
@@ -7603,7 +7883,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-391",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-399",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.6,
@@ -7628,7 +7908,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-391",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná3-399",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.9,
@@ -7653,7 +7933,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:59-273",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:59-281",
       "month_section": "Março",
       "candidates": {
         "Lula": 37,
@@ -7684,7 +7964,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:56-276",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:56-284",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -7709,7 +7989,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:56-276",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:56-284",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -7736,7 +8016,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:56-276",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:56-284",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -7763,7 +8043,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:56-276",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:56-284",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -7790,7 +8070,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-274",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-282",
       "month_section": "Março",
       "candidates": {
         "Lula": 36,
@@ -7815,7 +8095,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-274",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-282",
       "month_section": "Março",
       "candidates": {
         "Lula": 36,
@@ -7840,7 +8120,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-274",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-282",
       "month_section": "Março",
       "candidates": {
         "Lula": 37,
@@ -7865,7 +8145,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-274",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-282",
       "month_section": "Março",
       "candidates": {
         "Lula": 36,
@@ -7890,7 +8170,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-274",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-282",
       "month_section": "Março",
       "candidates": {
         "Lula": 36,
@@ -7917,7 +8197,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-274",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-282",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -7944,7 +8224,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-274",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:58-282",
       "month_section": "Março",
       "candidates": {
         "Lula": 37,
@@ -7971,7 +8251,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:57-275",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:57-283",
       "month_section": "Março",
       "candidates": {
         "Flávio Bolsonaro": 38.1,
@@ -7998,7 +8278,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:57-275",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:57-283",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.8,
@@ -8025,7 +8305,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:57-275",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:57-283",
       "month_section": "Março",
       "candidates": {
         "Lula": 35.2,
@@ -8050,7 +8330,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:57-275",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:57-283",
       "month_section": "Março",
       "candidates": {
         "Lula": 35.1,
@@ -8075,7 +8355,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:57-275",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:57-283",
       "month_section": "Março",
       "candidates": {
         "Lula": 37,
@@ -8102,7 +8382,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:55-277",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:55-285",
       "month_section": "Março",
       "candidates": {
         "Flávio Bolsonaro": 33,
@@ -8129,7 +8409,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:55-277",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:55-285",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -8156,7 +8436,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:55-277",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:55-285",
       "month_section": "Março",
       "candidates": {
         "Lula": 38,
@@ -8183,7 +8463,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:55-277",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:55-285",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -8210,7 +8490,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:55-277",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:55-285",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -8237,7 +8517,7 @@
       "sample_size": 9000,
       "margin_error": 1.3,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:54-278",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:54-286",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.3,
@@ -8264,7 +8544,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:53-280",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:53-288",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -8291,7 +8571,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:53-280",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:53-288",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -8318,7 +8598,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:53-280",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:53-288",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -8411,7 +8691,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp2-370",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp2-378",
       "month_section": "Março",
       "candidates": {
         "Lula": 25,
@@ -8442,7 +8722,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp2-370",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp2-378",
       "month_section": "Março",
       "candidates": {
         "Lula": 25,
@@ -8473,7 +8753,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp2-370",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp2-378",
       "month_section": "Março",
       "candidates": {
         "Lula": 27,
@@ -8504,7 +8784,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp2-370",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp2-378",
       "month_section": "Março",
       "candidates": {
         "Lula": 24,
@@ -8535,7 +8815,7 @@
       "sample_size": 2080,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:52-281",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:52-289",
       "month_section": "Março",
       "candidates": {
         "Lula": 40.5,
@@ -8562,7 +8842,7 @@
       "sample_size": 2080,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:52-281",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:52-289",
       "month_section": "Março",
       "candidates": {
         "Lula": 39.6,
@@ -8589,7 +8869,7 @@
       "sample_size": 4986,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-282",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-290",
       "month_section": "Março",
       "candidates": {
         "Flávio Bolsonaro": 37.1,
@@ -8616,7 +8896,7 @@
       "sample_size": 4986,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-282",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-290",
       "month_section": "Março",
       "candidates": {
         "Lula": 47.1,
@@ -8645,7 +8925,7 @@
       "sample_size": 4986,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-282",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-290",
       "month_section": "Março",
       "candidates": {
         "Lula": 43.3,
@@ -8672,7 +8952,7 @@
       "sample_size": 4986,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-282",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-290",
       "month_section": "Março",
       "candidates": {
         "Lula": 45.3,
@@ -8699,7 +8979,7 @@
       "sample_size": 4986,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-282",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-290",
       "month_section": "Março",
       "candidates": {
         "Lula": 45.1,
@@ -8726,7 +9006,7 @@
       "sample_size": 4986,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-282",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:51-290",
       "month_section": "Março",
       "candidates": {
         "Lula": 45,
@@ -8753,7 +9033,7 @@
       "sample_size": 2002,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-CNT/MDA2-371",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-CNT/MDA2-379",
       "month_section": "Março",
       "candidates": {
         "Lula": 30.3,
@@ -8780,7 +9060,7 @@
       "sample_size": 2002,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-CNT/MDA2-371",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-CNT/MDA2-379",
       "month_section": "Março",
       "candidates": {
         "Lula": 30.4,
@@ -8807,7 +9087,7 @@
       "sample_size": 2002,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-CNT/MDA2-371",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-CNT/MDA2-379",
       "month_section": "Março",
       "candidates": {
         "Lula": 31.1,
@@ -8834,7 +9114,7 @@
       "sample_size": 2002,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-CNT/MDA2-371",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-CNT/MDA2-379",
       "month_section": "Março",
       "candidates": {
         "Fernando Haddad": 16.2,
@@ -8861,7 +9141,7 @@
       "sample_size": 2010,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-373",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-381",
       "month_section": "Março",
       "candidates": {
         "Lula": 33.8,
@@ -8890,7 +9170,7 @@
       "sample_size": 2010,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-373",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-381",
       "month_section": "Março",
       "candidates": {
         "Lula": 34.1,
@@ -8919,7 +9199,7 @@
       "sample_size": 2010,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-373",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-381",
       "month_section": "Março",
       "candidates": {
         "Lula": 34.1,
@@ -8948,7 +9228,7 @@
       "sample_size": 2010,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-373",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-381",
       "month_section": "Março",
       "candidates": {
         "Lula": 33.8,
@@ -8977,7 +9257,7 @@
       "sample_size": 2010,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-373",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-381",
       "month_section": "Março",
       "candidates": {
         "Fernando Haddad": 18.9,
@@ -9006,7 +9286,7 @@
       "sample_size": 2010,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-373",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná12-381",
       "month_section": "Março",
       "candidates": {
         "Fernando Haddad": 18.8,
@@ -9035,7 +9315,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-284",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-292",
       "month_section": "Março",
       "candidates": {
         "Lula": 37,
@@ -9060,7 +9340,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-284",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-292",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -9085,7 +9365,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-284",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-292",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -9110,7 +9390,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-284",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-292",
       "month_section": "Março",
       "candidates": {
         "Lula": 37,
@@ -9135,7 +9415,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-284",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-292",
       "month_section": "Março",
       "candidates": {
         "Lula": 38,
@@ -9162,7 +9442,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-284",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-292",
       "month_section": "Março",
       "candidates": {
         "Lula": 38,
@@ -9189,7 +9469,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-284",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:50-292",
       "month_section": "Março",
       "candidates": {
         "Lula": 35,
@@ -9216,7 +9496,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:49-285",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:49-293",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.7,
@@ -9243,7 +9523,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:49-285",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:49-293",
       "month_section": "Março",
       "candidates": {
         "Lula": 35.4,
@@ -9270,7 +9550,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:49-285",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:49-293",
       "month_section": "Março",
       "candidates": {
         "Lula": 35.3,
@@ -9297,7 +9577,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:49-285",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:49-293",
       "month_section": "Março",
       "candidates": {
         "Lula": 35.9,
@@ -9324,7 +9604,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-286",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-294",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -9351,7 +9631,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-286",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-294",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -9378,7 +9658,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-286",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-294",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -9405,7 +9685,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:48-287",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:48-295",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -9436,7 +9716,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-288",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-296",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -9461,7 +9741,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-288",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-296",
       "month_section": "Março",
       "candidates": {
         "Lula": 39.5,
@@ -9488,7 +9768,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-288",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-296",
       "month_section": "Março",
       "candidates": {
         "Lula": 38.5,
@@ -9515,7 +9795,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-288",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-296",
       "month_section": "Março",
       "candidates": {
         "Lula": 39.5,
@@ -9542,7 +9822,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-288",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-296",
       "month_section": "Março",
       "candidates": {
         "Lula": 39.5,
@@ -9569,7 +9849,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-288",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-296",
       "month_section": "Março",
       "candidates": {
         "Lula": 38.7,
@@ -9596,7 +9876,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-288",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:47-296",
       "month_section": "Março",
       "candidates": {
         "Lula": 39.5,
@@ -9708,7 +9988,7 @@
       "sample_size": 2080,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:45-290",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:45-298",
       "month_section": "Março",
       "candidates": {
         "Lula": 40.7,
@@ -9735,7 +10015,7 @@
       "sample_size": 2080,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:45-290",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:45-298",
       "month_section": "Março",
       "candidates": {
         "Lula": 39.8,
@@ -9764,7 +10044,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná2-392",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná2-400",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.9,
@@ -9793,7 +10073,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná2-392",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná2-400",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.6,
@@ -9822,7 +10102,7 @@
       "sample_size": 2020,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná2-392",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná2-400",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.6,
@@ -9851,7 +10131,7 @@
       "sample_size": 4500,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Quaest4-375",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Quaest4-383",
       "month_section": "Março",
       "candidates": {
         "Lula": 30,
@@ -9880,7 +10160,7 @@
       "sample_size": 4500,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Quaest4-375",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Quaest4-383",
       "month_section": "Março",
       "candidates": {
         "Lula": 28,
@@ -9909,7 +10189,7 @@
       "sample_size": 4500,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Quaest4-375",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Quaest4-383",
       "month_section": "Março",
       "candidates": {
         "Lula": 32,
@@ -9936,7 +10216,7 @@
       "sample_size": 4500,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Quaest4-375",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Quaest4-383",
       "month_section": "Março",
       "candidates": {
         "Lula": 33,
@@ -9961,7 +10241,7 @@
       "sample_size": 1300,
       "margin_error": 2.72,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-294",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-302",
       "month_section": "Março",
       "candidates": {
         "Lula": 23.12,
@@ -9994,7 +10274,7 @@
       "sample_size": 5418,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-296",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-304",
       "month_section": "Março",
       "candidates": {
         "Tarcísio de Freitas": 28.9,
@@ -10023,7 +10303,7 @@
       "sample_size": 5418,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-296",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-304",
       "month_section": "Março",
       "candidates": {
         "Flávio Bolsonaro": 35.4,
@@ -10052,7 +10332,7 @@
       "sample_size": 5418,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-296",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-304",
       "month_section": "Março",
       "candidates": {
         "Lula": 48.8,
@@ -10079,7 +10359,7 @@
       "sample_size": 5418,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-296",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-304",
       "month_section": "Março",
       "candidates": {
         "Lula": 48.2,
@@ -10106,7 +10386,7 @@
       "sample_size": 5418,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-296",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-304",
       "month_section": "Março",
       "candidates": {
         "Lula": 48.5,
@@ -10135,7 +10415,7 @@
       "sample_size": 5418,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-296",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-304",
       "month_section": "Março",
       "candidates": {
         "Lula": 48.8,
@@ -10164,7 +10444,7 @@
       "sample_size": 5418,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-296",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-304",
       "month_section": "Março",
       "candidates": {
         "Lula": 48.4,
@@ -10195,7 +10475,7 @@
       "sample_size": 5418,
       "margin_error": 1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-296",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:43-304",
       "month_section": "Março",
       "candidates": {
         "Lula": 46.4,
@@ -10216,7 +10496,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-295",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-303",
       "month_section": "Março",
       "candidates": {
         "Lula": 38.7,
@@ -10239,7 +10519,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-295",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-303",
       "month_section": "Março",
       "candidates": {
         "Lula": 38,
@@ -10262,7 +10542,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-295",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-303",
       "month_section": "Março",
       "candidates": {
         "Lula": 37.5,
@@ -10285,7 +10565,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-295",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-303",
       "month_section": "Março",
       "candidates": {
         "Lula": 36.3,
@@ -10310,7 +10590,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-295",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-303",
       "month_section": "Março",
       "candidates": {
         "Lula": 35.4,
@@ -10341,7 +10621,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-295",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:44-303",
       "month_section": "Março",
       "candidates": {
         "Lula": 37,
@@ -10370,7 +10650,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp1-376",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp1-384",
       "month_section": "Março",
       "candidates": {
         "Lula": 28,
@@ -10399,7 +10679,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp1-376",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp1-384",
       "month_section": "Março",
       "candidates": {
         "Lula": 29,
@@ -10428,7 +10708,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp1-376",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp1-384",
       "month_section": "Março",
       "candidates": {
         "Lula": 29,
@@ -10457,7 +10737,7 @@
       "sample_size": 2000,
       "margin_error": 2.24,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp1-376",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Gerp1-384",
       "month_section": "Março",
       "candidates": {
         "Lula": 30,
@@ -10486,7 +10766,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:41-298",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:41-306",
       "month_section": "Março",
       "candidates": {
         "Lula": 40.1,
@@ -10515,7 +10795,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:41-298",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:41-306",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -10544,7 +10824,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:41-298",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:41-306",
       "month_section": "Março",
       "candidates": {
         "Lula": 39.6,
@@ -10573,7 +10853,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:41-298",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:41-306",
       "month_section": "Março",
       "candidates": {
         "Lula": 39.7,
@@ -10602,7 +10882,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:41-298",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:41-306",
       "month_section": "Março",
       "candidates": {
         "Lula": 40.2,
@@ -10629,7 +10909,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-297",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-305",
       "month_section": "Março",
       "candidates": {
         "Lula": 38,
@@ -10658,7 +10938,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-297",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-305",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -10683,7 +10963,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-297",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-305",
       "month_section": "Março",
       "candidates": {
         "Lula": 37,
@@ -10708,7 +10988,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-297",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-305",
       "month_section": "Março",
       "candidates": {
         "Lula": 40,
@@ -10733,7 +11013,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-297",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-305",
       "month_section": "Março",
       "candidates": {
         "Lula": 39,
@@ -10758,7 +11038,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-297",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-305",
       "month_section": "Março",
       "candidates": {
         "Lula": 35,
@@ -10787,7 +11067,7 @@
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-297",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:42-305",
       "month_section": "Março",
       "candidates": {
         "Lula": 36,
@@ -10818,7 +11098,7 @@
       "sample_size": 2018,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-377",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-385",
       "month_section": "Março",
       "candidates": {
         "Hoffmann": 8,
@@ -10843,7 +11123,7 @@
       "sample_size": 2018,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-377",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-385",
       "month_section": "Março",
       "candidates": {
         "Camilo": 6.9,
@@ -10868,7 +11148,7 @@
       "sample_size": 2018,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-377",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-385",
       "month_section": "Março",
       "candidates": {
         "Fernando Haddad": 17.9,
@@ -10893,7 +11173,7 @@
       "sample_size": 2018,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-377",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-385",
       "month_section": "Março",
       "candidates": {
         "Fernando Haddad": 18.1,
@@ -10918,7 +11198,7 @@
       "sample_size": 2018,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-377",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-385",
       "month_section": "Março",
       "candidates": {
         "Lula": 34.9,
@@ -10943,7 +11223,7 @@
       "sample_size": 2018,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-377",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-385",
       "month_section": "Março",
       "candidates": {
         "Lula": 35.2,
@@ -10968,7 +11248,7 @@
       "sample_size": 2018,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-377",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-385",
       "month_section": "Março",
       "candidates": {
         "Lula": 34.5,
@@ -10995,7 +11275,7 @@
       "sample_size": 2018,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-377",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-385",
       "month_section": "Março",
       "candidates": {
         "Lula": 34,
@@ -11022,7 +11302,7 @@
       "sample_size": 2018,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-377",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Paraná11-385",
       "month_section": "Março",
       "candidates": {
         "Lula": 34.4,
@@ -11047,7 +11327,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Simplex1-378",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-Simplex1-386",
       "month_section": "Março",
       "candidates": {
         "Lula": 33.7,

@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-10-03T15:07:58.942Z",
+  "ultima_execucao": "2026-10-04T15:46:46.069Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 795,
-  "pesquisas_usadas": 795,
+  "pesquisas_extraidas_brutas": 807,
+  "pesquisas_usadas": 807,
   "estados_com_agregado": 20,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -13,7 +13,7 @@
           "Mailza Assis",
           "Tião Bocalom"
         ],
-        "pesquisas": 29
+        "pesquisas": 31
       },
       {
         "candidatos": [
@@ -64,7 +64,7 @@
           "ACM Neto",
           "Jerônimo"
         ],
-        "pesquisas": 37
+        "pesquisas": 42
       }
     ],
     "CE": [
@@ -352,6 +352,17 @@
       {
         "candidatos": [
           "Araceli Lemos",
+          "Daniel Santos",
+          "Gal Leite",
+          "Hana Ghassan",
+          "Ruth Reis",
+          "Well Macêdo"
+        ],
+        "pesquisas": 11
+      },
+      {
+        "candidatos": [
+          "Araceli Lemos",
           "Cleber Rabelo",
           "Daniel Santos",
           "Hana Ghassan",
@@ -367,17 +378,6 @@
           "Mário Couto"
         ],
         "pesquisas": 11
-      },
-      {
-        "candidatos": [
-          "Araceli Lemos",
-          "Daniel Santos",
-          "Gal Leite",
-          "Hana Ghassan",
-          "Ruth Reis",
-          "Well Macêdo"
-        ],
-        "pesquisas": 8
       },
       {
         "candidatos": [
@@ -430,7 +430,7 @@
           "Cadu de Lula",
           "Álvaro Dias"
         ],
-        "pesquisas": 64
+        "pesquisas": 66
       },
       {
         "candidatos": [
@@ -622,7 +622,7 @@
     "AC": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
       "status": "ok",
-      "pesquisas": 33,
+      "pesquisas": 35,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Acre"
     },
     "AL": {
@@ -646,7 +646,7 @@
     "BA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "status": "ok",
-      "pesquisas": 37,
+      "pesquisas": 42,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_na_Bahia"
     },
     "CE": {
@@ -700,7 +700,7 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 88,
+      "pesquisas": 91,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
@@ -736,7 +736,7 @@
     "RN": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "status": "ok",
-      "pesquisas": 70,
+      "pesquisas": 72,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
     },
     "RS": {
