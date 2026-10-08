@@ -1,8 +1,8 @@
 {
-  "atualizado_em": "2026-10-07T17:47:51.370Z",
+  "atualizado_em": "2026-10-08T17:51:15.719Z",
   "fonte": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
   "revisao_mediawiki": null,
-  "total_extraido": 367,
+  "total_extraido": 368,
   "observacao": "Compilação automatizada de tabelas públicas. Antes de publicar uma informação específica, confira a pesquisa original.",
   "pesquisas": [
     {
@@ -82,6 +82,45 @@
       },
       "others": null,
       "undecided": 13
+    },
+    {
+      "institute": "Gerp",
+      "collection_date": "2026-10-03",
+      "sample_size": 2400,
+      "margin_error": 2.04,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:188-25",
+      "month_section": "Outubro",
+      "candidates": {
+        "Lula": 44,
+        "Flávio Bolsonaro": 42,
+        "Augusto Cury": 3,
+        "Ronaldo Caiado": 4,
+        "Renan Santos": 2,
+        "Romeu Zema": 1,
+        "Samara Martins": 1,
+        "Grassi": 0,
+        "Clariana Barão": 0,
+        "Hertz Dias": 0,
+        "Costa": 0,
+        "Rui Costa Pimenta": 0
+      },
+      "parties": {
+        "Lula": "PT",
+        "Flávio Bolsonaro": "PL",
+        "Augusto Cury": "Avante",
+        "Ronaldo Caiado": "PSD",
+        "Renan Santos": "Missão",
+        "Romeu Zema": "Novo",
+        "Samara Martins": "UP",
+        "Grassi": "",
+        "Clariana Barão": "DC",
+        "Hertz Dias": "PSTU",
+        "Costa": "",
+        "Rui Costa Pimenta": "PCO"
+      },
+      "others": null,
+      "undecided": 4
     },
     {
       "institute": "DataFolha",

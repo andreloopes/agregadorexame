@@ -1,10 +1,10 @@
 {
-  "atualizado_em": "2026-10-07",
+  "atualizado_em": "2026-10-08",
   "corte": "2026-10-03",
   "cenario": "Brasil (nacional) — 1º turno · Augusto Cury | Flávio Bolsonaro | Lula | Renan Santos | Romeu Zema | Ronaldo Caiado",
   "criterio_cenario": "grupo mais frequente entre os candidatos centrais (Lula, Flávio Bolsonaro, Renan Santos, Augusto Cury, Ronaldo Caiado, Romeu Zema)",
   "pesquisas_no_calculo": 24,
-  "indecisos": 6.492,
+  "indecisos": 6.654,
   "fonte": "Wikipédia em português — pesquisas presidenciais de 2026",
   "fonte_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
   "licenca_dados": "CC BY-SA — preservar atribuição e consultar as fontes originais",
@@ -13,59 +13,59 @@
     {
       "nome": "Lula",
       "partido": "PT",
-      "media": 42.051,
-      "ic_min": 41.656,
-      "ic_max": 42.453,
+      "media": 42.037,
+      "ic_min": 41.631,
+      "ic_max": 42.443,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": 2.901
+      "tendencia_14d": 2.887
     },
     {
       "nome": "Flávio Bolsonaro",
       "partido": "PL",
-      "media": 40.69,
-      "ic_min": 40.295,
-      "ic_max": 41.075,
+      "media": 40.548,
+      "ic_min": 40.143,
+      "ic_max": 40.951,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": 3.6
+      "tendencia_14d": 3.458
     },
     {
       "nome": "Renan Santos",
       "partido": "Missão",
-      "media": 3.692,
-      "ic_min": 3.413,
-      "ic_max": 3.983,
+      "media": 3.697,
+      "ic_min": 3.418,
+      "ic_max": 3.984,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": -0.708
+      "tendencia_14d": -0.703
     },
     {
       "nome": "Augusto Cury",
       "partido": "Avante",
-      "media": 3.219,
-      "ic_min": 2.962,
-      "ic_max": 3.518,
+      "media": 3.156,
+      "ic_min": 2.901,
+      "ic_max": 3.46,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": -3.251
+      "tendencia_14d": -3.314
     },
     {
       "nome": "Ronaldo Caiado",
       "partido": "PSD",
-      "media": 2.918,
-      "ic_min": 2.648,
-      "ic_max": 3.215,
+      "media": 3.007,
+      "ic_min": 2.737,
+      "ic_max": 3.3,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
-      "tendencia_14d": 0.058
+      "tendencia_14d": 0.147
     },
     {
       "nome": "Romeu Zema",
       "partido": "Novo",
-      "media": 0.896,
-      "ic_min": 0.755,
-      "ic_max": 1.233,
+      "media": 0.922,
+      "ic_min": 0.774,
+      "ic_max": 1.251,
       "cobertura": 1,
       "pesquisas_com_candidato": 24,
       "tendencia_14d": 0
@@ -73,29 +73,19 @@
     {
       "nome": "Samara Martins",
       "partido": "UP",
-      "media": 0.34,
-      "ic_min": 0.33,
-      "ic_max": 0.735,
+      "media": 0.376,
+      "ic_min": 0.356,
+      "ic_max": 0.765,
       "cobertura": 0.958,
       "pesquisas_com_candidato": 23,
       "tendencia_14d": 0
     },
     {
-      "nome": "Leonardo Avalanche",
-      "partido": "PRTB",
-      "media": 0.232,
-      "ic_min": 0.203,
-      "ic_max": 0.704,
-      "cobertura": 0.5,
-      "pesquisas_com_candidato": 12,
-      "tendencia_14d": 0
-    },
-    {
       "nome": "Rui Costa Pimenta",
       "partido": "PCO",
-      "media": 0.232,
-      "ic_min": 0.277,
-      "ic_max": 0.66,
+      "media": 0.229,
+      "ic_min": 0.276,
+      "ic_max": 0.665,
       "cobertura": 0.958,
       "pesquisas_com_candidato": 23,
       "tendencia_14d": 0
@@ -103,27 +93,17 @@
     {
       "nome": "Grassi",
       "partido": "",
-      "media": 0.225,
-      "ic_min": 0.265,
-      "ic_max": 0.655,
+      "media": 0.228,
+      "ic_min": 0.268,
+      "ic_max": 0.654,
       "cobertura": 0.958,
       "pesquisas_com_candidato": 23,
       "tendencia_14d": 0
     },
     {
-      "nome": "Clariana Barão",
-      "partido": "DC",
-      "media": 0.202,
-      "ic_min": 0.244,
-      "ic_max": 0.629,
-      "cobertura": 0.917,
-      "pesquisas_com_candidato": 22,
-      "tendencia_14d": 0
-    },
-    {
       "nome": "Costa",
       "partido": "",
-      "media": 0.197,
+      "media": 0.194,
       "ic_min": 0.243,
       "ic_max": 0.621,
       "cobertura": 0.958,
@@ -131,11 +111,21 @@
       "tendencia_14d": 0
     },
     {
+      "nome": "Clariana Barão",
+      "partido": "DC",
+      "media": 0.188,
+      "ic_min": 0.233,
+      "ic_max": 0.625,
+      "cobertura": 0.917,
+      "pesquisas_com_candidato": 22,
+      "tendencia_14d": 0
+    },
+    {
       "nome": "Hertz Dias",
       "partido": "PSTU",
-      "media": 0.184,
+      "media": 0.181,
       "ic_min": 0.238,
-      "ic_max": 0.616,
+      "ic_max": 0.617,
       "cobertura": 0.958,
       "pesquisas_com_candidato": 23,
       "tendencia_14d": 0
@@ -159,6 +149,15 @@
       "margem": 2,
       "tipo": "Intenção de voto estimulada · 1º turno",
       "url": "https://pt.wikipedia.org/wiki/Quaest"
+    },
+    {
+      "instituto": "Gerp",
+      "coleta": "2026-10-03",
+      "tse": "",
+      "amostra": 2400,
+      "margem": 2.04,
+      "tipo": "Intenção de voto estimulada · 1º turno",
+      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:188-25"
     },
     {
       "instituto": "DataFolha",
@@ -204,15 +203,6 @@
       "margem": 2.2,
       "tipo": "Intenção de voto estimulada · 1º turno",
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:184-32"
-    },
-    {
-      "instituto": "IFP",
-      "coleta": "2026-10-02",
-      "tse": "",
-      "amostra": 2000,
-      "margem": 2.2,
-      "tipo": "Intenção de voto estimulada · 1º turno",
-      "url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:183-33"
     }
   ],
   "_cenario_assinatura": "Augusto Cury | Flávio Bolsonaro | Lula | Renan Santos | Romeu Zema | Ronaldo Caiado"
