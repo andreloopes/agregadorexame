@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-10-14T15:48:14.098Z",
+  "ultima_execucao": "2026-10-16T15:21:19.694Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 807,
-  "pesquisas_usadas": 807,
+  "pesquisas_extraidas_brutas": 817,
+  "pesquisas_usadas": 817,
   "estados_com_agregado": 20,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -36,7 +36,7 @@
           "JHC",
           "Renan Filho"
         ],
-        "pesquisas": 38
+        "pesquisas": 39
       }
     ],
     "AM": [
@@ -114,11 +114,19 @@
           "Arruda",
           "Cappelli",
           "Celina Leão",
-          "Kiko Caputo",
           "Leandro Grass",
           "Paula Belmonte"
         ],
-        "pesquisas": 18
+        "pesquisas": 24
+      },
+      {
+        "candidatos": [
+          "Cappelli",
+          "Celina Leão",
+          "Leandro Grass",
+          "Paula Belmonte"
+        ],
+        "pesquisas": 13
       },
       {
         "candidatos": [
@@ -133,32 +141,21 @@
       },
       {
         "candidatos": [
+          "Celina Leão",
+          "Leandro Grass",
+          "Paula Belmonte"
+        ],
+        "pesquisas": 1
+      },
+      {
+        "candidatos": [
           "Arruda",
           "Cappelli",
           "Celina Leão",
-          "Leandro Grass",
-          "Paula Belmonte"
+          "Izalci Lucas",
+          "Leandro Grass"
         ],
-        "pesquisas": 5
-      },
-      {
-        "candidatos": [
-          "Cappelli",
-          "Celina Leão",
-          "Kiko Caputo",
-          "Leandro Grass",
-          "Paula Belmonte"
-        ],
-        "pesquisas": 4
-      },
-      {
-        "candidatos": [
-          "Cappelli",
-          "Celina Leão",
-          "Leandro Grass",
-          "Paula Belmonte"
-        ],
-        "pesquisas": 4
+        "pesquisas": 1
       }
     ],
     "GO": [
@@ -232,7 +229,7 @@
           "Otaviano Pivetta",
           "Wellington Fagundes"
         ],
-        "pesquisas": 17
+        "pesquisas": 18
       },
       {
         "candidatos": [
@@ -267,7 +264,7 @@
           "Fábio Trad",
           "João Henrique Catan"
         ],
-        "pesquisas": 18
+        "pesquisas": 19
       },
       {
         "candidatos": [
@@ -430,7 +427,7 @@
           "Cadu de Lula",
           "Álvaro Dias"
         ],
-        "pesquisas": 66
+        "pesquisas": 67
       },
       {
         "candidatos": [
@@ -628,7 +625,7 @@
     "AL": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
       "status": "ok",
-      "pesquisas": 38,
+      "pesquisas": 39,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Alagoas"
     },
     "AP": {
@@ -658,7 +655,7 @@
     "DF": {
       "title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
       "status": "ok",
-      "pesquisas": 40,
+      "pesquisas": 46,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_distrital_de_2026_no_Distrito_Federal"
     },
     "ES": {
@@ -682,13 +679,13 @@
     "MT": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
       "status": "ok",
-      "pesquisas": 20,
+      "pesquisas": 21,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso"
     },
     "MS": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "status": "ok",
-      "pesquisas": 27,
+      "pesquisas": 28,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_em_Mato_Grosso_do_Sul"
     },
     "MG": {
@@ -736,7 +733,7 @@
     "RN": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
       "status": "ok",
-      "pesquisas": 72,
+      "pesquisas": 73,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Rio_Grande_do_Norte"
     },
     "RS": {
