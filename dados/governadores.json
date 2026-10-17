@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-16",
+  "atualizado_em": "2026-10-17",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -294,15 +294,7 @@
           "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
         },
         {
-          "instituto": "AtlasIntel",
-          "coleta": "2026-10-02",
-          "amostra": 2199,
-          "margem": 2,
-          "tse": "",
-          "fonte_url": "#cite_note-22"
-        },
-        {
-          "instituto": "Paraná Pesquisas",
+          "instituto": "Paraná Pesquisas /Bahia Notícias",
           "coleta": "2026-10-02",
           "amostra": 1400,
           "margem": 2.7,
@@ -310,12 +302,20 @@
           "fonte_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas"
         },
         {
-          "instituto": "AtlasIntel",
+          "instituto": "AtlasIntel /A TARDE",
+          "coleta": "2026-10-02",
+          "amostra": 2199,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
+        },
+        {
+          "instituto": "AtlasIntel /A TARDE",
           "coleta": "2026-09-28",
           "amostra": 2000,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:21-26"
+          "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
         },
         {
           "instituto": "Veritá",
@@ -323,7 +323,7 @@
           "amostra": 2020,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-20"
+          "fonte_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1"
         },
         {
           "instituto": "IFP",
@@ -331,7 +331,7 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-:20-27"
+          "fonte_url": "#cite_note-:20-28"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
