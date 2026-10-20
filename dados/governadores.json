@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-19",
+  "atualizado_em": "2026-10-20",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -341,28 +341,36 @@
       "uf": "CE",
       "estado": "Ceará",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-09-28",
-      "pesquisas_no_calculo": 19,
+      "corte": "2026-10-03",
+      "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Ciro Gomes",
           "partido": "PSDB",
-          "media": 45.9,
-          "ic_min": 44.6,
+          "media": 46,
+          "ic_min": 44.8,
           "ic_max": 47.1,
-          "pesquisas": 19
+          "pesquisas": 20
         },
         {
           "nome": "Elmano de Freitas",
           "partido": "PT",
-          "media": 44,
-          "ic_min": 41.9,
-          "ic_max": 46.1,
-          "pesquisas": 19
+          "media": 44.4,
+          "ic_min": 42.3,
+          "ic_max": 46.5,
+          "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Datafolha",
+          "coleta": "2026-10-03",
+          "amostra": 1204,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
+        },
         {
           "instituto": "AtlasIntel",
           "coleta": "2026-09-28",
@@ -393,7 +401,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:24-21"
+          "fonte_url": "#cite_note-:24-24"
         },
         {
           "instituto": "Veritá",
@@ -401,19 +409,11 @@
           "amostra": 1525,
           "margem": 2.05,
           "tse": "",
-          "fonte_url": "#cite_note-23"
-        },
-        {
-          "instituto": "Quaest",
-          "coleta": "2026-09-22",
-          "amostra": 900,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
+          "fonte_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
+      "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
     },
     "DF": {
       "uf": "DF",
@@ -615,44 +615,52 @@
       "uf": "MA",
       "estado": "Maranhão",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-09-24",
-      "pesquisas_no_calculo": 18,
+      "corte": "2026-10-03",
+      "pesquisas_no_calculo": 19,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Eduardo Braide",
           "partido": "PSD",
-          "media": 43,
-          "ic_min": 40.4,
-          "ic_max": 45.7,
-          "pesquisas": 18
+          "media": 44.1,
+          "ic_min": 41.3,
+          "ic_max": 46.8,
+          "pesquisas": 19
         },
         {
           "nome": "Orleans Brandão",
           "partido": "MDB",
-          "media": 33.4,
-          "ic_min": 29.4,
-          "ic_max": 37.3,
-          "pesquisas": 18
+          "media": 33.6,
+          "ic_min": 29.9,
+          "ic_max": 37.2,
+          "pesquisas": 19
         },
         {
           "nome": "Felipe Camarão",
           "partido": "PT",
-          "media": 7.3,
-          "ic_min": 6.4,
-          "ic_max": 8.2,
-          "pesquisas": 18
+          "media": 7.6,
+          "ic_min": 6.7,
+          "ic_max": 8.5,
+          "pesquisas": 19
         },
         {
           "nome": "Roberto Rocha",
           "partido": "PRTB",
-          "media": 3.9,
-          "ic_min": 3.3,
-          "ic_max": 4.4,
-          "pesquisas": 18
+          "media": 3.6,
+          "ic_min": 3.1,
+          "ic_max": 4.2,
+          "pesquisas": 19
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Quaest",
+          "coleta": "2026-10-03",
+          "amostra": 2004,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
+        },
         {
           "instituto": "Quaest",
           "coleta": "2026-09-24",
@@ -667,7 +675,7 @@
           "amostra": 1000,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-16"
+          "fonte_url": "#cite_note-19"
         },
         {
           "instituto": "Viva Voz",
@@ -675,7 +683,7 @@
           "amostra": 1320,
           "margem": 2.7,
           "tse": "",
-          "fonte_url": "#cite_note-18"
+          "fonte_url": "#cite_note-21"
         },
         {
           "instituto": "IPSensus",
@@ -683,7 +691,7 @@
           "amostra": 1000,
           "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-20"
+          "fonte_url": "#cite_note-23"
         },
         {
           "instituto": "IPPI",
@@ -691,15 +699,7 @@
           "amostra": 1600,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-:8-22"
-        },
-        {
-          "instituto": "IPSensus",
-          "coleta": "2026-09-10",
-          "amostra": 1600,
-          "margem": 3.1,
-          "tse": "",
-          "fonte_url": "#cite_note-24"
+          "fonte_url": "#cite_note-:8-25"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",

@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-19",
+  "atualizado_em": "2026-10-20",
   "pesquisas": [
     {
       "uf": "AC",
@@ -64,6 +64,52 @@
       "parties": {
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-10-03",
+      "sample_size": 1204,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Ciro Gomes": 47,
+        "Elmano de Freitas": 50
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-10-03",
+      "sample_size": 2004,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Eduardo Braide": 52,
+        "Orleans Brandão": 35,
+        "Felipe Camarão": 10,
+        "Roberto Rocha": 2
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -654,6 +700,27 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-09-28",
+      "sample_size": 1808,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Ciro Gomes": 47.6,
+        "Elmano de Freitas": 49
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -909,27 +976,6 @@
         "Leandro Grass": "PT",
         "Paula Belmonte": "PSDB",
         "Cappelli": "PSB"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-09-28",
-      "sample_size": 1808,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Ciro Gomes": 47.6,
-        "Elmano de Freitas": 49
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -1320,6 +1366,27 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-09-25",
+      "sample_size": 1352,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
+      "candidates": {
+        "Ciro Gomes": 46,
+        "Elmano de Freitas": 42.2
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -1465,27 +1532,6 @@
         "Marcos Rogério": "",
         "Adaílton Fúria": "",
         "Expedito Netto": ""
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-09-25",
-      "sample_size": 1352,
-      "margin_error": 2.7,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Ciro Gomes": 46,
-        "Elmano de Freitas": 42.2
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -1641,6 +1687,94 @@
       "parties": {
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-09-24",
+      "sample_size": 1204,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Ciro Gomes": 44,
+        "Elmano de Freitas": 43
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-24",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:24-24",
+      "candidates": {
+        "Ciro Gomes": 41,
+        "Elmano de Freitas": 48
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-09-24",
+      "sample_size": 1525,
+      "margin_error": 2.05,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Ciro Gomes": 49.6,
+        "Elmano de Freitas": 49.1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-09-24",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Eduardo Braide": 46,
+        "Orleans Brandão": 27,
+        "Felipe Camarão": 10,
+        "Roberto Rocha": 3
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -1972,69 +2106,6 @@
       }
     },
     {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Datafolha",
-      "collection_date": "2026-09-24",
-      "sample_size": 1204,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Ciro Gomes": 44,
-        "Elmano de Freitas": 43
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-09-24",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:24-21",
-      "candidates": {
-        "Ciro Gomes": 41,
-        "Elmano de Freitas": 48
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-09-24",
-      "sample_size": 1525,
-      "margin_error": 2.05,
-      "tse_registration": "",
-      "source_url": "#cite_note-23",
-      "candidates": {
-        "Ciro Gomes": 49.6,
-        "Elmano de Freitas": 49.1
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
       "uf": "GO",
       "estado": "Goiás",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
@@ -2057,31 +2128,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-09-24",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Eduardo Braide": 46,
-        "Orleans Brandão": 27,
-        "Felipe Camarão": 10,
-        "Roberto Rocha": 3
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -2340,6 +2386,27 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-09-22",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Ciro Gomes": 43,
+        "Elmano de Freitas": 41
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -2457,27 +2524,6 @@
       }
     },
     {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-09-22",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Ciro Gomes": 43,
-        "Elmano de Freitas": 41
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
@@ -2496,6 +2542,31 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Ranking",
+      "collection_date": "2026-09-21",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-19",
+      "candidates": {
+        "Eduardo Braide": 40.8,
+        "Orleans Brandão": 37.2,
+        "Felipe Camarão": 8.7,
+        "Roberto Rocha": 5.1
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -2568,31 +2639,6 @@
       }
     },
     {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Ranking",
-      "collection_date": "2026-09-21",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-16",
-      "candidates": {
-        "Eduardo Braide": 40.8,
-        "Orleans Brandão": 37.2,
-        "Felipe Camarão": 8.7,
-        "Roberto Rocha": 5.1
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
-      }
-    },
-    {
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
@@ -2611,6 +2657,31 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Viva Voz",
+      "collection_date": "2026-09-20",
+      "sample_size": 1320,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-21",
+      "candidates": {
+        "Eduardo Braide": 49.3,
+        "Orleans Brandão": 26.1,
+        "Felipe Camarão": 6.4,
+        "Roberto Rocha": 3.8
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -2653,31 +2724,6 @@
       "parties": {
         "Raquel Lyra": "PSD",
         "João Campos": "PSB"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Viva Voz",
-      "collection_date": "2026-09-20",
-      "sample_size": 1320,
-      "margin_error": 2.7,
-      "tse_registration": "",
-      "source_url": "#cite_note-18",
-      "candidates": {
-        "Eduardo Braide": 49.3,
-        "Orleans Brandão": 26.1,
-        "Felipe Camarão": 6.4,
-        "Roberto Rocha": 3.8
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -2961,6 +3007,31 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "IPSensus",
+      "collection_date": "2026-09-18",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-23",
+      "candidates": {
+        "Eduardo Braide": 35.7,
+        "Orleans Brandão": 43.6,
+        "Felipe Camarão": 8.1,
+        "Roberto Rocha": 3
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -3053,28 +3124,87 @@
       }
     },
     {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "IPSensus",
-      "collection_date": "2026-09-18",
-      "sample_size": 1000,
-      "margin_error": 3.1,
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-09-17",
+      "sample_size": 1352,
+      "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
       "candidates": {
-        "Eduardo Braide": 35.7,
-        "Orleans Brandão": 43.6,
-        "Felipe Camarão": 8.1,
-        "Roberto Rocha": 3
+        "Ciro Gomes": 48,
+        "Elmano de Freitas": 48.5
       },
       "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-09-17",
+      "sample_size": 1352,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
+      "candidates": {
+        "Ciro Gomes": 47.4,
+        "Elmano de Freitas": 39.9
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-09-17",
+      "sample_size": 1204,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Ciro Gomes": 47,
+        "Elmano de Freitas": 40
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-17",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:20-35",
+      "candidates": {
+        "Ciro Gomes": 42,
+        "Elmano de Freitas": 47
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -3211,90 +3341,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-09-17",
-      "sample_size": 1352,
-      "margin_error": 2.7,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Ciro Gomes": 48,
-        "Elmano de Freitas": 48.5
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-09-17",
-      "sample_size": 1352,
-      "margin_error": 2.7,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Ciro Gomes": 47.4,
-        "Elmano de Freitas": 39.9
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Datafolha",
-      "collection_date": "2026-09-17",
-      "sample_size": 1204,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Ciro Gomes": 47,
-        "Elmano de Freitas": 40
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-09-17",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:20-32",
-      "candidates": {
-        "Ciro Gomes": 42,
-        "Elmano de Freitas": 47
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -3547,6 +3593,31 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "IPPI",
+      "collection_date": "2026-09-14",
+      "sample_size": 1600,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-25",
+      "candidates": {
+        "Eduardo Braide": 44.5,
+        "Orleans Brandão": 27.8,
+        "Felipe Camarão": 7.7,
+        "Roberto Rocha": 3.8
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -3686,31 +3757,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "IPPI",
-      "collection_date": "2026-09-14",
-      "sample_size": 1600,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-22",
-      "candidates": {
-        "Eduardo Braide": 44.5,
-        "Orleans Brandão": 27.8,
-        "Felipe Camarão": 7.7,
-        "Roberto Rocha": 3.8
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -4025,6 +4071,31 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "IPSensus",
+      "collection_date": "2026-09-10",
+      "sample_size": 1600,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-27",
+      "candidates": {
+        "Eduardo Braide": 36.1,
+        "Orleans Brandão": 43,
+        "Felipe Camarão": 7,
+        "Roberto Rocha": 3.9
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -4219,31 +4290,6 @@
       }
     },
     {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "IPSensus",
-      "collection_date": "2026-09-10",
-      "sample_size": 1600,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-24",
-      "candidates": {
-        "Eduardo Braide": 36.1,
-        "Orleans Brandão": 43,
-        "Felipe Camarão": 7,
-        "Roberto Rocha": 3.9
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
-      }
-    },
-    {
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
@@ -4283,6 +4329,52 @@
       "parties": {
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-09-09",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Ciro Gomes": 47.8,
+        "Elmano de Freitas": 47.6
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-09",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-29",
+      "candidates": {
+        "Eduardo Braide": 45,
+        "Orleans Brandão": 32,
+        "Felipe Camarão": 11,
+        "Roberto Rocha": 5
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -4476,27 +4568,6 @@
       }
     },
     {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-09-09",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Ciro Gomes": 47.8,
-        "Elmano de Freitas": 47.6
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -4538,31 +4609,6 @@
       "parties": {
         "Fábio": "PSD",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-09-09",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-26",
-      "candidates": {
-        "Eduardo Braide": 45,
-        "Orleans Brandão": 32,
-        "Felipe Camarão": 11,
-        "Roberto Rocha": 5
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -4752,6 +4798,27 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-09-07",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:19-39",
+      "candidates": {
+        "Ciro Gomes": 43,
+        "Elmano de Freitas": 46
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -4847,27 +4914,6 @@
         "Arruda": "PSD",
         "Paula Belmonte": "PSDB",
         "Cappelli": "PSB"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-09-07",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:19-36",
-      "candidates": {
-        "Ciro Gomes": 43,
-        "Elmano de Freitas": 46
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -5134,6 +5180,27 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-09-03",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Ciro Gomes": 45,
+        "Elmano de Freitas": 34
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -5179,27 +5246,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-09-03",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Ciro Gomes": 45,
-        "Elmano de Freitas": 34
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -5354,6 +5400,73 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-09-02",
+      "sample_size": 1204,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Ciro Gomes": 46,
+        "Elmano de Freitas": 37
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel /Focus",
+      "collection_date": "2026-09-02",
+      "sample_size": 1834,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Ciro Gomes": 48.4,
+        "Elmano de Freitas": 45.8
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "IPPI",
+      "collection_date": "2026-09-02",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-31",
+      "candidates": {
+        "Eduardo Braide": 44.8,
+        "Orleans Brandão": 24.5,
+        "Felipe Camarão": 7.8,
+        "Roberto Rocha": 3.4
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -5446,48 +5559,6 @@
       }
     },
     {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Datafolha",
-      "collection_date": "2026-09-02",
-      "sample_size": 1204,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Ciro Gomes": 46,
-        "Elmano de Freitas": 37
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "AtlasIntel /Focus",
-      "collection_date": "2026-09-02",
-      "sample_size": 1834,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Ciro Gomes": 48.4,
-        "Elmano de Freitas": 45.8
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
       "uf": "PI",
       "estado": "Piauí",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Piauí",
@@ -5575,31 +5646,6 @@
         "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "IPPI",
-      "collection_date": "2026-09-02",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-28",
-      "candidates": {
-        "Eduardo Braide": 44.8,
-        "Orleans Brandão": 24.5,
-        "Felipe Camarão": 7.8,
-        "Roberto Rocha": 3.4
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -5810,6 +5856,31 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "IPSensus",
+      "collection_date": "2026-08-29",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-33",
+      "candidates": {
+        "Eduardo Braide": 36.4,
+        "Orleans Brandão": 42.3,
+        "Felipe Camarão": 6.3,
+        "Roberto Rocha": 4.4
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -5880,31 +5951,6 @@
         "Arruda": "PSD",
         "Paula Belmonte": "PSDB",
         "Cappelli": "PSB"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "IPSensus",
-      "collection_date": "2026-08-29",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-30",
-      "candidates": {
-        "Eduardo Braide": 36.4,
-        "Orleans Brandão": 42.3,
-        "Felipe Camarão": 6.3,
-        "Roberto Rocha": 4.4
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -6367,6 +6413,31 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "INOP",
+      "collection_date": "2026-08-26",
+      "sample_size": 2600,
+      "margin_error": 3.02,
+      "tse_registration": "",
+      "source_url": "#cite_note-35",
+      "candidates": {
+        "Eduardo Braide": 42.54,
+        "Orleans Brandão": 42.08,
+        "Felipe Camarão": 5.44,
+        "Roberto Rocha": 3.88
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -6438,31 +6509,6 @@
       }
     },
     {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "INOP",
-      "collection_date": "2026-08-26",
-      "sample_size": 2600,
-      "margin_error": 3.02,
-      "tse_registration": "",
-      "source_url": "#cite_note-32",
-      "candidates": {
-        "Eduardo Braide": 42.54,
-        "Orleans Brandão": 42.08,
-        "Felipe Camarão": 5.44,
-        "Roberto Rocha": 3.88
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
-      }
-    },
-    {
       "uf": "AL",
       "estado": "Alagoas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Alagoas",
@@ -6523,6 +6569,31 @@
       "parties": {
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Qualitativa",
+      "collection_date": "2026-08-25",
+      "sample_size": 900,
+      "margin_error": 3.27,
+      "tse_registration": "",
+      "source_url": "#cite_note-37",
+      "candidates": {
+        "Eduardo Braide": 36.6,
+        "Orleans Brandão": 41.1,
+        "Felipe Camarão": 4.2,
+        "Roberto Rocha": 3.9
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -6617,31 +6688,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Qualitativa",
-      "collection_date": "2026-08-25",
-      "sample_size": 900,
-      "margin_error": 3.27,
-      "tse_registration": "",
-      "source_url": "#cite_note-34",
-      "candidates": {
-        "Eduardo Braide": 36.6,
-        "Orleans Brandão": 41.1,
-        "Felipe Camarão": 4.2,
-        "Roberto Rocha": 3.9
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -6990,6 +7036,31 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-08-23",
+      "sample_size": 900,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Eduardo Braide": 44,
+        "Orleans Brandão": 25,
+        "Felipe Camarão": 6,
+        "Roberto Rocha": 3
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -7135,31 +7206,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-08-23",
-      "sample_size": 900,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Eduardo Braide": 44,
-        "Orleans Brandão": 25,
-        "Felipe Camarão": 6,
-        "Roberto Rocha": 3
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -7510,6 +7556,31 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "IPSensus",
+      "collection_date": "2026-08-20",
+      "sample_size": 1480,
+      "margin_error": 2.55,
+      "tse_registration": "",
+      "source_url": "#cite_note-41",
+      "candidates": {
+        "Eduardo Braide": 37.84,
+        "Orleans Brandão": 41.01,
+        "Felipe Camarão": 4.19,
+        "Roberto Rocha": 4.86
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
@@ -7556,31 +7627,6 @@
       }
     },
     {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "IPSensus",
-      "collection_date": "2026-08-20",
-      "sample_size": 1480,
-      "margin_error": 2.55,
-      "tse_registration": "",
-      "source_url": "#cite_note-38",
-      "candidates": {
-        "Eduardo Braide": 37.84,
-        "Orleans Brandão": 41.01,
-        "Felipe Camarão": 4.19,
-        "Roberto Rocha": 4.86
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
-      }
-    },
-    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -7599,6 +7645,27 @@
       "parties": {
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-19",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:16-47",
+      "candidates": {
+        "Ciro Gomes": 44,
+        "Elmano de Freitas": 44
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -7633,16 +7700,16 @@
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-19",
-      "sample_size": 1600,
-      "margin_error": 2,
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Ipsus/Ipec",
+      "collection_date": "2026-08-18",
+      "sample_size": 800,
+      "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-44",
+      "source_url": "#cite_note-:17-49",
       "candidates": {
-        "Ciro Gomes": 44,
-        "Elmano de Freitas": 44
+        "Ciro Gomes": 43,
+        "Elmano de Freitas": 35
       },
       "parties": {
         "Ciro Gomes": "PSDB",
@@ -7772,27 +7839,6 @@
         "Expedito Netto": "",
         "Hildon Chaves": "",
         "Samuel Costa": ""
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Ipsus/Ipec",
-      "collection_date": "2026-08-18",
-      "sample_size": 800,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:17-46",
-      "candidates": {
-        "Ciro Gomes": 43,
-        "Elmano de Freitas": 35
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -8101,6 +8147,27 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-08-12",
+      "sample_size": 1022,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Ciro Gomes": 52,
+        "Elmano de Freitas": 33
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -8146,27 +8213,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Datafolha",
-      "collection_date": "2026-08-12",
-      "sample_size": 1022,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Ciro Gomes": 52,
-        "Elmano de Freitas": 33
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
       }
     },
     {
@@ -8262,6 +8308,52 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel /Focus",
+      "collection_date": "2026-08-11",
+      "sample_size": 1774,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Ciro Gomes": 49.3,
+        "Elmano de Freitas": 44.6
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Véritas",
+      "collection_date": "2026-08-11",
+      "sample_size": 1000,
+      "margin_error": 2.09,
+      "tse_registration": "",
+      "source_url": "#cite_note-43",
+      "candidates": {
+        "Eduardo Braide": 39.1,
+        "Orleans Brandão": 47.5,
+        "Felipe Camarão": 4.3,
+        "Roberto Rocha": 3.3
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
       "uf": "MT",
       "estado": "Mato Grosso",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
@@ -8306,52 +8398,6 @@
       }
     },
     {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "AtlasIntel /Focus",
-      "collection_date": "2026-08-11",
-      "sample_size": 1774,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Ciro Gomes": 49.3,
-        "Elmano de Freitas": 44.6
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Véritas",
-      "collection_date": "2026-08-11",
-      "sample_size": 1000,
-      "margin_error": 2.09,
-      "tse_registration": "",
-      "source_url": "#cite_note-40",
-      "candidates": {
-        "Eduardo Braide": 39.1,
-        "Orleans Brandão": 47.5,
-        "Felipe Camarão": 4.3,
-        "Roberto Rocha": 3.3
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
-      }
-    },
-    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -8391,6 +8437,31 @@
       "parties": {
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "IPPI",
+      "collection_date": "2026-08-10",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-:0-45",
+      "candidates": {
+        "Eduardo Braide": 44,
+        "Orleans Brandão": 25.9,
+        "Felipe Camarão": 5.1,
+        "Roberto Rocha": 5
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -8437,31 +8508,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "IPPI",
-      "collection_date": "2026-08-10",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-:0-42",
-      "candidates": {
-        "Eduardo Braide": 44,
-        "Orleans Brandão": 25.9,
-        "Felipe Camarão": 5.1,
-        "Roberto Rocha": 5
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -8997,6 +9043,79 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Eduardo Braide": 56.2,
+        "Orleans Brandão": 16.4,
+        "Felipe Camarão": 8.2,
+        "Roberto Rocha": 0.9
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Eduardo Braide": 60.7,
+        "Orleans Brandão": 17,
+        "Felipe Camarão": 8.5,
+        "Roberto Rocha": 0.9
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-07-29",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Eduardo Braide": 64.8,
+        "Orleans Brandão": 17.2,
+        "Felipe Camarão": 9.4
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -9082,79 +9201,6 @@
         "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-07-29",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Eduardo Braide": 56.2,
-        "Orleans Brandão": 16.4,
-        "Felipe Camarão": 8.2,
-        "Roberto Rocha": 0.9
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-07-29",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Eduardo Braide": 60.7,
-        "Orleans Brandão": 17,
-        "Felipe Camarão": 8.5,
-        "Roberto Rocha": 0.9
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-07-29",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Eduardo Braide": 64.8,
-        "Orleans Brandão": 17.2,
-        "Felipe Camarão": 9.4
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT"
       }
     },
     {
@@ -9274,6 +9320,29 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Genial/ Quaest",
+      "collection_date": "2026-07-28",
+      "sample_size": 1002,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Ciro Gomes": 43,
+        "Elmano de Freitas": 33,
+        "Eduardo Girão": 3
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -9319,29 +9388,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
-      "institute": "Genial/ Quaest",
-      "collection_date": "2026-07-28",
-      "sample_size": 1002,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Ciro Gomes": 43,
-        "Elmano de Freitas": 33,
-        "Eduardo Girão": 3
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -10130,6 +10176,29 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Véritas",
+      "collection_date": "2026-07-21",
+      "sample_size": 1000,
+      "margin_error": 2.09,
+      "tse_registration": "",
+      "source_url": "#cite_note-:5-A-50",
+      "candidates": {
+        "Eduardo Braide": 42.5,
+        "Orleans Brandão": 48.7,
+        "Felipe Camarão": 2.9
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -10150,29 +10219,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Véritas",
-      "collection_date": "2026-07-21",
-      "sample_size": 1000,
-      "margin_error": 2.09,
-      "tse_registration": "",
-      "source_url": "#cite_note-:5-A-47",
-      "candidates": {
-        "Eduardo Braide": 42.5,
-        "Orleans Brandão": 48.7,
-        "Felipe Camarão": 2.9
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT"
       }
     },
     {
@@ -10384,13 +10430,13 @@
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Ipsus/IPEC",
       "collection_date": "2026-07-18",
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-57",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
@@ -10588,6 +10634,29 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "INOP",
+      "collection_date": "2026-07-16",
+      "sample_size": 2610,
+      "margin_error": 3.02,
+      "tse_registration": "",
+      "source_url": "#cite_note-52",
+      "candidates": {
+        "Eduardo Braide": 43.52,
+        "Orleans Brandão": 45.06,
+        "Felipe Camarão": 3.41
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT"
+      }
+    },
+    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -10633,29 +10702,6 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "INOP",
-      "collection_date": "2026-07-16",
-      "sample_size": 2610,
-      "margin_error": 3.02,
-      "tse_registration": "",
-      "source_url": "#cite_note-49",
-      "candidates": {
-        "Eduardo Braide": 43.52,
-        "Orleans Brandão": 45.06,
-        "Felipe Camarão": 3.41
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT"
       }
     },
     {
@@ -10713,13 +10759,13 @@
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-07-14",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-56",
+      "source_url": "#cite_note-:12-59",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
@@ -11325,6 +11371,31 @@
       }
     },
     {
+      "uf": "MA",
+      "estado": "Maranhão",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
+      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-07-07",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:4-54",
+      "candidates": {
+        "Eduardo Braide": 44,
+        "Orleans Brandão": 31,
+        "Felipe Camarão": 9,
+        "Roberto Rocha": 9
+      },
+      "parties": {
+        "Eduardo Braide": "PSD",
+        "Orleans Brandão": "MDB",
+        "Felipe Camarão": "PT",
+        "Roberto Rocha": "PRTB"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -11395,31 +11466,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "MA",
-      "estado": "Maranhão",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
-      "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
-      "secao": "Primeiro turno (governador) › 2026 › Julho – Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-07-07",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:4-51",
-      "candidates": {
-        "Eduardo Braide": 44,
-        "Orleans Brandão": 31,
-        "Felipe Camarão": 9,
-        "Roberto Rocha": 9
-      },
-      "parties": {
-        "Eduardo Braide": "PSD",
-        "Orleans Brandão": "MDB",
-        "Felipe Camarão": "PT",
-        "Roberto Rocha": "PRTB"
       }
     },
     {
@@ -11932,6 +11978,29 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "DataTrends",
+      "collection_date": "2026-06-25",
+      "sample_size": 1200,
+      "margin_error": 2.83,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-61",
+      "candidates": {
+        "Ciro Gomes": 44,
+        "Elmano de Freitas": 39,
+        "Eduardo Girão": 4
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -11956,29 +12025,6 @@
         "Mário Couto": "DC",
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
-      "institute": "DataTrends",
-      "collection_date": "2026-06-25",
-      "sample_size": 1200,
-      "margin_error": 2.83,
-      "tse_registration": "",
-      "source_url": "#cite_note-:11-58",
-      "candidates": {
-        "Ciro Gomes": 44,
-        "Elmano de Freitas": 39,
-        "Eduardo Girão": 4
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -12433,6 +12479,29 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel /Focus",
+      "collection_date": "2026-06-14",
+      "sample_size": 1223,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Ciro Gomes": 45.8,
+        "Elmano de Freitas": 44.8,
+        "Eduardo Girão": 4.8
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -12532,29 +12601,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
-      "institute": "AtlasIntel /Focus",
-      "collection_date": "2026-06-14",
-      "sample_size": 1223,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Ciro Gomes": 45.8,
-        "Elmano de Freitas": 44.8,
-        "Eduardo Girão": 4.8
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -13103,13 +13149,13 @@
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Ipsus/IPEC",
       "collection_date": "2026-06-01",
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-62",
+      "source_url": "#cite_note-:8-65",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
@@ -13492,6 +13538,29 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-05-26",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Ciro Gomes": 45,
+        "Elmano de Freitas": 38.8,
+        "Eduardo Girão": 3.4
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -13535,29 +13604,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-05-26",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Ciro Gomes": 45,
-        "Elmano de Freitas": 38.8,
-        "Eduardo Girão": 3.4
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -13926,13 +13972,13 @@
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Maio – Julho",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-05-19",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-65",
+      "source_url": "#cite_note-:7-68",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
@@ -14715,6 +14761,98 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Genial/ Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1002,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Ciro Gomes": 41,
+        "Elmano de Freitas": 32,
+        "Eduardo Girão": 4
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Genial/ Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1002,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Ciro Gomes": 33,
+        "Camilo Santana": 40,
+        "Eduardo Girão": 5
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Camilo Santana": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Eduardo Girão|Elmano de Freitas|Roberto Cláudio",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Genial/ Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1002,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Elmano de Freitas": 39,
+        "Roberto Cláudio": 16,
+        "Eduardo Girão": 8
+      },
+      "parties": {
+        "Elmano de Freitas": "PT",
+        "Roberto Cláudio": "UNIÃO",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Camilo Santana|Eduardo Girão|Roberto Cláudio",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Genial/ Quaest",
+      "collection_date": "2026-04-28",
+      "sample_size": 1002,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Camilo Santana": 49,
+        "Roberto Cláudio": 12,
+        "Eduardo Girão": 9
+      },
+      "parties": {
+        "Camilo Santana": "PT",
+        "Roberto Cláudio": "UNIÃO",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -14758,98 +14896,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Genial/ Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1002,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Ciro Gomes": 41,
-        "Elmano de Freitas": 32,
-        "Eduardo Girão": 4
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Genial/ Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1002,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Ciro Gomes": 33,
-        "Camilo Santana": 40,
-        "Eduardo Girão": 5
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Camilo Santana": "PT",
-        "Eduardo Girão": "NOVO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Eduardo Girão|Elmano de Freitas|Roberto Cláudio",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Genial/ Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1002,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Elmano de Freitas": 39,
-        "Roberto Cláudio": 16,
-        "Eduardo Girão": 8
-      },
-      "parties": {
-        "Elmano de Freitas": "PT",
-        "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Camilo Santana|Eduardo Girão|Roberto Cláudio",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Genial/ Quaest",
-      "collection_date": "2026-04-28",
-      "sample_size": 1002,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Camilo Santana": 49,
-        "Roberto Cláudio": 12,
-        "Eduardo Girão": 9
-      },
-      "parties": {
-        "Camilo Santana": "PT",
-        "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -15016,6 +15062,29 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-04-27",
+      "sample_size": 1525,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Ciro Gomes": 54.2,
+        "Elmano de Freitas": 35.2,
+        "Eduardo Girão": 9.5
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -15036,29 +15105,6 @@
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
         "João Henrique Catan": "NOVO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Veritá",
-      "collection_date": "2026-04-27",
-      "sample_size": 1525,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Ciro Gomes": 54.2,
-        "Elmano de Freitas": 35.2,
-        "Eduardo Girão": 9.5
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -15849,6 +15895,125 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão|Elmano de Freitas|Roberto Cláudio",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Instituto Futura/Apex",
+      "collection_date": "2026-03-30",
+      "sample_size": 1000,
+      "margin_error": 3.1,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-77",
+      "candidates": {
+        "Ciro Gomes": 30,
+        "Elmano de Freitas": 21,
+        "Camilo Santana": 3.3,
+        "Roberto Cláudio": 0.4,
+        "Eduardo Girão": 1.2
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Camilo Santana": "PT",
+        "Roberto Cláudio": "UNIÃO",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Paraná Pesquisas",
+      "collection_date": "2026-03-30",
+      "sample_size": 1500,
+      "margin_error": 2.6,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
+      "candidates": {
+        "Ciro Gomes": 46.6,
+        "Elmano de Freitas": 33.9,
+        "Eduardo Girão": 6.1
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1205,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Ciro Gomes": 46.2,
+        "Elmano de Freitas": 42.6,
+        "Eduardo Girão": 5.3
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Roberto Cláudio",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1205,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Ciro Gomes": 46,
+        "Roberto Cláudio": 15.2,
+        "Eduardo Girão": 22.3
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Roberto Cláudio": "UNIÃO",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-03-30",
+      "sample_size": 1205,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Ciro Gomes": 46,
+        "Camilo Santana": 48.8,
+        "Eduardo Girão": 5.4
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Camilo Santana": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -15960,125 +16125,6 @@
       }
     },
     {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão|Elmano de Freitas|Roberto Cláudio",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Instituto Futura/Apex",
-      "collection_date": "2026-03-30",
-      "sample_size": 1000,
-      "margin_error": 3.1,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-74",
-      "candidates": {
-        "Ciro Gomes": 30,
-        "Elmano de Freitas": 21,
-        "Camilo Santana": 3.3,
-        "Roberto Cláudio": 0.4,
-        "Eduardo Girão": 1.2
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Camilo Santana": "PT",
-        "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Paraná Pesquisas",
-      "collection_date": "2026-03-30",
-      "sample_size": 1500,
-      "margin_error": 2.6,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
-      "candidates": {
-        "Ciro Gomes": 46.6,
-        "Elmano de Freitas": 33.9,
-        "Eduardo Girão": 6.1
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1205,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Ciro Gomes": 46.2,
-        "Elmano de Freitas": 42.6,
-        "Eduardo Girão": 5.3
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Roberto Cláudio",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1205,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Ciro Gomes": 46,
-        "Roberto Cláudio": 15.2,
-        "Eduardo Girão": 22.3
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-03-30",
-      "sample_size": 1205,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Ciro Gomes": 46,
-        "Camilo Santana": 48.8,
-        "Eduardo Girão": 5.4
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Camilo Santana": "PT",
-        "Eduardo Girão": "NOVO"
-      }
-    },
-    {
       "uf": "RS",
       "estado": "Rio Grande do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Sul",
@@ -16131,6 +16177,52 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-28",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-81",
+      "candidates": {
+        "Ciro Gomes": 39,
+        "Elmano de Freitas": 42,
+        "Eduardo Girão": 13
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Eduardo Girão|Elmano de Freitas|Roberto Cláudio",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-28",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:1-81",
+      "candidates": {
+        "Elmano de Freitas": 45,
+        "Roberto Cláudio": 27,
+        "Eduardo Girão": 15
+      },
+      "parties": {
+        "Elmano de Freitas": "PT",
+        "Roberto Cláudio": "UNIÃO",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -16172,52 +16264,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-28",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-78",
-      "candidates": {
-        "Ciro Gomes": 39,
-        "Elmano de Freitas": 42,
-        "Eduardo Girão": 13
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Eduardo Girão|Elmano de Freitas|Roberto Cláudio",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-28",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:1-78",
-      "candidates": {
-        "Elmano de Freitas": 45,
-        "Roberto Cláudio": 27,
-        "Eduardo Girão": 15
-      },
-      "parties": {
-        "Elmano de Freitas": "PT",
-        "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -16285,6 +16331,29 @@
       "parties": {
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-24",
+      "sample_size": 1525,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Ciro Gomes": 47.3,
+        "Elmano de Freitas": 38.8,
+        "Eduardo Girão": 12.5
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -16383,29 +16452,6 @@
         "Professora Dorinha": "",
         "Laurez Moreira": "",
         "Ataídes Oliveira": ""
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Veritá",
-      "collection_date": "2026-03-24",
-      "sample_size": 1525,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Ciro Gomes": 47.3,
-        "Elmano de Freitas": 38.8,
-        "Eduardo Girão": 12.5
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -16609,6 +16655,52 @@
       }
     },
     {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-03-18",
+      "sample_size": 816,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Ciro Gomes": 47,
+        "Elmano de Freitas": 32,
+        "Eduardo Girão": 5
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Eduardo Girão|Roberto Cláudio",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Datafolha",
+      "collection_date": "2026-03-18",
+      "sample_size": 816,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
+      "candidates": {
+        "Ciro Gomes": 42,
+        "Roberto Cláudio": 20,
+        "Eduardo Girão": 14
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Roberto Cláudio": "UNIÃO",
+        "Eduardo Girão": "NOVO"
+      }
+    },
+    {
       "uf": "AM",
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
@@ -16675,52 +16767,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Datafolha",
-      "collection_date": "2026-03-18",
-      "sample_size": 816,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Ciro Gomes": 47,
-        "Elmano de Freitas": 32,
-        "Eduardo Girão": 5
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Elmano de Freitas": "PT",
-        "Eduardo Girão": "NOVO"
-      }
-    },
-    {
-      "uf": "CE",
-      "estado": "Ceará",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
-      "cenario": "Ciro Gomes|Eduardo Girão|Roberto Cláudio",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
-      "institute": "Datafolha",
-      "collection_date": "2026-03-18",
-      "sample_size": 816,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
-      "candidates": {
-        "Ciro Gomes": 42,
-        "Roberto Cláudio": 20,
-        "Eduardo Girão": 14
-      },
-      "parties": {
-        "Ciro Gomes": "PSDB",
-        "Roberto Cláudio": "UNIÃO",
-        "Eduardo Girão": "NOVO"
       }
     },
     {
@@ -17523,7 +17569,7 @@
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Abril",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-01-21",
       "sample_size": 1502,
