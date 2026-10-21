@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-20",
+  "atualizado_em": "2026-10-21",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -1109,35 +1109,43 @@
       "uf": "PB",
       "estado": "Paraíba",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-10-01",
-      "pesquisas_no_calculo": 19,
+      "corte": "2026-10-03",
+      "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Lucas Ribeiro",
           "partido": "PP",
-          "media": 42.7,
-          "ic_min": 39.6,
-          "ic_max": 45.7,
-          "pesquisas": 19
+          "media": 44.7,
+          "ic_min": 40.9,
+          "ic_max": 48.4,
+          "pesquisas": 20
         },
         {
           "nome": "Efraim Filho",
           "partido": "PL",
-          "media": 17.5,
-          "ic_min": 15.4,
-          "ic_max": 19.7,
-          "pesquisas": 19
+          "media": 18.1,
+          "ic_min": 16,
+          "ic_max": 20.2,
+          "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Quaest",
+          "coleta": "2026-10-03",
+          "amostra": 1800,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
+        },
         {
           "instituto": "Real Time Big Data",
           "coleta": "2026-10-01",
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:15-9"
+          "fonte_url": "#cite_note-:15-12"
         },
         {
           "instituto": "TDL",
@@ -1145,7 +1153,7 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-11"
+          "fonte_url": "#cite_note-14"
         },
         {
           "instituto": "Anova",
@@ -1153,7 +1161,7 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-13"
+          "fonte_url": "#cite_note-16"
         },
         {
           "instituto": "Quaest",
@@ -1169,25 +1177,17 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-17"
-        },
-        {
-          "instituto": "Data Ranking/Fonte83",
-          "coleta": "2026-09-07",
-          "amostra": 2000,
-          "margem": 2.2,
-          "tse": "",
-          "fonte_url": "#cite_note-19"
+          "fonte_url": "#cite_note-20"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:15-9"
+      "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
     },
     "PE": {
       "uf": "PE",
       "estado": "Pernambuco",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-10-01",
+      "corte": "2026-09-30",
       "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
@@ -1210,14 +1210,6 @@
       ],
       "ultimas_pesquisas": [
         {
-          "instituto": "Datafolha",
-          "coleta": "2026-10-01",
-          "amostra": 1204,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "#cite_note-:40-15"
-        },
-        {
           "instituto": "DataTrends",
           "coleta": "2026-09-30",
           "amostra": 1200,
@@ -1231,7 +1223,15 @@
           "amostra": 1352,
           "margem": 2.7,
           "tse": "",
-          "fonte_url": "#cite_note-:38-19"
+          "fonte_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas"
+        },
+        {
+          "instituto": "Datafolha",
+          "coleta": "2026-09-28",
+          "amostra": 1204,
+          "margem": 3,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
         },
         {
           "instituto": "Quaest",
@@ -1239,7 +1239,7 @@
           "amostra": 1302,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-:37-21"
+          "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
         },
         {
           "instituto": "Folha/IPESPE",
@@ -1259,7 +1259,7 @@
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:40-15"
+      "fonte_url": "#cite_note-:39-17"
     },
     "PI": {
       "uf": "PI",
