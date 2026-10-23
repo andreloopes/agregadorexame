@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-22",
+  "atualizado_em": "2026-10-23",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -1265,28 +1265,36 @@
       "uf": "PI",
       "estado": "Piauí",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-09-28",
-      "pesquisas_no_calculo": 13,
+      "corte": "2026-10-03",
+      "pesquisas_no_calculo": 14,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Rafael Fonteles",
           "partido": "PT",
-          "media": 64.1,
-          "ic_min": 60.1,
-          "ic_max": 68.2,
-          "pesquisas": 13
+          "media": 64.6,
+          "ic_min": 61,
+          "ic_max": 68.3,
+          "pesquisas": 14
         },
         {
           "nome": "Joel Rodrigues",
           "partido": "PP",
-          "media": 23.4,
-          "ic_min": 21.2,
-          "ic_max": 25.5,
-          "pesquisas": 13
+          "media": 24,
+          "ic_min": 21.9,
+          "ic_max": 26.1,
+          "pesquisas": 14
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Datafolha",
+          "coleta": "2026-10-03",
+          "amostra": 1564,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
+        },
         {
           "instituto": "AtlasIntel",
           "coleta": "2026-09-28",
@@ -1301,7 +1309,7 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-12"
+          "fonte_url": "#cite_note-15"
         },
         {
           "instituto": "Veritá",
@@ -1325,19 +1333,11 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-18"
-        },
-        {
-          "instituto": "Amostragem",
-          "coleta": "2026-09-02",
-          "amostra": 1137,
-          "margem": 2.85,
-          "tse": "",
-          "fonte_url": "#cite_note-20"
+          "fonte_url": "#cite_note-21"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
+      "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
     },
     "RN": {
       "uf": "RN",
