@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-23",
+  "atualizado_em": "2026-10-24",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -1343,43 +1343,51 @@
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-09-30",
+      "corte": "2026-10-03",
       "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Allyson",
           "partido": "UNIÃO",
-          "media": 37.8,
+          "media": 37.7,
           "ic_min": 35.6,
-          "ic_max": 39.9,
+          "ic_max": 39.8,
           "pesquisas": 20
         },
         {
           "nome": "Cadu de Lula",
           "partido": "PT",
-          "media": 22.6,
-          "ic_min": 20.4,
-          "ic_max": 24.8,
+          "media": 23.7,
+          "ic_min": 21.4,
+          "ic_max": 25.9,
           "pesquisas": 20
         },
         {
           "nome": "Álvaro Dias",
           "partido": "PL",
-          "media": 22.4,
-          "ic_min": 20.7,
-          "ic_max": 24.1,
+          "media": 23.2,
+          "ic_min": 21.5,
+          "ic_max": 24.9,
           "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
         {
-          "instituto": "Exatus",
+          "instituto": "Quaest",
+          "coleta": "2026-10-03",
+          "amostra": 1800,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
+        },
+        {
+          "instituto": "Exatus/AgoraRN",
           "coleta": "2026-09-30",
           "amostra": 1500,
           "margem": 2.53,
           "tse": "",
-          "fonte_url": "#cite_note-11"
+          "fonte_url": "#cite_note-13"
         },
         {
           "instituto": "AtlasIntel",
@@ -1395,7 +1403,7 @@
           "amostra": 1700,
           "margem": 2.37,
           "tse": "",
-          "fonte_url": "#cite_note-15"
+          "fonte_url": "#cite_note-17"
         },
         {
           "instituto": "Seta",
@@ -1403,7 +1411,7 @@
           "amostra": 1500,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-:13-17"
+          "fonte_url": "#cite_note-:13-19"
         },
         {
           "instituto": "Quaest",
@@ -1412,18 +1420,10 @@
           "margem": 3,
           "tse": "",
           "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
-        },
-        {
-          "instituto": "Exatus/Agora RN",
-          "coleta": "2026-09-23",
-          "amostra": 1500,
-          "margem": 2.53,
-          "tse": "",
-          "fonte_url": "#cite_note-21"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-11"
+      "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
     },
     "RS": {
       "uf": "RS",
