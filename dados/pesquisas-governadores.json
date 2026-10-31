@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-30",
+  "atualizado_em": "2026-10-31",
   "pesquisas": [
     {
       "uf": "AC",
@@ -43,6 +43,31 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-10-03",
+      "sample_size": 1800,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Omar Aziz": 40,
+        "Professora Maria do Carmo": 25,
+        "Roberto Cidade": 24,
+        "David Almeida": 11
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
       }
     },
     {
@@ -447,6 +472,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-10-01",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:23-16",
+      "candidates": {
+        "Omar Aziz": 36,
+        "Professora Maria do Carmo": 24,
+        "Roberto Cidade": 24,
+        "David Almeida": 9
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -465,31 +515,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-10-01",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:23-13",
-      "candidates": {
-        "Omar Aziz": 36,
-        "Roberto Cidade": 24,
-        "Professora Maria do Carmo": 24,
-        "David Almeida": 9
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -706,6 +731,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Pontual",
+      "collection_date": "2026-09-29",
+      "sample_size": 3000,
+      "margin_error": 1.79,
+      "tse_registration": "",
+      "source_url": "#cite_note-18",
+      "candidates": {
+        "Omar Aziz": 29.5,
+        "Professora Maria do Carmo": 18,
+        "Roberto Cidade": 26.9,
+        "David Almeida": 14.5
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "RO",
       "estado": "Rondônia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Rondônia",
@@ -753,31 +803,6 @@
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
         "Doutora Natasha": "PSD"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Pontual",
-      "collection_date": "2026-09-29",
-      "sample_size": 3000,
-      "margin_error": 1.79,
-      "tse_registration": "",
-      "source_url": "#cite_note-15",
-      "candidates": {
-        "Omar Aziz": 29.5,
-        "Roberto Cidade": 26.9,
-        "Professora Maria do Carmo": 18,
-        "David Almeida": 14.5
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -1190,6 +1215,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Viva Voz",
+      "collection_date": "2026-09-27",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-20",
+      "candidates": {
+        "Omar Aziz": 30.3,
+        "Professora Maria do Carmo": 25.7,
+        "Roberto Cidade": 20.3,
+        "David Almeida": 10.6
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -1208,31 +1258,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Viva Voz",
-      "collection_date": "2026-09-27",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-17",
-      "candidates": {
-        "Omar Aziz": 30.3,
-        "Roberto Cidade": 20.3,
-        "Professora Maria do Carmo": 25.7,
-        "David Almeida": 10.6
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -1556,6 +1581,56 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Phoenix",
+      "collection_date": "2026-09-25",
+      "sample_size": 1205,
+      "margin_error": 2.82,
+      "tse_registration": "",
+      "source_url": "#cite_note-21",
+      "candidates": {
+        "Omar Aziz": 25.39,
+        "Professora Maria do Carmo": 19.5,
+        "Roberto Cidade": 16.68,
+        "David Almeida": 27.57
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "IPEN/G6",
+      "collection_date": "2026-09-25",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:22-23",
+      "candidates": {
+        "Omar Aziz": 32.6,
+        "Professora Maria do Carmo": 17.3,
+        "Roberto Cidade": 23.3,
+        "David Almeida": 13.9
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -1651,56 +1726,6 @@
         "Marcos Rogério": "",
         "Adaílton Fúria": "",
         "Expedito Netto": ""
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Phoenix",
-      "collection_date": "2026-09-25",
-      "sample_size": 1205,
-      "margin_error": 2.82,
-      "tse_registration": "",
-      "source_url": "#cite_note-18",
-      "candidates": {
-        "Omar Aziz": 25.39,
-        "Roberto Cidade": 16.68,
-        "Professora Maria do Carmo": 19.5,
-        "David Almeida": 27.57
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "IPEN/G6",
-      "collection_date": "2026-09-25",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:22-20",
-      "candidates": {
-        "Omar Aziz": 32.6,
-        "Roberto Cidade": 23.3,
-        "Professora Maria do Carmo": 17.3,
-        "David Almeida": 13.9
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -1856,6 +1881,31 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-09-24",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Omar Aziz": 30.4,
+        "Professora Maria do Carmo": 26,
+        "Roberto Cidade": 26.8,
+        "David Almeida": 10.1
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
       }
     },
     {
@@ -2108,31 +2158,6 @@
       }
     },
     {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-09-24",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Omar Aziz": 30.4,
-        "Roberto Cidade": 26.8,
-        "Professora Maria do Carmo": 26,
-        "David Almeida": 10.1
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
-      }
-    },
-    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -2321,6 +2346,56 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-09-23",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Omar Aziz": 29,
+        "Professora Maria do Carmo": 19,
+        "Roberto Cidade": 18,
+        "David Almeida": 11
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Poder Data",
+      "collection_date": "2026-09-23",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Poder360",
+      "candidates": {
+        "Omar Aziz": 32,
+        "Professora Maria do Carmo": 21,
+        "Roberto Cidade": 20,
+        "David Almeida": 11
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -2456,56 +2531,6 @@
         "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-09-23",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Omar Aziz": 29,
-        "Roberto Cidade": 18,
-        "Professora Maria do Carmo": 19,
-        "David Almeida": 11
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Poder Data",
-      "collection_date": "2026-09-23",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Poder360",
-      "candidates": {
-        "Omar Aziz": 32,
-        "Roberto Cidade": 20,
-        "Professora Maria do Carmo": 21,
-        "David Almeida": 11
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -3197,6 +3222,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Projeta",
+      "collection_date": "2026-09-18",
+      "sample_size": 3000,
+      "margin_error": 1.79,
+      "tse_registration": "",
+      "source_url": "#cite_note-:19-31",
+      "candidates": {
+        "Omar Aziz": 25.8,
+        "Professora Maria do Carmo": 15.82,
+        "Roberto Cidade": 24.36,
+        "David Almeida": 15.41
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -3286,31 +3336,6 @@
       "parties": {
         "Rafael Fonteles": "PT",
         "Joel Rodrigues": "PP"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Projeta",
-      "collection_date": "2026-09-18",
-      "sample_size": 3000,
-      "margin_error": 1.79,
-      "tse_registration": "",
-      "source_url": "#cite_note-:19-28",
-      "candidates": {
-        "Omar Aziz": 25.8,
-        "Roberto Cidade": 24.36,
-        "Professora Maria do Carmo": 15.82,
-        "David Almeida": 15.41
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -3624,6 +3649,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Phoenix",
+      "collection_date": "2026-09-15",
+      "sample_size": 1315,
+      "margin_error": 2.7,
+      "tse_registration": "",
+      "source_url": "#cite_note-33",
+      "candidates": {
+        "Omar Aziz": 26.2,
+        "Professora Maria do Carmo": 19.8,
+        "Roberto Cidade": 18.2,
+        "David Almeida": 21.7
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -3709,31 +3759,6 @@
         "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Phoenix",
-      "collection_date": "2026-09-15",
-      "sample_size": 1315,
-      "margin_error": 2.7,
-      "tse_registration": "",
-      "source_url": "#cite_note-30",
-      "candidates": {
-        "Omar Aziz": 26.2,
-        "Roberto Cidade": 18.2,
-        "Professora Maria do Carmo": 19.8,
-        "David Almeida": 21.7
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -3950,6 +3975,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Pontual",
+      "collection_date": "2026-09-13",
+      "sample_size": 3000,
+      "margin_error": 1.79,
+      "tse_registration": "",
+      "source_url": "#cite_note-:18-35",
+      "candidates": {
+        "Omar Aziz": 26.6,
+        "Professora Maria do Carmo": 18.4,
+        "Roberto Cidade": 25.3,
+        "David Almeida": 14.9
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -3995,31 +4045,6 @@
         "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Pontual",
-      "collection_date": "2026-09-13",
-      "sample_size": 3000,
-      "margin_error": 1.79,
-      "tse_registration": "",
-      "source_url": "#cite_note-:18-32",
-      "candidates": {
-        "Omar Aziz": 26.6,
-        "Roberto Cidade": 25.3,
-        "Professora Maria do Carmo": 18.4,
-        "David Almeida": 14.9
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -4261,6 +4286,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Viva Voz",
+      "collection_date": "2026-09-10",
+      "sample_size": 1500,
+      "margin_error": 2.5,
+      "tse_registration": "",
+      "source_url": "#cite_note-37",
+      "candidates": {
+        "Omar Aziz": 26.2,
+        "Professora Maria do Carmo": 24.5,
+        "Roberto Cidade": 16.2,
+        "David Almeida": 15.7
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -4384,31 +4434,6 @@
       }
     },
     {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Viva Voz",
-      "collection_date": "2026-09-10",
-      "sample_size": 1500,
-      "margin_error": 2.5,
-      "tse_registration": "",
-      "source_url": "#cite_note-34",
-      "candidates": {
-        "Omar Aziz": 26.2,
-        "Roberto Cidade": 16.2,
-        "Professora Maria do Carmo": 24.5,
-        "David Almeida": 15.7
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
-      }
-    },
-    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -4498,6 +4523,31 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-09-09",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Omar Aziz": 33.4,
+        "Professora Maria do Carmo": 26.9,
+        "Roberto Cidade": 20.9,
+        "David Almeida": 12.8
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
       }
     },
     {
@@ -4753,31 +4803,6 @@
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
         "Doutora Natasha": "PSD"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-09-09",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Omar Aziz": 33.4,
-        "Roberto Cidade": 20.9,
-        "Professora Maria do Carmo": 26.9,
-        "David Almeida": 12.8
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -5324,7 +5349,7 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-09-04",
       "sample_size": 1350,
@@ -5333,14 +5358,14 @@
       "source_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas",
       "candidates": {
         "Omar Aziz": 29.6,
-        "Roberto Cidade": 21.5,
         "Professora Maria do Carmo": 19.4,
+        "Roberto Cidade": 21.5,
         "David Almeida": 16.8
       },
       "parties": {
         "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
         "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
         "David Almeida": "Avante"
       }
     },
@@ -5367,6 +5392,31 @@
         "Marconi Perillo": "PSDB",
         "Wilder Morais": "PL",
         "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-09-03",
+      "sample_size": 1185,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Omar Aziz": 31,
+        "Professora Maria do Carmo": 27.4,
+        "Roberto Cidade": 18.8,
+        "David Almeida": 8.7
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
       }
     },
     {
@@ -5478,31 +5528,6 @@
       "parties": {
         "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-09-03",
-      "sample_size": 1185,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Omar Aziz": 31,
-        "Roberto Cidade": 18.8,
-        "Professora Maria do Carmo": 27.4,
-        "David Almeida": 8.7
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -6144,6 +6169,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-08-28",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Omar Aziz": 31,
+        "Professora Maria do Carmo": 29.2,
+        "Roberto Cidade": 22.4,
+        "David Almeida": 10.8
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -6200,31 +6250,6 @@
       }
     },
     {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-08-28",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Omar Aziz": 31,
-        "Roberto Cidade": 22.4,
-        "Professora Maria do Carmo": 29.2,
-        "David Almeida": 10.8
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
-      }
-    },
-    {
       "uf": "AC",
       "estado": "Acre",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Acre",
@@ -6245,6 +6270,31 @@
         "Alan Rick": "Republicanos",
         "Mailza Assis": "PP",
         "Tião Bocalom": "PSDB"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Eficaz",
+      "collection_date": "2026-08-27",
+      "sample_size": 1517,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-47",
+      "candidates": {
+        "Omar Aziz": 24.3,
+        "Professora Maria do Carmo": 18.4,
+        "Roberto Cidade": 19.7,
+        "David Almeida": 19.9
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
       }
     },
     {
@@ -6339,31 +6389,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Eficaz",
-      "collection_date": "2026-08-27",
-      "sample_size": 1517,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-44",
-      "candidates": {
-        "Omar Aziz": 24.3,
-        "Roberto Cidade": 19.7,
-        "Professora Maria do Carmo": 18.4,
-        "David Almeida": 19.9
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -6720,6 +6745,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-08-25",
+      "sample_size": 1600,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:15-49",
+      "candidates": {
+        "Omar Aziz": 34,
+        "Professora Maria do Carmo": 21,
+        "Roberto Cidade": 22,
+        "David Almeida": 14
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -6833,31 +6883,6 @@
       }
     },
     {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-08-25",
-      "sample_size": 1600,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:15-46",
-      "candidates": {
-        "Omar Aziz": 34,
-        "Roberto Cidade": 22,
-        "Professora Maria do Carmo": 21,
-        "David Almeida": 14
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
-      }
-    },
-    {
       "uf": "TO",
       "estado": "Tocantins",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Tocantins",
@@ -6922,6 +6947,56 @@
       "parties": {
         "JHC": "PSDB",
         "Renan Filho": "MDB"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-08-24",
+      "sample_size": 804,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Omar Aziz": 26,
+        "Professora Maria do Carmo": 16,
+        "Roberto Cidade": 18,
+        "David Almeida": 15
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Direto ao Ponto",
+      "collection_date": "2026-08-24",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-53",
+      "candidates": {
+        "Omar Aziz": 26,
+        "Professora Maria do Carmo": 19,
+        "Roberto Cidade": 23,
+        "David Almeida": 17
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
       }
     },
     {
@@ -7018,56 +7093,6 @@
         "Wellington Fagundes": "PL",
         "Otaviano Pivetta": "Republicanos",
         "Doutora Natasha": "PSD"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Quaest",
-      "collection_date": "2026-08-24",
-      "sample_size": 804,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Omar Aziz": 26,
-        "Roberto Cidade": 18,
-        "Professora Maria do Carmo": 16,
-        "David Almeida": 15
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Direto ao Ponto",
-      "collection_date": "2026-08-24",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-50",
-      "candidates": {
-        "Omar Aziz": 26,
-        "Roberto Cidade": 23,
-        "Professora Maria do Carmo": 19,
-        "David Almeida": 17
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -7539,6 +7564,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Projeta",
+      "collection_date": "2026-08-21",
+      "sample_size": 3000,
+      "margin_error": 1.9,
+      "tse_registration": "",
+      "source_url": "#cite_note-55",
+      "candidates": {
+        "Omar Aziz": 25.72,
+        "Professora Maria do Carmo": 14.43,
+        "Roberto Cidade": 24,
+        "David Almeida": 15.46
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -7624,31 +7674,6 @@
         "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Projeta",
-      "collection_date": "2026-08-21",
-      "sample_size": 3000,
-      "margin_error": 1.9,
-      "tse_registration": "",
-      "source_url": "#cite_note-52",
-      "candidates": {
-        "Omar Aziz": 25.72,
-        "Roberto Cidade": 24,
-        "Professora Maria do Carmo": 14.43,
-        "David Almeida": 15.46
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -8247,6 +8272,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "DMP",
+      "collection_date": "2026-08-14",
+      "sample_size": 2000,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "#cite_note-:13-57",
+      "candidates": {
+        "Omar Aziz": 33.7,
+        "Professora Maria do Carmo": 20.6,
+        "Roberto Cidade": 18.8,
+        "David Almeida": 16.3
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -8267,31 +8317,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "DMP",
-      "collection_date": "2026-08-14",
-      "sample_size": 2000,
-      "margin_error": 2.2,
-      "tse_registration": "",
-      "source_url": "#cite_note-:13-54",
-      "candidates": {
-        "Omar Aziz": 33.7,
-        "Roberto Cidade": 18.8,
-        "Professora Maria do Carmo": 20.6,
-        "David Almeida": 16.3
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -9510,6 +9535,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-07-28",
+      "sample_size": 1220,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Omar Aziz": 27.4,
+        "Professora Maria do Carmo": 27.3,
+        "Roberto Cidade": 15.5,
+        "David Almeida": 13.3
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -9553,31 +9603,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Agosto – Outubro",
-      "institute": "Veritá",
-      "collection_date": "2026-07-28",
-      "sample_size": 1220,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Omar Aziz": 27.4,
-        "Roberto Cidade": 15.5,
-        "Professora Maria do Carmo": 27.3,
-        "David Almeida": 13.3
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Roberto Cidade": "UNIÃO",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -10264,6 +10289,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Projeta",
+      "collection_date": "2026-07-23",
+      "sample_size": 3000,
+      "margin_error": 1.79,
+      "tse_registration": "",
+      "source_url": "#cite_note-:11-60",
+      "candidates": {
+        "Omar Aziz": 27,
+        "Professora Maria do Carmo": 16.8,
+        "Roberto Cidade": 23.4,
+        "David Almeida": 17
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -10286,31 +10336,6 @@
         "Fábio Trad": "PT",
         "João Henrique Catan": "NOVO",
         "Delcídio do Amaral": "PRD"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Projeta",
-      "collection_date": "2026-07-23",
-      "sample_size": 3000,
-      "margin_error": 1.79,
-      "tse_registration": "",
-      "source_url": "#cite_note-:11-57",
-      "candidates": {
-        "Omar Aziz": 27,
-        "Professora Maria do Carmo": 16.8,
-        "David Almeida": 17,
-        "Roberto Cidade": 23.4
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -11277,6 +11302,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Action",
+      "collection_date": "2026-07-10",
+      "sample_size": 2685,
+      "margin_error": 1.9,
+      "tse_registration": "",
+      "source_url": "#cite_note-:10-10",
+      "candidates": {
+        "Omar Aziz": 30,
+        "Professora Maria do Carmo": 21,
+        "Roberto Cidade": 21,
+        "David Almeida": 18
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -11368,31 +11418,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Action",
-      "collection_date": "2026-07-10",
-      "sample_size": 2685,
-      "margin_error": 1.9,
-      "tse_registration": "",
-      "source_url": "#cite_note-:10-10",
-      "candidates": {
-        "Omar Aziz": 30,
-        "Professora Maria do Carmo": 21,
-        "David Almeida": 18,
-        "Roberto Cidade": 21
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -11732,6 +11757,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-07-05",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Omar Aziz": 27.2,
+        "Professora Maria do Carmo": 30.4,
+        "Roberto Cidade": 12.7,
+        "David Almeida": 13.5
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -11752,31 +11802,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Veritá",
-      "collection_date": "2026-07-05",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Omar Aziz": 27.2,
-        "Professora Maria do Carmo": 30.4,
-        "David Almeida": 13.5,
-        "Roberto Cidade": 12.7
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -11940,6 +11965,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "DMP",
+      "collection_date": "2026-07-02",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-:6-63",
+      "candidates": {
+        "Omar Aziz": 33.9,
+        "Professora Maria do Carmo": 18.3,
+        "Roberto Cidade": 19.2,
+        "David Almeida": 19.8
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "SE",
       "estado": "Sergipe",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Sergipe",
@@ -11960,31 +12010,6 @@
         "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "DMP",
-      "collection_date": "2026-07-02",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-:6-60",
-      "candidates": {
-        "Omar Aziz": 33.9,
-        "Professora Maria do Carmo": 18.3,
-        "David Almeida": 19.8,
-        "Roberto Cidade": 19.2
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -12147,24 +12172,24 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Comunidados",
       "collection_date": "2026-06-26",
       "sample_size": 1066,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-62",
+      "source_url": "#cite_note-:5-65",
       "candidates": {
         "Omar Aziz": 33,
         "Professora Maria do Carmo": 19,
-        "David Almeida": 19,
-        "Roberto Cidade": 15
+        "Roberto Cidade": 15,
+        "David Almeida": 19
       },
       "parties": {
         "Omar Aziz": "PSD",
         "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
       }
     },
     {
@@ -12387,6 +12412,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Direto ao Ponto",
+      "collection_date": "2026-06-20",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-67",
+      "candidates": {
+        "Omar Aziz": 28,
+        "Professora Maria do Carmo": 20,
+        "Roberto Cidade": 19,
+        "David Almeida": 21
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -12453,31 +12503,6 @@
         "Fábio": "PSD",
         "Valmir de Francisquinho": "Republicanos",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Direto ao Ponto",
-      "collection_date": "2026-06-20",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-64",
-      "candidates": {
-        "Omar Aziz": 28,
-        "Professora Maria do Carmo": 20,
-        "David Almeida": 21,
-        "Roberto Cidade": 19
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -12936,6 +12961,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Imediato/Iveritas",
+      "collection_date": "2026-06-10",
+      "sample_size": 1792,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "#cite_note-:3-68",
+      "candidates": {
+        "Omar Aziz": 26.45,
+        "Professora Maria do Carmo": 21.82,
+        "Roberto Cidade": 16.07,
+        "David Almeida": 19.81
+      },
+      "parties": {
+        "Omar Aziz": "PSD",
+        "Professora Maria do Carmo": "PL",
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "MS",
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
@@ -12958,31 +13008,6 @@
         "Fábio Trad": "PT",
         "João Henrique Catan": "NOVO",
         "Delcídio do Amaral": "PRD"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
-      "institute": "Imediato/Iveritas",
-      "collection_date": "2026-06-10",
-      "sample_size": 1792,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "#cite_note-:3-65",
-      "candidates": {
-        "Omar Aziz": 26.45,
-        "Professora Maria do Carmo": 21.82,
-        "David Almeida": 19.81,
-        "Roberto Cidade": 16.07
-      },
-      "parties": {
-        "Omar Aziz": "PSD",
-        "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -13168,24 +13193,24 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Eficaz",
       "collection_date": "2026-06-04",
       "sample_size": 1507,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-67",
+      "source_url": "#cite_note-:2-70",
       "candidates": {
         "Omar Aziz": 25.3,
         "Professora Maria do Carmo": 18.8,
-        "David Almeida": 19,
-        "Roberto Cidade": 18.5
+        "Roberto Cidade": 18.5,
+        "David Almeida": 19
       },
       "parties": {
         "Omar Aziz": "PSD",
         "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
       }
     },
     {
@@ -13193,24 +13218,24 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Junho – Julho",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Projeta",
       "collection_date": "2026-06-04",
       "sample_size": 2996,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-68",
+      "source_url": "#cite_note-:1-71",
       "candidates": {
         "Omar Aziz": 25.1,
         "Professora Maria do Carmo": 16.2,
-        "David Almeida": 17.1,
-        "Roberto Cidade": 22.4
+        "Roberto Cidade": 22.4,
+        "David Almeida": 17.1
       },
       "parties": {
         "Omar Aziz": "PSD",
         "Professora Maria do Carmo": "PL",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
+        "Roberto Cidade": "UNIÃO",
+        "David Almeida": "Avante"
       }
     },
     {
@@ -13571,6 +13596,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Pontual",
+      "collection_date": "2026-05-27",
+      "sample_size": 3003,
+      "margin_error": 1.79,
+      "tse_registration": "",
+      "source_url": "#cite_note-:8-72",
+      "candidates": {
+        "Professora Maria do Carmo": 20.1,
+        "Omar Aziz": 29.1,
+        "David Almeida": 20,
+        "Roberto Cidade": 22.1
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "PB",
       "estado": "Paraíba",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Paraíba",
@@ -13661,31 +13711,6 @@
       }
     },
     {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Pontual",
-      "collection_date": "2026-05-27",
-      "sample_size": 3003,
-      "margin_error": 1.79,
-      "tse_registration": "",
-      "source_url": "#cite_note-:8-69",
-      "candidates": {
-        "Professora Maria do Carmo": 20.1,
-        "Omar Aziz": 29.1,
-        "David Almeida": 20,
-        "Roberto Cidade": 22.1
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
-      }
-    },
-    {
       "uf": "PE",
       "estado": "Pernambuco",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Pernambuco",
@@ -13704,6 +13729,31 @@
       "parties": {
         "Raquel Lyra": "PSD",
         "João Campos": "PSB"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-05-26",
+      "sample_size": 1200,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Professora Maria do Carmo": 41.4,
+        "Omar Aziz": 32.6,
+        "David Almeida": 12.2,
+        "Roberto Cidade": 11.4
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -13769,31 +13819,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Veritá",
-      "collection_date": "2026-05-26",
-      "sample_size": 1200,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Professora Maria do Carmo": 41.4,
-        "Omar Aziz": 32.6,
-        "David Almeida": 12.2,
-        "Roberto Cidade": 11.4
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -14018,6 +14043,79 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Ipen/G6",
+      "collection_date": "2026-05-22",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-76",
+      "candidates": {
+        "Professora Maria do Carmo": 17.1,
+        "Omar Aziz": 34.6,
+        "David Almeida": 19.3
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Ipen/G6",
+      "collection_date": "2026-05-22",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-76",
+      "candidates": {
+        "Professora Maria do Carmo": 15.6,
+        "Omar Aziz": 29.8,
+        "David Almeida": 16,
+        "Roberto Cidade": 14.9
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Comunidados",
+      "collection_date": "2026-05-22",
+      "sample_size": 1200,
+      "margin_error": 2.8,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM06-79",
+      "candidates": {
+        "Professora Maria do Carmo": 21,
+        "Omar Aziz": 32,
+        "David Almeida": 17,
+        "Roberto Cidade": 15
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "RN",
       "estado": "Rio Grande do Norte",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Rio Grande do Norte",
@@ -14038,79 +14136,6 @@
         "Allyson": "UNIÃO",
         "Álvaro Dias": "PL",
         "Cadu de Lula": "PT"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Ipen/G6",
-      "collection_date": "2026-05-22",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-73",
-      "candidates": {
-        "Professora Maria do Carmo": 17.1,
-        "Omar Aziz": 34.6,
-        "David Almeida": 19.3
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Ipen/G6",
-      "collection_date": "2026-05-22",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-73",
-      "candidates": {
-        "Professora Maria do Carmo": 15.6,
-        "Omar Aziz": 29.8,
-        "David Almeida": 16,
-        "Roberto Cidade": 14.9
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Comunidados",
-      "collection_date": "2026-05-22",
-      "sample_size": 1200,
-      "margin_error": 2.8,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM06-76",
-      "candidates": {
-        "Professora Maria do Carmo": 21,
-        "Omar Aziz": 32,
-        "David Almeida": 17,
-        "Roberto Cidade": 15
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -14185,7 +14210,7 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Action",
       "collection_date": "2026-05-18",
       "sample_size": 2100,
@@ -14304,6 +14329,56 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-05-14",
+      "sample_size": 1244,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Professora Maria do Carmo": 38.4,
+        "Omar Aziz": 27.5,
+        "David Almeida": 11.8,
+        "Roberto Cidade": 13.7
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "AtlasIntel",
+      "collection_date": "2026-05-14",
+      "sample_size": 1244,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
+      "candidates": {
+        "Professora Maria do Carmo": 45,
+        "Omar Aziz": 30.1,
+        "David Almeida": 11.2,
+        "Roberto Cidade": 6.6
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "PA",
       "estado": "Pará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
@@ -14353,56 +14428,6 @@
         "Hana Ghassan": "MDB",
         "Araceli Lemos": "PSOL",
         "Cleber Rabelo": "PSTU"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-05-14",
-      "sample_size": 1244,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Professora Maria do Carmo": 38.4,
-        "Omar Aziz": 27.5,
-        "David Almeida": 11.8,
-        "Roberto Cidade": 13.7
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "AtlasIntel",
-      "collection_date": "2026-05-14",
-      "sample_size": 1244,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/AtlasIntel",
-      "candidates": {
-        "Professora Maria do Carmo": 45,
-        "Omar Aziz": 30.1,
-        "David Almeida": 11.2,
-        "Roberto Cidade": 6.6
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -14573,13 +14598,13 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Instituto Census",
       "collection_date": "2026-05-10",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-78",
+      "source_url": "#cite_note-81",
       "candidates": {
         "Professora Maria do Carmo": 22,
         "Omar Aziz": 35,
@@ -14951,6 +14976,31 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-04-28",
+      "sample_size": 1202,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Professora Maria do Carmo": 41,
+        "Omar Aziz": 34.5,
+        "David Almeida": 12.7,
+        "Roberto Cidade": 11.8
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante",
+        "Roberto Cidade": "UNIÃO"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -15061,31 +15111,6 @@
       "parties": {
         "Lucas Ribeiro": "PP",
         "Efraim Filho": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo|Roberto Cidade",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Veritá",
-      "collection_date": "2026-04-28",
-      "sample_size": 1202,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Professora Maria do Carmo": 41,
-        "Omar Aziz": 34.5,
-        "David Almeida": 12.7,
-        "Roberto Cidade": 11.8
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante",
-        "Roberto Cidade": "UNIÃO"
       }
     },
     {
@@ -16503,6 +16528,29 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Veritá",
+      "collection_date": "2026-03-24",
+      "sample_size": 1138,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
+      "candidates": {
+        "Professora Maria do Carmo": 40.8,
+        "Omar Aziz": 33.8,
+        "David Almeida": 23
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "BA",
       "estado": "Bahia",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
@@ -16544,29 +16592,6 @@
         "Ciro Gomes": "PSDB",
         "Elmano de Freitas": "PT",
         "Eduardo Girão": "NOVO"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Veritá",
-      "collection_date": "2026-03-24",
-      "sample_size": 1138,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1",
-      "candidates": {
-        "Professora Maria do Carmo": 40.8,
-        "Omar Aziz": 33.8,
-        "David Almeida": 23
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -16845,6 +16870,52 @@
       }
     },
     {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-18",
+      "sample_size": 1500,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM04-85",
+      "candidates": {
+        "Professora Maria do Carmo": 27,
+        "Omar Aziz": 39,
+        "David Almeida": 22
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Real Time Big Data",
+      "collection_date": "2026-03-18",
+      "sample_size": 1500,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "#cite_note-AM04-85",
+      "candidates": {
+        "Professora Maria do Carmo": 26,
+        "Omar Aziz": 37,
+        "David Almeida": 19
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante"
+      }
+    },
+    {
       "uf": "CE",
       "estado": "Ceará",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
@@ -16953,52 +17024,6 @@
       "parties": {
         "Fábio": "PSD",
         "Ricardo Marques": "PL"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-18",
-      "sample_size": 1500,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM04-82",
-      "candidates": {
-        "Professora Maria do Carmo": 27,
-        "Omar Aziz": 39,
-        "David Almeida": 22
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Real Time Big Data",
-      "collection_date": "2026-03-18",
-      "sample_size": 1500,
-      "margin_error": 2,
-      "tse_registration": "",
-      "source_url": "#cite_note-AM04-82",
-      "candidates": {
-        "Professora Maria do Carmo": 26,
-        "Omar Aziz": 37,
-        "David Almeida": 19
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante"
       }
     },
     {
@@ -17158,7 +17183,7 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-03-15",
       "sample_size": 1138,
@@ -17181,7 +17206,7 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-03-15",
       "sample_size": 1138,
@@ -17204,7 +17229,7 @@
       "estado": "Amazonas",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
       "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-03-15",
       "sample_size": 1138,
@@ -17215,6 +17240,29 @@
         "Professora Maria do Carmo": 42.8,
         "Omar Aziz": 40.5,
         "David Almeida": 10
+      },
+      "parties": {
+        "Professora Maria do Carmo": "PL",
+        "Omar Aziz": "PSD",
+        "David Almeida": "Avante"
+      }
+    },
+    {
+      "uf": "AM",
+      "estado": "Amazonas",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
+      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-03-11",
+      "sample_size": 1500,
+      "margin_error": 3,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Professora Maria do Carmo": 21,
+        "Omar Aziz": 33,
+        "David Almeida": 23
       },
       "parties": {
         "Professora Maria do Carmo": "PL",
@@ -17241,29 +17289,6 @@
       "parties": {
         "ACM Neto": "UNIÃO",
         "Jerônimo": "PT"
-      }
-    },
-    {
-      "uf": "AM",
-      "estado": "Amazonas",
-      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Amazonas",
-      "cenario": "David Almeida|Omar Aziz|Professora Maria do Carmo",
-      "secao": "Primeiro turno (governador) › 2026 › Janeiro – Maio",
-      "institute": "Quaest",
-      "collection_date": "2026-03-11",
-      "sample_size": 1500,
-      "margin_error": 3,
-      "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
-      "candidates": {
-        "Professora Maria do Carmo": 21,
-        "Omar Aziz": 33,
-        "David Almeida": 23
-      },
-      "parties": {
-        "Professora Maria do Carmo": "PL",
-        "Omar Aziz": "PSD",
-        "David Almeida": "Avante"
       }
     },
     {

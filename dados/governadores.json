@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-30",
+  "atualizado_em": "2026-10-31",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -169,51 +169,59 @@
       "uf": "AM",
       "estado": "Amazonas",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-10-01",
+      "corte": "2026-10-03",
       "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Omar Aziz",
           "partido": "PSD",
-          "media": 29.4,
-          "ic_min": 28,
-          "ic_max": 30.8,
+          "media": 30.3,
+          "ic_min": 28.4,
+          "ic_max": 32.1,
           "pesquisas": 20
         },
         {
           "nome": "Roberto Cidade",
           "partido": "UNIÃO",
-          "media": 21.9,
-          "ic_min": 20.5,
-          "ic_max": 23.4,
+          "media": 22,
+          "ic_min": 20.6,
+          "ic_max": 23.5,
           "pesquisas": 20
         },
         {
           "nome": "Professora Maria do Carmo",
           "partido": "PL",
-          "media": 21.1,
-          "ic_min": 19.4,
-          "ic_max": 22.7,
+          "media": 21.4,
+          "ic_min": 19.7,
+          "ic_max": 23.1,
           "pesquisas": 20
         },
         {
           "nome": "David Almeida",
           "partido": "Avante",
-          "media": 14.4,
-          "ic_min": 12.4,
-          "ic_max": 16.4,
+          "media": 14.1,
+          "ic_min": 12.1,
+          "ic_max": 16.1,
           "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "Quaest",
+          "coleta": "2026-10-03",
+          "amostra": 1800,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
+        },
         {
           "instituto": "Real Time Big Data",
           "coleta": "2026-10-01",
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:23-13"
+          "fonte_url": "#cite_note-:23-16"
         },
         {
           "instituto": "Pontual",
@@ -221,7 +229,7 @@
           "amostra": 3000,
           "margem": 1.79,
           "tse": "",
-          "fonte_url": "#cite_note-15"
+          "fonte_url": "#cite_note-18"
         },
         {
           "instituto": "Viva Voz",
@@ -229,7 +237,7 @@
           "amostra": 1500,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-17"
+          "fonte_url": "#cite_note-20"
         },
         {
           "instituto": "Phoenix",
@@ -237,7 +245,7 @@
           "amostra": 1205,
           "margem": 2.82,
           "tse": "",
-          "fonte_url": "#cite_note-18"
+          "fonte_url": "#cite_note-21"
         },
         {
           "instituto": "IPEN/G6",
@@ -245,19 +253,11 @@
           "amostra": 1200,
           "margem": 2.8,
           "tse": "",
-          "fonte_url": "#cite_note-:22-20"
-        },
-        {
-          "instituto": "Veritá",
-          "coleta": "2026-09-24",
-          "amostra": 1220,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1"
+          "fonte_url": "#cite_note-:22-23"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:23-13"
+      "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
     },
     "BA": {
       "uf": "BA",
