@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-02",
+  "atualizado_em": "2026-11-03",
   "pesquisas": [
     {
       "uf": "AC",
@@ -113,6 +113,56 @@
       }
     },
     {
+      "uf": "DF",
+      "estado": "Distrito Federal",
+      "page_title": "Pesquisas eleitorais para a eleição distrital de 2026 no Distrito Federal",
+      "cenario": "Arruda|Cappelli|Celina Leão|Leandro Grass|Paula Belmonte",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-10-03",
+      "sample_size": 2652,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Celina Leão": 41,
+        "Leandro Grass": 24,
+        "Paula Belmonte": 8,
+        "Cappelli": 2
+      },
+      "parties": {
+        "Celina Leão": "PP",
+        "Leandro Grass": "PT",
+        "Paula Belmonte": "PSDB",
+        "Cappelli": "PSB"
+      }
+    },
+    {
+      "uf": "GO",
+      "estado": "Goiás",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
+      "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-10-03",
+      "sample_size": 2004,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Daniel Vilela": 47,
+        "Marconi Perillo": 15,
+        "Wilder Morais": 17,
+        "Luis Cesar Bueno": 5
+      },
+      "parties": {
+        "Daniel Vilela": "MDB",
+        "Marconi Perillo": "PSDB",
+        "Wilder Morais": "PL",
+        "Luis Cesar Bueno": "PT"
+      }
+    },
+    {
       "uf": "MA",
       "estado": "Maranhão",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
@@ -135,6 +185,29 @@
         "Orleans Brandão": "MDB",
         "Felipe Camarão": "PT",
         "Roberto Rocha": "PRTB"
+      }
+    },
+    {
+      "uf": "MT",
+      "estado": "Mato Grosso",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso",
+      "cenario": "Doutora Natasha|Otaviano Pivetta|Wellington Fagundes",
+      "secao": "Governador › Primeiro turno › 2026",
+      "institute": "Quaest",
+      "collection_date": "2026-10-03",
+      "sample_size": 1800,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "candidates": {
+        "Wellington Fagundes": 20,
+        "Otaviano Pivetta": 40,
+        "Doutora Natasha": 11
+      },
+      "parties": {
+        "Wellington Fagundes": "PL",
+        "Otaviano Pivetta": "Republicanos",
+        "Doutora Natasha": "PSD"
       }
     },
     {
@@ -574,7 +647,7 @@
       "sample_size": 3080,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-9",
+      "source_url": "#cite_note-:19-11",
       "candidates": {
         "Wellington Fagundes": 23,
         "Otaviano Pivetta": 42,
@@ -766,7 +839,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-13",
+      "source_url": "#cite_note-15",
       "candidates": {
         "Celina Leão": 53.8,
         "Leandro Grass": 23.8,
@@ -1027,7 +1100,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-22",
+      "source_url": "#cite_note-:16-24",
       "candidates": {
         "Celina Leão": 47,
         "Leandro Grass": 26,
@@ -1401,7 +1474,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Celina Leão": 43.9,
         "Leandro Grass": 17.3,
@@ -1428,7 +1501,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-24",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Celina Leão": 56.1,
         "Leandro Grass": 22.1,
@@ -1657,12 +1730,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Goiás Pesquisas/Mais Goiás",
+      "institute": "Mais Goiás/Goiás Pesquisas",
       "collection_date": "2026-09-25",
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-9",
+      "source_url": "#cite_note-11",
       "candidates": {
         "Daniel Vilela": 44.6,
         "Marconi Perillo": 13.8,
@@ -2770,7 +2843,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-15",
+      "source_url": "#cite_note-:19-17",
       "candidates": {
         "Daniel Vilela": 46,
         "Marconi Perillo": 18,
@@ -3071,7 +3144,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-36",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Celina Leão": 41.5,
         "Leandro Grass": 15.8,
@@ -3098,7 +3171,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Daniel Vilela": 40.3,
         "Marconi Perillo": 29.4,
@@ -3481,7 +3554,7 @@
       "sample_size": 3080,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:15-19",
+      "source_url": "#cite_note-:15-20",
       "candidates": {
         "Wellington Fagundes": 26,
         "Otaviano Pivetta": 34,
@@ -3721,12 +3794,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Goiás Pesquisas/Mais Goiás",
+      "institute": "Mais Goiás/Goiás Pesquisas",
       "collection_date": "2026-09-15",
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Daniel Vilela": 43.9,
         "Marconi Perillo": 16.9,
@@ -3818,7 +3891,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-24",
       "candidates": {
         "Daniel Vilela": 39.2,
         "Marconi Perillo": 29.4,
@@ -4079,7 +4152,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-38",
+      "source_url": "#cite_note-:11-40",
       "candidates": {
         "Celina Leão": 41,
         "Leandro Grass": 14,
@@ -4879,7 +4952,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-42",
+      "source_url": "#cite_note-:10-44",
       "candidates": {
         "Celina Leão": 35,
         "Leandro Grass": 20,
@@ -4906,7 +4979,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-42",
+      "source_url": "#cite_note-:10-44",
       "candidates": {
         "Celina Leão": 46,
         "Leandro Grass": 23,
@@ -5236,7 +5309,7 @@
       "sample_size": 2000,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-46",
+      "source_url": "#cite_note-48",
       "candidates": {
         "Celina Leão": 36.5,
         "Leandro Grass": 13.8,
@@ -5263,7 +5336,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-32",
+      "source_url": "#cite_note-33",
       "candidates": {
         "Daniel Vilela": 38.2,
         "Marconi Perillo": 28.5,
@@ -5380,7 +5453,7 @@
       "sample_size": 1250,
       "margin_error": 2.77,
       "tse_registration": "",
-      "source_url": "#cite_note-30",
+      "source_url": "#cite_note-31",
       "candidates": {
         "Daniel Vilela": 42.6,
         "Marconi Perillo": 17.3,
@@ -5667,7 +5740,7 @@
       "sample_size": 1495,
       "margin_error": 2.53,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-15",
+      "source_url": "#cite_note-:19-17",
       "candidates": {
         "Daniel Vilela": 36.3,
         "Marconi Perillo": 17.4,
@@ -6081,7 +6154,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-54",
+      "source_url": "#cite_note-56",
       "candidates": {
         "Celina Leão": 35.4,
         "Leandro Grass": 10.7,
@@ -6308,7 +6381,7 @@
       "sample_size": 1141,
       "margin_error": 2.9,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-48",
+      "source_url": "#cite_note-:8-50",
       "candidates": {
         "Celina Leão": 34.5,
         "Leandro Grass": 12.02,
@@ -7499,7 +7572,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-58",
+      "source_url": "#cite_note-60",
       "candidates": {
         "Celina Leão": 33.9,
         "Leandro Grass": 10.3,
@@ -7621,12 +7694,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Brasmarket/Jovem Pan News",
+      "institute": "Jovem Pan News /Brasmarket",
       "collection_date": "2026-08-21",
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-L-43",
+      "source_url": "https://pt.wikipedia.org/wiki/Jovem_Pan_News",
       "candidates": {
         "Daniel Vilela": 44.2,
         "Marconi Perillo": 23.8,
@@ -7942,7 +8015,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-62",
+      "source_url": "#cite_note-:4-64",
       "candidates": {
         "Celina Leão": 34,
         "Leandro Grass": 18,
@@ -7969,7 +8042,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-62",
+      "source_url": "#cite_note-:4-64",
       "candidates": {
         "Celina Leão": 45,
         "Leandro Grass": 20,
@@ -8159,7 +8232,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-64",
+      "source_url": "#cite_note-:3-66",
       "candidates": {
         "Celina Leão": 33.4,
         "Leandro Grass": 9.4,
@@ -8186,7 +8259,7 @@
       "sample_size": 3200,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-D-47",
+      "source_url": "#cite_note-:16-D-46",
       "candidates": {
         "Daniel Vilela": 27.75,
         "Marconi Perillo": 36.78,
@@ -8388,12 +8461,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Goiás Pesquisas/Mais Goiás",
+      "institute": "Mais Goiás/Goiás Pesquisas",
       "collection_date": "2026-08-12",
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-48",
+      "source_url": "#cite_note-47",
       "candidates": {
         "Daniel Vilela": 37.2,
         "Marconi Perillo": 18.8,
@@ -9012,7 +9085,7 @@
       "sample_size": 1060,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-Badra-Julho-68",
+      "source_url": "#cite_note-Badra-Julho-70",
       "candidates": {
         "Celina Leão": 30.8,
         "Arruda": 24.2,
@@ -9039,7 +9112,7 @@
       "sample_size": 2000,
       "margin_error": 2.19,
       "tse_registration": "",
-      "source_url": "#cite_note-50",
+      "source_url": "#cite_note-49",
       "candidates": {
         "Daniel Vilela": 45.8,
         "Marconi Perillo": 24.5,
@@ -10597,7 +10670,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-73",
+      "source_url": "#cite_note-75",
       "candidates": {
         "Celina Leão": 33.1,
         "Arruda": 18.1,
@@ -11500,7 +11573,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-56",
+      "source_url": "#cite_note-:12-55",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 26,
@@ -11525,7 +11598,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-56",
+      "source_url": "#cite_note-:12-55",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 24,
@@ -11840,7 +11913,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-74",
+      "source_url": "#cite_note-:1-76",
       "candidates": {
         "Celina Leão": 23.4,
         "Arruda": 17.3,
@@ -12109,7 +12182,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:10-59",
+      "source_url": "#cite_note-:10-58",
       "candidates": {
         "Daniel Vilela": 31,
         "Marconi Perillo": 33,
@@ -12301,7 +12374,7 @@
       "sample_size": 1607,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-76",
+      "source_url": "#cite_note-78",
       "candidates": {
         "Celina Leão": 26.4,
         "Arruda": 20.2,
@@ -12511,12 +12584,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Diagnóstico/Acieg",
+      "institute": "Acieg/Diagnóstico",
       "collection_date": "2026-06-18",
       "sample_size": 1100,
       "margin_error": 4.84,
       "tse_registration": "",
-      "source_url": "#cite_note-:9-60",
+      "source_url": "#cite_note-:9-59",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 22.7,
@@ -12829,7 +12902,7 @@
       "sample_size": 3600,
       "margin_error": 1.63,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-61",
+      "source_url": "#cite_note-:8-60",
       "candidates": {
         "Daniel Vilela": 28.5,
         "Marconi Perillo": 33.8,
@@ -12942,7 +13015,7 @@
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-80",
+      "source_url": "#cite_note-82",
       "candidates": {
         "Celina Leão": 27,
         "Arruda": 22.1,
@@ -13324,7 +13397,7 @@
       "sample_size": 1507,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-63",
+      "source_url": "#cite_note-:7-62",
       "candidates": {
         "Daniel Vilela": 27.8,
         "Marconi Perillo": 17.5,
@@ -13466,7 +13539,7 @@
       "sample_size": 1509,
       "margin_error": 2.52,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-65",
+      "source_url": "#cite_note-:6-64",
       "candidates": {
         "Daniel Vilela": 31.9,
         "Marconi Perillo": 16.4,
@@ -13486,12 +13559,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Goiás",
       "cenario": "Adriana Accorsi|Daniel Vilela|Luis Cesar Bueno|Marconi Perillo|Wilder Morais",
       "secao": "Governador › Primeiro turno › Janeiro – Maio",
-      "institute": "Goiás Pesquisas/Mais Goiás",
+      "institute": "Mais Goiás/Goiás Pesquisas",
       "collection_date": "2026-05-29",
       "sample_size": 1150,
       "margin_error": 2.89,
       "tse_registration": "",
-      "source_url": "#cite_note-67",
+      "source_url": "#cite_note-66",
       "candidates": {
         "Daniel Vilela": 32.6,
         "Marconi Perillo": 18.6,
@@ -13811,7 +13884,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-69",
+      "source_url": "#cite_note--2-68",
       "candidates": {
         "Daniel Vilela": 35.2,
         "Marconi Perillo": 19.4,
@@ -13836,7 +13909,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--2-69",
+      "source_url": "#cite_note--2-68",
       "candidates": {
         "Daniel Vilela": 36.1,
         "Marconi Perillo": 20.2,
@@ -14314,7 +14387,7 @@
       "sample_size": 1200,
       "margin_error": 2.8,
       "tse_registration": "",
-      "source_url": "#cite_note--1-75",
+      "source_url": "#cite_note--1-74",
       "candidates": {
         "Daniel Vilela": 44.3,
         "Marconi Perillo": 23.1,
@@ -14462,7 +14535,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-77",
+      "source_url": "#cite_note-:4-76",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 22,
@@ -14487,7 +14560,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-77",
+      "source_url": "#cite_note-:4-76",
       "candidates": {
         "Daniel Vilela": 38,
         "Marconi Perillo": 24,
@@ -14510,7 +14583,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-77",
+      "source_url": "#cite_note-:4-76",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 25,
@@ -14535,7 +14608,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-77",
+      "source_url": "#cite_note-:4-76",
       "candidates": {
         "Daniel Vilela": 40,
         "Marconi Perillo": 26,
@@ -14869,7 +14942,7 @@
       "sample_size": 3300,
       "margin_error": 1.7,
       "tse_registration": "",
-      "source_url": "#cite_note-81",
+      "source_url": "#cite_note-80",
       "candidates": {
         "Daniel Vilela": 29.6,
         "Marconi Perillo": 30.2,
@@ -15759,7 +15832,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-85",
+      "source_url": "#cite_note-:3-84",
       "candidates": {
         "Daniel Vilela": 42,
         "Marconi Perillo": 18,
@@ -15784,7 +15857,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-85",
+      "source_url": "#cite_note-:3-84",
       "candidates": {
         "Daniel Vilela": 43,
         "Marconi Perillo": 21,
@@ -15809,7 +15882,7 @@
       "sample_size": 1206,
       "margin_error": 2.88,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-85",
+      "source_url": "#cite_note-:3-84",
       "candidates": {
         "Daniel Vilela": 45,
         "Marconi Perillo": 21,
@@ -17037,7 +17110,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-88",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Daniel Vilela": 34,
         "Marconi Perillo": 24,
@@ -17062,7 +17135,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-88",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -17087,7 +17160,7 @@
       "sample_size": 1500,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-88",
+      "source_url": "#cite_note-:1-87",
       "candidates": {
         "Daniel Vilela": 36,
         "Marconi Perillo": 26,
@@ -17838,7 +17911,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-90",
+      "source_url": "#cite_note-:2-89",
       "candidates": {
         "Daniel Vilela": 36.7,
         "Marconi Perillo": 22.6,
@@ -18499,7 +18572,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-85",
+      "source_url": "#cite_note-DF01-87",
       "candidates": {
         "Celina Leão": 40,
         "Arruda": 21,
@@ -18526,7 +18599,7 @@
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-DF01-85",
+      "source_url": "#cite_note-DF01-87",
       "candidates": {
         "Celina Leão": 50,
         "Leandro Grass": 16,
