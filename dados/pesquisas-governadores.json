@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-03",
+  "atualizado_em": "2026-11-04",
   "pesquisas": [
     {
       "uf": "AC",
@@ -37,8 +37,8 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/Quaest",
       "candidates": {
-        "JHC": 49,
-        "Renan Filho": 50
+        "JHC": 42,
+        "Renan Filho": 43
       },
       "parties": {
         "JHC": "PSDB",
@@ -97,6 +97,27 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
+      "institute": "TV Verdes Mares / Quaest",
+      "collection_date": "2026-10-03",
+      "sample_size": 2004,
+      "margin_error": 2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/TV_Verdes_Mares",
+      "candidates": {
+        "Ciro Gomes": 41,
+        "Elmano de Freitas": 42
+      },
+      "parties": {
+        "Ciro Gomes": "PSDB",
+        "Elmano de Freitas": "PT"
+      }
+    },
+    {
+      "uf": "CE",
+      "estado": "Ceará",
+      "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
+      "cenario": "Ciro Gomes|Elmano de Freitas",
+      "secao": "Governador › Primeiro turno › 2026",
       "institute": "Datafolha",
       "collection_date": "2026-10-03",
       "sample_size": 1204,
@@ -104,8 +125,8 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/Datafolha",
       "candidates": {
-        "Ciro Gomes": 47,
-        "Elmano de Freitas": 50
+        "Ciro Gomes": 44,
+        "Elmano de Freitas": 46
       },
       "parties": {
         "Ciro Gomes": "PSDB",
@@ -168,16 +189,16 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Quaest",
+      "institute": "TV Mirante / Quaest",
       "collection_date": "2026-10-03",
       "sample_size": 2004,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "source_url": "https://pt.wikipedia.org/wiki/Rede_Mirante",
       "candidates": {
-        "Eduardo Braide": 52,
-        "Orleans Brandão": 35,
-        "Felipe Camarão": 10,
+        "Eduardo Braide": 43,
+        "Orleans Brandão": 29,
+        "Felipe Camarão": 8,
         "Roberto Rocha": 2
       },
       "parties": {
@@ -215,7 +236,7 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Quaest",
       "collection_date": "2026-10-03",
       "sample_size": 1800,
@@ -223,16 +244,16 @@
       "tse_registration": "",
       "source_url": "https://pt.wikipedia.org/wiki/Quaest",
       "candidates": {
-        "Eduardo Riedel": 67,
-        "Fábio Trad": 23,
-        "João Henrique Catan": 4,
-        "Delcídio do Amaral": 4
+        "Eduardo Riedel": 56,
+        "Fábio Trad": 19,
+        "Delcídio do Amaral": 6,
+        "João Henrique Catan": 3
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -383,7 +404,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "cenario": "ACM Neto|Jerônimo",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Paraná Pesquisas /Bahia Notícias",
+      "institute": "Bahia Notícias/ Paraná Pesquisas",
       "collection_date": "2026-10-02",
       "sample_size": 1400,
       "margin_error": 2.7,
@@ -404,7 +425,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "cenario": "ACM Neto|Jerônimo",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "AtlasIntel /A TARDE",
+      "institute": "A TARDE/ AtlasIntel",
       "collection_date": "2026-10-02",
       "sample_size": 2199,
       "margin_error": 2,
@@ -951,7 +972,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "cenario": "ACM Neto|Jerônimo",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "AtlasIntel /A TARDE",
+      "institute": "A TARDE/ AtlasIntel",
       "collection_date": "2026-09-28",
       "sample_size": 2000,
       "margin_error": 2,
@@ -972,7 +993,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "AtlasIntel",
+      "institute": "Focus/ AtlasIntel",
       "collection_date": "2026-09-28",
       "sample_size": 1808,
       "margin_error": 2,
@@ -1369,7 +1390,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-18",
+      "source_url": "#cite_note-19",
       "candidates": {
         "JHC": 49,
         "Renan Filho": 39
@@ -1390,7 +1411,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-20",
+      "source_url": "#cite_note-21",
       "candidates": {
         "JHC": 50,
         "Renan Filho": 41
@@ -1643,7 +1664,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-21",
+      "source_url": "#cite_note-:19-22",
       "candidates": {
         "JHC": 44,
         "Renan Filho": 45
@@ -1754,24 +1775,24 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-09-25",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-11",
+      "source_url": "#cite_note-10",
       "candidates": {
         "Eduardo Riedel": 50,
         "Fábio Trad": 18,
-        "João Henrique Catan": 3,
-        "Delcídio do Amaral": 9
+        "Delcídio do Amaral": 9,
+        "João Henrique Catan": 3
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -1904,7 +1925,7 @@
       "sample_size": 5037,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-22",
+      "source_url": "#cite_note-23",
       "candidates": {
         "JHC": 32,
         "Renan Filho": 33
@@ -2034,7 +2055,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:24-24",
+      "source_url": "#cite_note-:24-25",
       "candidates": {
         "Ciro Gomes": 41,
         "Elmano de Freitas": 48
@@ -2171,12 +2192,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Quaest",
+      "institute": "TV Mirante / Quaest",
       "collection_date": "2026-09-24",
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "source_url": "https://pt.wikipedia.org/wiki/Rede_Mirante",
       "candidates": {
         "Eduardo Braide": 46,
         "Orleans Brandão": 27,
@@ -2241,7 +2262,7 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Quaest",
       "collection_date": "2026-09-24",
       "sample_size": 804,
@@ -2251,14 +2272,14 @@
       "candidates": {
         "Eduardo Riedel": 51,
         "Fábio Trad": 12,
-        "João Henrique Catan": 3,
-        "Delcídio do Amaral": 6
+        "Delcídio do Amaral": 6,
+        "João Henrique Catan": 3
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -2679,12 +2700,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Quaest",
+      "institute": "TV Verdes Mares / Quaest",
       "collection_date": "2026-09-22",
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "source_url": "https://pt.wikipedia.org/wiki/TV_Verdes_Mares",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 41
@@ -2868,7 +2889,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Eduardo Braide": 40.8,
         "Orleans Brandão": 37.2,
@@ -2958,7 +2979,7 @@
       "sample_size": 1320,
       "margin_error": 2.7,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Eduardo Braide": 49.3,
         "Orleans Brandão": 26.1,
@@ -3330,7 +3351,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Eduardo Braide": 35.7,
         "Orleans Brandão": 43.6,
@@ -3349,24 +3370,24 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-09-18",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-15",
+      "source_url": "#cite_note-14",
       "candidates": {
         "Eduardo Riedel": 49,
         "Fábio Trad": 19.5,
-        "João Henrique Catan": 3,
-        "Delcídio do Amaral": 11
+        "Delcídio do Amaral": 11,
+        "João Henrique Catan": 3
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -3417,7 +3438,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "AtlasIntel",
+      "institute": "Focus/ AtlasIntel",
       "collection_date": "2026-09-17",
       "sample_size": 1352,
       "margin_error": 2.7,
@@ -3485,7 +3506,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:20-35",
+      "source_url": "#cite_note-:20-36",
       "candidates": {
         "Ciro Gomes": 42,
         "Elmano de Freitas": 47
@@ -3752,12 +3773,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "cenario": "ACM Neto|Jerônimo",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Séculus/CBN Salvador",
+      "institute": "CBN Salvador /Séculus",
       "collection_date": "2026-09-15",
       "sample_size": 1535,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-40",
+      "source_url": "https://pt.wikipedia.org/wiki/CBN_Salvador",
       "candidates": {
         "ACM Neto": 47.23,
         "Jerônimo": 35.44
@@ -3916,7 +3937,7 @@
       "sample_size": 1600,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-25",
+      "source_url": "#cite_note-:8-24",
       "candidates": {
         "Eduardo Braide": 44.5,
         "Orleans Brandão": 27.8,
@@ -4077,24 +4098,24 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Nova Ibrape",
       "collection_date": "2026-09-13",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-17",
+      "source_url": "#cite_note-16",
       "candidates": {
         "Eduardo Riedel": 50.2,
         "Fábio Trad": 13.1,
-        "João Henrique Catan": 4.5,
-        "Delcídio do Amaral": 6.8
+        "Delcídio do Amaral": 6.8,
+        "João Henrique Catan": 4.5
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -4444,7 +4465,7 @@
       "sample_size": 1600,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Eduardo Braide": 36.1,
         "Orleans Brandão": 43,
@@ -4676,7 +4697,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-29",
+      "source_url": "#cite_note-28",
       "candidates": {
         "Eduardo Braide": 45,
         "Orleans Brandão": 32,
@@ -4718,24 +4739,24 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-09-09",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-19",
+      "source_url": "#cite_note-18",
       "candidates": {
         "Eduardo Riedel": 42,
         "Fábio Trad": 26,
-        "João Henrique Catan": 13,
-        "Delcídio do Amaral": 5
+        "Delcídio do Amaral": 5,
+        "João Henrique Catan": 13
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -4743,24 +4764,24 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
-      "institute": "IPEMS",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
+      "institute": "Ipems",
       "collection_date": "2026-09-09",
       "sample_size": 1600,
       "margin_error": 3.46,
       "tse_registration": "",
-      "source_url": "#cite_note-21",
+      "source_url": "#cite_note-20",
       "candidates": {
         "Eduardo Riedel": 57.7,
         "Fábio Trad": 11.59,
-        "João Henrique Catan": 5.06,
-        "Delcídio do Amaral": 5.67
+        "Delcídio do Amaral": 5.67,
+        "João Henrique Catan": 5.06
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -4768,24 +4789,24 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-09-09",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-23",
+      "source_url": "#cite_note-22",
       "candidates": {
         "Eduardo Riedel": 48,
         "Fábio Trad": 20,
-        "João Henrique Catan": 4.2,
-        "Delcídio do Amaral": 10
+        "Delcídio do Amaral": 10,
+        "João Henrique Catan": 4.2
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -5096,7 +5117,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:19-39",
+      "source_url": "#cite_note-:19-40",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 46
@@ -5498,12 +5519,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Quaest",
+      "institute": "TV Verdes Mares / Quaest",
       "collection_date": "2026-09-03",
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "source_url": "https://pt.wikipedia.org/wiki/TV_Verdes_Mares",
       "candidates": {
         "Ciro Gomes": 45,
         "Elmano de Freitas": 34
@@ -5714,7 +5735,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "AtlasIntel /Focus",
+      "institute": "Focus/ AtlasIntel",
       "collection_date": "2026-09-02",
       "sample_size": 1834,
       "margin_error": 2,
@@ -5765,7 +5786,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Eduardo Braide": 44.8,
         "Orleans Brandão": 24.5,
@@ -6181,7 +6202,7 @@
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-33",
+      "source_url": "#cite_note-32",
       "candidates": {
         "Eduardo Braide": 36.4,
         "Orleans Brandão": 42.3,
@@ -6479,7 +6500,7 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "AtlasIntel",
       "collection_date": "2026-08-27",
       "sample_size": 1204,
@@ -6489,14 +6510,14 @@
       "candidates": {
         "Eduardo Riedel": 49,
         "Fábio Trad": 29,
-        "João Henrique Catan": 12.4,
-        "Delcídio do Amaral": 0.3
+        "Delcídio do Amaral": 0.3,
+        "João Henrique Catan": 12.4
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -6504,24 +6525,24 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-08-27",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-27",
+      "source_url": "#cite_note-26",
       "candidates": {
         "Eduardo Riedel": 47,
         "Fábio Trad": 20,
-        "João Henrique Catan": 5,
-        "Delcídio do Amaral": 9
+        "Delcídio do Amaral": 9,
+        "João Henrique Catan": 5
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -6736,7 +6757,7 @@
       "sample_size": 2600,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Eduardo Braide": 42.54,
         "Orleans Brandão": 42.08,
@@ -6895,7 +6916,7 @@
       "sample_size": 900,
       "margin_error": 3.27,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Eduardo Braide": 36.6,
         "Orleans Brandão": 41.1,
@@ -7127,7 +7148,7 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Quaest",
       "collection_date": "2026-08-24",
       "sample_size": 804,
@@ -7137,14 +7158,14 @@
       "candidates": {
         "Eduardo Riedel": 40,
         "Fábio Trad": 13,
-        "João Henrique Catan": 3,
-        "Delcídio do Amaral": 8
+        "Delcídio do Amaral": 8,
+        "João Henrique Catan": 3
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -7354,12 +7375,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Maranhão",
       "cenario": "Eduardo Braide|Felipe Camarão|Orleans Brandão|Roberto Rocha",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Quaest",
+      "institute": "TV Mirante / Quaest",
       "collection_date": "2026-08-23",
       "sample_size": 900,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "https://pt.wikipedia.org/wiki/Quaest",
+      "source_url": "https://pt.wikipedia.org/wiki/Rede_Mirante",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25,
@@ -7525,7 +7546,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "cenario": "ACM Neto|Jerônimo",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Opnus/BNews",
+      "institute": "BNews/Opnus",
       "collection_date": "2026-08-22",
       "sample_size": 1200,
       "margin_error": 3,
@@ -7546,7 +7567,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "cenario": "ACM Neto|Jerônimo",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Opnus/BNews",
+      "institute": "BNews/Opnus",
       "collection_date": "2026-08-22",
       "sample_size": 1200,
       "margin_error": 3,
@@ -7854,7 +7875,7 @@
       "sample_size": 1480,
       "margin_error": 2.55,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Eduardo Braide": 37.84,
         "Orleans Brandão": 41.01,
@@ -7946,7 +7967,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:16-47",
+      "source_url": "#cite_note-:16-48",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 44
@@ -7989,12 +8010,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Ipsus/Ipec",
+      "institute": "Ipsos /Ipec",
       "collection_date": "2026-08-18",
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:17-49",
+      "source_url": "https://pt.wikipedia.org/wiki/Ipsos",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 35
@@ -8485,24 +8506,24 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-08-12",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-31",
+      "source_url": "#cite_note-30",
       "candidates": {
         "Eduardo Riedel": 46.4,
         "Fábio Trad": 21.7,
-        "João Henrique Catan": 7.4,
-        "Delcídio do Amaral": 7.6
+        "Delcídio do Amaral": 7.6,
+        "João Henrique Catan": 7.4
       },
       "parties": {
         "Eduardo Riedel": "PP",
         "Fábio Trad": "PT",
-        "João Henrique Catan": "NOVO",
-        "Delcídio do Amaral": "PRD"
+        "Delcídio do Amaral": "PRD",
+        "João Henrique Catan": "NOVO"
       }
     },
     {
@@ -8601,7 +8622,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "AtlasIntel /Focus",
+      "institute": "Focus/ AtlasIntel",
       "collection_date": "2026-08-11",
       "sample_size": 1774,
       "margin_error": 2,
@@ -8627,7 +8648,7 @@
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Eduardo Braide": 39.1,
         "Orleans Brandão": 47.5,
@@ -8738,7 +8759,7 @@
       "sample_size": 1500,
       "margin_error": 2.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:0-45",
+      "source_url": "#cite_note-:0-44",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 25.9,
@@ -8895,13 +8916,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Agosto – Outubro de 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-08-05",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-33",
+      "source_url": "#cite_note-:4-32",
       "candidates": {
         "Eduardo Riedel": 44,
         "Fábio Trad": 25,
@@ -9408,13 +9429,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Campo Grande News/Novo Ibrape",
       "collection_date": "2026-07-29",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-35",
+      "source_url": "#cite_note-34",
       "candidates": {
         "Eduardo Riedel": 46.1,
         "Fábio Trad": 18.2,
@@ -10391,13 +10412,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-07-23",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-37",
+      "source_url": "#cite_note-36",
       "candidates": {
         "Eduardo Riedel": 46.2,
         "Fábio Trad": 21.6,
@@ -10474,7 +10495,7 @@
       "sample_size": 1000,
       "margin_error": 2.09,
       "tse_registration": "",
-      "source_url": "#cite_note-:5-A-50",
+      "source_url": "#cite_note-:5-A-49",
       "candidates": {
         "Eduardo Braide": 42.5,
         "Orleans Brandão": 48.7,
@@ -10719,12 +10740,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Ipsus/IPEC",
+      "institute": "Ipsos /IPEC",
       "collection_date": "2026-07-18",
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "https://pt.wikipedia.org/wiki/Ipsos",
       "candidates": {
         "Ciro Gomes": 43,
         "Elmano de Freitas": 31,
@@ -10957,7 +10978,7 @@
       "sample_size": 2610,
       "margin_error": 3.02,
       "tse_registration": "",
-      "source_url": "#cite_note-52",
+      "source_url": "#cite_note-51",
       "candidates": {
         "Eduardo Braide": 43.52,
         "Orleans Brandão": 45.06,
@@ -11053,7 +11074,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:12-59",
+      "source_url": "#cite_note-:12-60",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 44,
@@ -11669,7 +11690,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:4-54",
+      "source_url": "#cite_note-:4-53",
       "candidates": {
         "Eduardo Braide": 44,
         "Orleans Brandão": 31,
@@ -11936,13 +11957,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-07-03",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-39",
+      "source_url": "#cite_note-38",
       "candidates": {
         "Eduardo Riedel": 46.4,
         "Fábio Trad": 20.8,
@@ -12276,7 +12297,7 @@
       "sample_size": 1200,
       "margin_error": 2.83,
       "tse_registration": "",
-      "source_url": "#cite_note-:11-61",
+      "source_url": "#cite_note-:11-62",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 39,
@@ -12772,7 +12793,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "AtlasIntel /Focus",
+      "institute": "Focus/ AtlasIntel",
       "collection_date": "2026-06-14",
       "sample_size": 1223,
       "margin_error": 3,
@@ -12921,13 +12942,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "IPR",
       "collection_date": "2026-06-13",
       "sample_size": 950,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-41",
+      "source_url": "#cite_note-40",
       "candidates": {
         "Eduardo Riedel": 46.6,
         "Fábio Trad": 17.5,
@@ -13063,13 +13084,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
-      "institute": "Ipems/JD1",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
+      "institute": "JD1/Ipems",
       "collection_date": "2026-06-10",
       "sample_size": 950,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-43",
+      "source_url": "#cite_note-42",
       "candidates": {
         "Eduardo Riedel": 45.24,
         "Fábio Trad": 12.53,
@@ -13241,13 +13262,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-06-05",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-45",
+      "source_url": "#cite_note-44",
       "candidates": {
         "Eduardo Riedel": 46,
         "Fábio Trad": 20.4,
@@ -13438,12 +13459,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Ciro Gomes|Eduardo Girão|Elmano de Freitas",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Ipsus/IPEC",
+      "institute": "Ipsos /Ipec",
       "collection_date": "2026-06-01",
       "sample_size": 800,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:8-65",
+      "source_url": "https://pt.wikipedia.org/wiki/Ipsos",
       "candidates": {
         "Ciro Gomes": 44,
         "Elmano de Freitas": 33,
@@ -13949,13 +13970,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Novo Ibrape",
       "collection_date": "2026-05-25",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-47",
+      "source_url": "#cite_note-46",
       "candidates": {
         "Eduardo Riedel": 46.6,
         "Fábio Trad": 17.5,
@@ -14266,7 +14287,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:7-68",
+      "source_url": "#cite_note-:7-69",
       "candidates": {
         "Ciro Gomes": 40,
         "Elmano de Freitas": 43,
@@ -14625,13 +14646,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2026-05-11",
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:3-49",
+      "source_url": "#cite_note-:3-48",
       "candidates": {
         "Eduardo Riedel": 43,
         "Fábio Trad": 21,
@@ -15377,13 +15398,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "IPR",
       "collection_date": "2026-04-27",
       "sample_size": 784,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-51",
+      "source_url": "#cite_note-50",
       "candidates": {
         "Eduardo Riedel": 47.32,
         "Fábio Trad": 16.45,
@@ -15899,13 +15920,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-04-10",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-53",
+      "source_url": "#cite_note-52",
       "candidates": {
         "Eduardo Riedel": 43,
         "Fábio Trad": 19.4,
@@ -16188,12 +16209,12 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 no Ceará",
       "cenario": "Camilo Santana|Ciro Gomes|Eduardo Girão|Elmano de Freitas|Roberto Cláudio",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Instituto Futura/Apex",
+      "institute": "Revista Ceará/ Futura-Apex",
       "collection_date": "2026-03-30",
       "sample_size": 1000,
       "margin_error": 3.1,
       "tse_registration": "",
-      "source_url": "#cite_note-:6-77",
+      "source_url": "#cite_note-:6-78",
       "candidates": {
         "Ciro Gomes": 30,
         "Elmano de Freitas": 21,
@@ -16306,7 +16327,7 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Veritá",
       "collection_date": "2026-03-30",
       "sample_size": 1220,
@@ -16446,13 +16467,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Novo Ibrape",
       "collection_date": "2026-03-29",
       "sample_size": 1000,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-57",
+      "source_url": "#cite_note-56",
       "candidates": {
         "Eduardo Riedel": 46.2,
         "Fábio Trad": 15.7,
@@ -16475,7 +16496,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-81",
+      "source_url": "#cite_note-:1-82",
       "candidates": {
         "Ciro Gomes": 39,
         "Elmano de Freitas": 42,
@@ -16498,7 +16519,7 @@
       "sample_size": 1600,
       "margin_error": 2,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-81",
+      "source_url": "#cite_note-:1-82",
       "candidates": {
         "Elmano de Freitas": 45,
         "Roberto Cláudio": 27,
@@ -17369,13 +17390,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "IPR",
       "collection_date": "2026-03-09",
       "sample_size": 784,
       "margin_error": 3.5,
       "tse_registration": "",
-      "source_url": "#cite_note-:1-58",
+      "source_url": "#cite_note-:1-57",
       "candidates": {
         "Eduardo Riedel": 47.83,
         "Fábio Trad": 14.41,
@@ -17424,7 +17445,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "cenario": "ACM Neto|Jerônimo",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "Bahia Notícia/Séculus",
+      "institute": "Bahia Notícias/Séculus",
       "collection_date": "2026-02-27",
       "sample_size": 1535,
       "margin_error": 2.5,
@@ -17495,7 +17516,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "cenario": "ACM Neto|Jerônimo",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "TML/Política Ao Vivo",
+      "institute": "Política ao Vivo/TML",
       "collection_date": "2026-02-21",
       "sample_size": 2045,
       "margin_error": 2.17,
@@ -17516,7 +17537,7 @@
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 na Bahia",
       "cenario": "ACM Neto|Jerônimo",
       "secao": "Governador › Primeiro turno › 2026",
-      "institute": "TML/Política Ao Vivo",
+      "institute": "Política ao Vivo/TML",
       "collection_date": "2026-02-21",
       "sample_size": 2045,
       "margin_error": 2.17,
@@ -17667,13 +17688,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Delcídio do Amaral|Eduardo Riedel|Fábio Trad|João Henrique Catan",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Instituto Ranking Brasil",
       "collection_date": "2026-02-06",
       "sample_size": 2000,
       "margin_error": 2.2,
       "tse_registration": "",
-      "source_url": "#cite_note-60",
+      "source_url": "#cite_note-59",
       "candidates": {
         "Eduardo Riedel": 40,
         "Fábio Trad": 17,
@@ -18804,13 +18825,13 @@
       "estado": "Mato Grosso do Sul",
       "page_title": "Pesquisas eleitorais para a eleição estadual de 2026 em Mato Grosso do Sul",
       "cenario": "Eduardo Riedel|Fábio Trad",
-      "secao": "Governador › Primeiro turno",
+      "secao": "Governador › Primeiro turno › Novembro de 2025 – Julho de 2026",
       "institute": "Real Time Big Data",
       "collection_date": "2025-11-28",
       "sample_size": 1200,
       "margin_error": 3,
       "tse_registration": "",
-      "source_url": "#cite_note-:2-62",
+      "source_url": "#cite_note-:2-61",
       "candidates": {
         "Eduardo Riedel": 55,
         "Fábio Trad": 16
