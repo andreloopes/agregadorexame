@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-04",
+  "atualizado_em": "2026-11-05",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -1116,17 +1116,17 @@
         {
           "nome": "Lucas Ribeiro",
           "partido": "PP",
-          "media": 44.7,
-          "ic_min": 40.9,
-          "ic_max": 48.4,
+          "media": 43.7,
+          "ic_min": 40.6,
+          "ic_max": 46.8,
           "pesquisas": 20
         },
         {
           "nome": "Efraim Filho",
           "partido": "PL",
-          "media": 18.1,
-          "ic_min": 16,
-          "ic_max": 20.2,
+          "media": 17.6,
+          "ic_min": 15.6,
+          "ic_max": 19.6,
           "pesquisas": 20
         }
       ],
@@ -1141,11 +1141,11 @@
         },
         {
           "instituto": "Real Time Big Data",
-          "coleta": "2026-10-01",
+          "coleta": "2026-09-28",
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:15-12"
+          "fonte_url": "#cite_note-:15-11"
         },
         {
           "instituto": "TDL",
@@ -1153,7 +1153,7 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-14"
+          "fonte_url": "#cite_note-13"
         },
         {
           "instituto": "Anova",
@@ -1161,7 +1161,7 @@
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-16"
+          "fonte_url": "#cite_note-15"
         },
         {
           "instituto": "Quaest",
@@ -1172,12 +1172,12 @@
           "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
         },
         {
-          "instituto": "Data Ranking/Fonte83",
+          "instituto": "Fonte83/Data Ranking",
           "coleta": "2026-09-18",
           "amostra": 2000,
           "margem": 2.2,
           "tse": "",
-          "fonte_url": "#cite_note-20"
+          "fonte_url": "#cite_note-19"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
@@ -1187,35 +1187,43 @@
       "uf": "PE",
       "estado": "Pernambuco",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-09-30",
+      "corte": "2026-10-03",
       "pesquisas_no_calculo": 20,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
           "nome": "Raquel Lyra",
           "partido": "PSD",
-          "media": 45.4,
-          "ic_min": 44.3,
-          "ic_max": 46.6,
+          "media": 45.7,
+          "ic_min": 44.6,
+          "ic_max": 46.8,
           "pesquisas": 20
         },
         {
           "nome": "João Campos",
           "partido": "PSB",
-          "media": 42.4,
-          "ic_min": 41,
-          "ic_max": 43.9,
+          "media": 42.7,
+          "ic_min": 41.3,
+          "ic_max": 44,
           "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
+        {
+          "instituto": "TV Globo / Quaest",
+          "coleta": "2026-10-03",
+          "amostra": 2652,
+          "margem": 2,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/TV_Globo_Pernambuco"
+        },
         {
           "instituto": "DataTrends",
           "coleta": "2026-09-30",
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-:39-17"
+          "fonte_url": "#cite_note-:39-19"
         },
         {
           "instituto": "Paraná Pesquisas",
@@ -1226,40 +1234,32 @@
           "fonte_url": "https://pt.wikipedia.org/wiki/Paran%C3%A1_Pesquisas"
         },
         {
-          "instituto": "Datafolha",
+          "instituto": "TV Globo / Datafolha",
           "coleta": "2026-09-28",
           "amostra": 1204,
           "margem": 3,
           "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
+          "fonte_url": "https://pt.wikipedia.org/wiki/TV_Globo_Pernambuco"
         },
         {
-          "instituto": "Quaest",
+          "instituto": "TV Globo / Quaest",
           "coleta": "2026-09-28",
           "amostra": 1302,
           "margem": 3,
           "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
+          "fonte_url": "https://pt.wikipedia.org/wiki/TV_Globo_Pernambuco"
         },
         {
-          "instituto": "Folha/IPESPE",
+          "instituto": "Folha /IPESPE",
           "coleta": "2026-09-26",
           "amostra": 1000,
           "margem": 3.2,
           "tse": "",
-          "fonte_url": "#cite_note-:36-23"
-        },
-        {
-          "instituto": "Real Time Big Data",
-          "coleta": "2026-09-26",
-          "amostra": 1600,
-          "margem": 2,
-          "tse": "",
-          "fonte_url": "#cite_note-:35-25"
+          "fonte_url": "https://pt.wikipedia.org/wiki/Folha_de_Pernambuco"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:39-17"
+      "fonte_url": "https://pt.wikipedia.org/wiki/TV_Globo_Pernambuco"
     },
     "PI": {
       "uf": "PI",
@@ -1272,36 +1272,36 @@
         {
           "nome": "Rafael Fonteles",
           "partido": "PT",
-          "media": 64.6,
-          "ic_min": 61,
-          "ic_max": 68.3,
+          "media": 63.4,
+          "ic_min": 59.6,
+          "ic_max": 67.2,
           "pesquisas": 14
         },
         {
           "nome": "Joel Rodrigues",
           "partido": "PP",
-          "media": 24,
-          "ic_min": 21.9,
-          "ic_max": 26.1,
+          "media": 23.4,
+          "ic_min": 21.5,
+          "ic_max": 25.3,
           "pesquisas": 14
         }
       ],
       "ultimas_pesquisas": [
         {
-          "instituto": "Datafolha",
+          "instituto": "TV Clube / Datafolha",
           "coleta": "2026-10-03",
           "amostra": 1564,
           "margem": 2,
           "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
+          "fonte_url": "https://pt.wikipedia.org/wiki/TV_Clube_(Teresina)"
         },
         {
-          "instituto": "AtlasIntel",
+          "instituto": "TV Meio Norte / AtlasIntel",
           "coleta": "2026-09-28",
           "amostra": 1218,
           "margem": 2,
           "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
+          "fonte_url": "https://pt.wikipedia.org/wiki/TV_Meio_Norte_Piau%C3%AD"
         },
         {
           "instituto": "Datamax",
@@ -1309,7 +1309,7 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-15"
+          "fonte_url": "#cite_note-14"
         },
         {
           "instituto": "Veritá",
@@ -1320,12 +1320,12 @@
           "fonte_url": "https://pt.wikipedia.org/wiki/Verit%C3%A1"
         },
         {
-          "instituto": "Datafolha",
+          "instituto": "TV Clube / Datafolha",
           "coleta": "2026-09-16",
           "amostra": 826,
           "margem": 3,
           "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
+          "fonte_url": "https://pt.wikipedia.org/wiki/TV_Clube_(Teresina)"
         },
         {
           "instituto": "IPPI",
@@ -1333,11 +1333,11 @@
           "amostra": 1200,
           "margem": 2.83,
           "tse": "",
-          "fonte_url": "#cite_note-21"
+          "fonte_url": "#cite_note-20"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "https://pt.wikipedia.org/wiki/Datafolha"
+      "fonte_url": "https://pt.wikipedia.org/wiki/TV_Clube_(Teresina)"
     },
     "RN": {
       "uf": "RN",
@@ -1350,44 +1350,44 @@
         {
           "nome": "Allyson",
           "partido": "UNIÃO",
-          "media": 37.7,
-          "ic_min": 35.6,
-          "ic_max": 39.8,
+          "media": 37.2,
+          "ic_min": 35,
+          "ic_max": 39.4,
           "pesquisas": 20
         },
         {
           "nome": "Cadu de Lula",
           "partido": "PT",
-          "media": 23.7,
-          "ic_min": 21.4,
-          "ic_max": 25.9,
+          "media": 23.3,
+          "ic_min": 21.2,
+          "ic_max": 25.3,
           "pesquisas": 20
         },
         {
           "nome": "Álvaro Dias",
           "partido": "PL",
-          "media": 23.2,
-          "ic_min": 21.5,
-          "ic_max": 24.9,
+          "media": 22.8,
+          "ic_min": 21.2,
+          "ic_max": 24.4,
           "pesquisas": 20
         }
       ],
       "ultimas_pesquisas": [
         {
-          "instituto": "Quaest",
+          "instituto": "InterTV / Quaest",
           "coleta": "2026-10-03",
           "amostra": 1800,
           "margem": 2,
           "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
+          "fonte_url": "https://pt.wikipedia.org/wiki/InterTV_Cabugi"
         },
         {
-          "instituto": "Exatus/AgoraRN",
+          "instituto": "AgoraRN/Exatus",
           "coleta": "2026-09-30",
           "amostra": 1500,
           "margem": 2.53,
           "tse": "",
-          "fonte_url": "#cite_note-13"
+          "fonte_url": "#cite_note-12"
         },
         {
           "instituto": "AtlasIntel",
@@ -1398,12 +1398,12 @@
           "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
         },
         {
-          "instituto": "TN/Consult",
+          "instituto": "TN /Consult",
           "coleta": "2026-09-26",
           "amostra": 1700,
           "margem": 2.37,
           "tse": "",
-          "fonte_url": "#cite_note-17"
+          "fonte_url": "https://pt.wikipedia.org/wiki/Tribuna_do_Norte"
         },
         {
           "instituto": "Seta",
@@ -1411,19 +1411,19 @@
           "amostra": 1500,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-:13-19"
+          "fonte_url": "#cite_note-:13-18"
         },
         {
-          "instituto": "Quaest",
+          "instituto": "InterTV / Quaest",
           "coleta": "2026-09-24",
           "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
+          "fonte_url": "https://pt.wikipedia.org/wiki/InterTV_Cabugi"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
+      "fonte_url": "https://pt.wikipedia.org/wiki/InterTV_Cabugi"
     },
     "RS": {
       "uf": "RS",
@@ -1661,15 +1661,15 @@
           "amostra": 1300,
           "margem": 2.7,
           "tse": "",
-          "fonte_url": "#cite_note-:15-15"
+          "fonte_url": "#cite_note-:15-14"
         },
         {
-          "instituto": "Quaest",
+          "instituto": "TV Sergipe / Quaest",
           "coleta": "2026-09-23",
           "amostra": 804,
           "margem": 3,
           "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
+          "fonte_url": "https://pt.wikipedia.org/wiki/TV_Sergipe"
         },
         {
           "instituto": "Real Time Big Data",
@@ -1677,7 +1677,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:13-19"
+          "fonte_url": "#cite_note-:13-18"
         },
         {
           "instituto": "IFP",
@@ -1693,7 +1693,7 @@
           "amostra": 1224,
           "margem": 2.8,
           "tse": "",
-          "fonte_url": "#cite_note-22"
+          "fonte_url": "#cite_note-21"
         },
         {
           "instituto": "INOR",
@@ -1701,11 +1701,11 @@
           "amostra": 1070,
           "margem": 3,
           "tse": "",
-          "fonte_url": "#cite_note-23"
+          "fonte_url": "#cite_note-22"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
-      "fonte_url": "#cite_note-:15-15"
+      "fonte_url": "#cite_note-:15-14"
     },
     "TO": {
       "uf": "TO",
