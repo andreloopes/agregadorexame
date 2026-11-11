@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-10",
+  "atualizado_em": "2026-11-11",
   "estados": {
     "AC": {
       "uf": "AC",
@@ -221,7 +221,7 @@
           "amostra": 1600,
           "margem": 2,
           "tse": "",
-          "fonte_url": "#cite_note-:23-15"
+          "fonte_url": "#cite_note-:23-14"
         },
         {
           "instituto": "Pontual",
@@ -229,7 +229,7 @@
           "amostra": 3000,
           "margem": 1.79,
           "tse": "",
-          "fonte_url": "#cite_note-17"
+          "fonte_url": "#cite_note-16"
         },
         {
           "instituto": "Viva Voz",
@@ -237,7 +237,7 @@
           "amostra": 1500,
           "margem": 2.5,
           "tse": "",
-          "fonte_url": "#cite_note-19"
+          "fonte_url": "#cite_note-18"
         },
         {
           "instituto": "Phoenix",
@@ -245,7 +245,7 @@
           "amostra": 1205,
           "margem": 2.82,
           "tse": "",
-          "fonte_url": "#cite_note-20"
+          "fonte_url": "#cite_note-19"
         },
         {
           "instituto": "G6/IPEN",
@@ -253,7 +253,7 @@
           "amostra": 1200,
           "margem": 2.8,
           "tse": "",
-          "fonte_url": "#cite_note-:22-22"
+          "fonte_url": "#cite_note-:22-21"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",
@@ -999,107 +999,75 @@
       "uf": "PA",
       "estado": "Pará",
       "cenario": "Governador · 1º turno",
-      "corte": "2026-10-03",
-      "pesquisas_no_calculo": 11,
+      "corte": "2026-07-25",
+      "pesquisas_no_calculo": 14,
       "metodologia": "Média ponderada por recência e tamanho da amostra; cenários incompatíveis não são misturados.",
       "candidatos": [
         {
-          "nome": "Daniel Santos",
-          "partido": "PODE",
-          "media": 40.1,
-          "ic_min": 37.1,
-          "ic_max": 43,
-          "pesquisas": 11
-        },
-        {
           "nome": "Hana Ghassan",
           "partido": "MDB",
-          "media": 39.1,
-          "ic_min": 35.3,
-          "ic_max": 42.9,
-          "pesquisas": 11
+          "media": 27.2,
+          "ic_min": 25.4,
+          "ic_max": 29,
+          "pesquisas": 14
         },
         {
-          "nome": "Araceli Lemos",
-          "partido": "PSOL",
-          "media": 2.1,
-          "ic_min": 1.5,
-          "ic_max": 2.7,
-          "pesquisas": 11
-        },
-        {
-          "nome": "Well Macêdo",
-          "partido": "PSTU",
-          "media": 0.6,
-          "ic_min": 0.3,
-          "ic_max": 0.9,
-          "pesquisas": 11
-        },
-        {
-          "nome": "Ruth Reis",
-          "partido": "Democrata",
-          "media": 0.6,
-          "ic_min": 0.3,
-          "ic_max": 0.8,
-          "pesquisas": 11
-        },
-        {
-          "nome": "Gal Leite",
-          "partido": "UP",
-          "media": 0.5,
-          "ic_min": 0.3,
-          "ic_max": 0.8,
-          "pesquisas": 11
+          "nome": "Mário Couto",
+          "partido": "DC",
+          "media": 7.9,
+          "ic_min": 5.8,
+          "ic_max": 10,
+          "pesquisas": 14
         }
       ],
       "ultimas_pesquisas": [
         {
-          "instituto": "Quaest",
-          "coleta": "2026-10-03",
-          "amostra": 1800,
+          "instituto": "Genial/ Quaest",
+          "coleta": "2026-07-25",
+          "amostra": 900,
           "margem": 3,
           "tse": "",
           "fonte_url": "https://pt.wikipedia.org/wiki/Quaest"
         },
         {
-          "instituto": "AtlasIntel",
-          "coleta": "2026-10-02",
-          "amostra": 1206,
-          "margem": 3,
-          "tse": "",
-          "fonte_url": "https://pt.wikipedia.org/wiki/AtlasIntel"
-        },
-        {
-          "instituto": "Doxa",
-          "coleta": "2026-09-30",
-          "amostra": 2000,
-          "margem": 2.2,
-          "tse": "",
-          "fonte_url": "#cite_note-:47-13"
-        },
-        {
-          "instituto": "Futura/100% Cidades",
-          "coleta": "2026-09-28",
-          "amostra": 1008,
-          "margem": 3.1,
-          "tse": "",
-          "fonte_url": "#cite_note-:46-15"
-        },
-        {
-          "instituto": "Ampla",
-          "coleta": "2026-09-28",
-          "amostra": 1500,
+          "instituto": "Veritate",
+          "coleta": "2026-07-07",
+          "amostra": 1400,
           "margem": 2.6,
           "tse": "",
-          "fonte_url": "#cite_note-:45-17"
+          "fonte_url": "#cite_note-:27-57"
+        },
+        {
+          "instituto": "EPOL/Simetria",
+          "coleta": "2026-06-25",
+          "amostra": 1200,
+          "margem": 3,
+          "tse": "",
+          "fonte_url": "#cite_note-:26-60"
         },
         {
           "instituto": "Doxa",
-          "coleta": "2026-09-28",
+          "coleta": "2026-06-14",
           "amostra": 2000,
-          "margem": 2.2,
+          "margem": 3.1,
           "tse": "",
-          "fonte_url": "#cite_note-:44-19"
+          "fonte_url": "#cite_note-:25-64"
+        },
+        {
+          "instituto": "Doxa",
+          "coleta": "2026-06-14",
+          "amostra": 2000,
+          "margem": 3.1,
+          "tse": "",
+          "fonte_url": "#cite_note-:25-64"
+        },
+        {
+          "instituto": "Veritá",
+          "coleta": "2026-05-31",
+          "amostra": 1525,
+          "margem": 2.5,
+          "tse": "",
+          "fonte_url": "https://pt.wikipedia.org/wiki/Instituto_Verit%C3%A1"
         }
       ],
       "fonte": "Wikipédia em português — pesquisas estaduais de 2026",

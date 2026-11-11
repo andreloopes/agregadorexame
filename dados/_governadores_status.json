@@ -1,8 +1,8 @@
 {
-  "ultima_execucao": "2026-11-10T18:38:56.462Z",
+  "ultima_execucao": "2026-11-11T18:38:58.981Z",
   "paginas_tentadas": 27,
-  "pesquisas_extraidas_brutas": 833,
-  "pesquisas_usadas": 833,
+  "pesquisas_extraidas_brutas": 786,
+  "pesquisas_usadas": 786,
   "estados_com_agregado": 20,
   "nomes_excluidos": [],
   "cenarios_por_estado": {
@@ -341,48 +341,40 @@
     "PA": [
       {
         "candidatos": [
-          "Daniel Santos",
-          "Hana Ghassan"
-        ],
-        "pesquisas": 19
-      },
-      {
-        "candidatos": [
-          "Araceli Lemos",
-          "Daniel Santos",
-          "Gal Leite",
-          "Hana Ghassan",
-          "Ruth Reis",
-          "Well Macêdo"
-        ],
-        "pesquisas": 11
-      },
-      {
-        "candidatos": [
-          "Araceli Lemos",
-          "Cleber Rabelo",
-          "Daniel Santos",
           "Hana Ghassan",
           "Mário Couto"
         ],
-        "pesquisas": 11
+        "pesquisas": 24
       },
       {
         "candidatos": [
           "Araceli Lemos",
-          "Daniel Santos",
           "Hana Ghassan",
           "Mário Couto"
         ],
-        "pesquisas": 11
+        "pesquisas": 7
       },
       {
         "candidatos": [
-          "Araceli Lemos",
-          "Daniel Santos",
+          "Delegado Éder Mauro",
           "Hana Ghassan"
         ],
-        "pesquisas": 8
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "Hana Ghassan",
+          "Paulo Rocha"
+        ],
+        "pesquisas": 3
+      },
+      {
+        "candidatos": [
+          "Hana Ghassan",
+          "Paulo Rocha",
+          "Simão Jatene"
+        ],
+        "pesquisas": 2
       }
     ],
     "PB": [
@@ -697,7 +689,7 @@
     "PA": {
       "title": "Pesquisas eleitorais para a eleição estadual de 2026 no Pará",
       "status": "ok",
-      "pesquisas": 91,
+      "pesquisas": 44,
       "url": "https://pt.wikipedia.org/wiki/Pesquisas_eleitorais_para_a_elei%C3%A7%C3%A3o_estadual_de_2026_no_Par%C3%A1"
     },
     "PB": {
