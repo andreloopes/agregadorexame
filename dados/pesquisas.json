@@ -1,10 +1,62 @@
 {
-  "atualizado_em": "2026-11-12T18:52:30.782Z",
+  "atualizado_em": "2026-11-13T18:29:33.874Z",
   "fonte": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
   "revisao_mediawiki": null,
-  "total_extraido": 392,
+  "total_extraido": 394,
   "observacao": "Compilação automatizada de tabelas públicas. Antes de publicar uma informação específica, confira a pesquisa original.",
   "pesquisas": [
+    {
+      "institute": "Instituto França",
+      "collection_date": "2026-11-13",
+      "sample_size": 1654,
+      "margin_error": 2.4,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-França1-399",
+      "month_section": "Março",
+      "candidates": {
+        "Lula": 28.9,
+        "Jair Bolsonaro": 25.2,
+        "Marçal": 7.4,
+        "Ratinho Júnior": 1.9,
+        "Romeu Zema": 4,
+        "Gomes": 6.6,
+        "Ronaldo Caiado": 1.4,
+        "Moro": 4
+      },
+      "parties": {
+        "Lula": "PT",
+        "Jair Bolsonaro": "PL",
+        "Marçal": "",
+        "Ratinho Júnior": "PSD",
+        "Romeu Zema": "Novo",
+        "Gomes": "",
+        "Ronaldo Caiado": "PSD",
+        "Moro": ""
+      },
+      "others": null,
+      "undecided": 20.6
+    },
+    {
+      "institute": "Instituto França",
+      "collection_date": "2026-11-13",
+      "sample_size": 1654,
+      "margin_error": 2.4,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-França1-399",
+      "month_section": "Março",
+      "candidates": {
+        "Lula": 36.6,
+        "Marçal": 18.6,
+        "Tarcísio de Freitas": 24.93
+      },
+      "parties": {
+        "Lula": "PT",
+        "Marçal": "",
+        "Tarcísio de Freitas": "Republicanos"
+      },
+      "others": null,
+      "undecided": 19.87
+    },
     {
       "institute": "Paraná Pesquisas",
       "collection_date": "2026-11-10",
