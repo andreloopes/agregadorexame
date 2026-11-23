@@ -1,10 +1,106 @@
 {
-  "atualizado_em": "2026-11-22T18:28:22.894Z",
+  "atualizado_em": "2026-11-23T22:36:04.727Z",
   "fonte": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026",
   "revisao_mediawiki": null,
-  "total_extraido": 394,
+  "total_extraido": 398,
   "observacao": "Compilação automatizada de tabelas públicas. Antes de publicar uma informação específica, confira a pesquisa original.",
   "pesquisas": [
+    {
+      "institute": "CNT/MDA",
+      "collection_date": "2026-11-23",
+      "sample_size": 2002,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:32-332",
+      "month_section": "Março",
+      "candidates": {
+        "Eduardo": 17.4,
+        "Lula": 42.7,
+        "Ratinho Júnior": 14,
+        "Romeu Zema": 9.6
+      },
+      "parties": {
+        "Eduardo": "",
+        "Lula": "PT",
+        "Ratinho Júnior": "PSD",
+        "Romeu Zema": "Novo"
+      },
+      "others": null,
+      "undecided": 16.3
+    },
+    {
+      "institute": "CNT/MDA",
+      "collection_date": "2026-11-23",
+      "sample_size": 2002,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:32-332",
+      "month_section": "Março",
+      "candidates": {
+        "Michelle Bolsonaro": 23,
+        "Lula": 42.7,
+        "Ratinho Júnior": 11.4,
+        "Romeu Zema": 8.3
+      },
+      "parties": {
+        "Michelle Bolsonaro": "PL",
+        "Lula": "PT",
+        "Ratinho Júnior": "PSD",
+        "Romeu Zema": "Novo"
+      },
+      "others": null,
+      "undecided": 14.6
+    },
+    {
+      "institute": "CNT/MDA",
+      "collection_date": "2026-11-23",
+      "sample_size": 2002,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:32-332",
+      "month_section": "Março",
+      "candidates": {
+        "Tarcísio de Freitas": 21.7,
+        "Lula": 42,
+        "Ratinho Júnior": 11.8,
+        "Romeu Zema": 5.7
+      },
+      "parties": {
+        "Tarcísio de Freitas": "Republicanos",
+        "Lula": "PT",
+        "Ratinho Júnior": "PSD",
+        "Romeu Zema": "Novo"
+      },
+      "others": null,
+      "undecided": 18.8
+    },
+    {
+      "institute": "CNT/MDA",
+      "collection_date": "2026-11-23",
+      "sample_size": 2002,
+      "margin_error": 2.2,
+      "tse_registration": "",
+      "source_url": "https://pt.wikipedia.org/wiki/Pesquisas_de_opini%C3%A3o_para_a_elei%C3%A7%C3%A3o_presidencial_no_Brasil_em_2026#cite_note-:32-332",
+      "month_section": "Março",
+      "candidates": {
+        "Jair Bolsonaro": 27,
+        "Lula": 38.8,
+        "Ratinho Júnior": 6.4,
+        "Romeu Zema": 2.7,
+        "Gomes": 9.6,
+        "Ronaldo Caiado": 4
+      },
+      "parties": {
+        "Jair Bolsonaro": "PL",
+        "Lula": "PT",
+        "Ratinho Júnior": "PSD",
+        "Romeu Zema": "Novo",
+        "Gomes": "",
+        "Ronaldo Caiado": "PSD"
+      },
+      "others": null,
+      "undecided": 11.5
+    },
     {
       "institute": "Instituto França",
       "collection_date": "2026-11-13",
